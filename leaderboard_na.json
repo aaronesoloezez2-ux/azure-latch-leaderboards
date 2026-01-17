@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Sovereign",
-    "elo5v5": 185
+    "elo5v5": 192
   },
   {
     "rank": 6,
@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Abibas NA",
+    "elo5v5": 81
+  },
+  {
+    "rank": 11,
     "teamName": "Viltrum",
     "elo5v5": 75
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Fight Club",
     "elo5v5": 73
-  },
-  {
-    "rank": 12,
-    "teamName": "Abibas NA",
-    "elo5v5": 64
   },
   {
     "rank": 13,
