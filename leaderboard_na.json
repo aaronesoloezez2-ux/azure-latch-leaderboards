@@ -1,7 +1,557 @@
 [
   {
     "rank": 1,
-    "teamName": "The White Palace",
+    "teamName": "Promised",
+    "elo5v5": 350
+  },
+  {
+    "rank": 2,
+    "teamName": "Esencia",
+    "elo5v5": 233
+  },
+  {
+    "rank": 3,
+    "teamName": "67 Party",
+    "elo5v5": 210
+  },
+  {
+    "rank": 4,
+    "teamName": "Passione",
+    "elo5v5": 198
+  },
+  {
+    "rank": 5,
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 178
+  },
+  {
+    "rank": 6,
+    "teamName": "Yaeloria FC",
+    "elo5v5": 176
+  },
+  {
+    "rank": 7,
+    "teamName": "Sovereign",
+    "elo5v5": 169
+  },
+  {
+    "rank": 8,
+    "teamName": "Singularity:Re",
+    "elo5v5": 131
+  },
+  {
+    "rank": 9,
+    "teamName": "Abibas NA",
+    "elo5v5": 85
+  },
+  {
+    "rank": 10,
+    "teamName": "Magnore - EgoZ",
+    "elo5v5": 84
+  },
+  {
+    "rank": 11,
+    "teamName": "Viltrum",
+    "elo5v5": 75
+  },
+  {
+    "rank": 12,
+    "teamName": "Fight Club",
+    "elo5v5": 73
+  },
+  {
+    "rank": 13,
+    "teamName": "Star Fc",
+    "elo5v5": 62
+  },
+  {
+    "rank": 14,
+    "teamName": "Luminescent",
+    "elo5v5": 57
+  },
+  {
+    "rank": 15,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 48
+  },
+  {
+    "rank": 16,
+    "teamName": "Dreamers",
+    "elo5v5": 46
+  },
+  {
+    "rank": 17,
+    "teamName": "Reincarnated",
+    "elo5v5": 46
+  },
+  {
+    "rank": 18,
+    "teamName": "Celfouric",
+    "elo5v5": 22
+  },
+  {
+    "rank": 19,
+    "teamName": "Kurain",
+    "elo5v5": 21
+  },
+  {
+    "rank": 20,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 9
+  },
+  {
+    "rank": 21,
+    "teamName": "Isle FC",
+    "elo5v5": 7
+  },
+  {
+    "rank": 22,
+    "teamName": "Moon Noobs",
+    "elo5v5": 5
+  },
+  {
+    "rank": 23,
+    "teamName": "7 Deadly Sins",
+    "elo5v5": 0
+  },
+  {
+    "rank": 24,
+    "teamName": "7 deadly sins",
+    "elo5v5": 0
+  },
+  {
+    "rank": 25,
+    "teamName": "STARTING LINE",
+    "elo5v5": 0
+  },
+  {
+    "rank": 26,
+    "teamName": "Bst Munich",
+    "elo5v5": 0
+  },
+  {
+    "rank": 27,
+    "teamName": "Strikers Vendetta",
+    "elo5v5": 0
+  },
+  {
+    "rank": 28,
+    "teamName": "eleven ⌞NA⌝",
+    "elo5v5": 0
+  },
+  {
+    "rank": 29,
+    "teamName": "Anty Company",
+    "elo5v5": 0
+  },
+  {
+    "rank": 30,
+    "teamName": "The New Generation",
+    "elo5v5": 0
+  },
+  {
+    "rank": 31,
+    "teamName": "Astra United",
+    "elo5v5": 0
+  },
+  {
+    "rank": 32,
+    "teamName": "Bear United",
+    "elo5v5": 0
+  },
+  {
+    "rank": 33,
+    "teamName": "TGB",
+    "elo5v5": 0
+  },
+  {
+    "rank": 34,
+    "teamName": "Neon Genesis",
+    "elo5v5": 0
+  },
+  {
+    "rank": 35,
+    "teamName": "Silver Reign",
+    "elo5v5": 0
+  },
+  {
+    "rank": 36,
+    "teamName": "Criciúma",
+    "elo5v5": 0
+  },
+  {
+    "rank": 37,
+    "teamName": "Scarlet Crusade",
+    "elo5v5": 0
+  },
+  {
+    "rank": 38,
+    "teamName": "Egoists FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 39,
+    "teamName": "Cresent Rose",
+    "elo5v5": 0
+  },
+  {
+    "rank": 40,
+    "teamName": "Seals FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 41,
+    "teamName": "The Elite Guard",
+    "elo5v5": 0
+  },
+  {
+    "rank": 42,
+    "teamName": "Crescent Rose FC (CSR)",
+    "elo5v5": 0
+  },
+  {
+    "rank": 43,
+    "teamName": "Tracen Academy [NA]",
+    "elo5v5": 0
+  },
+  {
+    "rank": 44,
+    "teamName": "Croquissimo",
+    "elo5v5": 0
+  },
+  {
+    "rank": 45,
+    "teamName": "Apocalypse",
+    "elo5v5": 0
+  },
+  {
+    "rank": 46,
+    "teamName": "Phantom Troupe",
+    "elo5v5": 0
+  },
+  {
+    "rank": 47,
+    "teamName": "AL: Mayhem F.C",
+    "elo5v5": 0
+  },
+  {
+    "rank": 48,
+    "teamName": "Maids FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 49,
+    "teamName": "Manchester City | NA",
+    "elo5v5": 0
+  },
+  {
+    "rank": 50,
+    "teamName": "Manshine Citys",
+    "elo5v5": 0
+  },
+  {
+    "rank": 51,
+    "teamName": "Manipulation FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 52,
+    "teamName": "Imperium FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 53,
+    "teamName": "Trigger",
+    "elo5v5": 0
+  },
+  {
+    "rank": 54,
+    "teamName": "Argent Dawn",
+    "elo5v5": 0
+  },
+  {
+    "rank": 55,
+    "teamName": "StarBorn",
+    "elo5v5": 0
+  },
+  {
+    "rank": 56,
+    "teamName": "Mayhem FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 57,
+    "teamName": "Latch Prodigy",
+    "elo5v5": 0
+  },
+  {
+    "rank": 58,
+    "teamName": "CAA",
+    "elo5v5": 0
+  },
+  {
+    "rank": 59,
+    "teamName": "Royal Madrid",
+    "elo5v5": 0
+  },
+  {
+    "rank": 60,
+    "teamName": "Citizens U-3",
+    "elo5v5": 0
+  },
+  {
+    "rank": 61,
+    "teamName": "Teikō Sunset☀️",
+    "elo5v5": 0
+  },
+  {
+    "rank": 62,
+    "teamName": "N. Corp",
+    "elo5v5": 0
+  },
+  {
+    "rank": 63,
+    "teamName": "RAKUZAN",
+    "elo5v5": 0
+  },
+  {
+    "rank": 64,
+    "teamName": "Objection",
+    "elo5v5": 0
+  },
+  {
+    "rank": 65,
+    "teamName": "World Wonders",
+    "elo5v5": 0
+  },
+  {
+    "rank": 66,
+    "teamName": "Icey Island",
+    "elo5v5": 0
+  },
+  {
+    "rank": 67,
+    "teamName": "Limbo退屈",
+    "elo5v5": 0
+  },
+  {
+    "rank": 68,
+    "teamName": "Hellsight Hydra",
+    "elo5v5": 0
+  },
+  {
+    "rank": 69,
+    "teamName": "Shadow Tokyo",
+    "elo5v5": 0
+  },
+  {
+    "rank": 70,
+    "teamName": "Sees",
+    "elo5v5": 0
+  },
+  {
+    "rank": 71,
+    "teamName": "Star Stream",
+    "elo5v5": 0
+  },
+  {
+    "rank": 72,
+    "teamName": "Spurs",
+    "elo5v5": 0
+  },
+  {
+    "rank": 73,
+    "teamName": "Namekians",
+    "elo5v5": 0
+  },
+  {
+    "rank": 74,
+    "teamName": "Jackalopes",
+    "elo5v5": 0
+  },
+  {
+    "rank": 75,
+    "teamName": "Iris",
+    "elo5v5": 0
+  },
+  {
+    "rank": 76,
+    "teamName": "Velkhalla",
+    "elo5v5": 0
+  },
+  {
+    "rank": 77,
+    "teamName": "Humble Mangoes",
+    "elo5v5": 0
+  },
+  {
+    "rank": 78,
+    "teamName": "Dark Void",
+    "elo5v5": 0
+  },
+  {
+    "rank": 79,
+    "teamName": "Acubers",
+    "elo5v5": 0
+  },
+  {
+    "rank": 80,
+    "teamName": "🌟 Marsellia Ragan [NA] 🌟",
+    "elo5v5": 0
+  },
+  {
+    "rank": 81,
+    "teamName": "Paris X Gen",
+    "elo5v5": 0
+  },
+  {
+    "rank": 82,
+    "teamName": "Formless Reborn",
+    "elo5v5": 0
+  },
+  {
+    "rank": 83,
+    "teamName": "The Scarlets",
+    "elo5v5": 0
+  },
+  {
+    "rank": 84,
+    "teamName": "Køryu Kumø FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 85,
+    "teamName": "interlude",
+    "elo5v5": 0
+  },
+  {
+    "rank": 86,
+    "teamName": "Akudama",
+    "elo5v5": 0
+  },
+  {
+    "rank": 87,
+    "teamName": "Banshee's Requiem",
+    "elo5v5": 0
+  },
+  {
+    "rank": 88,
+    "teamName": "Champion Era F.L",
+    "elo5v5": 0
+  },
+  {
+    "rank": 89,
+    "teamName": "FC Barcelona",
+    "elo5v5": 0
+  },
+  {
+    "rank": 90,
+    "teamName": "Ayame FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 91,
+    "teamName": "Shadow Guardians",
+    "elo5v5": 0
+  },
+  {
+    "rank": 92,
+    "teamName": "2𝒏𝒅𝑪𝒉𝒂𝒏𝒄𝒆",
+    "elo5v5": 0
+  },
+  {
+    "rank": 93,
+    "teamName": "Entaku no Kishi FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 94,
+    "teamName": "Prodigy Reborn",
+    "elo5v5": 0
+  },
+  {
+    "rank": 95,
+    "teamName": "FC Sharko",
+    "elo5v5": 0
+  },
+  {
+    "rank": 96,
+    "teamName": "Project Strikers (NA)",
+    "elo5v5": 0
+  },
+  {
+    "rank": 97,
+    "teamName": "New Gen 11",
+    "elo5v5": 0
+  },
+  {
+    "rank": 98,
+    "teamName": "Inglorious Bastards",
+    "elo5v5": 0
+  },
+  {
+    "rank": 99,
+    "teamName": "Sky Reapers",
+    "elo5v5": 0
+  },
+  {
+    "rank": 100,
+    "teamName": "Re-Awakened",
+    "elo5v5": 0
+  },
+  {
+    "rank": 101,
+    "teamName": "Neo//:RE",
+    "elo5v5": 0
+  },
+  {
+    "rank": 102,
+    "teamName": "WorldBreakers",
+    "elo5v5": 0
+  },
+  {
+    "rank": 103,
+    "teamName": "76 Party",
+    "elo5v5": 0
+  },
+  {
+    "rank": 104,
+    "teamName": "NG11",
+    "elo5v5": 0
+  },
+  {
+    "rank": 105,
+    "teamName": "Chrysalis",
+    "elo5v5": 0
+  },
+  {
+    "rank": 106,
+    "teamName": "Mart FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 107,
+    "teamName": "Rose Garden FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 108,
+    "teamName": "Duck United",
+    "elo5v5": 0
+  },
+  {
+    "rank": 109,
+    "teamName": "Ash FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 110,
+    "teamName": "Lucent",
+    "elo5v5": 0
+  },
+  {
+    "rank": 111,
+    "teamName": "Blue Rose Fc",
     "elo5v5": 0
   }
 ]
