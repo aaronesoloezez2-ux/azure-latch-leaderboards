@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
-    "teamName": "Abibas NA",
-    "elo5v5": 106
-  },
-  {
-    "rank": 10,
     "teamName": "Magnore - EgoZ",
     "elo5v5": 84
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Viltrum",
     "elo5v5": 75
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Fight Club",
     "elo5v5": 73
+  },
+  {
+    "rank": 12,
+    "teamName": "Abibas NA",
+    "elo5v5": 64
   },
   {
     "rank": 13,
