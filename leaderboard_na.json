@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Star Fc",
-    "elo5v5": 62
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 67
   },
   {
     "rank": 14,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 48
+    "teamName": "Star Fc",
+    "elo5v5": 62
   },
   {
     "rank": 15,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
-    "teamName": "Celfouric",
-    "elo5v5": 22
-  },
-  {
-    "rank": 18,
     "teamName": "Kurain",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Isle FC",
     "elo5v5": 7
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Moon Noobs",
     "elo5v5": 5
+  },
+  {
+    "rank": 21,
+    "teamName": "Celfouric",
+    "elo5v5": 2
   },
   {
     "rank": 22,
