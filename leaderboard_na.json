@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 84
+  },
+  {
+    "rank": 11,
     "teamName": "Luminescent",
     "elo5v5": 82
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Viltrum",
     "elo5v5": 75
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 73
-  },
-  {
-    "rank": 13,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 67
   },
   {
     "rank": 14,
