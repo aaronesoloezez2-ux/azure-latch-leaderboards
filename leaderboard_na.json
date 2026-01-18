@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Seiwa Gakuen",
-    "elo5v5": 163
+    "elo5v5": 172
   },
   {
     "rank": 8,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
-    "teamName": "NG11",
-    "elo5v5": 19
-  },
-  {
-    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Isle FC",
     "elo5v5": 7
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Moon Noobs",
     "elo5v5": 5
+  },
+  {
+    "rank": 22,
+    "teamName": "NG11",
+    "elo5v5": 4
   },
   {
     "rank": 23,
