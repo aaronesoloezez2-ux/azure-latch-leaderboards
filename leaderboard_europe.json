@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Divine",
-    "elo5v5": 172
+    "elo5v5": 181
   },
   {
     "rank": 5,
@@ -76,38 +76,38 @@
   },
   {
     "rank": 16,
-    "teamName": "Requiem",
-    "elo5v5": 32
-  },
-  {
-    "rank": 17,
     "teamName": "Primordials",
     "elo5v5": 31
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kalaris FC: Reborn",
     "elo5v5": 25
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Triarchy FC",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "SUFC",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "MushokuAzur",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Shinjura",
     "elo5v5": 21
+  },
+  {
+    "rank": 22,
+    "teamName": "Requiem",
+    "elo5v5": 17
   },
   {
     "rank": 23,
