@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Singularity:Re",
-    "elo5v5": 111
+    "teamName": "Abibas NA",
+    "elo5v5": 118
   },
   {
     "rank": 8,
-    "teamName": "Abibas NA",
-    "elo5v5": 102
+    "teamName": "Singularity:Re",
+    "elo5v5": 111
   },
   {
     "rank": 9,
@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
-    "teamName": "Star Fc",
-    "elo5v5": 46
-  },
-  {
-    "rank": 14,
     "teamName": "Kurain",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Niche®",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Dreamers",
     "elo5v5": 32
+  },
+  {
+    "rank": 16,
+    "teamName": "Star Fc",
+    "elo5v5": 28
   },
   {
     "rank": 17,
