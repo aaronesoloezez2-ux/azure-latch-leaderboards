@@ -536,42 +536,42 @@
   },
   {
     "rank": 108,
-    "teamName": "Asbound",
-    "elo5v5": 0
-  },
-  {
-    "rank": 109,
     "teamName": "Livers FC",
     "elo5v5": 0
   },
   {
-    "rank": 110,
+    "rank": 109,
     "teamName": "Vinland",
     "elo5v5": 0
   },
   {
-    "rank": 111,
+    "rank": 110,
     "teamName": "Evangelion",
     "elo5v5": 0
   },
   {
-    "rank": 112,
+    "rank": 111,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 0
   },
   {
-    "rank": 113,
+    "rank": 112,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 0
   },
   {
-    "rank": 114,
+    "rank": 113,
     "teamName": "The Crusaders",
     "elo5v5": 0
   },
   {
-    "rank": 115,
+    "rank": 114,
     "teamName": "Sovereign Black Volocity",
+    "elo5v5": 0
+  },
+  {
+    "rank": 115,
+    "teamName": "Ashbound",
     "elo5v5": 0
   }
 ]
