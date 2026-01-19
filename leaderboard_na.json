@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Fight Club",
-    "elo5v5": 73
+    "teamName": "Luminescent",
+    "elo5v5": 90
   },
   {
     "rank": 11,
-    "teamName": "Luminescent",
-    "elo5v5": 72
+    "teamName": "Fight Club",
+    "elo5v5": 73
   },
   {
     "rank": 12,
@@ -76,17 +76,17 @@
   },
   {
     "rank": 16,
-    "teamName": "Star Fc",
-    "elo5v5": 28
-  },
-  {
-    "rank": 17,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 22
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
+    "elo5v5": 9
+  },
+  {
+    "rank": 18,
+    "teamName": "Star Fc",
     "elo5v5": 9
   },
   {
