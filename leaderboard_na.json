@@ -37,7 +37,7 @@
   {
     "rank": 8,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 120
+    "elo5v5": 134
   },
   {
     "rank": 9,
@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
-    "teamName": "Lucent",
-    "elo5v5": 21
-  },
-  {
-    "rank": 19,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Isle FC",
     "elo5v5": 7
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Moon Noobs",
     "elo5v5": 5
+  },
+  {
+    "rank": 21,
+    "teamName": "Lucent",
+    "elo5v5": 4
   },
   {
     "rank": 22,
