@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Destin",
-    "elo5v5": 304
+    "elo5v5": 293
   },
   {
     "rank": 2,
@@ -76,38 +76,38 @@
   },
   {
     "rank": 16,
+    "teamName": "Requiem",
+    "elo5v5": 35
+  },
+  {
+    "rank": 17,
     "teamName": "Primordials",
     "elo5v5": 31
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Kalaris FC: Reborn",
     "elo5v5": 25
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Triarchy FC",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "SUFC",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "MushokuAzur",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Manshine United EU",
     "elo5v5": 21
-  },
-  {
-    "rank": 22,
-    "teamName": "Requiem",
-    "elo5v5": 4
   },
   {
     "rank": 23,
