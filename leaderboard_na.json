@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Abibas NA",
+    "elo5v5": 105
+  },
+  {
+    "rank": 11,
     "teamName": "Viltrum",
     "elo5v5": 100
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Luminescent",
     "elo5v5": 94
-  },
-  {
-    "rank": 12,
-    "teamName": "Abibas NA",
-    "elo5v5": 87
   },
   {
     "rank": 13,
@@ -67,7 +67,7 @@
   {
     "rank": 14,
     "teamName": "Star Fc",
-    "elo5v5": 67
+    "elo5v5": 48
   },
   {
     "rank": 15,
