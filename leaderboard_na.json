@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Sovereign",
-    "elo5v5": 212
+    "elo5v5": 218
   },
   {
     "rank": 3,
@@ -76,17 +76,17 @@
   },
   {
     "rank": 16,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 22
-  },
-  {
-    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Star Fc",
+    "elo5v5": 9
+  },
+  {
+    "rank": 18,
+    "teamName": "Mega Pupsi NA",
     "elo5v5": 9
   },
   {
