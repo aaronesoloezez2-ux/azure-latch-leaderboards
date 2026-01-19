@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "67 Party",
-    "elo5v5": 217
+    "elo5v5": 206
   },
   {
     "rank": 4,
@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 108
+  },
+  {
+    "rank": 10,
     "teamName": "Luminescent",
     "elo5v5": 98
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Abibas NA",
     "elo5v5": 87
-  },
-  {
-    "rank": 11,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 84
   },
   {
     "rank": 12,
