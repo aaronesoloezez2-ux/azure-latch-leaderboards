@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "67 Party",
-    "elo5v5": 206
+    "teamName": "Sovereign",
+    "elo5v5": 212
   },
   {
     "rank": 4,
-    "teamName": "Sovereign",
-    "elo5v5": 204
+    "teamName": "67 Party",
+    "elo5v5": 206
   },
   {
     "rank": 5,
@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
-    "teamName": "Star Fc",
-    "elo5v5": 83
-  },
-  {
-    "rank": 13,
     "teamName": "Luminescent",
     "elo5v5": 77
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 73
+  },
+  {
+    "rank": 14,
+    "teamName": "Star Fc",
+    "elo5v5": 68
   },
   {
     "rank": 15,
