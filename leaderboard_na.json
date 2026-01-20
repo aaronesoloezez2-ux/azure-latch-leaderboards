@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Luminescent",
+    "elo5v5": 92
+  },
+  {
+    "rank": 11,
     "teamName": "Kurain",
     "elo5v5": 79
   },
   {
-    "rank": 11,
-    "teamName": "Fight Club",
-    "elo5v5": 73
-  },
-  {
     "rank": 12,
-    "teamName": "Luminescent",
-    "elo5v5": 73
+    "teamName": "Fight Club",
+    "elo5v5": 54
   },
   {
     "rank": 13,
