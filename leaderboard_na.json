@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Kurain",
+    "elo5v5": 79
+  },
+  {
+    "rank": 11,
     "teamName": "Fight Club",
     "elo5v5": 73
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Luminescent",
     "elo5v5": 73
-  },
-  {
-    "rank": 12,
-    "teamName": "Kurain",
-    "elo5v5": 60
   },
   {
     "rank": 13,
@@ -66,22 +66,22 @@
   },
   {
     "rank": 14,
-    "teamName": "Niche®",
-    "elo5v5": 41
-  },
-  {
-    "rank": 15,
     "teamName": "Dreamers",
     "elo5v5": 32
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Lucent",
     "elo5v5": 25
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Anty Company",
+    "elo5v5": 21
+  },
+  {
+    "rank": 17,
+    "teamName": "Niche®",
     "elo5v5": 21
   },
   {
