@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
+    "teamName": "Star Fc",
+    "elo5v5": 49
+  },
+  {
+    "rank": 14,
     "teamName": "Reincarnated",
     "elo5v5": 46
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Dreamers",
     "elo5v5": 32
-  },
-  {
-    "rank": 15,
-    "teamName": "Star Fc",
-    "elo5v5": 29
   },
   {
     "rank": 16,
@@ -96,28 +96,28 @@
   },
   {
     "rank": 20,
-    "teamName": "Shindo",
-    "elo5v5": 21
-  },
-  {
-    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Isle FC",
     "elo5v5": 7
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Moon Noobs",
     "elo5v5": 5
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Celfouric",
     "elo5v5": 2
+  },
+  {
+    "rank": 24,
+    "teamName": "Shindo",
+    "elo5v5": 1
   },
   {
     "rank": 25,
