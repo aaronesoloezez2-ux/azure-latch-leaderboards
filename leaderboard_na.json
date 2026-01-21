@@ -37,7 +37,7 @@
   {
     "rank": 8,
     "teamName": "Luminescent",
-    "elo5v5": 117
+    "elo5v5": 131
   },
   {
     "rank": 9,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Lucent",
-    "elo5v5": 43
-  },
-  {
-    "rank": 15,
     "teamName": "Dreamers",
     "elo5v5": 32
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Star Fc",
     "elo5v5": 29
+  },
+  {
+    "rank": 16,
+    "teamName": "Lucent",
+    "elo5v5": 26
   },
   {
     "rank": 17,
