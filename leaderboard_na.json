@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Abibas NA",
-    "elo5v5": 155
+    "elo5v5": 165
   },
   {
     "rank": 7,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Dreamers",
-    "elo5v5": 32
-  },
-  {
-    "rank": 17,
     "teamName": "Lucent",
     "elo5v5": 22
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Anty Company",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Formless Reborn",
     "elo5v5": 21
+  },
+  {
+    "rank": 19,
+    "teamName": "Dreamers",
+    "elo5v5": 16
   },
   {
     "rank": 20,
