@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 145
+    "teamName": "Luminescent",
+    "elo5v5": 141
   },
   {
     "rank": 8,
-    "teamName": "Luminescent",
-    "elo5v5": 141
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 128
   },
   {
     "rank": 9,
@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
+    "teamName": "Star Fc",
+    "elo5v5": 73
+  },
+  {
+    "rank": 13,
     "teamName": "Kurain",
     "elo5v5": 59
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 54
-  },
-  {
-    "rank": 14,
-    "teamName": "Star Fc",
-    "elo5v5": 49
   },
   {
     "rank": 15,
