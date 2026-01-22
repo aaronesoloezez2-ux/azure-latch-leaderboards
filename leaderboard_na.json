@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Saikai",
-    "elo5v5": 22
-  },
-  {
-    "rank": 17,
     "teamName": "Anty Company",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Formless Reborn",
     "elo5v5": 21
+  },
+  {
+    "rank": 18,
+    "teamName": "Saikai",
+    "elo5v5": 20
   },
   {
     "rank": 19,
