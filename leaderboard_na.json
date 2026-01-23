@@ -586,42 +586,42 @@
   },
   {
     "rank": 118,
-    "teamName": "Owari Oshu NA",
-    "elo5v5": 0
-  },
-  {
-    "rank": 119,
     "teamName": "Spades F.C.",
     "elo5v5": 0
   },
   {
-    "rank": 120,
+    "rank": 119,
     "teamName": "Strikers Legacy",
     "elo5v5": 0
   },
   {
-    "rank": 121,
+    "rank": 120,
     "teamName": "Indigenous Bastards",
     "elo5v5": 0
   },
   {
-    "rank": 122,
+    "rank": 121,
     "teamName": "Kirisaki NA",
     "elo5v5": 0
   },
   {
-    "rank": 123,
+    "rank": 122,
     "teamName": "LATCH CORE",
     "elo5v5": 0
   },
   {
-    "rank": 124,
+    "rank": 123,
     "teamName": "The Tuff Knuckles",
     "elo5v5": 0
   },
   {
-    "rank": 125,
+    "rank": 124,
     "teamName": "Matcha kids",
+    "elo5v5": 0
+  },
+  {
+    "rank": 125,
+    "teamName": "Owari oshû",
     "elo5v5": 0
   }
 ]
