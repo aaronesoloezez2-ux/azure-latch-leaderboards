@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Abibas FC",
-    "elo5v5": 316
+    "elo5v5": 320
   },
   {
     "rank": 2,
@@ -76,17 +76,17 @@
   },
   {
     "rank": 16,
-    "teamName": "Requiem",
-    "elo5v5": 35
-  },
-  {
-    "rank": 17,
     "teamName": "Primordials",
     "elo5v5": 31
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kalaris FC: Reborn",
+    "elo5v5": 25
+  },
+  {
+    "rank": 18,
+    "teamName": "Requiem",
     "elo5v5": 25
   },
   {
