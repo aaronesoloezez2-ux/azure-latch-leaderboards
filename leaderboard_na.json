@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 128
+    "teamName": "Singularity:Re",
+    "elo5v5": 125
   },
   {
     "rank": 9,
-    "teamName": "Singularity:Re",
-    "elo5v5": 125
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 109
   },
   {
     "rank": 10,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
+    "teamName": "Chrysalis",
+    "elo5v5": 47
+  },
+  {
+    "rank": 16,
     "teamName": "Reincarnated",
     "elo5v5": 46
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Buns FC",
     "elo5v5": 42
-  },
-  {
-    "rank": 17,
-    "teamName": "Chrysalis",
-    "elo5v5": 22
   },
   {
     "rank": 18,
