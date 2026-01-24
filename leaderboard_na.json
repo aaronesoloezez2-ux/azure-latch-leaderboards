@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Singularity:Re",
-    "elo5v5": 158
+    "elo5v5": 168
   },
   {
     "rank": 7,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Chrysalis",
-    "elo5v5": 47
-  },
-  {
-    "rank": 17,
     "teamName": "Reincarnated",
     "elo5v5": 46
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Buns FC",
     "elo5v5": 42
+  },
+  {
+    "rank": 18,
+    "teamName": "Chrysalis",
+    "elo5v5": 31
   },
   {
     "rank": 19,
