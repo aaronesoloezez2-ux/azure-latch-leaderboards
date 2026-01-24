@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "black phantoms",
-    "elo5v5": 54
+    "teamName": "SUFC",
+    "elo5v5": 68
   },
   {
     "rank": 11,
-    "teamName": "SUFC",
-    "elo5v5": 49
+    "teamName": "black phantoms",
+    "elo5v5": 54
   },
   {
     "rank": 12,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Scar F.C",
-    "elo5v5": 23
-  },
-  {
-    "rank": 20,
     "teamName": "Triarchy FC",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "MushokuAzur",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Manshine United EU",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Sinners FC",
     "elo5v5": 17
+  },
+  {
+    "rank": 23,
+    "teamName": "Scar F.C",
+    "elo5v5": 4
   },
   {
     "rank": 24,
