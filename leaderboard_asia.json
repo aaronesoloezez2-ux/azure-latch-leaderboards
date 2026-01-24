@@ -71,72 +71,72 @@
   },
   {
     "rank": 15,
-    "teamName": "Planet Null",
-    "elo5v5": 0
-  },
-  {
-    "rank": 16,
     "teamName": "Reflex",
     "elo5v5": 0
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Natus Vincere",
     "elo5v5": 0
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Stardust Crusaders",
     "elo5v5": 0
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "barebones",
     "elo5v5": 0
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Crocs",
     "elo5v5": 0
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Wizards",
     "elo5v5": 0
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Revival FC",
     "elo5v5": 0
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Aetherion",
     "elo5v5": 0
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Japan Under20",
     "elo5v5": 0
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Neurotic Origin : Reborn",
     "elo5v5": 0
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Selfish Strikers",
     "elo5v5": 0
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Spades",
     "elo5v5": 0
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "F=ma",
+    "elo5v5": 0
+  },
+  {
+    "rank": 28,
+    "teamName": "Furin High",
     "elo5v5": 0
   }
 ]
