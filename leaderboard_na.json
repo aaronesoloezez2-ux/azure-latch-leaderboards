@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Viltrum",
-    "elo5v5": 100
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 108
   },
   {
     "rank": 11,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 90
+    "teamName": "Viltrum",
+    "elo5v5": 100
   },
   {
     "rank": 12,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Shindo",
-    "elo5v5": 61
-  },
-  {
-    "rank": 15,
     "teamName": "Fight Club",
     "elo5v5": 54
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Reincarnated",
     "elo5v5": 46
+  },
+  {
+    "rank": 16,
+    "teamName": "Shindo",
+    "elo5v5": 42
   },
   {
     "rank": 17,
