@@ -6,12 +6,12 @@
   },
   {
     "rank": 2,
-    "teamName": "Seiwa Gakuen",
-    "elo5v5": 209
+    "teamName": "Passione",
+    "elo5v5": 198
   },
   {
     "rank": 3,
-    "teamName": "Passione",
+    "teamName": "Seiwa Gakuen",
     "elo5v5": 198
   },
   {
@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 144
+  },
+  {
+    "rank": 8,
     "teamName": "Abibas NA",
     "elo5v5": 132
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Luminescent",
     "elo5v5": 127
-  },
-  {
-    "rank": 9,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 125
   },
   {
     "rank": 10,
