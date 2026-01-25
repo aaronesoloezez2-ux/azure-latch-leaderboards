@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Sovereign",
-    "elo5v5": 187
-  },
-  {
-    "rank": 4,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 184
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
+  },
+  {
+    "rank": 5,
+    "teamName": "Sovereign",
+    "elo5v5": 175
   },
   {
     "rank": 6,
@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Abibas NA",
-    "elo5v5": 148
+    "elo5v5": 163
   },
   {
     "rank": 10,
