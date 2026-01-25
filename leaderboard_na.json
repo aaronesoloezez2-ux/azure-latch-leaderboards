@@ -26,28 +26,28 @@
   },
   {
     "rank": 6,
-    "teamName": "Singularity:Re",
-    "elo5v5": 168
-  },
-  {
-    "rank": 7,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 167
   },
   {
+    "rank": 7,
+    "teamName": "Singularity:Re",
+    "elo5v5": 155
+  },
+  {
     "rank": 8,
+    "teamName": "Luminescent",
+    "elo5v5": 144
+  },
+  {
+    "rank": 9,
     "teamName": "Kōdo Giasu",
     "elo5v5": 141
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Abibas NA",
     "elo5v5": 132
-  },
-  {
-    "rank": 10,
-    "teamName": "Luminescent",
-    "elo5v5": 127
   },
   {
     "rank": 11,
