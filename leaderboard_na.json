@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
+    "teamName": "Fight Club",
+    "elo5v5": 74
+  },
+  {
+    "rank": 13,
     "teamName": "Kurain",
     "elo5v5": 59
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Star Fc",
     "elo5v5": 56
-  },
-  {
-    "rank": 14,
-    "teamName": "Fight Club",
-    "elo5v5": 54
   },
   {
     "rank": 15,
@@ -76,22 +76,22 @@
   },
   {
     "rank": 16,
-    "teamName": "Shindo",
-    "elo5v5": 42
-  },
-  {
-    "rank": 17,
     "teamName": "Buns FC",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Chrysalis",
     "elo5v5": 31
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Bear United",
+    "elo5v5": 22
+  },
+  {
+    "rank": 19,
+    "teamName": "Shindo",
     "elo5v5": 22
   },
   {
