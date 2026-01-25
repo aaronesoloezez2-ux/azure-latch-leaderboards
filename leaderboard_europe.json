@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Chapter",
+    "elo5v5": 72
+  },
+  {
+    "rank": 10,
     "teamName": "SUFC",
     "elo5v5": 68
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 58
-  },
-  {
-    "rank": 11,
-    "teamName": "Chapter",
-    "elo5v5": 53
   },
   {
     "rank": 12,
@@ -101,38 +101,38 @@
   },
   {
     "rank": 21,
-    "teamName": "DARK CLUB",
-    "elo5v5": 22
-  },
-  {
-    "rank": 22,
     "teamName": "MushokuAzur",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Edgerunners FC",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Resurrection",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Manshine United EU",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Abibas: sambas",
     "elo5v5": 20
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Sinners FC",
     "elo5v5": 17
+  },
+  {
+    "rank": 27,
+    "teamName": "DARK CLUB",
+    "elo5v5": 3
   },
   {
     "rank": 28,
