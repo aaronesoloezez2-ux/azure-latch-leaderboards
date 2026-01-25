@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Abibas FC",
-    "elo5v5": 313
+    "elo5v5": 303
   },
   {
     "rank": 2,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "SUFC",
+    "elo5v5": 96
+  },
+  {
+    "rank": 9,
     "teamName": "Chapter",
     "elo5v5": 89
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Glovers United",
     "elo5v5": 74
-  },
-  {
-    "rank": 10,
-    "teamName": "SUFC",
-    "elo5v5": 68
   },
   {
     "rank": 11,
