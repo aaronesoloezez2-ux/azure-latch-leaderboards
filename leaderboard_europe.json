@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Abibas FC",
-    "elo5v5": 317
+    "elo5v5": 306
   },
   {
     "rank": 2,
@@ -46,33 +46,33 @@
   },
   {
     "rank": 10,
+    "teamName": "Oshu Oshi EU",
+    "elo5v5": 58
+  },
+  {
+    "rank": 11,
     "teamName": "Chapter",
     "elo5v5": 53
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Azl Files",
     "elo5v5": 48
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Theory",
     "elo5v5": 40
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Primordials",
     "elo5v5": 31
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "black phantoms",
     "elo5v5": 30
-  },
-  {
-    "rank": 15,
-    "teamName": "Oshu Oshi EU",
-    "elo5v5": 27
   },
   {
     "rank": 16,
