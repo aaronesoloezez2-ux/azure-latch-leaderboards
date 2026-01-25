@@ -1,48 +1,48 @@
 [
   {
     "rank": 1,
+    "teamName": "Chapter",
+    "elo5v5": 100000089
+  },
+  {
+    "rank": 2,
     "teamName": "Abibas FC",
     "elo5v5": 303
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Destin",
     "elo5v5": 272
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Taser warriors",
     "elo5v5": 215
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Divine",
     "elo5v5": 185
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Taishō",
     "elo5v5": 135
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Dyslexia Untied",
     "elo5v5": 134
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Mega Pupsi",
     "elo5v5": 115
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "SUFC",
     "elo5v5": 96
-  },
-  {
-    "rank": 9,
-    "teamName": "Chapter",
-    "elo5v5": 89
   },
   {
     "rank": 10,
