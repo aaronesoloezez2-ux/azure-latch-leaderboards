@@ -91,18 +91,18 @@
   },
   {
     "rank": 19,
-    "teamName": "Shindo",
-    "elo5v5": 22
-  },
-  {
-    "rank": 20,
     "teamName": "Formless Reborn",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Ashbound",
     "elo5v5": 21
+  },
+  {
+    "rank": 21,
+    "teamName": "Shindo",
+    "elo5v5": 19
   },
   {
     "rank": 22,
