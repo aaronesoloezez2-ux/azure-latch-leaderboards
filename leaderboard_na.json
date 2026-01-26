@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Yaeloria FC",
-    "elo5v5": 176
+    "teamName": "Singularity:Re",
+    "elo5v5": 183
   },
   {
     "rank": 7,
-    "teamName": "Singularity:Re",
-    "elo5v5": 175
+    "teamName": "Yaeloria FC",
+    "elo5v5": 176
   },
   {
     "rank": 8,
@@ -81,43 +81,43 @@
   },
   {
     "rank": 17,
-    "teamName": "Zenith",
-    "elo5v5": 23
-  },
-  {
-    "rank": 18,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Formless Reborn",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Ashbound",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Ayame FC",
     "elo5v5": 20
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Dreamers",
     "elo5v5": 16
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Chrysalis",
     "elo5v5": 16
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
+  },
+  {
+    "rank": 24,
+    "teamName": "Zenith",
+    "elo5v5": 8
   },
   {
     "rank": 25,
