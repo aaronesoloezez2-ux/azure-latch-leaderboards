@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Promised",
-    "elo5v5": 357
+    "elo5v5": 347
   },
   {
     "rank": 2,
@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 184
+  },
+  {
+    "rank": 5,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Sovereign",
     "elo5v5": 175
-  },
-  {
-    "rank": 6,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 167
   },
   {
     "rank": 7,
