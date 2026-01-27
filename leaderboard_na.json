@@ -57,7 +57,7 @@
   {
     "rank": 12,
     "teamName": "Fight Club",
-    "elo5v5": 79
+    "elo5v5": 96
   },
   {
     "rank": 13,
@@ -106,28 +106,28 @@
   },
   {
     "rank": 22,
-    "teamName": "Zenith",
-    "elo5v5": 21
-  },
-  {
-    "rank": 23,
     "teamName": "Dreamers",
     "elo5v5": 16
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Chrysalis",
     "elo5v5": 8
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Moon Noobs",
     "elo5v5": 5
+  },
+  {
+    "rank": 26,
+    "teamName": "Zenith",
+    "elo5v5": 3
   },
   {
     "rank": 27,
