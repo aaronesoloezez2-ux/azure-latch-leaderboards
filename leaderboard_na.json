@@ -2,22 +2,22 @@
   {
     "rank": 1,
     "teamName": "Promised",
-    "elo5v5": 347
+    "elo5v5": 338
   },
   {
     "rank": 2,
+    "teamName": "Abibas NA",
+    "elo5v5": 210
+  },
+  {
+    "rank": 3,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 202
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Passione",
     "elo5v5": 198
-  },
-  {
-    "rank": 4,
-    "teamName": "Abibas NA",
-    "elo5v5": 197
   },
   {
     "rank": 5,
