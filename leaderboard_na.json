@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Abibas NA",
-    "elo5v5": 210
+    "elo5v5": 216
   },
   {
     "rank": 3,
@@ -96,28 +96,28 @@
   },
   {
     "rank": 20,
-    "teamName": "Chrysalis",
-    "elo5v5": 21
-  },
-  {
-    "rank": 21,
     "teamName": "Ashbound",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Zenith",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Dreamers",
     "elo5v5": 16
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
+  },
+  {
+    "rank": 24,
+    "teamName": "Chrysalis",
+    "elo5v5": 8
   },
   {
     "rank": 25,
