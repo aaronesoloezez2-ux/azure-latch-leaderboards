@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
+    "teamName": "Zenith",
+    "elo5v5": 24
+  },
+  {
+    "rank": 20,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Formless Reborn",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Dreamers",
     "elo5v5": 16
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Moon Noobs",
     "elo5v5": 5
-  },
-  {
-    "rank": 24,
-    "teamName": "Zenith",
-    "elo5v5": 3
   },
   {
     "rank": 25,
