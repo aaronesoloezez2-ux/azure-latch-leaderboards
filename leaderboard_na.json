@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Seiwa Gakuen",
-    "elo5v5": 207
+    "elo5v5": 216
   },
   {
     "rank": 4,
@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 182
-  },
-  {
-    "rank": 6,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 182
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Singularity:Re",
     "elo5v5": 172
+  },
+  {
+    "rank": 8,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 171
   },
   {
     "rank": 9,
