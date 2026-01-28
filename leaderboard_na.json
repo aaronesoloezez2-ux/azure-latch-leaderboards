@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Buns FC",
+    "teamName": "Ashbound",
     "elo5v5": 42
   },
   {
     "rank": 17,
-    "teamName": "Kurain",
-    "elo5v5": 37
+    "teamName": "Buns FC",
+    "elo5v5": 42
   },
   {
     "rank": 18,
-    "teamName": "Ayame FC",
-    "elo5v5": 26
+    "teamName": "Kurain",
+    "elo5v5": 37
   },
   {
     "rank": 19,
@@ -101,22 +101,22 @@
   },
   {
     "rank": 21,
-    "teamName": "Ashbound",
-    "elo5v5": 21
-  },
-  {
-    "rank": 22,
     "teamName": "Dreamers",
     "elo5v5": 16
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Moon Noobs",
+    "elo5v5": 5
+  },
+  {
+    "rank": 24,
+    "teamName": "Ayame FC",
     "elo5v5": 5
   },
   {
