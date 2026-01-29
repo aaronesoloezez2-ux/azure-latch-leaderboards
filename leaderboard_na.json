@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "Sovereign",
+    "elo5v5": 181
+  },
+  {
+    "rank": 6,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Singularity:Re",
     "elo5v5": 172
-  },
-  {
-    "rank": 7,
-    "teamName": "Sovereign",
-    "elo5v5": 171
   },
   {
     "rank": 8,
@@ -57,7 +57,7 @@
   {
     "rank": 12,
     "teamName": "Luminescent",
-    "elo5v5": 87
+    "elo5v5": 71
   },
   {
     "rank": 13,
