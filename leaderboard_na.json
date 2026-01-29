@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Lucidity",
+    "elo5v5": 111
+  },
+  {
+    "rank": 10,
     "teamName": "Viltrum",
     "elo5v5": 100
   },
   {
-    "rank": 10,
-    "teamName": "Lucidity",
-    "elo5v5": 93
-  },
-  {
     "rank": 11,
-    "teamName": "Fight Club",
-    "elo5v5": 75
+    "teamName": "Luminescent",
+    "elo5v5": 71
   },
   {
     "rank": 12,
-    "teamName": "Luminescent",
-    "elo5v5": 71
+    "teamName": "Fight Club",
+    "elo5v5": 56
   },
   {
     "rank": 13,
