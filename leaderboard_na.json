@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Promised",
-    "elo5v5": 338
+    "elo5v5": 341
   },
   {
     "rank": 2,
@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
-    "teamName": "Abibas: Sambas NA",
-    "elo5v5": 43
-  },
-  {
-    "rank": 16,
     "teamName": "Ashbound",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Buns FC",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kurain",
     "elo5v5": 37
+  },
+  {
+    "rank": 18,
+    "teamName": "Abibas: Sambas NA",
+    "elo5v5": 33
   },
   {
     "rank": 19,
