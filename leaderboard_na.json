@@ -52,7 +52,7 @@
   {
     "rank": 11,
     "teamName": "Fight Club",
-    "elo5v5": 96
+    "elo5v5": 75
   },
   {
     "rank": 12,
@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
+    "teamName": "Chrysalis",
+    "elo5v5": 32
+  },
+  {
+    "rank": 20,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Manshine Citys",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Formless Reborn",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Dreamers",
     "elo5v5": 16
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 9
-  },
-  {
-    "rank": 24,
-    "teamName": "Chrysalis",
-    "elo5v5": 8
   },
   {
     "rank": 25,
