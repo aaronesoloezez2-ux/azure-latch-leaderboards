@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "Lucidity",
-    "elo5v5": 113
+    "teamName": "Viltrum",
+    "elo5v5": 100
   },
   {
     "rank": 10,
-    "teamName": "Viltrum",
-    "elo5v5": 100
+    "teamName": "Lucidity",
+    "elo5v5": 93
   },
   {
     "rank": 11,
@@ -61,33 +61,33 @@
   },
   {
     "rank": 13,
+    "teamName": "Abibas: Sambas NA",
+    "elo5v5": 56
+  },
+  {
+    "rank": 14,
     "teamName": "Sees",
     "elo5v5": 46
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Shutoku",
     "elo5v5": 46
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Ashbound",
     "elo5v5": 42
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Buns FC",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Kurain",
     "elo5v5": 37
-  },
-  {
-    "rank": 18,
-    "teamName": "Abibas: Sambas NA",
-    "elo5v5": 33
   },
   {
     "rank": 19,
