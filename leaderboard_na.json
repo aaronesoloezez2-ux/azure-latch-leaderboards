@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Sovereign",
-    "elo5v5": 181
+    "elo5v5": 190
   },
   {
     "rank": 6,
@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Abibas: Sambas NA",
-    "elo5v5": 56
-  },
-  {
-    "rank": 14,
     "teamName": "Sees",
     "elo5v5": 46
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Shutoku",
     "elo5v5": 46
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Ashbound",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Buns FC",
     "elo5v5": 42
+  },
+  {
+    "rank": 17,
+    "teamName": "Abibas: Sambas NA",
+    "elo5v5": 41
   },
   {
     "rank": 18,
