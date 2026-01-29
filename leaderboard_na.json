@@ -37,22 +37,22 @@
   {
     "rank": 8,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 171
+    "elo5v5": 157
   },
   {
     "rank": 9,
+    "teamName": "Lucidity",
+    "elo5v5": 113
+  },
+  {
+    "rank": 10,
     "teamName": "Viltrum",
     "elo5v5": 100
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Fight Club",
     "elo5v5": 96
-  },
-  {
-    "rank": 11,
-    "teamName": "Lucidity",
-    "elo5v5": 92
   },
   {
     "rank": 12,
