@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Chain Breakers",
+    "elo5v5": 84
+  },
+  {
+    "rank": 8,
     "teamName": "Chapter",
     "elo5v5": 78
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Primordials",
     "elo5v5": 74
-  },
-  {
-    "rank": 9,
-    "teamName": "Chain Breakers",
-    "elo5v5": 66
   },
   {
     "rank": 10,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Edgerunners FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 20,
     "teamName": "Resurrection",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Manshine United EU",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Abibas: sambas",
     "elo5v5": 20
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Nexus",
     "elo5v5": 11
+  },
+  {
+    "rank": 23,
+    "teamName": "Edgerunners FC",
+    "elo5v5": 2
   },
   {
     "rank": 24,
