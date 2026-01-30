@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Abibas: Sambas NA",
-    "elo5v5": 78
+    "teamName": "Sees",
+    "elo5v5": 84
   },
   {
     "rank": 13,
-    "teamName": "Sees",
-    "elo5v5": 65
+    "teamName": "Abibas: Sambas NA",
+    "elo5v5": 78
   },
   {
     "rank": 14,
@@ -86,38 +86,38 @@
   },
   {
     "rank": 18,
-    "teamName": "Fight Club",
-    "elo5v5": 37
-  },
-  {
-    "rank": 19,
     "teamName": "Light Spain",
     "elo5v5": 25
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Ashbound",
     "elo5v5": 22
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Manshine Citys",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Iris",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Formless Reborn",
     "elo5v5": 21
+  },
+  {
+    "rank": 24,
+    "teamName": "Fight Club",
+    "elo5v5": 18
   },
   {
     "rank": 25,
