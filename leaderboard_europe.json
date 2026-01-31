@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Chain Breakers",
-    "elo5v5": 84
+    "teamName": "Primordials",
+    "elo5v5": 74
   },
   {
     "rank": 9,
-    "teamName": "Primordials",
-    "elo5v5": 74
+    "teamName": "Chain Breakers",
+    "elo5v5": 63
   },
   {
     "rank": 10,
@@ -61,42 +61,42 @@
   },
   {
     "rank": 13,
+    "teamName": "Eternal FC",
+    "elo5v5": 44
+  },
+  {
+    "rank": 14,
     "teamName": "Theory",
     "elo5v5": 40
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Kalaris FC: Reborn",
     "elo5v5": 25
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Requiem",
     "elo5v5": 25
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "NEO STRIKERS",
     "elo5v5": 24
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Triarchy FC",
     "elo5v5": 22
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "MushokuAzur",
     "elo5v5": 21
   },
   {
-    "rank": 19,
-    "teamName": "Resurrection",
-    "elo5v5": 21
-  },
-  {
     "rank": 20,
-    "teamName": "Eternal FC",
+    "teamName": "Resurrection",
     "elo5v5": 21
   },
   {
