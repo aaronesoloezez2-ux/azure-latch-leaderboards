@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "Sovereign",
+    "elo5v5": 180
+  },
+  {
+    "rank": 6,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Singularity:Re",
     "elo5v5": 172
-  },
-  {
-    "rank": 7,
-    "teamName": "Sovereign",
-    "elo5v5": 171
   },
   {
     "rank": 8,
@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
-    "teamName": "Zenith",
-    "elo5v5": 49
-  },
-  {
-    "rank": 16,
     "teamName": "Shutoku",
     "elo5v5": 46
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Buns FC",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kurain",
     "elo5v5": 37
+  },
+  {
+    "rank": 18,
+    "teamName": "Zenith",
+    "elo5v5": 34
   },
   {
     "rank": 19,
