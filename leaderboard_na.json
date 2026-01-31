@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Abibas NA",
-    "elo5v5": 231
+    "elo5v5": 239
   },
   {
     "rank": 3,
@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
-    "teamName": "Sovereign",
-    "elo5v5": 181
-  },
-  {
-    "rank": 6,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Kōdo Giasu",
     "elo5v5": 175
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Singularity:Re",
     "elo5v5": 172
+  },
+  {
+    "rank": 8,
+    "teamName": "Sovereign",
+    "elo5v5": 171
   },
   {
     "rank": 9,
