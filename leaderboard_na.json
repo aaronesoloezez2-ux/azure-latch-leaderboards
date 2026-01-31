@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
+    "teamName": "Zenith",
+    "elo5v5": 47
+  },
+  {
+    "rank": 16,
     "teamName": "Shutoku",
     "elo5v5": 46
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Buns FC",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Kurain",
     "elo5v5": 37
-  },
-  {
-    "rank": 18,
-    "teamName": "Zenith",
-    "elo5v5": 28
   },
   {
     "rank": 19,
