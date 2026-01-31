@@ -1,72 +1,72 @@
 [
   {
     "rank": 1,
-    "teamName": "Sovereign",
-    "elo5v5": 12
-  },
-  {
-    "rank": 2,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 3,
+    "rank": 2,
     "teamName": "Kurain",
     "elo5v5": 0
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "7 deadly sins",
     "elo5v5": 0
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "STARTING LINE",
     "elo5v5": 0
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Bst Munich",
     "elo5v5": 0
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Strikers Vendetta",
     "elo5v5": 0
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "eleven ⌞NA⌝",
     "elo5v5": 0
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Anty Company",
     "elo5v5": 0
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "The New Generation",
     "elo5v5": 0
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Bear United",
     "elo5v5": 0
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Passione",
     "elo5v5": 0
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Promised",
+    "elo5v5": 0
+  },
+  {
+    "rank": 14,
+    "teamName": "Sovereign",
     "elo5v5": 0
   },
   {
