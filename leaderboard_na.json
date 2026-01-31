@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Sovereign",
-    "elo5v5": 180
-  },
-  {
-    "rank": 6,
     "teamName": "Yaeloria FC",
     "elo5v5": 176
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Singularity:Re",
     "elo5v5": 172
+  },
+  {
+    "rank": 7,
+    "teamName": "Sovereign",
+    "elo5v5": 168
   },
   {
     "rank": 8,
