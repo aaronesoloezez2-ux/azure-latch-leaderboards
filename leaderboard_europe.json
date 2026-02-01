@@ -421,27 +421,27 @@
   },
   {
     "rank": 85,
-    "teamName": "Syn and Enix FC",
-    "elo5v5": 0
-  },
-  {
-    "rank": 86,
     "teamName": "Kakerou FC",
     "elo5v5": 0
   },
   {
-    "rank": 87,
+    "rank": 86,
     "teamName": "Ubers F.C",
     "elo5v5": 0
   },
   {
-    "rank": 88,
+    "rank": 87,
     "teamName": "Jojo Reference",
     "elo5v5": 0
   },
   {
-    "rank": 89,
+    "rank": 88,
     "teamName": "Soul Society",
+    "elo5v5": 0
+  },
+  {
+    "rank": 89,
+    "teamName": "Tachyon",
     "elo5v5": 0
   }
 ]
