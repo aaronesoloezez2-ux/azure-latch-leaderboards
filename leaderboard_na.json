@@ -1,22 +1,22 @@
 [
   {
     "rank": 1,
+    "teamName": "Shadow FC",
+    "elo5v5": 60
+  },
+  {
+    "rank": 2,
     "teamName": "Sovereign",
     "elo5v5": 41
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 41
   },
   {
-    "rank": 3,
-    "teamName": "Zenith",
-    "elo5v5": 41
-  },
-  {
     "rank": 4,
-    "teamName": "Shadow FC",
+    "teamName": "Zenith",
     "elo5v5": 41
   },
   {
