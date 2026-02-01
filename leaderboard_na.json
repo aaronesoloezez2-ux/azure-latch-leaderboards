@@ -21,33 +21,33 @@
   },
   {
     "rank": 5,
-    "teamName": "Lazarus",
-    "elo5v5": 41
-  },
-  {
-    "rank": 6,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Manshine Citys",
     "elo5v5": 21
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Luminescent",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Abibas NA",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Sees",
     "elo5v5": 21
+  },
+  {
+    "rank": 10,
+    "teamName": "Lazarus",
+    "elo5v5": 19
   },
   {
     "rank": 11,
