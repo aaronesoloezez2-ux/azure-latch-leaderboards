@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Enlightened",
+    "elo5v5": 22
+  },
+  {
+    "rank": 11,
     "teamName": "Resurrection",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "BeeSwarm FC",
     "elo5v5": 21
-  },
-  {
-    "rank": 12,
-    "teamName": "Enlightened",
-    "elo5v5": 1
   },
   {
     "rank": 13,
