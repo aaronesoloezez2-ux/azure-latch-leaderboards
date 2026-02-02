@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Shadow FC",
-    "elo5v5": 91
+    "teamName": "Sovereign",
+    "elo5v5": 81
   },
   {
     "rank": 2,
-    "teamName": "Sovereign",
-    "elo5v5": 81
+    "teamName": "Shadow FC",
+    "elo5v5": 70
   },
   {
     "rank": 3,
@@ -16,27 +16,27 @@
   },
   {
     "rank": 4,
+    "teamName": "Ashbound",
+    "elo5v5": 45
+  },
+  {
+    "rank": 5,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 41
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Teto Company",
     "elo5v5": 24
   },
   {
-    "rank": 7,
-    "teamName": "Manshine Citys",
-    "elo5v5": 22
-  },
-  {
     "rank": 8,
-    "teamName": "Ashbound",
+    "teamName": "Manshine Citys",
     "elo5v5": 22
   },
   {
