@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Oshu Oshi EU",
-    "elo5v5": 42
+    "teamName": "black phantoms",
+    "elo5v5": 53
   },
   {
     "rank": 5,
-    "teamName": "black phantoms",
-    "elo5v5": 33
+    "teamName": "Oshu Oshi EU",
+    "elo5v5": 42
   },
   {
     "rank": 6,
@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
-    "teamName": "Enlightened",
-    "elo5v5": 21
-  },
-  {
-    "rank": 12,
     "teamName": "BeeSwarm FC",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Symphony",
     "elo5v5": 2
+  },
+  {
+    "rank": 13,
+    "teamName": "Enlightened",
+    "elo5v5": 1
   },
   {
     "rank": 14,
