@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Ashbound",
+    "elo5v5": 64
+  },
+  {
+    "rank": 4,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Kōdo Giasu",
     "elo5v5": 58
-  },
-  {
-    "rank": 5,
-    "teamName": "Ashbound",
-    "elo5v5": 45
   },
   {
     "rank": 6,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Zenith",
-    "elo5v5": 21
-  },
-  {
-    "rank": 11,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 20
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Luminescent",
     "elo5v5": 19
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Abibas NA",
     "elo5v5": 17
+  },
+  {
+    "rank": 13,
+    "teamName": "Zenith",
+    "elo5v5": 1
   },
   {
     "rank": 14,
