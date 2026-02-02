@@ -51,17 +51,17 @@
   },
   {
     "rank": 11,
-    "teamName": "Chrysalis",
-    "elo5v5": 21
-  },
-  {
-    "rank": 12,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 20
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Luminescent",
+    "elo5v5": 19
+  },
+  {
+    "rank": 13,
+    "teamName": "Chrysalis",
     "elo5v5": 19
   },
   {
