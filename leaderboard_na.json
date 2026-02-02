@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 22
-  },
-  {
-    "rank": 9,
     "teamName": "Sees",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Chrysalis",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Zenith",
     "elo5v5": 21
+  },
+  {
+    "rank": 11,
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 20
   },
   {
     "rank": 12,
