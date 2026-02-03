@@ -56,17 +56,17 @@
   },
   {
     "rank": 12,
-    "teamName": "Lazarus",
-    "elo5v5": 21
-  },
-  {
-    "rank": 13,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 20
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Luminescent",
+    "elo5v5": 19
+  },
+  {
+    "rank": 14,
+    "teamName": "Lazarus",
     "elo5v5": 19
   },
   {
