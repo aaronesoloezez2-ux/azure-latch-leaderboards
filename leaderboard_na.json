@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 74
+  },
+  {
+    "rank": 5,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Kurain",
     "elo5v5": 58
-  },
-  {
-    "rank": 6,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 55
   },
   {
     "rank": 7,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
-    "teamName": "Teto Company",
-    "elo5v5": 24
-  },
-  {
-    "rank": 10,
     "teamName": "Manshine Citys",
     "elo5v5": 22
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Sees",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 20
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Luminescent",
     "elo5v5": 19
+  },
+  {
+    "rank": 13,
+    "teamName": "Teto Company",
+    "elo5v5": 5
   },
   {
     "rank": 14,
