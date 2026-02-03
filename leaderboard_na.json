@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
-    "teamName": "Chrysalis",
-    "elo5v5": 21
-  },
-  {
-    "rank": 13,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Lucent",
     "elo5v5": 21
+  },
+  {
+    "rank": 14,
+    "teamName": "Chrysalis",
+    "elo5v5": 19
   },
   {
     "rank": 15,
