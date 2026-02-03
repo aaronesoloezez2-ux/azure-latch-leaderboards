@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Sees",
+    "teamName": "Fight Club",
     "elo5v5": 21
   },
   {
     "rank": 11,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 20
+    "teamName": "Sees",
+    "elo5v5": 21
   },
   {
     "rank": 12,
-    "teamName": "Luminescent",
-    "elo5v5": 19
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 20
   },
   {
     "rank": 13,
@@ -171,82 +171,82 @@
   },
   {
     "rank": 35,
-    "teamName": "Fight Club",
-    "elo5v5": 0
-  },
-  {
-    "rank": 36,
     "teamName": "Moon Noobs",
     "elo5v5": 0
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Tracen Academy [NA]",
     "elo5v5": 0
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Croquissimo",
     "elo5v5": 0
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Apocalypse",
     "elo5v5": 0
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "AL: Mayhem F.C",
     "elo5v5": 0
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Viltrum",
     "elo5v5": 0
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Manipulation FC",
     "elo5v5": 0
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Imperium FC",
     "elo5v5": 0
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Trigger",
     "elo5v5": 0
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "Argent Dawn",
     "elo5v5": 0
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "Mayhem FC",
     "elo5v5": 0
   },
   {
-    "rank": 47,
+    "rank": 46,
     "teamName": "CAA",
     "elo5v5": 0
   },
   {
-    "rank": 48,
+    "rank": 47,
     "teamName": "Royal Madrid",
     "elo5v5": 0
   },
   {
-    "rank": 49,
+    "rank": 48,
     "teamName": "Citizens U-3",
     "elo5v5": 0
   },
   {
-    "rank": 50,
+    "rank": 49,
     "teamName": "Teikō Sunset☀️",
+    "elo5v5": 0
+  },
+  {
+    "rank": 50,
+    "teamName": "Luminescent",
     "elo5v5": 0
   },
   {
