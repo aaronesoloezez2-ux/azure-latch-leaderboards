@@ -26,27 +26,27 @@
   },
   {
     "rank": 6,
+    "teamName": "Chapter",
+    "elo5v5": 42
+  },
+  {
+    "rank": 7,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Taishō",
     "elo5v5": 40
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Enlightened",
     "elo5v5": 23
   },
   {
-    "rank": 9,
-    "teamName": "Abibas: sambas",
-    "elo5v5": 22
-  },
-  {
     "rank": 10,
-    "teamName": "Chapter",
+    "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
