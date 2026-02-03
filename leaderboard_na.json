@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 104
+    "elo5v5": 120
   },
   {
     "rank": 3,
@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
-    "teamName": "Abibas NA",
-    "elo5v5": 42
-  },
-  {
-    "rank": 8,
     "teamName": "Isle FC",
     "elo5v5": 41
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Sees",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 40
+  },
+  {
+    "rank": 10,
+    "teamName": "Abibas NA",
+    "elo5v5": 24
   },
   {
     "rank": 11,
