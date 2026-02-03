@@ -26,22 +26,22 @@
   },
   {
     "rank": 6,
+    "teamName": "Soul Society",
+    "elo5v5": 42
+  },
+  {
+    "rank": 7,
     "teamName": "Taishō",
     "elo5v5": 40
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 8,
-    "teamName": "Chapter",
-    "elo5v5": 22
-  },
-  {
     "rank": 9,
-    "teamName": "Soul Society",
+    "teamName": "Chapter",
     "elo5v5": 22
   },
   {
