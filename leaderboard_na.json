@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Sovereign",
-    "elo5v5": 97
+    "teamName": "Ashbound",
+    "elo5v5": 81
   },
   {
     "rank": 3,
-    "teamName": "Ashbound",
-    "elo5v5": 81
+    "teamName": "Sovereign",
+    "elo5v5": 77
   },
   {
     "rank": 4,
@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "Abibas NA",
+    "elo5v5": 63
+  },
+  {
+    "rank": 6,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Kurain",
     "elo5v5": 58
-  },
-  {
-    "rank": 7,
-    "teamName": "Abibas NA",
-    "elo5v5": 41
   },
   {
     "rank": 8,
