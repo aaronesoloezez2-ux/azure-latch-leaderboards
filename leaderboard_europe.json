@@ -6,12 +6,12 @@
   },
   {
     "rank": 2,
-    "teamName": "Oshu Oshi EU",
-    "elo5v5": 61
+    "teamName": "Chapter",
+    "elo5v5": 80
   },
   {
     "rank": 3,
-    "teamName": "Chapter",
+    "teamName": "Oshu Oshi EU",
     "elo5v5": 61
   },
   {
@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
-    "teamName": "Abibas FC",
-    "elo5v5": 42
-  },
-  {
-    "rank": 6,
     "teamName": "Soul Society",
     "elo5v5": 42
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Resurrection",
     "elo5v5": 39
+  },
+  {
+    "rank": 8,
+    "teamName": "Abibas FC",
+    "elo5v5": 23
   },
   {
     "rank": 9,
