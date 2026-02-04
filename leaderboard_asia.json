@@ -121,27 +121,27 @@
   },
   {
     "rank": 25,
-    "teamName": "Tsukurumi (Asia)",
-    "elo5v5": 0
-  },
-  {
-    "rank": 26,
     "teamName": "Furin High",
     "elo5v5": 0
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Vigilantes",
     "elo5v5": 0
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Parxousia",
     "elo5v5": 0
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Ataraxia",
+    "elo5v5": 0
+  },
+  {
+    "rank": 29,
+    "teamName": "Tsukurumi",
     "elo5v5": 0
   }
 ]
