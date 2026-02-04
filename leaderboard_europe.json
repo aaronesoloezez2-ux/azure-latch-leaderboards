@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Azura Latch",
-    "elo5v5": 119
+    "elo5v5": 100
   },
   {
     "rank": 2,
@@ -11,28 +11,28 @@
   },
   {
     "rank": 3,
+    "teamName": "Resurrection",
+    "elo5v5": 62
+  },
+  {
+    "rank": 4,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 61
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Soul Society",
     "elo5v5": 42
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Eternal FC",
     "elo5v5": 41
-  },
-  {
-    "rank": 7,
-    "teamName": "Resurrection",
-    "elo5v5": 39
   },
   {
     "rank": 8,
