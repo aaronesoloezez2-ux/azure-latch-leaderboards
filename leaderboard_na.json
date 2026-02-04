@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Seiwa Gakuen",
-    "elo5v5": 60
+    "teamName": "Isle FC",
+    "elo5v5": 70
   },
   {
     "rank": 7,
-    "teamName": "Isle FC",
-    "elo5v5": 51
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 60
   },
   {
     "rank": 8,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Luminescent",
-    "elo5v5": 21
-  },
-  {
-    "rank": 17,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Chrysalis",
     "elo5v5": 19
+  },
+  {
+    "rank": 18,
+    "teamName": "Luminescent",
+    "elo5v5": 2
   },
   {
     "rank": 19,
