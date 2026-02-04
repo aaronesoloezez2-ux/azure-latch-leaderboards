@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 116
+    "elo5v5": 96
   },
   {
     "rank": 3,
@@ -36,32 +36,32 @@
   },
   {
     "rank": 8,
+    "teamName": "Zenith",
+    "elo5v5": 46
+  },
+  {
+    "rank": 9,
     "teamName": "Abibas NA",
     "elo5v5": 44
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Sees",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 40
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Promised",
     "elo5v5": 25
   },
   {
-    "rank": 12,
-    "teamName": "Manshine Citys",
-    "elo5v5": 22
-  },
-  {
     "rank": 13,
-    "teamName": "Zenith",
+    "teamName": "Manshine Citys",
     "elo5v5": 22
   },
   {
