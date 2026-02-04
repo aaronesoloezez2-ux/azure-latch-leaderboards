@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Isle FC",
+    "elo5v5": 93
+  },
+  {
+    "rank": 4,
     "teamName": "Kurain",
     "elo5v5": 81
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Ashbound",
     "elo5v5": 81
-  },
-  {
-    "rank": 5,
-    "teamName": "Isle FC",
-    "elo5v5": 77
   },
   {
     "rank": 6,
