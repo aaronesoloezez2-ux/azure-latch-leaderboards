@@ -31,22 +31,22 @@
   },
   {
     "rank": 7,
+    "teamName": "Abibas NA",
+    "elo5v5": 65
+  },
+  {
+    "rank": 8,
     "teamName": "Zenith",
     "elo5v5": 64
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 9,
-    "teamName": "Promised",
-    "elo5v5": 46
-  },
-  {
     "rank": 10,
-    "teamName": "Abibas NA",
+    "teamName": "Promised",
     "elo5v5": 46
   },
   {
@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Teto Company",
-    "elo5v5": 27
-  },
-  {
-    "rank": 14,
     "teamName": "Manshine Citys",
     "elo5v5": 22
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Bear United",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Chrysalis",
     "elo5v5": 19
+  },
+  {
+    "rank": 17,
+    "teamName": "Teto Company",
+    "elo5v5": 7
   },
   {
     "rank": 18,
