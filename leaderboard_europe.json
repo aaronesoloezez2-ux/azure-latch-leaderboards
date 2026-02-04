@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "black phantoms",
-    "elo5v5": 53
+    "teamName": "Chapter",
+    "elo5v5": 61
   },
   {
     "rank": 4,
-    "teamName": "Chapter",
-    "elo5v5": 42
+    "teamName": "black phantoms",
+    "elo5v5": 53
   },
   {
     "rank": 5,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Primordials",
-    "elo5v5": 21
-  },
-  {
-    "rank": 15,
     "teamName": "BeeSwarm FC",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Endure.",
     "elo5v5": 2
+  },
+  {
+    "rank": 16,
+    "teamName": "Primordials",
+    "elo5v5": 1
   },
   {
     "rank": 17,
