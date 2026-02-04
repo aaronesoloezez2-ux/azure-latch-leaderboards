@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Sovereign",
-    "elo5v5": 98
-  },
-  {
-    "rank": 4,
     "teamName": "Kurain",
     "elo5v5": 81
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Ashbound",
     "elo5v5": 81
+  },
+  {
+    "rank": 5,
+    "teamName": "Sovereign",
+    "elo5v5": 76
   },
   {
     "rank": 6,
@@ -46,87 +46,87 @@
   },
   {
     "rank": 10,
+    "teamName": "Promised",
+    "elo5v5": 25
+  },
+  {
+    "rank": 11,
     "teamName": "Abibas NA",
     "elo5v5": 24
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Manshine Citys",
     "elo5v5": 22
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Zenith",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Chrysalis",
     "elo5v5": 19
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "7 deadly sins",
     "elo5v5": 0
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "STARTING LINE",
     "elo5v5": 0
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Bst Munich",
     "elo5v5": 0
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Strikers Vendetta",
     "elo5v5": 0
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "eleven ⌞NA⌝",
     "elo5v5": 0
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Anty Company",
     "elo5v5": 0
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "The New Generation",
     "elo5v5": 0
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Bear United",
     "elo5v5": 0
   },
   {
-    "rank": 25,
-    "teamName": "Passione",
-    "elo5v5": 0
-  },
-  {
     "rank": 26,
-    "teamName": "Promised",
+    "teamName": "Passione",
     "elo5v5": 0
   },
   {
