@@ -21,32 +21,32 @@
   },
   {
     "rank": 5,
-    "teamName": "Soul Society",
+    "teamName": "Abibas FC",
     "elo5v5": 42
   },
   {
     "rank": 6,
+    "teamName": "Soul Society",
+    "elo5v5": 42
+  },
+  {
+    "rank": 7,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Taishō",
     "elo5v5": 40
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Resurrection",
     "elo5v5": 39
   },
   {
-    "rank": 9,
-    "teamName": "Enlightened",
-    "elo5v5": 23
-  },
-  {
     "rank": 10,
-    "teamName": "Divine",
+    "teamName": "Enlightened",
     "elo5v5": 23
   },
   {
@@ -61,17 +61,17 @@
   },
   {
     "rank": 13,
-    "teamName": "Abibas FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 14,
     "teamName": "BeeSwarm FC",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Endure.",
+    "elo5v5": 2
+  },
+  {
+    "rank": 15,
+    "teamName": "Divine",
     "elo5v5": 2
   },
   {
