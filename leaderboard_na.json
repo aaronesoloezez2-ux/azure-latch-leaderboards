@@ -31,17 +31,17 @@
   },
   {
     "rank": 7,
+    "teamName": "Zenith",
+    "elo5v5": 64
+  },
+  {
+    "rank": 8,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 8,
-    "teamName": "Promised",
-    "elo5v5": 46
-  },
-  {
     "rank": 9,
-    "teamName": "Zenith",
+    "teamName": "Promised",
     "elo5v5": 46
   },
   {
