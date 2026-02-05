@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 108
+  },
+  {
+    "rank": 3,
     "teamName": "Zenith",
     "elo5v5": 100
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Isle FC",
     "elo5v5": 93
-  },
-  {
-    "rank": 4,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 92
   },
   {
     "rank": 5,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Luminescent",
-    "elo5v5": 21
-  },
-  {
-    "rank": 16,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Chrysalis",
     "elo5v5": 19
+  },
+  {
+    "rank": 17,
+    "teamName": "Luminescent",
+    "elo5v5": 3
   },
   {
     "rank": 18,
