@@ -31,52 +31,52 @@
   },
   {
     "rank": 7,
+    "teamName": "BeeSwarm FC",
+    "elo5v5": 42
+  },
+  {
+    "rank": 8,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Mr Beast FC",
     "elo5v5": 41
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Abibas FC",
     "elo5v5": 23
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Enlightened",
     "elo5v5": 23
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 12,
-    "teamName": "Chain Breakers",
-    "elo5v5": 22
-  },
-  {
     "rank": 13,
-    "teamName": "BeeSwarm FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 14,
     "teamName": "Kakerou FC",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Endure.",
     "elo5v5": 2
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Primordials",
+    "elo5v5": 1
+  },
+  {
+    "rank": 16,
+    "teamName": "Chain Breakers",
     "elo5v5": 1
   },
   {
