@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Zenith",
-    "elo5v5": 128
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 122
   },
   {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 122
+    "teamName": "Zenith",
+    "elo5v5": 109
   },
   {
     "rank": 4,
@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Luminescent",
+    "elo5v5": 49
+  },
+  {
+    "rank": 10,
     "teamName": "Promised",
     "elo5v5": 46
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 45
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Sees",
     "elo5v5": 44
-  },
-  {
-    "rank": 12,
-    "teamName": "Luminescent",
-    "elo5v5": 24
   },
   {
     "rank": 13,
