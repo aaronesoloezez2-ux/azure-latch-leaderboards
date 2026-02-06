@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Zenith",
+    "elo5v5": 128
+  },
+  {
+    "rank": 2,
     "teamName": "Kōdo Giasu",
     "elo5v5": 122
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Shadow FC",
     "elo5v5": 116
-  },
-  {
-    "rank": 3,
-    "teamName": "Zenith",
-    "elo5v5": 115
   },
   {
     "rank": 4,
