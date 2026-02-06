@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Isle FC",
-    "elo5v5": 93
+    "teamName": "Abibas NA",
+    "elo5v5": 101
   },
   {
     "rank": 5,
-    "teamName": "Abibas NA",
-    "elo5v5": 83
+    "teamName": "Isle FC",
+    "elo5v5": 93
   },
   {
     "rank": 6,
@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 64
-  },
-  {
-    "rank": 9,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Promised",
     "elo5v5": 46
+  },
+  {
+    "rank": 11,
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 45
   },
   {
     "rank": 12,
