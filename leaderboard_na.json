@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Ashbound",
+    "elo5v5": 113
+  },
+  {
+    "rank": 4,
     "teamName": "Zenith",
     "elo5v5": 109
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Isle FC",
     "elo5v5": 108
-  },
-  {
-    "rank": 5,
-    "teamName": "Ashbound",
-    "elo5v5": 98
   },
   {
     "rank": 6,
