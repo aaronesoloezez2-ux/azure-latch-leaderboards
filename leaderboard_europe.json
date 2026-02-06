@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Soul Society",
-    "elo5v5": 79
-  },
-  {
-    "rank": 4,
     "teamName": "Divine",
     "elo5v5": 63
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 61
+  },
+  {
+    "rank": 5,
+    "teamName": "Soul Society",
+    "elo5v5": 58
   },
   {
     "rank": 6,
@@ -36,27 +36,27 @@
   },
   {
     "rank": 8,
+    "teamName": "Hotspot FC",
+    "elo5v5": 45
+  },
+  {
+    "rank": 9,
     "teamName": "BeeSwarm FC",
     "elo5v5": 42
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Enlightened",
     "elo5v5": 23
   },
   {
-    "rank": 11,
-    "teamName": "Abibas: sambas",
-    "elo5v5": 22
-  },
-  {
     "rank": 12,
-    "teamName": "Hotspot FC",
+    "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
