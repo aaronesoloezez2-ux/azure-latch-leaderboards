@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Shadow FC",
-    "elo5v5": 134
+    "elo5v5": 116
   },
   {
     "rank": 2,
@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 64
+  },
+  {
+    "rank": 9,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Promised",
     "elo5v5": 46
-  },
-  {
-    "rank": 11,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 40
   },
   {
     "rank": 12,
