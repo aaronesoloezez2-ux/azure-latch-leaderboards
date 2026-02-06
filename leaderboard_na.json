@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
+    "teamName": "Bear United",
+    "elo5v5": 42
+  },
+  {
+    "rank": 13,
     "teamName": "Sovereign",
     "elo5v5": 36
   },
   {
-    "rank": 13,
-    "teamName": "Manshine Citys",
-    "elo5v5": 22
-  },
-  {
     "rank": 14,
-    "teamName": "Bear United",
-    "elo5v5": 21
-  },
-  {
-    "rank": 15,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Chrysalis",
     "elo5v5": 19
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Luminescent",
     "elo5v5": 3
+  },
+  {
+    "rank": 17,
+    "teamName": "Manshine Citys",
+    "elo5v5": 1
   },
   {
     "rank": 18,
