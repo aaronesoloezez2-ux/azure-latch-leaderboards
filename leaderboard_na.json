@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Shutoku",
+    "teamName": "Fight Club",
     "elo5v5": 22
   },
   {
     "rank": 14,
-    "teamName": "Teto Company",
+    "teamName": "Shutoku",
     "elo5v5": 22
   },
   {
     "rank": 15,
+    "teamName": "Teto Company",
+    "elo5v5": 22
+  },
+  {
+    "rank": 16,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "The Wiki",
     "elo5v5": 21
-  },
-  {
-    "rank": 17,
-    "teamName": "Bear United",
-    "elo5v5": 20
   },
   {
     "rank": 18,
@@ -141,47 +141,47 @@
   },
   {
     "rank": 29,
-    "teamName": "Passione",
+    "teamName": "Bear United",
     "elo5v5": 0
   },
   {
     "rank": 30,
-    "teamName": "TGB",
+    "teamName": "Passione",
     "elo5v5": 0
   },
   {
     "rank": 31,
-    "teamName": "Neon Genesis",
+    "teamName": "TGB",
     "elo5v5": 0
   },
   {
     "rank": 32,
-    "teamName": "Criciúma",
+    "teamName": "Neon Genesis",
     "elo5v5": 0
   },
   {
     "rank": 33,
-    "teamName": "Scarlet Crusade",
+    "teamName": "Criciúma",
     "elo5v5": 0
   },
   {
     "rank": 34,
-    "teamName": "Dreamers",
+    "teamName": "Scarlet Crusade",
     "elo5v5": 0
   },
   {
     "rank": 35,
-    "teamName": "Seals FC",
+    "teamName": "Dreamers",
     "elo5v5": 0
   },
   {
     "rank": 36,
-    "teamName": "Crescent Rose FC (CSR)",
+    "teamName": "Seals FC",
     "elo5v5": 0
   },
   {
     "rank": 37,
-    "teamName": "Fight Club",
+    "teamName": "Crescent Rose FC (CSR)",
     "elo5v5": 0
   },
   {
