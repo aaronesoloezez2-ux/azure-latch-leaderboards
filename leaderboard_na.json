@@ -26,12 +26,12 @@
   },
   {
     "rank": 6,
-    "teamName": "Kurain",
-    "elo5v5": 81
+    "teamName": "Ashbound",
+    "elo5v5": 98
   },
   {
     "rank": 7,
-    "teamName": "Ashbound",
+    "teamName": "Kurain",
     "elo5v5": 81
   },
   {
@@ -56,43 +56,43 @@
   },
   {
     "rank": 12,
-    "teamName": "Luminescent",
-    "elo5v5": 29
-  },
-  {
-    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 22
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Shutoku",
     "elo5v5": 22
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Teto Company",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Chrysalis",
     "elo5v5": 19
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Sovereign",
     "elo5v5": 14
+  },
+  {
+    "rank": 19,
+    "teamName": "Luminescent",
+    "elo5v5": 11
   },
   {
     "rank": 20,
