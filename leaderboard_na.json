@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 149
+    "teamName": "Shadow FC",
+    "elo5v5": 143
   },
   {
     "rank": 2,
-    "teamName": "Shadow FC",
-    "elo5v5": 143
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 132
   },
   {
     "rank": 3,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Promised",
+    "elo5v5": 70
+  },
+  {
+    "rank": 9,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 60
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 48
-  },
-  {
-    "rank": 10,
-    "teamName": "Promised",
-    "elo5v5": 46
   },
   {
     "rank": 11,
