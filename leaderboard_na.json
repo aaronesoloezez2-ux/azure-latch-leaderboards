@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Kurain",
-    "elo5v5": 81
+    "teamName": "Sovereign",
+    "elo5v5": 97
   },
   {
     "rank": 8,
-    "teamName": "Sovereign",
-    "elo5v5": 79
+    "teamName": "Kurain",
+    "elo5v5": 81
   },
   {
     "rank": 9,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 51
-  },
-  {
-    "rank": 11,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 38
+  },
+  {
+    "rank": 13,
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 32
   },
   {
     "rank": 14,
