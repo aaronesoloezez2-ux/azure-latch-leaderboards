@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
+    "teamName": "Teto Company",
+    "elo5v5": 26
+  },
+  {
+    "rank": 16,
     "teamName": "Shutoku",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Crimson Authority",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Chrysalis",
     "elo5v5": 19
-  },
-  {
-    "rank": 20,
-    "teamName": "Teto Company",
-    "elo5v5": 6
   },
   {
     "rank": 21,
