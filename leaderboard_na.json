@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Abibas NA",
-    "elo5v5": 102
-  },
-  {
-    "rank": 6,
     "teamName": "Sovereign",
     "elo5v5": 97
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Kōdo Giasu",
     "elo5v5": 93
+  },
+  {
+    "rank": 7,
+    "teamName": "Abibas NA",
+    "elo5v5": 82
   },
   {
     "rank": 8,
@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 61
+  },
+  {
+    "rank": 11,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Crimson Authority",
     "elo5v5": 42
-  },
-  {
-    "rank": 12,
-    "teamName": "Seiwa Gakuen",
-    "elo5v5": 38
   },
   {
     "rank": 13,
