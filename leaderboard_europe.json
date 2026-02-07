@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "Chapter",
-    "elo5v5": 114
-  },
-  {
-    "rank": 3,
     "teamName": "Hotspot FC",
     "elo5v5": 112
   },
   {
+    "rank": 3,
+    "teamName": "Chapter",
+    "elo5v5": 95
+  },
+  {
     "rank": 4,
     "teamName": "Divine",
-    "elo5v5": 60
+    "elo5v5": 82
   },
   {
     "rank": 5,
