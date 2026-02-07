@@ -1,38 +1,38 @@
 [
   {
     "rank": 1,
+    "teamName": "Zenith",
+    "elo5v5": 155
+  },
+  {
+    "rank": 2,
     "teamName": "Shadow FC",
     "elo5v5": 150
   },
   {
-    "rank": 2,
-    "teamName": "Zenith",
-    "elo5v5": 141
-  },
-  {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 109
-  },
-  {
-    "rank": 4,
     "teamName": "Ashbound",
     "elo5v5": 109
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Isle FC",
     "elo5v5": 108
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Abibas NA",
     "elo5v5": 102
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Sovereign",
     "elo5v5": 97
+  },
+  {
+    "rank": 7,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 93
   },
   {
     "rank": 8,
