@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Soul Society",
-    "elo5v5": 79
+    "elo5v5": 96
   },
   {
     "rank": 3,
@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Enlightened",
-    "elo5v5": 23
-  },
-  {
-    "rank": 14,
     "teamName": "Mr Beast FC",
     "elo5v5": 23
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Kakerou FC",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Divine",
     "elo5v5": 19
+  },
+  {
+    "rank": 17,
+    "teamName": "Enlightened",
+    "elo5v5": 5
   },
   {
     "rank": 18,
