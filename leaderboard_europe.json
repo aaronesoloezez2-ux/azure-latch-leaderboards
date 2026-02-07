@@ -11,23 +11,23 @@
   },
   {
     "rank": 3,
-    "teamName": "Oshu Oshi EU",
-    "elo5v5": 61
-  },
-  {
-    "rank": 4,
     "teamName": "Azura Latch",
     "elo5v5": 60
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Resurrection",
     "elo5v5": 57
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "black phantoms",
     "elo5v5": 53
+  },
+  {
+    "rank": 6,
+    "teamName": "Abibas FC",
+    "elo5v5": 47
   },
   {
     "rank": 7,
@@ -46,8 +46,8 @@
   },
   {
     "rank": 10,
-    "teamName": "Abibas FC",
-    "elo5v5": 25
+    "teamName": "Oshu Oshi EU",
+    "elo5v5": 40
   },
   {
     "rank": 11,
