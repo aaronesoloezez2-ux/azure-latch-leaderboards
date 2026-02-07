@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Bear United",
+    "elo5v5": 41
+  },
+  {
+    "rank": 13,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 38
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 28
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Shutoku",
     "elo5v5": 22
-  },
-  {
-    "rank": 15,
-    "teamName": "Bear United",
-    "elo5v5": 21
   },
   {
     "rank": 16,
