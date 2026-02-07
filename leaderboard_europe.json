@@ -11,62 +11,62 @@
   },
   {
     "rank": 3,
+    "teamName": "Hotspot FC",
+    "elo5v5": 62
+  },
+  {
+    "rank": 4,
     "teamName": "Azura Latch",
     "elo5v5": 60
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Resurrection",
     "elo5v5": 57
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Abibas FC",
     "elo5v5": 47
   },
   {
-    "rank": 7,
-    "teamName": "Hotspot FC",
-    "elo5v5": 42
-  },
-  {
     "rank": 8,
-    "teamName": "BeeSwarm FC",
-    "elo5v5": 42
-  },
-  {
-    "rank": 9,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 40
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "DARK CLUB",
     "elo5v5": 24
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Mighty Burger",
     "elo5v5": 23
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Mr Beast FC",
     "elo5v5": 23
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Abibas: sambas",
+    "elo5v5": 22
+  },
+  {
+    "rank": 14,
+    "teamName": "BeeSwarm FC",
     "elo5v5": 22
   },
   {
