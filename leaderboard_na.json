@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 93
+    "elo5v5": 72
   },
   {
     "rank": 8,
@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
+    "teamName": "Teto Company",
+    "elo5v5": 49
+  },
+  {
+    "rank": 11,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Crimson Authority",
     "elo5v5": 42
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 32
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 28
-  },
-  {
-    "rank": 14,
-    "teamName": "Teto Company",
-    "elo5v5": 26
   },
   {
     "rank": 15,
