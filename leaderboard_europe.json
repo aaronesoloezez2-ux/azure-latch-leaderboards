@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Hotspot FC",
-    "elo5v5": 112
+    "teamName": "Divine",
+    "elo5v5": 114
   },
   {
     "rank": 3,
-    "teamName": "Divine",
-    "elo5v5": 98
+    "teamName": "Hotspot FC",
+    "elo5v5": 112
   },
   {
     "rank": 4,
@@ -46,33 +46,33 @@
   },
   {
     "rank": 10,
-    "teamName": "Resurrection",
-    "elo5v5": 36
-  },
-  {
-    "rank": 11,
     "teamName": "Chain Breakers",
     "elo5v5": 25
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Primordials",
     "elo5v5": 22
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "BeeSwarm FC",
     "elo5v5": 22
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Kakerou FC",
     "elo5v5": 21
+  },
+  {
+    "rank": 15,
+    "teamName": "Resurrection",
+    "elo5v5": 18
   },
   {
     "rank": 16,
