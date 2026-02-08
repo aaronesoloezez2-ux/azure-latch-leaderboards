@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Divine",
+    "teamName": "Soul Society",
     "elo5v5": 140
   },
   {
     "rank": 2,
-    "teamName": "Soul Society",
-    "elo5v5": 126
+    "teamName": "Divine",
+    "elo5v5": 140
   },
   {
     "rank": 3,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "Azura Latch",
-    "elo5v5": 41
-  },
-  {
-    "rank": 9,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 40
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Chain Breakers",
     "elo5v5": 25
+  },
+  {
+    "rank": 10,
+    "teamName": "Azura Latch",
+    "elo5v5": 24
   },
   {
     "rank": 11,
