@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Hotspot FC",
-    "elo5v5": 112
+    "elo5v5": 126
   },
   {
     "rank": 3,
@@ -41,43 +41,43 @@
   },
   {
     "rank": 9,
-    "teamName": "DARK CLUB",
-    "elo5v5": 28
-  },
-  {
-    "rank": 10,
     "teamName": "Chain Breakers",
     "elo5v5": 25
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Azura Latch",
     "elo5v5": 24
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Primordials",
     "elo5v5": 22
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kakerou FC",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Resurrection",
     "elo5v5": 18
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "BeeSwarm FC",
     "elo5v5": 6
+  },
+  {
+    "rank": 16,
+    "teamName": "DARK CLUB",
+    "elo5v5": 3
   },
   {
     "rank": 17,
