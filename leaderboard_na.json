@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Crimson Authority",
+    "elo5v5": 47
+  },
+  {
+    "rank": 11,
     "teamName": "Teto Company",
     "elo5v5": 31
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Fight Club",
     "elo5v5": 28
-  },
-  {
-    "rank": 12,
-    "teamName": "Crimson Authority",
-    "elo5v5": 27
   },
   {
     "rank": 13,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "Lucent",
-    "elo5v5": 21
-  },
-  {
-    "rank": 19,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Bear United",
     "elo5v5": 20
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Chrysalis",
     "elo5v5": 19
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
+  },
+  {
+    "rank": 22,
+    "teamName": "Lucent",
+    "elo5v5": 1
   },
   {
     "rank": 23,
