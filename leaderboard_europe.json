@@ -431,37 +431,37 @@
   },
   {
     "rank": 87,
-    "teamName": "Something Normal",
-    "elo5v5": 0
-  },
-  {
-    "rank": 88,
     "teamName": "Fallen Strikers",
     "elo5v5": 0
   },
   {
-    "rank": 89,
+    "rank": 88,
     "teamName": "Banana King",
     "elo5v5": 0
   },
   {
-    "rank": 90,
+    "rank": 89,
     "teamName": "Azerbaijan FC",
     "elo5v5": 0
   },
   {
-    "rank": 91,
+    "rank": 90,
     "teamName": "Kōchi FC",
     "elo5v5": 0
   },
   {
-    "rank": 92,
+    "rank": 91,
     "teamName": "Destiny FC",
     "elo5v5": 0
   },
   {
-    "rank": 93,
+    "rank": 92,
     "teamName": "Femboy United",
+    "elo5v5": 0
+  },
+  {
+    "rank": 93,
+    "teamName": "Bastards Rebirth",
     "elo5v5": 0
   }
 ]
