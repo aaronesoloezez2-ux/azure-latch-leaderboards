@@ -7,22 +7,22 @@
   {
     "rank": 2,
     "teamName": "Shadow FC",
-    "elo5v5": 149
+    "elo5v5": 134
   },
   {
     "rank": 3,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 130
+  },
+  {
+    "rank": 4,
     "teamName": "Sovereign",
     "elo5v5": 114
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Kurain",
     "elo5v5": 113
-  },
-  {
-    "rank": 5,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 112
   },
   {
     "rank": 6,
