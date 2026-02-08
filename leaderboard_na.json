@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Sovereign",
-    "elo5v5": 114
+    "elo5v5": 129
   },
   {
     "rank": 4,
@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
-    "teamName": "Seiwa Gakuen",
-    "elo5v5": 61
-  },
-  {
-    "rank": 10,
     "teamName": "Crimson Authority",
     "elo5v5": 47
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Luminescent",
     "elo5v5": 45
+  },
+  {
+    "rank": 11,
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 43
   },
   {
     "rank": 12,
