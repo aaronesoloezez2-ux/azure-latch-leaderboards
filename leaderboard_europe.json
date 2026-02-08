@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 182
+    "elo5v5": 190
   },
   {
     "rank": 2,
@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Luminosity",
-    "elo5v5": 22
-  },
-  {
-    "rank": 14,
     "teamName": "Blacklisted FC",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Resurrection",
     "elo5v5": 18
+  },
+  {
+    "rank": 15,
+    "teamName": "Luminosity",
+    "elo5v5": 8
   },
   {
     "rank": 16,
