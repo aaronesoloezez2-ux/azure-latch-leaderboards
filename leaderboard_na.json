@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
-    "teamName": "Sees",
-    "elo5v5": 66
-  },
-  {
-    "rank": 10,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 61
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Teto Company",
     "elo5v5": 49
+  },
+  {
+    "rank": 11,
+    "teamName": "Sees",
+    "elo5v5": 44
   },
   {
     "rank": 12,
