@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Soul Society",
-    "elo5v5": 125
+    "elo5v5": 105
   },
   {
     "rank": 4,
@@ -41,43 +41,43 @@
   },
   {
     "rank": 9,
+    "teamName": "DARK CLUB",
+    "elo5v5": 28
+  },
+  {
+    "rank": 10,
     "teamName": "Chain Breakers",
     "elo5v5": 25
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Azura Latch",
     "elo5v5": 24
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Primordials",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Kakerou FC",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Resurrection",
     "elo5v5": 18
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "BeeSwarm FC",
     "elo5v5": 6
-  },
-  {
-    "rank": 16,
-    "teamName": "DARK CLUB",
-    "elo5v5": 3
   },
   {
     "rank": 17,
