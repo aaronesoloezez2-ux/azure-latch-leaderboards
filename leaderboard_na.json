@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Shadow FC",
-    "elo5v5": 136
+    "elo5v5": 149
   },
   {
     "rank": 3,
@@ -56,22 +56,22 @@
   },
   {
     "rank": 12,
-    "teamName": "Crimson Authority",
-    "elo5v5": 42
-  },
-  {
-    "rank": 13,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 32
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 28
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Oshu Oshi NA",
+    "elo5v5": 25
+  },
+  {
+    "rank": 15,
+    "teamName": "Crimson Authority",
     "elo5v5": 25
   },
   {
