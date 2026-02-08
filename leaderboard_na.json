@@ -11,28 +11,28 @@
   },
   {
     "rank": 3,
+    "teamName": "Sovereign",
+    "elo5v5": 114
+  },
+  {
+    "rank": 4,
     "teamName": "Kurain",
     "elo5v5": 113
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Kōdo Giasu",
     "elo5v5": 112
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Ashbound",
     "elo5v5": 109
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Isle FC",
     "elo5v5": 108
-  },
-  {
-    "rank": 7,
-    "teamName": "Sovereign",
-    "elo5v5": 97
   },
   {
     "rank": 8,
@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Teto Company",
-    "elo5v5": 49
+    "teamName": "Mega Pupsi NA",
+    "elo5v5": 32
   },
   {
     "rank": 11,
-    "teamName": "Mega Pupsi NA",
-    "elo5v5": 32
+    "teamName": "Teto Company",
+    "elo5v5": 31
   },
   {
     "rank": 12,
