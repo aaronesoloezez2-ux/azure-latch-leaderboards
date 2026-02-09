@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 111
+  },
+  {
+    "rank": 5,
     "teamName": "Ashbound",
     "elo5v5": 109
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Kurain",
     "elo5v5": 108
-  },
-  {
-    "rank": 6,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 95
   },
   {
     "rank": 7,
@@ -86,38 +86,38 @@
   },
   {
     "rank": 18,
-    "teamName": "Imperium NA",
-    "elo5v5": 22
-  },
-  {
-    "rank": 19,
     "teamName": "Iris",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Bear United",
     "elo5v5": 20
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Fight Club",
     "elo5v5": 12
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
+  },
+  {
+    "rank": 24,
+    "teamName": "Imperium NA",
+    "elo5v5": 4
   },
   {
     "rank": 25,
