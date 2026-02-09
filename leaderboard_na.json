@@ -37,7 +37,7 @@
   {
     "rank": 8,
     "teamName": "Promised",
-    "elo5v5": 70
+    "elo5v5": 88
   },
   {
     "rank": 9,
@@ -51,33 +51,33 @@
   },
   {
     "rank": 11,
-    "teamName": "Seiwa Gakuen",
-    "elo5v5": 43
-  },
-  {
-    "rank": 12,
     "teamName": "Teto Company",
     "elo5v5": 33
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Fight Club",
     "elo5v5": 28
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Sees",
     "elo5v5": 26
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Revelation",
     "elo5v5": 26
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 25
+  },
+  {
+    "rank": 16,
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 24
   },
   {
     "rank": 17,
