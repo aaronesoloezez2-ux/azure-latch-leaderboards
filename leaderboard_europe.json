@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Luminosity",
+    "teamName": "Mighty Burger",
     "elo5v5": 21
   },
   {
     "rank": 14,
-    "teamName": "Resurrection",
-    "elo5v5": 18
+    "teamName": "Luminosity",
+    "elo5v5": 21
   },
   {
     "rank": 15,
-    "teamName": "Azerbaijan FC",
-    "elo5v5": 12
+    "teamName": "Resurrection",
+    "elo5v5": 18
   },
   {
     "rank": 16,
@@ -351,87 +351,87 @@
   },
   {
     "rank": 71,
-    "teamName": "Mighty Burger",
-    "elo5v5": 0
-  },
-  {
-    "rank": 72,
     "teamName": "Alt FC",
     "elo5v5": 0
   },
   {
-    "rank": 73,
+    "rank": 72,
     "teamName": "Arsenali FC",
     "elo5v5": 0
   },
   {
-    "rank": 74,
+    "rank": 73,
     "teamName": "Brick Corp EU",
     "elo5v5": 0
   },
   {
-    "rank": 75,
+    "rank": 74,
     "teamName": "Achernar",
     "elo5v5": 0
   },
   {
-    "rank": 76,
+    "rank": 75,
     "teamName": "Abydoss F.C  EU",
     "elo5v5": 0
   },
   {
-    "rank": 77,
+    "rank": 76,
     "teamName": "Albania FC",
     "elo5v5": 0
   },
   {
-    "rank": 78,
+    "rank": 77,
     "teamName": "BeeSwarm FC",
     "elo5v5": 0
   },
   {
-    "rank": 79,
+    "rank": 78,
     "teamName": "BLUELOCK 11",
     "elo5v5": 0
   },
   {
-    "rank": 80,
+    "rank": 79,
     "teamName": "Over Heaven",
     "elo5v5": 0
   },
   {
-    "rank": 81,
+    "rank": 80,
     "teamName": "Ubers F.C",
     "elo5v5": 0
   },
   {
-    "rank": 82,
+    "rank": 81,
     "teamName": "Jojo Reference",
     "elo5v5": 0
   },
   {
-    "rank": 83,
+    "rank": 82,
     "teamName": "Tachyon",
     "elo5v5": 0
   },
   {
-    "rank": 84,
+    "rank": 83,
     "teamName": "test",
     "elo5v5": 0
   },
   {
-    "rank": 85,
+    "rank": 84,
     "teamName": "SZ FC",
     "elo5v5": 0
   },
   {
-    "rank": 86,
+    "rank": 85,
     "teamName": "Illusionists FC",
     "elo5v5": 0
   },
   {
-    "rank": 87,
+    "rank": 86,
     "teamName": "Banana King",
+    "elo5v5": 0
+  },
+  {
+    "rank": 87,
+    "teamName": "Azerbaijan FC",
     "elo5v5": 0
   },
   {
