@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 211
+    "elo5v5": 217
   },
   {
     "rank": 2,
@@ -26,23 +26,23 @@
   },
   {
     "rank": 6,
-    "teamName": "Abibas FC",
-    "elo5v5": 47
-  },
-  {
-    "rank": 7,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Blacklisted FC",
     "elo5v5": 41
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 40
+  },
+  {
+    "rank": 9,
+    "teamName": "Abibas FC",
+    "elo5v5": 33
   },
   {
     "rank": 10,
