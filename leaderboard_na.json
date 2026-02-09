@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Luminescent",
-    "elo5v5": 44
+    "teamName": "Chrysalis",
+    "elo5v5": 39
   },
   {
     "rank": 13,
-    "teamName": "Chrysalis",
-    "elo5v5": 39
+    "teamName": "Fight Club",
+    "elo5v5": 34
   },
   {
     "rank": 14,
@@ -81,33 +81,33 @@
   },
   {
     "rank": 17,
+    "teamName": "Luminescent",
+    "elo5v5": 23
+  },
+  {
+    "rank": 18,
     "teamName": "Shutoku",
     "elo5v5": 22
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Iris",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Bear United",
     "elo5v5": 20
-  },
-  {
-    "rank": 22,
-    "teamName": "Fight Club",
-    "elo5v5": 12
   },
   {
     "rank": 23,
