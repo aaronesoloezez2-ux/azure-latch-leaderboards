@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "Luminescent",
-    "elo5v5": 23
-  },
-  {
-    "rank": 19,
     "teamName": "Iris",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Bear United",
     "elo5v5": 20
+  },
+  {
+    "rank": 22,
+    "teamName": "Luminescent",
+    "elo5v5": 10
   },
   {
     "rank": 23,
