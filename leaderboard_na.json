@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Isle FC",
-    "elo5v5": 71
+    "teamName": "Teto Company",
+    "elo5v5": 77
   },
   {
     "rank": 9,
-    "teamName": "Teto Company",
-    "elo5v5": 59
+    "teamName": "Isle FC",
+    "elo5v5": 71
   },
   {
     "rank": 10,
@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
-    "teamName": "Iris",
-    "elo5v5": 21
-  },
-  {
-    "rank": 20,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Bear United",
     "elo5v5": 20
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Luminescent",
     "elo5v5": 10
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Imperium NA",
     "elo5v5": 4
+  },
+  {
+    "rank": 24,
+    "teamName": "Iris",
+    "elo5v5": 2
   },
   {
     "rank": 25,
