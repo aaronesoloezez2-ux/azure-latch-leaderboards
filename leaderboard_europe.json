@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 204
+    "elo5v5": 211
   },
   {
     "rank": 2,
@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
-    "teamName": "Azerbaijan FC",
-    "elo5v5": 26
-  },
-  {
-    "rank": 11,
     "teamName": "Azura Latch",
     "elo5v5": 24
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Primordials",
     "elo5v5": 22
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Resurrection",
     "elo5v5": 18
+  },
+  {
+    "rank": 14,
+    "teamName": "Azerbaijan FC",
+    "elo5v5": 12
   },
   {
     "rank": 15,
