@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Shadow FC",
-    "elo5v5": 147
+    "elo5v5": 158
   },
   {
     "rank": 3,
@@ -61,53 +61,53 @@
   },
   {
     "rank": 13,
-    "teamName": "Fight Club",
-    "elo5v5": 28
-  },
-  {
-    "rank": 14,
     "teamName": "Sees",
     "elo5v5": 26
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 25
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Luminescent",
     "elo5v5": 24
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 24
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Shutoku",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Imperium NA",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Rose Garden FC",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Bear United",
     "elo5v5": 20
+  },
+  {
+    "rank": 22,
+    "teamName": "Fight Club",
+    "elo5v5": 12
   },
   {
     "rank": 23,
