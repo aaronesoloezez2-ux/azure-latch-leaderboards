@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Soul Society",
+    "teamName": "Chapter",
     "elo5v5": 137
   },
   {
     "rank": 3,
-    "teamName": "Chapter",
-    "elo5v5": 124
+    "teamName": "Soul Society",
+    "elo5v5": 137
   },
   {
     "rank": 4,
@@ -66,17 +66,17 @@
   },
   {
     "rank": 14,
-    "teamName": "Luminosity",
-    "elo5v5": 21
-  },
-  {
-    "rank": 15,
     "teamName": "Resurrection",
     "elo5v5": 18
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Chain Breakers",
+    "elo5v5": 4
+  },
+  {
+    "rank": 16,
+    "teamName": "Luminosity",
     "elo5v5": 4
   },
   {
