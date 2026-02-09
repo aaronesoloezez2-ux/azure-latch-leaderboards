@@ -56,38 +56,38 @@
   },
   {
     "rank": 12,
+    "teamName": "Shutoku",
+    "elo5v5": 42
+  },
+  {
+    "rank": 13,
     "teamName": "Chrysalis",
     "elo5v5": 39
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 34
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 26
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 25
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 24
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Luminescent",
     "elo5v5": 23
-  },
-  {
-    "rank": 18,
-    "teamName": "Shutoku",
-    "elo5v5": 22
   },
   {
     "rank": 19,
