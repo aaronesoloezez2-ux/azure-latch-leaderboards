@@ -51,53 +51,53 @@
   },
   {
     "rank": 11,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 48
-  },
-  {
-    "rank": 12,
     "teamName": "Crimson Authority",
     "elo5v5": 47
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Revelation",
     "elo5v5": 47
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Chrysalis",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Rose Garden FC",
     "elo5v5": 28
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 26
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Fight Club",
     "elo5v5": 15
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
+  },
+  {
+    "rank": 20,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 7
   },
   {
     "rank": 21,
