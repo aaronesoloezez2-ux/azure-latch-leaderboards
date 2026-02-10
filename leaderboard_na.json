@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Zenith",
-    "elo5v5": 163
+    "teamName": "Shadow FC",
+    "elo5v5": 168
   },
   {
     "rank": 2,
-    "teamName": "Shadow FC",
-    "elo5v5": 158
+    "teamName": "Zenith",
+    "elo5v5": 163
   },
   {
     "rank": 3,
@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Rose Garden FC",
-    "elo5v5": 44
-  },
-  {
-    "rank": 14,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 34
+  },
+  {
+    "rank": 15,
+    "teamName": "Rose Garden FC",
+    "elo5v5": 28
   },
   {
     "rank": 16,
