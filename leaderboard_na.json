@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Teto Company",
-    "elo5v5": 93
+    "elo5v5": 109
   },
   {
     "rank": 8,
@@ -81,23 +81,23 @@
   },
   {
     "rank": 17,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 25
-  },
-  {
-    "rank": 18,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Fight Club",
     "elo5v5": 15
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
+  },
+  {
+    "rank": 20,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 7
   },
   {
     "rank": 21,
