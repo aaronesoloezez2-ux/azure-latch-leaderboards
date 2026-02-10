@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Sovereign",
-    "elo5v5": 127
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 139
   },
   {
     "rank": 4,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 125
+    "teamName": "Sovereign",
+    "elo5v5": 127
   },
   {
     "rank": 5,
@@ -71,28 +71,28 @@
   },
   {
     "rank": 15,
-    "teamName": "Chrysalis",
-    "elo5v5": 39
-  },
-  {
-    "rank": 16,
     "teamName": "Fight Club",
     "elo5v5": 34
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 26
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 25
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 24
+  },
+  {
+    "rank": 19,
+    "teamName": "Chrysalis",
+    "elo5v5": 22
   },
   {
     "rank": 20,
