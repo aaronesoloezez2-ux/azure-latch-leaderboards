@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Sovereign",
-    "elo5v5": 127
+    "elo5v5": 140
   },
   {
     "rank": 6,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
-    "teamName": "Seiwa Gakuen",
-    "elo5v5": 24
-  },
-  {
-    "rank": 18,
     "teamName": "Chrysalis",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fight Club",
     "elo5v5": 15
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
+  },
+  {
+    "rank": 21,
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 7
   },
   {
     "rank": 22,
