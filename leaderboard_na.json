@@ -47,32 +47,32 @@
   {
     "rank": 10,
     "teamName": "Luminescent",
-    "elo5v5": 49
+    "elo5v5": 69
   },
   {
     "rank": 11,
-    "teamName": "Crimson Authority",
-    "elo5v5": 47
-  },
-  {
-    "rank": 12,
     "teamName": "Revelation",
     "elo5v5": 47
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 34
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Rose Garden FC",
     "elo5v5": 28
+  },
+  {
+    "rank": 15,
+    "teamName": "Crimson Authority",
+    "elo5v5": 27
   },
   {
     "rank": 16,
