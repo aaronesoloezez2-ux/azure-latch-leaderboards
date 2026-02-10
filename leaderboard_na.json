@@ -6,23 +6,23 @@
   },
   {
     "rank": 2,
-    "teamName": "Zenith",
-    "elo5v5": 163
-  },
-  {
-    "rank": 3,
     "teamName": "Kōdo Giasu",
     "elo5v5": 153
   },
   {
+    "rank": 3,
+    "teamName": "Zenith",
+    "elo5v5": 149
+  },
+  {
     "rank": 4,
-    "teamName": "Sovereign",
-    "elo5v5": 127
+    "teamName": "Kurain",
+    "elo5v5": 140
   },
   {
     "rank": 5,
-    "teamName": "Kurain",
-    "elo5v5": 122
+    "teamName": "Sovereign",
+    "elo5v5": 127
   },
   {
     "rank": 6,
