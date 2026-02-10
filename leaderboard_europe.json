@@ -26,43 +26,43 @@
   },
   {
     "rank": 6,
-    "teamName": "Oshu Oshi EU",
-    "elo5v5": 60
-  },
-  {
-    "rank": 7,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Blacklisted FC",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Luminosity",
     "elo5v5": 29
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Azura Latch",
     "elo5v5": 24
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Mighty Burger",
     "elo5v5": 21
+  },
+  {
+    "rank": 13,
+    "teamName": "Oshu Oshi EU",
+    "elo5v5": 18
   },
   {
     "rank": 14,
