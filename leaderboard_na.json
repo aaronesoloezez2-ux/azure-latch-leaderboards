@@ -11,23 +11,23 @@
   },
   {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 144
-  },
-  {
-    "rank": 4,
     "teamName": "Sovereign",
     "elo5v5": 140
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Luminescent",
     "elo5v5": 140
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Teto Company",
     "elo5v5": 136
+  },
+  {
+    "rank": 6,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 128
   },
   {
     "rank": 7,
@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Revelation",
-    "elo5v5": 88
+    "elo5v5": 109
   },
   {
     "rank": 10,
