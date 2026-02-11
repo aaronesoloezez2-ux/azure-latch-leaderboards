@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Soul Society",
-    "elo5v5": 107
+    "elo5v5": 86
   },
   {
     "rank": 4,
@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
+    "teamName": "Abibas FC",
+    "elo5v5": 29
+  },
+  {
+    "rank": 13,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 26
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Azura Latch",
     "elo5v5": 24
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Azerbaijan FC",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Destiny FC",
     "elo5v5": 21
-  },
-  {
-    "rank": 17,
-    "teamName": "Abibas FC",
-    "elo5v5": 4
   },
   {
     "rank": 18,
