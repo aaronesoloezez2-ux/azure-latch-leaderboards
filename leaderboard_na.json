@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Kurain",
-    "elo5v5": 124
+    "teamName": "Teto Company",
+    "elo5v5": 136
   },
   {
     "rank": 7,
-    "teamName": "Teto Company",
-    "elo5v5": 123
+    "teamName": "Kurain",
+    "elo5v5": 124
   },
   {
     "rank": 8,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
-    "teamName": "Completeness",
-    "elo5v5": 23
-  },
-  {
-    "rank": 18,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fight Club",
     "elo5v5": 15
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Mega Pupsi NA",
     "elo5v5": 10
+  },
+  {
+    "rank": 21,
+    "teamName": "Completeness",
+    "elo5v5": 6
   },
   {
     "rank": 22,
