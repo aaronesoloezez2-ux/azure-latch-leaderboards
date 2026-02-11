@@ -26,32 +26,32 @@
   },
   {
     "rank": 6,
+    "teamName": "Blacklisted FC",
+    "elo5v5": 60
+  },
+  {
+    "rank": 7,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Resurrection",
     "elo5v5": 53
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Luminosity",
     "elo5v5": 53
   },
   {
-    "rank": 10,
-    "teamName": "Eternal FC",
-    "elo5v5": 41
-  },
-  {
     "rank": 11,
-    "teamName": "Blacklisted FC",
+    "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Mighty Burger",
-    "elo5v5": 21
-  },
-  {
-    "rank": 16,
     "teamName": "Destiny FC",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Abibas FC",
     "elo5v5": 4
+  },
+  {
+    "rank": 17,
+    "teamName": "Mighty Burger",
+    "elo5v5": 1
   },
   {
     "rank": 18,
