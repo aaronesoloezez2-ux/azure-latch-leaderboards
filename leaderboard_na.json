@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "Sovereign",
-    "elo5v5": 156
-  },
-  {
-    "rank": 3,
     "teamName": "Zenith",
     "elo5v5": 153
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Kōdo Giasu",
     "elo5v5": 144
+  },
+  {
+    "rank": 4,
+    "teamName": "Sovereign",
+    "elo5v5": 140
   },
   {
     "rank": 5,
@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Revelation",
+    "elo5v5": 88
+  },
+  {
+    "rank": 10,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Isle FC",
     "elo5v5": 71
-  },
-  {
-    "rank": 11,
-    "teamName": "Revelation",
-    "elo5v5": 65
   },
   {
     "rank": 12,
