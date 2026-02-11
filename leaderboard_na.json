@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Shadow FC",
-    "elo5v5": 168
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 171
   },
   {
     "rank": 2,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 161
+    "teamName": "Shadow FC",
+    "elo5v5": 168
   },
   {
     "rank": 3,
@@ -61,22 +61,22 @@
   },
   {
     "rank": 13,
-    "teamName": "Chrysalis",
-    "elo5v5": 42
-  },
-  {
-    "rank": 14,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Rose Garden FC",
     "elo5v5": 28
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Sees",
+    "elo5v5": 26
+  },
+  {
+    "rank": 16,
+    "teamName": "Chrysalis",
     "elo5v5": 26
   },
   {
