@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 144
+    "teamName": "Zenith",
+    "elo5v5": 153
   },
   {
     "rank": 4,
-    "teamName": "Zenith",
-    "elo5v5": 142
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 144
   },
   {
     "rank": 5,
@@ -106,22 +106,22 @@
   },
   {
     "rank": 22,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 7
-  },
-  {
-    "rank": 23,
     "teamName": "Chrysalis",
     "elo5v5": 4
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "7 deadly sins",
+    "elo5v5": 0
+  },
+  {
+    "rank": 25,
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
