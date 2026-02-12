@@ -493,5 +493,10 @@
     "rank": 99,
     "teamName": "Taisho",
     "elo5v5": 0
+  },
+  {
+    "rank": 100,
+    "teamName": "Spectral",
+    "elo5v5": 0
   }
 ]
