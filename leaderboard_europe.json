@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Primordials",
-    "elo5v5": 83
+    "elo5v5": 100
   },
   {
     "rank": 4,
@@ -61,33 +61,33 @@
   },
   {
     "rank": 13,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 26
-  },
-  {
-    "rank": 14,
     "teamName": "Azura Latch",
     "elo5v5": 24
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Cowabungas FC",
     "elo5v5": 22
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Azerbaijan FC",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Destiny FC",
     "elo5v5": 21
+  },
+  {
+    "rank": 18,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 8
   },
   {
     "rank": 19,
