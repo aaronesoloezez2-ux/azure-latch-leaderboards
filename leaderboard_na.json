@@ -66,17 +66,17 @@
   },
   {
     "rank": 14,
-    "teamName": "Imperium NA",
-    "elo5v5": 31
-  },
-  {
-    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 30
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Rose Garden FC",
+    "elo5v5": 28
+  },
+  {
+    "rank": 16,
+    "teamName": "Completeness",
     "elo5v5": 28
   },
   {
@@ -96,13 +96,13 @@
   },
   {
     "rank": 20,
-    "teamName": "Vollständig",
+    "teamName": "Imperium NA",
     "elo5v5": 10
   },
   {
     "rank": 21,
-    "teamName": "Completeness",
-    "elo5v5": 6
+    "teamName": "Vollständig",
+    "elo5v5": 10
   },
   {
     "rank": 22,
