@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 222
+    "elo5v5": 228
   },
   {
     "rank": 2,
@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Soul Society",
-    "elo5v5": 80
-  },
-  {
-    "rank": 6,
     "teamName": "Luminosity",
     "elo5v5": 73
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Resurrection",
     "elo5v5": 71
+  },
+  {
+    "rank": 7,
+    "teamName": "Soul Society",
+    "elo5v5": 66
   },
   {
     "rank": 8,
