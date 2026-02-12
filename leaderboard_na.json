@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Kurain",
-    "elo5v5": 124
+    "elo5v5": 138
   },
   {
     "rank": 6,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
-    "teamName": "Crimson Authority",
-    "elo5v5": 47
-  },
-  {
-    "rank": 13,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 40
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Imperium NA",
     "elo5v5": 31
+  },
+  {
+    "rank": 15,
+    "teamName": "Crimson Authority",
+    "elo5v5": 30
   },
   {
     "rank": 16,
