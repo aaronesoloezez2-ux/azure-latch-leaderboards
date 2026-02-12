@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "Blacklisted FC",
-    "elo5v5": 60
-  },
-  {
-    "rank": 9,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "black phantoms",
     "elo5v5": 53
+  },
+  {
+    "rank": 10,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 44
   },
   {
     "rank": 11,
@@ -56,17 +56,17 @@
   },
   {
     "rank": 12,
+    "teamName": "Blacklisted FC",
+    "elo5v5": 39
+  },
+  {
+    "rank": 13,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 13,
-    "teamName": "Abibas: sambas",
-    "elo5v5": 22
-  },
-  {
     "rank": 14,
-    "teamName": "Cowabungas FC",
+    "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
