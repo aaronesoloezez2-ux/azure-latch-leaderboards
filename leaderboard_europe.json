@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "Soul Society",
+    "elo5v5": 80
+  },
+  {
+    "rank": 6,
     "teamName": "Luminosity",
     "elo5v5": 73
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Resurrection",
     "elo5v5": 71
-  },
-  {
-    "rank": 7,
-    "teamName": "Soul Society",
-    "elo5v5": 63
   },
   {
     "rank": 8,
