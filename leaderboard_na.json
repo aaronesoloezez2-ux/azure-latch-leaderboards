@@ -716,17 +716,17 @@
   },
   {
     "rank": 144,
-    "teamName": "ABA Fan Club",
-    "elo5v5": 0
-  },
-  {
-    "rank": 145,
     "teamName": "Union : RE",
     "elo5v5": 0
   },
   {
-    "rank": 146,
+    "rank": 145,
     "teamName": "Knights Of Black",
+    "elo5v5": 0
+  },
+  {
+    "rank": 146,
+    "teamName": "Astral NA",
     "elo5v5": 0
   }
 ]
