@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Teto Company",
-    "elo5v5": 136
+    "teamName": "Kurain",
+    "elo5v5": 124
   },
   {
     "rank": 6,
-    "teamName": "Kurain",
-    "elo5v5": 124
+    "teamName": "Teto Company",
+    "elo5v5": 117
   },
   {
     "rank": 7,
@@ -66,33 +66,33 @@
   },
   {
     "rank": 14,
+    "teamName": "Fight Club",
+    "elo5v5": 40
+  },
+  {
+    "rank": 15,
     "teamName": "Imperium NA",
     "elo5v5": 31
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Rose Garden FC",
     "elo5v5": 28
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 26
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 22
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "The Wiki",
     "elo5v5": 21
-  },
-  {
-    "rank": 19,
-    "teamName": "Fight Club",
-    "elo5v5": 15
   },
   {
     "rank": 20,
