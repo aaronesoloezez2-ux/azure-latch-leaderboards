@@ -61,17 +61,17 @@
   },
   {
     "rank": 13,
+    "teamName": "Completeness",
+    "elo5v5": 47
+  },
+  {
+    "rank": 14,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 14,
-    "teamName": "Rose Garden FC",
-    "elo5v5": 28
-  },
-  {
     "rank": 15,
-    "teamName": "Completeness",
+    "teamName": "Rose Garden FC",
     "elo5v5": 28
   },
   {
