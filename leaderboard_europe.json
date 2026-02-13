@@ -486,17 +486,17 @@
   },
   {
     "rank": 98,
-    "teamName": "typewoken",
-    "elo5v5": 0
-  },
-  {
-    "rank": 99,
     "teamName": "Spectral",
     "elo5v5": 0
   },
   {
-    "rank": 100,
+    "rank": 99,
     "teamName": "Prime Empire",
+    "elo5v5": 0
+  },
+  {
+    "rank": 100,
+    "teamName": "manta style",
     "elo5v5": 0
   }
 ]
