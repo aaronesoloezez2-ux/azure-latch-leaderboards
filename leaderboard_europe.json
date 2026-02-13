@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 54
+  },
+  {
+    "rank": 9,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Luminosity",
     "elo5v5": 51
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Blacklisted FC",
     "elo5v5": 39
-  },
-  {
-    "rank": 12,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 35
   },
   {
     "rank": 13,
