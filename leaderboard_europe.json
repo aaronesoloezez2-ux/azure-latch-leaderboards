@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "Blacklisted FC",
+    "elo5v5": 58
+  },
+  {
+    "rank": 9,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Taisho",
     "elo5v5": 41
-  },
-  {
-    "rank": 11,
-    "teamName": "Blacklisted FC",
-    "elo5v5": 39
   },
   {
     "rank": 12,
