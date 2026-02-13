@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Primordials",
-    "elo5v5": 100
+    "teamName": "Hotspot FC",
+    "elo5v5": 81
   },
   {
     "rank": 4,
-    "teamName": "Hotspot FC",
-    "elo5v5": 81
+    "teamName": "Primordials",
+    "elo5v5": 80
   },
   {
     "rank": 5,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Luminosity",
+    "elo5v5": 53
+  },
+  {
+    "rank": 11,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Blacklisted FC",
     "elo5v5": 39
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
-  },
-  {
-    "rank": 13,
-    "teamName": "Luminosity",
-    "elo5v5": 30
   },
   {
     "rank": 14,
