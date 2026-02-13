@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Chapter",
-    "elo5v5": 188
+    "elo5v5": 196
   },
   {
     "rank": 3,
@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
-    "teamName": "Luminosity",
-    "elo5v5": 53
-  },
-  {
-    "rank": 10,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Taisho",
     "elo5v5": 41
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Blacklisted FC",
     "elo5v5": 39
+  },
+  {
+    "rank": 12,
+    "teamName": "Luminosity",
+    "elo5v5": 38
   },
   {
     "rank": 13,
