@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 239
+    "elo5v5": 244
   },
   {
     "rank": 2,
@@ -36,22 +36,22 @@
   },
   {
     "rank": 8,
-    "teamName": "Taisho",
-    "elo5v5": 54
-  },
-  {
-    "rank": 9,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Luminosity",
     "elo5v5": 53
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Eternal FC",
+    "elo5v5": 41
+  },
+  {
+    "rank": 11,
+    "teamName": "Taisho",
     "elo5v5": 41
   },
   {
