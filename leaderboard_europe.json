@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 234
+    "elo5v5": 239
   },
   {
     "rank": 2,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Taisho",
-    "elo5v5": 24
-  },
-  {
-    "rank": 15,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Destiny FC",
     "elo5v5": 21
+  },
+  {
+    "rank": 16,
+    "teamName": "Taisho",
+    "elo5v5": 11
   },
   {
     "rank": 17,
