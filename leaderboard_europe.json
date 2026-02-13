@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Chapter",
-    "elo5v5": 196
+    "elo5v5": 203
   },
   {
     "rank": 3,
@@ -51,23 +51,23 @@
   },
   {
     "rank": 11,
-    "teamName": "Taisho",
-    "elo5v5": 41
-  },
-  {
-    "rank": 12,
     "teamName": "Luminosity",
     "elo5v5": 38
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Abibas FC",
     "elo5v5": 29
+  },
+  {
+    "rank": 14,
+    "teamName": "Taisho",
+    "elo5v5": 27
   },
   {
     "rank": 15,
