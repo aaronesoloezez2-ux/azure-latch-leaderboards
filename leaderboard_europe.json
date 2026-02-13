@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 228
+    "elo5v5": 234
   },
   {
     "rank": 2,
@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 44
-  },
-  {
-    "rank": 11,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Blacklisted FC",
     "elo5v5": 39
+  },
+  {
+    "rank": 12,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 31
   },
   {
     "rank": 13,
