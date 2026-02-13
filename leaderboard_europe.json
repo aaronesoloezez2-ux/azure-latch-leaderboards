@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
+    "teamName": "Taisho",
+    "elo5v5": 46
+  },
+  {
+    "rank": 11,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Luminosity",
     "elo5v5": 38
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Abibas FC",
     "elo5v5": 29
-  },
-  {
-    "rank": 14,
-    "teamName": "Taisho",
-    "elo5v5": 27
   },
   {
     "rank": 15,
