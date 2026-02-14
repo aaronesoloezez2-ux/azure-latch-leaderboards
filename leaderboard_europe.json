@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Luminosity",
-    "elo5v5": 59
-  },
-  {
-    "rank": 11,
     "teamName": "Blacklisted FC",
     "elo5v5": 56
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "black phantoms",
     "elo5v5": 53
+  },
+  {
+    "rank": 12,
+    "teamName": "Taisho",
+    "elo5v5": 46
   },
   {
     "rank": 13,
@@ -66,23 +66,23 @@
   },
   {
     "rank": 14,
+    "teamName": "Luminosity",
+    "elo5v5": 38
+  },
+  {
+    "rank": 15,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 28
-  },
-  {
-    "rank": 17,
-    "teamName": "Taisho",
-    "elo5v5": 24
   },
   {
     "rank": 18,
