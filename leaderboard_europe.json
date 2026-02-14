@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
+    "teamName": "Resurrection",
+    "elo5v5": 89
+  },
+  {
+    "rank": 5,
     "teamName": "Hotspot FC",
     "elo5v5": 81
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Primordials",
     "elo5v5": 80
-  },
-  {
-    "rank": 6,
-    "teamName": "Resurrection",
-    "elo5v5": 71
   },
   {
     "rank": 7,
@@ -76,28 +76,28 @@
   },
   {
     "rank": 16,
-    "teamName": "Taisho",
-    "elo5v5": 32
-  },
-  {
-    "rank": 17,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Money Break",
     "elo5v5": 24
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Geeked FC",
     "elo5v5": 17
+  },
+  {
+    "rank": 20,
+    "teamName": "Taisho",
+    "elo5v5": 13
   },
   {
     "rank": 21,
