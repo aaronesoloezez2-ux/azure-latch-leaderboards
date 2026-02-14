@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 242
+    "elo5v5": 247
   },
   {
     "rank": 2,
@@ -71,28 +71,28 @@
   },
   {
     "rank": 15,
-    "teamName": "Geeked FC",
-    "elo5v5": 30
-  },
-  {
-    "rank": 16,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 28
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Taisho",
     "elo5v5": 24
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
+  },
+  {
+    "rank": 19,
+    "teamName": "Geeked FC",
+    "elo5v5": 17
   },
   {
     "rank": 20,
