@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 140
+  },
+  {
+    "rank": 7,
     "teamName": "Revelation",
     "elo5v5": 139
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Teto Company",
     "elo5v5": 132
-  },
-  {
-    "rank": 8,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 126
   },
   {
     "rank": 9,
@@ -57,7 +57,7 @@
   {
     "rank": 12,
     "teamName": "Fight Club",
-    "elo5v5": 60
+    "elo5v5": 43
   },
   {
     "rank": 13,
