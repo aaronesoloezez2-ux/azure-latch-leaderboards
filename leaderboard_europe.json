@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
+    "teamName": "Spectral",
+    "elo5v5": 62
+  },
+  {
+    "rank": 9,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Luminosity",
     "elo5v5": 59
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Blacklisted FC",
     "elo5v5": 56
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "black phantoms",
     "elo5v5": 53
-  },
-  {
-    "rank": 12,
-    "teamName": "Spectral",
-    "elo5v5": 43
   },
   {
     "rank": 13,
