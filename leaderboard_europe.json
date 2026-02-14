@@ -11,23 +11,23 @@
   },
   {
     "rank": 3,
-    "teamName": "Kyōtsū",
-    "elo5v5": 96
-  },
-  {
-    "rank": 4,
     "teamName": "Spectral",
     "elo5v5": 88
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Hotspot FC",
     "elo5v5": 81
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Primordials",
     "elo5v5": 80
+  },
+  {
+    "rank": 6,
+    "teamName": "Kyōtsū",
+    "elo5v5": 75
   },
   {
     "rank": 7,
@@ -61,37 +61,37 @@
   },
   {
     "rank": 13,
+    "teamName": "Brick Corp EU",
+    "elo5v5": 45
+  },
+  {
+    "rank": 14,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Luminosity",
     "elo5v5": 38
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Money Break",
     "elo5v5": 24
   },
   {
-    "rank": 18,
-    "teamName": "Abibas: sambas",
-    "elo5v5": 22
-  },
-  {
     "rank": 19,
-    "teamName": "Brick Corp EU",
+    "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
