@@ -66,53 +66,53 @@
   },
   {
     "rank": 14,
-    "teamName": "Shutoku",
+    "teamName": "Chrysalis",
     "elo5v5": 42
   },
   {
     "rank": 15,
+    "teamName": "Shutoku",
+    "elo5v5": 42
+  },
+  {
+    "rank": 16,
     "teamName": "Imperium NA",
     "elo5v5": 33
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Completeness",
     "elo5v5": 30
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 22
   },
   {
-    "rank": 19,
-    "teamName": "Union : RE",
-    "elo5v5": 22
-  },
-  {
     "rank": 20,
-    "teamName": "Chrysalis",
-    "elo5v5": 21
-  },
-  {
-    "rank": 21,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Crimson Authority",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Rose Garden FC",
     "elo5v5": 6
+  },
+  {
+    "rank": 23,
+    "teamName": "Union : RE",
+    "elo5v5": 1
   },
   {
     "rank": 24,
