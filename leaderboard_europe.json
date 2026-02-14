@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
+    "teamName": "Spectral",
+    "elo5v5": 43
+  },
+  {
+    "rank": 13,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 28
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Taisho",
     "elo5v5": 24
-  },
-  {
-    "rank": 17,
-    "teamName": "Spectral",
-    "elo5v5": 23
   },
   {
     "rank": 18,
