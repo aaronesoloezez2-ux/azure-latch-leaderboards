@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 54
-  },
-  {
-    "rank": 11,
     "teamName": "Kyōtsū",
     "elo5v5": 54
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "black phantoms",
     "elo5v5": 53
+  },
+  {
+    "rank": 12,
+    "teamName": "Abibas FC",
+    "elo5v5": 50
   },
   {
     "rank": 13,
@@ -76,8 +76,8 @@
   },
   {
     "rank": 16,
-    "teamName": "Abibas FC",
-    "elo5v5": 29
+    "teamName": "Cowabungas FC",
+    "elo5v5": 33
   },
   {
     "rank": 17,
