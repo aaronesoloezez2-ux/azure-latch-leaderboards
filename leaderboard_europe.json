@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Chapter",
-    "elo5v5": 203
+    "elo5v5": 210
   },
   {
     "rank": 3,
@@ -56,27 +56,27 @@
   },
   {
     "rank": 12,
-    "teamName": "Taisho",
-    "elo5v5": 46
-  },
-  {
-    "rank": 13,
     "teamName": "Brick Corp EU",
     "elo5v5": 45
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Luminosity",
     "elo5v5": 38
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Cowabungas FC",
+    "elo5v5": 32
+  },
+  {
+    "rank": 16,
+    "teamName": "Taisho",
     "elo5v5": 32
   },
   {
