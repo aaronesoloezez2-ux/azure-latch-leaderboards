@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 247
+    "elo5v5": 236
   },
   {
     "rank": 2,
@@ -16,23 +16,23 @@
   },
   {
     "rank": 4,
+    "teamName": "Spectral",
+    "elo5v5": 88
+  },
+  {
+    "rank": 5,
     "teamName": "Hotspot FC",
     "elo5v5": 81
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Primordials",
     "elo5v5": 80
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Resurrection",
     "elo5v5": 71
-  },
-  {
-    "rank": 7,
-    "teamName": "Spectral",
-    "elo5v5": 62
   },
   {
     "rank": 8,
