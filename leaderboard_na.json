@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Revelation",
-    "elo5v5": 139
-  },
-  {
-    "rank": 7,
     "teamName": "Sovereign",
     "elo5v5": 138
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Teto Company",
     "elo5v5": 132
+  },
+  {
+    "rank": 8,
+    "teamName": "Revelation",
+    "elo5v5": 121
   },
   {
     "rank": 9,
@@ -56,37 +56,37 @@
   },
   {
     "rank": 12,
+    "teamName": "Seiwa Gakuen",
+    "elo5v5": 47
+  },
+  {
+    "rank": 13,
     "teamName": "Sees",
     "elo5v5": 46
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 43
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Chrysalis",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Completeness",
     "elo5v5": 30
   },
   {
-    "rank": 17,
-    "teamName": "Bear United",
-    "elo5v5": 22
-  },
-  {
     "rank": 18,
-    "teamName": "Seiwa Gakuen",
+    "teamName": "Bear United",
     "elo5v5": 22
   },
   {
