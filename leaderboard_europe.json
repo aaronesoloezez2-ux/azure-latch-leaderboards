@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Abibas FC",
+    "elo5v5": 85
+  },
+  {
+    "rank": 7,
     "teamName": "Hotspot FC",
     "elo5v5": 81
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Primordials",
     "elo5v5": 80
-  },
-  {
-    "rank": 8,
-    "teamName": "Abibas FC",
-    "elo5v5": 68
   },
   {
     "rank": 9,
