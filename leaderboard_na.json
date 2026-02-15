@@ -67,7 +67,7 @@
   {
     "rank": 14,
     "teamName": "Shutoku",
-    "elo5v5": 42
+    "elo5v5": 61
   },
   {
     "rank": 15,
@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
-    "teamName": "Bear United",
-    "elo5v5": 22
-  },
-  {
-    "rank": 20,
     "teamName": "The White Palace",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Crimson Authority",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 16
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Completeness",
     "elo5v5": 13
+  },
+  {
+    "rank": 24,
+    "teamName": "Bear United",
+    "elo5v5": 2
   },
   {
     "rank": 25,
