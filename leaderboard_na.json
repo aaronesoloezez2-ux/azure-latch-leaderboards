@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Luminescent",
-    "elo5v5": 205
+    "elo5v5": 212
   },
   {
     "rank": 2,
@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Fight Club",
-    "elo5v5": 43
-  },
-  {
-    "rank": 14,
     "teamName": "Chrysalis",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Shutoku",
     "elo5v5": 42
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Union : RE",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Completeness",
     "elo5v5": 30
+  },
+  {
+    "rank": 17,
+    "teamName": "Fight Club",
+    "elo5v5": 29
   },
   {
     "rank": 18,
