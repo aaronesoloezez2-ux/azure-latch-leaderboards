@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 219
+    "elo5v5": 225
   },
   {
     "rank": 2,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Luminosity",
-    "elo5v5": 38
-  },
-  {
-    "rank": 16,
     "teamName": "Cowabungas FC",
     "elo5v5": 34
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 26
+  },
+  {
+    "rank": 17,
+    "teamName": "Luminosity",
+    "elo5v5": 24
   },
   {
     "rank": 18,
