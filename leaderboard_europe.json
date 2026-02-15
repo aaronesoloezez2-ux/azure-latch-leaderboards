@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 225
+    "elo5v5": 231
   },
   {
     "rank": 2,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
-    "teamName": "Luminosity",
-    "elo5v5": 24
-  },
-  {
-    "rank": 18,
     "teamName": "Money Break",
     "elo5v5": 24
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Geeked FC",
     "elo5v5": 17
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Taisho",
     "elo5v5": 13
+  },
+  {
+    "rank": 21,
+    "teamName": "Luminosity",
+    "elo5v5": 11
   },
   {
     "rank": 22,
