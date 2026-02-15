@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Luminescent",
-    "elo5v5": 212
+    "teamName": "Shadow FC",
+    "elo5v5": 213
   },
   {
     "rank": 2,
-    "teamName": "Shadow FC",
-    "elo5v5": 204
+    "teamName": "Luminescent",
+    "elo5v5": 212
   },
   {
     "rank": 3,
@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Zenith",
-    "elo5v5": 144
+    "teamName": "Sovereign",
+    "elo5v5": 138
   },
   {
     "rank": 7,
-    "teamName": "Sovereign",
-    "elo5v5": 138
+    "teamName": "Zenith",
+    "elo5v5": 131
   },
   {
     "rank": 8,
