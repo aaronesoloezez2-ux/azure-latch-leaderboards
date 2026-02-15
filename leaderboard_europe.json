@@ -51,33 +51,33 @@
   },
   {
     "rank": 11,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 52
+  },
+  {
+    "rank": 12,
     "teamName": "Abibas FC",
     "elo5v5": 50
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Brick Corp EU",
     "elo5v5": 45
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Luminosity",
     "elo5v5": 38
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kyōtsū",
     "elo5v5": 34
-  },
-  {
-    "rank": 16,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 33
   },
   {
     "rank": 17,
