@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 138
+    "teamName": "Zenith",
+    "elo5v5": 144
   },
   {
     "rank": 7,
-    "teamName": "Zenith",
-    "elo5v5": 131
+    "teamName": "Sovereign",
+    "elo5v5": 138
   },
   {
     "rank": 8,
@@ -76,48 +76,48 @@
   },
   {
     "rank": 16,
-    "teamName": "Completeness",
-    "elo5v5": 30
-  },
-  {
-    "rank": 17,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Rose Garden FC",
     "elo5v5": 26
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 25
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "The White Palace",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Seiwa Gakuen",
     "elo5v5": 16
+  },
+  {
+    "rank": 24,
+    "teamName": "Completeness",
+    "elo5v5": 13
   },
   {
     "rank": 25,
