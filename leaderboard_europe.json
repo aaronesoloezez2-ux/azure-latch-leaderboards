@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Blacklisted FC",
-    "elo5v5": 92
+    "elo5v5": 109
   },
   {
     "rank": 6,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 52
-  },
-  {
-    "rank": 13,
     "teamName": "Brick Corp EU",
     "elo5v5": 45
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Luminosity",
     "elo5v5": 38
+  },
+  {
+    "rank": 15,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 34
   },
   {
     "rank": 16,
