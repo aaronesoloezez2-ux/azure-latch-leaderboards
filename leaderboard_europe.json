@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 212
+    "elo5v5": 219
   },
   {
     "rank": 2,
@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Abibas FC",
-    "elo5v5": 85
-  },
-  {
-    "rank": 7,
     "teamName": "Hotspot FC",
     "elo5v5": 81
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Primordials",
     "elo5v5": 80
+  },
+  {
+    "rank": 8,
+    "teamName": "Abibas FC",
+    "elo5v5": 71
   },
   {
     "rank": 9,
