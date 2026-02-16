@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Spectral",
-    "elo5v5": 155
+    "elo5v5": 167
   },
   {
     "rank": 4,
@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
-    "teamName": "Resurrection",
-    "elo5v5": 84
-  },
-  {
-    "rank": 6,
     "teamName": "Primordials",
     "elo5v5": 80
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Cowabungas FC",
     "elo5v5": 77
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Abibas FC",
     "elo5v5": 71
+  },
+  {
+    "rank": 8,
+    "teamName": "Resurrection",
+    "elo5v5": 68
   },
   {
     "rank": 9,
