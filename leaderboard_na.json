@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Luminescent",
-    "elo5v5": 220
+    "elo5v5": 228
   },
   {
     "rank": 2,
@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 175
-  },
-  {
-    "rank": 4,
     "teamName": "Teto Company",
     "elo5v5": 171
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Zenith",
     "elo5v5": 165
+  },
+  {
+    "rank": 5,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 164
   },
   {
     "rank": 6,
