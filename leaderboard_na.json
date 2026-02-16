@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Teto Company",
-    "elo5v5": 171
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 176
   },
   {
     "rank": 4,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 164
+    "teamName": "Teto Company",
+    "elo5v5": 171
   },
   {
     "rank": 5,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "Union : RE",
-    "elo5v5": 118
-  },
-  {
-    "rank": 9,
     "teamName": "Fruit Ninjas",
     "elo5v5": 111
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Isle FC",
     "elo5v5": 105
+  },
+  {
+    "rank": 10,
+    "teamName": "Union : RE",
+    "elo5v5": 103
   },
   {
     "rank": 11,
