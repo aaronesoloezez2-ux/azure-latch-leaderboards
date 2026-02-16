@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 74
+  },
+  {
+    "rank": 9,
     "teamName": "Abibas FC",
     "elo5v5": 71
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Destiny FC",
     "elo5v5": 56
-  },
-  {
-    "rank": 11,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 55
   },
   {
     "rank": 12,
@@ -71,32 +71,32 @@
   },
   {
     "rank": 15,
-    "teamName": "Kyōtsū",
-    "elo5v5": 32
-  },
-  {
-    "rank": 16,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 26
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Money Break",
     "elo5v5": 24
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Geeked FC",
     "elo5v5": 17
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Taisho",
+    "elo5v5": 13
+  },
+  {
+    "rank": 20,
+    "teamName": "Kyōtsū",
     "elo5v5": 13
   },
   {
