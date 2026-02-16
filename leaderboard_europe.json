@@ -1,23 +1,23 @@
 [
   {
     "rank": 1,
-    "teamName": "Divine",
-    "elo5v5": 231
-  },
-  {
-    "rank": 2,
     "teamName": "Chapter",
     "elo5v5": 223
   },
   {
+    "rank": 2,
+    "teamName": "Divine",
+    "elo5v5": 221
+  },
+  {
     "rank": 3,
-    "teamName": "Blacklisted FC",
-    "elo5v5": 138
+    "teamName": "Spectral",
+    "elo5v5": 155
   },
   {
     "rank": 4,
-    "teamName": "Spectral",
-    "elo5v5": 137
+    "teamName": "Blacklisted FC",
+    "elo5v5": 138
   },
   {
     "rank": 5,
