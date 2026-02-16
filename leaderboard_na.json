@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 111
+  },
+  {
+    "rank": 10,
     "teamName": "Isle FC",
     "elo5v5": 105
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Ashbound",
     "elo5v5": 101
-  },
-  {
-    "rank": 11,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 94
   },
   {
     "rank": 12,
@@ -66,13 +66,13 @@
   },
   {
     "rank": 14,
-    "teamName": "Chrysalis",
-    "elo5v5": 44
+    "teamName": "Fight Club",
+    "elo5v5": 29
   },
   {
     "rank": 15,
-    "teamName": "Fight Club",
-    "elo5v5": 29
+    "teamName": "Chrysalis",
+    "elo5v5": 26
   },
   {
     "rank": 16,
