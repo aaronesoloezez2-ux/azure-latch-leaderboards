@@ -11,22 +11,22 @@
   },
   {
     "rank": 3,
-    "teamName": "Teto Company",
-    "elo5v5": 179
-  },
-  {
-    "rank": 4,
     "teamName": "Kōdo Giasu",
     "elo5v5": 175
   },
   {
+    "rank": 4,
+    "teamName": "Teto Company",
+    "elo5v5": 167
+  },
+  {
     "rank": 5,
-    "teamName": "Kurain",
-    "elo5v5": 149
+    "teamName": "Union : RE",
+    "elo5v5": 164
   },
   {
     "rank": 6,
-    "teamName": "Union : RE",
+    "teamName": "Kurain",
     "elo5v5": 149
   },
   {
