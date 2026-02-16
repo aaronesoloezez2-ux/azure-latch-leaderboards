@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Luminescent",
-    "elo5v5": 228
+    "elo5v5": 233
   },
   {
     "rank": 2,
@@ -76,38 +76,38 @@
   },
   {
     "rank": 16,
-    "teamName": "Rose Garden FC",
-    "elo5v5": 26
-  },
-  {
-    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 25
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Mentos & NA",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Crimson Authority",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Completeness",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Vollständig",
     "elo5v5": 21
+  },
+  {
+    "rank": 22,
+    "teamName": "Rose Garden FC",
+    "elo5v5": 13
   },
   {
     "rank": 23,
