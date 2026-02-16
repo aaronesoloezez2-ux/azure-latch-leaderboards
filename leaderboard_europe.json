@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Spectral",
-    "elo5v5": 137
+    "teamName": "Blacklisted FC",
+    "elo5v5": 138
   },
   {
     "rank": 4,
-    "teamName": "Blacklisted FC",
-    "elo5v5": 123
+    "teamName": "Spectral",
+    "elo5v5": 137
   },
   {
     "rank": 5,
@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Hotspot FC",
-    "elo5v5": 81
-  },
-  {
-    "rank": 8,
     "teamName": "Primordials",
     "elo5v5": 80
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Abibas FC",
     "elo5v5": 71
+  },
+  {
+    "rank": 9,
+    "teamName": "Hotspot FC",
+    "elo5v5": 63
   },
   {
     "rank": 10,
