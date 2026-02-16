@@ -52,7 +52,7 @@
   {
     "rank": 11,
     "teamName": "Union : RE",
-    "elo5v5": 80
+    "elo5v5": 97
   },
   {
     "rank": 12,
@@ -96,23 +96,23 @@
   },
   {
     "rank": 20,
-    "teamName": "The White Palace",
-    "elo5v5": 21
-  },
-  {
-    "rank": 21,
     "teamName": "Mentos & NA",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 21
+  },
+  {
+    "rank": 23,
+    "teamName": "The White Palace",
+    "elo5v5": 3
   },
   {
     "rank": 24,
