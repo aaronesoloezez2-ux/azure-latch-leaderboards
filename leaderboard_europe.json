@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Chapter",
-    "elo5v5": 230
+    "teamName": "Divine",
+    "elo5v5": 234
   },
   {
     "rank": 2,
-    "teamName": "Divine",
-    "elo5v5": 228
+    "teamName": "Chapter",
+    "elo5v5": 230
   },
   {
     "rank": 3,
@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Resurrection",
-    "elo5v5": 98
+    "elo5v5": 84
   },
   {
     "rank": 6,
