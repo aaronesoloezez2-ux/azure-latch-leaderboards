@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
+    "teamName": "Vollständig",
+    "elo5v5": 25
+  },
+  {
+    "rank": 19,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Completeness",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Chrysalis",
     "elo5v5": 15
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Rose Garden FC",
     "elo5v5": 13
-  },
-  {
-    "rank": 22,
-    "teamName": "Vollständig",
-    "elo5v5": 5
   },
   {
     "rank": 23,
