@@ -66,27 +66,27 @@
   },
   {
     "rank": 14,
+    "teamName": "Crimson Authority",
+    "elo5v5": 41
+  },
+  {
+    "rank": 15,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 25
   },
   {
-    "rank": 17,
-    "teamName": "The Wiki",
-    "elo5v5": 21
-  },
-  {
     "rank": 18,
-    "teamName": "Crimson Authority",
+    "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
@@ -111,52 +111,52 @@
   },
   {
     "rank": 23,
-    "teamName": "Bear United",
-    "elo5v5": 2
-  },
-  {
-    "rank": 24,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "7 deadly sins",
     "elo5v5": 0
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "STARTING LINE",
     "elo5v5": 0
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Bst Munich",
     "elo5v5": 0
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Strikers Vendetta",
     "elo5v5": 0
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "eleven ⌞NA⌝",
     "elo5v5": 0
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Anty Company",
     "elo5v5": 0
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "The New Generation",
+    "elo5v5": 0
+  },
+  {
+    "rank": 32,
+    "teamName": "Bear United",
     "elo5v5": 0
   },
   {
