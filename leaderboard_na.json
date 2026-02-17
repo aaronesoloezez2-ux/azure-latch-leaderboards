@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Kurain",
-    "elo5v5": 165
+    "teamName": "Union : RE",
+    "elo5v5": 174
   },
   {
     "rank": 5,
-    "teamName": "Union : RE",
-    "elo5v5": 164
+    "teamName": "Kurain",
+    "elo5v5": 165
   },
   {
     "rank": 6,
@@ -66,33 +66,33 @@
   },
   {
     "rank": 14,
-    "teamName": "Chrysalis",
-    "elo5v5": 30
-  },
-  {
-    "rank": 15,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 25
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Completeness",
     "elo5v5": 21
+  },
+  {
+    "rank": 19,
+    "teamName": "Chrysalis",
+    "elo5v5": 15
   },
   {
     "rank": 20,
