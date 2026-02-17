@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Primordials",
-    "elo5v5": 80
+    "teamName": "Cowabungas FC",
+    "elo5v5": 95
   },
   {
     "rank": 6,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 77
+    "teamName": "Primordials",
+    "elo5v5": 80
   },
   {
     "rank": 7,
@@ -66,23 +66,23 @@
   },
   {
     "rank": 14,
-    "teamName": "Money Break",
-    "elo5v5": 44
-  },
-  {
-    "rank": 15,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Kyōtsū",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 26
+  },
+  {
+    "rank": 17,
+    "teamName": "Money Break",
+    "elo5v5": 25
   },
   {
     "rank": 18,
