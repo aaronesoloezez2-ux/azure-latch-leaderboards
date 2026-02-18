@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Revelation",
-    "elo5v5": 127
+    "elo5v5": 108
   },
   {
     "rank": 8,
@@ -66,33 +66,33 @@
   },
   {
     "rank": 14,
+    "teamName": "Vizard",
+    "elo5v5": 49
+  },
+  {
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 25
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Espada",
     "elo5v5": 25
-  },
-  {
-    "rank": 19,
-    "teamName": "Vizard",
-    "elo5v5": 24
   },
   {
     "rank": 20,
