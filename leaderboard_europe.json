@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
+    "teamName": "Hotspot FC",
+    "elo5v5": 61
+  },
+  {
+    "rank": 11,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Taisho",
     "elo5v5": 47
-  },
-  {
-    "rank": 14,
-    "teamName": "Brick Corp EU",
-    "elo5v5": 45
   },
   {
     "rank": 15,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Hotspot FC",
-    "elo5v5": 41
-  },
-  {
-    "rank": 17,
     "teamName": "Kyōtsū",
     "elo5v5": 30
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Luminosity",
     "elo5v5": 29
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 26
+  },
+  {
+    "rank": 19,
+    "teamName": "Brick Corp EU",
+    "elo5v5": 25
   },
   {
     "rank": 20,
