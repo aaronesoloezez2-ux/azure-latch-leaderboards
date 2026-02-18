@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Cowabungas FC",
-    "elo5v5": 126
+    "elo5v5": 107
   },
   {
     "rank": 6,
@@ -61,42 +61,42 @@
   },
   {
     "rank": 13,
+    "teamName": "Taisho",
+    "elo5v5": 47
+  },
+  {
+    "rank": 14,
     "teamName": "Brick Corp EU",
     "elo5v5": 45
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Kyōtsū",
     "elo5v5": 30
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Luminosity",
     "elo5v5": 29
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 26
   },
   {
-    "rank": 19,
-    "teamName": "Abibas: sambas",
-    "elo5v5": 22
-  },
-  {
     "rank": 20,
-    "teamName": "Taisho",
+    "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
