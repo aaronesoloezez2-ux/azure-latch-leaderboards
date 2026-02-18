@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Taisho",
+    "elo5v5": 68
+  },
+  {
+    "rank": 11,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Destiny FC",
     "elo5v5": 56
-  },
-  {
-    "rank": 12,
-    "teamName": "Taisho",
-    "elo5v5": 54
   },
   {
     "rank": 13,
