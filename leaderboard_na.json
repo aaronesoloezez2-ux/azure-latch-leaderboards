@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Union : RE",
-    "elo5v5": 188
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 175
   },
   {
     "rank": 4,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 175
+    "teamName": "Union : RE",
+    "elo5v5": 174
   },
   {
     "rank": 5,
@@ -66,32 +66,32 @@
   },
   {
     "rank": 14,
+    "teamName": "Espada",
+    "elo5v5": 52
+  },
+  {
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Vizard",
     "elo5v5": 34
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 18,
-    "teamName": "Sees",
-    "elo5v5": 25
-  },
-  {
     "rank": 19,
-    "teamName": "Espada",
+    "teamName": "Sees",
     "elo5v5": 25
   },
   {
