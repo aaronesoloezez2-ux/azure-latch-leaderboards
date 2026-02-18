@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
+    "teamName": "Vizard",
+    "elo5v5": 54
+  },
+  {
+    "rank": 16,
     "teamName": "Espada",
     "elo5v5": 52
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 41
-  },
-  {
-    "rank": 17,
-    "teamName": "Vizard",
-    "elo5v5": 34
   },
   {
     "rank": 18,
@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
-    "teamName": "Azure Syndicate",
-    "elo5v5": 21
-  },
-  {
-    "rank": 25,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Rose Garden FC",
     "elo5v5": 13
+  },
+  {
+    "rank": 26,
+    "teamName": "Azure Syndicate",
+    "elo5v5": 1
   },
   {
     "rank": 27,
