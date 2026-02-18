@@ -26,28 +26,28 @@
   },
   {
     "rank": 6,
+    "teamName": "Money Break",
+    "elo5v5": 81
+  },
+  {
+    "rank": 7,
     "teamName": "Primordials",
     "elo5v5": 80
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Abibas FC",
     "elo5v5": 70
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Resurrection",
     "elo5v5": 68
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Taisho",
     "elo5v5": 68
-  },
-  {
-    "rank": 10,
-    "teamName": "Money Break",
-    "elo5v5": 63
   },
   {
     "rank": 11,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Brick Corp EU",
-    "elo5v5": 25
-  },
-  {
-    "rank": 20,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Casanova",
     "elo5v5": 22
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "SPRISEN REQUIEM",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Deadzone",
     "elo5v5": 21
+  },
+  {
+    "rank": 23,
+    "teamName": "Brick Corp EU",
+    "elo5v5": 6
   },
   {
     "rank": 24,
