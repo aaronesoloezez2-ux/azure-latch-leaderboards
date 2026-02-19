@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Shadow FC",
-    "elo5v5": 197
+    "teamName": "Teto Company",
+    "elo5v5": 204
   },
   {
     "rank": 2,
-    "teamName": "Teto Company",
+    "teamName": "Shadow FC",
     "elo5v5": 197
   },
   {
@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
-    "teamName": "Sees",
-    "elo5v5": 25
-  },
-  {
-    "rank": 25,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Rose Garden FC",
     "elo5v5": 13
+  },
+  {
+    "rank": 26,
+    "teamName": "Sees",
+    "elo5v5": 11
   },
   {
     "rank": 27,
