@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Kurain",
-    "elo5v5": 171
+    "teamName": "Kindai no kotei",
+    "elo5v5": 158
   },
   {
     "rank": 5,
-    "teamName": "Kindai no kotei",
-    "elo5v5": 158
+    "teamName": "Kurain",
+    "elo5v5": 156
   },
   {
     "rank": 6,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Imperium NA",
+    "elo5v5": 87
+  },
+  {
+    "rank": 11,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Fruit Ninjas",
     "elo5v5": 69
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Isle FC",
     "elo5v5": 66
-  },
-  {
-    "rank": 13,
-    "teamName": "Imperium NA",
-    "elo5v5": 63
   },
   {
     "rank": 14,
