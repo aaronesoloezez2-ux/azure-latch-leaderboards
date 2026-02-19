@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Revelation",
-    "elo5v5": 152
+    "elo5v5": 163
   },
   {
     "rank": 6,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Virtue",
-    "elo5v5": 49
-  },
-  {
-    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 41
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Completeness",
     "elo5v5": 41
+  },
+  {
+    "rank": 18,
+    "teamName": "Virtue",
+    "elo5v5": 33
   },
   {
     "rank": 19,
