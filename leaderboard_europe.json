@@ -31,48 +31,48 @@
   },
   {
     "rank": 7,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 83
+  },
+  {
+    "rank": 8,
     "teamName": "Primordials",
     "elo5v5": 80
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Resurrection",
     "elo5v5": 68
   },
   {
-    "rank": 9,
-    "teamName": "Taisho",
-    "elo5v5": 68
-  },
-  {
     "rank": 10,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 63
-  },
-  {
-    "rank": 11,
     "teamName": "Money Break",
     "elo5v5": 63
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Luminosity",
     "elo5v5": 53
+  },
+  {
+    "rank": 15,
+    "teamName": "Taisho",
+    "elo5v5": 48
   },
   {
     "rank": 16,
