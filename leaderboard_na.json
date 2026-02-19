@@ -786,57 +786,57 @@
   },
   {
     "rank": 158,
-    "teamName": "Gotei 13",
-    "elo5v5": 0
-  },
-  {
-    "rank": 159,
     "teamName": "Withering",
     "elo5v5": 0
   },
   {
-    "rank": 160,
+    "rank": 159,
     "teamName": "Heroic Cowards",
     "elo5v5": 0
   },
   {
-    "rank": 161,
+    "rank": 160,
     "teamName": "Israel FC",
     "elo5v5": 0
   },
   {
-    "rank": 162,
+    "rank": 161,
     "teamName": "Son",
     "elo5v5": 0
   },
   {
-    "rank": 163,
+    "rank": 162,
     "teamName": "Decaying order",
     "elo5v5": 0
   },
   {
-    "rank": 164,
+    "rank": 163,
     "teamName": "Black Shores",
     "elo5v5": 0
   },
   {
-    "rank": 165,
+    "rank": 164,
     "teamName": "Xitados FC",
     "elo5v5": 0
   },
   {
-    "rank": 166,
+    "rank": 165,
     "teamName": "Mentos",
     "elo5v5": 0
   },
   {
-    "rank": 167,
+    "rank": 166,
     "teamName": "Kimani",
     "elo5v5": 0
   },
   {
-    "rank": 168,
+    "rank": 167,
     "teamName": "Eclipse",
+    "elo5v5": 0
+  },
+  {
+    "rank": 168,
+    "teamName": "RE : ZERO",
     "elo5v5": 0
   }
 ]
