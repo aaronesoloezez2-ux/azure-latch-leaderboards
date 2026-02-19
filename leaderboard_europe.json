@@ -41,32 +41,32 @@
   },
   {
     "rank": 9,
+    "teamName": "Luminosity",
+    "elo5v5": 71
+  },
+  {
+    "rank": 10,
     "teamName": "Resurrection",
     "elo5v5": 68
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Money Break",
     "elo5v5": 63
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 13,
-    "teamName": "black phantoms",
-    "elo5v5": 53
-  },
-  {
     "rank": 14,
-    "teamName": "Luminosity",
+    "teamName": "black phantoms",
     "elo5v5": 53
   },
   {
