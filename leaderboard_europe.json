@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Luminosity",
+    "elo5v5": 88
+  },
+  {
+    "rank": 8,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 83
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Primordials",
     "elo5v5": 80
-  },
-  {
-    "rank": 9,
-    "teamName": "Luminosity",
-    "elo5v5": 71
   },
   {
     "rank": 10,
