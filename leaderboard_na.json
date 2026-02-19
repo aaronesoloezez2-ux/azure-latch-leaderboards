@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 88
+  },
+  {
+    "rank": 11,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Chrysalis",
     "elo5v5": 71
-  },
-  {
-    "rank": 12,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 69
   },
   {
     "rank": 13,
@@ -81,32 +81,32 @@
   },
   {
     "rank": 17,
-    "teamName": "Vollständig",
-    "elo5v5": 46
-  },
-  {
-    "rank": 18,
     "teamName": "Crimson Authority",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Completeness",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Imperium NA",
+    "elo5v5": 27
+  },
+  {
+    "rank": 22,
+    "teamName": "Vollständig",
     "elo5v5": 27
   },
   {
