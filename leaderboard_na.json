@@ -26,33 +26,33 @@
   },
   {
     "rank": 6,
-    "teamName": "Kindai no kotei",
-    "elo5v5": 141
-  },
-  {
-    "rank": 7,
     "teamName": "Sovereign",
     "elo5v5": 138
   },
   {
+    "rank": 7,
+    "teamName": "Kindai no kotei",
+    "elo5v5": 125
+  },
+  {
     "rank": 8,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 109
+  },
+  {
+    "rank": 9,
     "teamName": "Ashbound",
     "elo5v5": 101
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Vizard",
     "elo5v5": 96
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Shutoku",
     "elo5v5": 94
-  },
-  {
-    "rank": 11,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 88
   },
   {
     "rank": 12,
