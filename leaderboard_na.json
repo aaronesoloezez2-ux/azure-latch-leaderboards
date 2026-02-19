@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Teto Company",
-    "elo5v5": 210
+    "elo5v5": 198
   },
   {
     "rank": 2,
@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Vizard",
+    "elo5v5": 96
+  },
+  {
+    "rank": 10,
     "teamName": "Shutoku",
     "elo5v5": 94
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Fruit Ninjas",
     "elo5v5": 88
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Promised",
     "elo5v5": 76
-  },
-  {
-    "rank": 12,
-    "teamName": "Vizard",
-    "elo5v5": 72
   },
   {
     "rank": 13,
