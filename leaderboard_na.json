@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 175
+    "teamName": "Kurain",
+    "elo5v5": 181
   },
   {
     "rank": 4,
-    "teamName": "Kurain",
-    "elo5v5": 171
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 175
   },
   {
     "rank": 5,
@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
-    "teamName": "Imperium NA",
-    "elo5v5": 63
-  },
-  {
-    "rank": 14,
     "teamName": "Completeness",
     "elo5v5": 62
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Espada",
     "elo5v5": 52
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Chrysalis",
     "elo5v5": 51
+  },
+  {
+    "rank": 16,
+    "teamName": "Imperium NA",
+    "elo5v5": 47
   },
   {
     "rank": 17,
