@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Teto Company",
-    "elo5v5": 210
+    "teamName": "Shadow FC",
+    "elo5v5": 197
   },
   {
     "rank": 2,
-    "teamName": "Shadow FC",
+    "teamName": "Teto Company",
     "elo5v5": 197
   },
   {
@@ -76,43 +76,43 @@
   },
   {
     "rank": 16,
+    "teamName": "Chrysalis",
+    "elo5v5": 51
+  },
+  {
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Vizard",
     "elo5v5": 32
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Persimmons",
     "elo5v5": 27
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Sees",
     "elo5v5": 25
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Vollständig",
     "elo5v5": 24
-  },
-  {
-    "rank": 23,
-    "teamName": "Chrysalis",
-    "elo5v5": 23
   },
   {
     "rank": 24,
