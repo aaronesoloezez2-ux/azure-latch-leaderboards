@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Imperium NA",
-    "elo5v5": 87
-  },
-  {
-    "rank": 11,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Fruit Ninjas",
     "elo5v5": 69
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Isle FC",
     "elo5v5": 66
+  },
+  {
+    "rank": 13,
+    "teamName": "Imperium NA",
+    "elo5v5": 63
   },
   {
     "rank": 14,
