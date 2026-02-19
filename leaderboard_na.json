@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
-    "teamName": "Completeness",
-    "elo5v5": 62
-  },
-  {
-    "rank": 14,
     "teamName": "Espada",
     "elo5v5": 52
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Chrysalis",
     "elo5v5": 51
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Imperium NA",
     "elo5v5": 47
+  },
+  {
+    "rank": 16,
+    "teamName": "Vollständig",
+    "elo5v5": 46
   },
   {
     "rank": 17,
@@ -86,33 +86,33 @@
   },
   {
     "rank": 18,
+    "teamName": "Completeness",
+    "elo5v5": 41
+  },
+  {
+    "rank": 19,
     "teamName": "Vizard",
     "elo5v5": 32
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Persimmons",
     "elo5v5": 27
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sees",
     "elo5v5": 25
-  },
-  {
-    "rank": 23,
-    "teamName": "Vollständig",
-    "elo5v5": 24
   },
   {
     "rank": 24,
