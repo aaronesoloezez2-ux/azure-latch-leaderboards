@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 119
+    "teamName": "Luminosity",
+    "elo5v5": 125
   },
   {
     "rank": 6,
-    "teamName": "Luminosity",
-    "elo5v5": 108
+    "teamName": "Cowabungas FC",
+    "elo5v5": 119
   },
   {
     "rank": 7,
@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Taisho",
-    "elo5v5": 83
-  },
-  {
-    "rank": 11,
     "teamName": "Chain Breakers",
     "elo5v5": 78
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Resurrection",
     "elo5v5": 68
+  },
+  {
+    "rank": 12,
+    "teamName": "Taisho",
+    "elo5v5": 65
   },
   {
     "rank": 13,
