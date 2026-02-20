@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Teto Company",
-    "elo5v5": 180
+    "elo5v5": 188
   },
   {
     "rank": 3,
@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Vollständig",
-    "elo5v5": 34
-  },
-  {
-    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Chrysalis",
     "elo5v5": 29
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "The Wiki",
     "elo5v5": 21
+  },
+  {
+    "rank": 25,
+    "teamName": "Vollständig",
+    "elo5v5": 19
   },
   {
     "rank": 26,
