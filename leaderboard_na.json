@@ -61,22 +61,22 @@
   },
   {
     "rank": 13,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 81
-  },
-  {
-    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Crimson Authority",
+    "elo5v5": 60
+  },
+  {
+    "rank": 16,
+    "teamName": "Uma:Virtue",
     "elo5v5": 60
   },
   {
@@ -86,33 +86,33 @@
   },
   {
     "rank": 18,
+    "teamName": "Kimani",
+    "elo5v5": 46
+  },
+  {
+    "rank": 19,
     "teamName": "Israel FC",
     "elo5v5": 42
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Vollständig",
     "elo5v5": 34
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Imperium NA",
     "elo5v5": 27
-  },
-  {
-    "rank": 23,
-    "teamName": "Kimani",
-    "elo5v5": 23
   },
   {
     "rank": 24,
