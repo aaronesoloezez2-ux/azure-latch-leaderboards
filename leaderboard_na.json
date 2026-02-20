@@ -32,27 +32,27 @@
   {
     "rank": 7,
     "teamName": "Vizard",
-    "elo5v5": 117
+    "elo5v5": 134
   },
   {
     "rank": 8,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 109
-  },
-  {
-    "rank": 9,
     "teamName": "Kindai no kotei",
     "elo5v5": 107
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Ashbound",
     "elo5v5": 101
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Shutoku",
     "elo5v5": 94
+  },
+  {
+    "rank": 11,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 92
   },
   {
     "rank": 12,
