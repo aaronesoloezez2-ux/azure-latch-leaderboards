@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "Teto Company",
-    "elo5v5": 185
-  },
-  {
-    "rank": 3,
     "teamName": "Kurain",
     "elo5v5": 175
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Kōdo Giasu",
     "elo5v5": 175
+  },
+  {
+    "rank": 4,
+    "teamName": "Teto Company",
+    "elo5v5": 172
   },
   {
     "rank": 5,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Vizard",
+    "elo5v5": 117
+  },
+  {
+    "rank": 9,
     "teamName": "Fruit Ninjas",
     "elo5v5": 109
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Ashbound",
     "elo5v5": 101
-  },
-  {
-    "rank": 10,
-    "teamName": "Vizard",
-    "elo5v5": 96
   },
   {
     "rank": 11,
