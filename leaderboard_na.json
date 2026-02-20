@@ -81,13 +81,13 @@
   },
   {
     "rank": 17,
-    "teamName": "Israel FC",
-    "elo5v5": 42
+    "teamName": "Chrysalis",
+    "elo5v5": 50
   },
   {
     "rank": 18,
-    "teamName": "Completeness",
-    "elo5v5": 41
+    "teamName": "Israel FC",
+    "elo5v5": 42
   },
   {
     "rank": 19,
@@ -101,33 +101,33 @@
   },
   {
     "rank": 21,
-    "teamName": "Chrysalis",
-    "elo5v5": 29
-  },
-  {
-    "rank": 22,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Imperium NA",
     "elo5v5": 27
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Kimani",
     "elo5v5": 23
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "The Wiki",
     "elo5v5": 21
+  },
+  {
+    "rank": 26,
+    "teamName": "Completeness",
+    "elo5v5": 20
   },
   {
     "rank": 27,
