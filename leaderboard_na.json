@@ -81,32 +81,32 @@
   },
   {
     "rank": 17,
-    "teamName": "Chrysalis",
-    "elo5v5": 50
-  },
-  {
-    "rank": 18,
     "teamName": "Kimani",
     "elo5v5": 46
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Israel FC",
     "elo5v5": 42
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Completeness",
     "elo5v5": 41
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Vollständig",
     "elo5v5": 34
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Fight Club",
+    "elo5v5": 29
+  },
+  {
+    "rank": 22,
+    "teamName": "Chrysalis",
     "elo5v5": 29
   },
   {
