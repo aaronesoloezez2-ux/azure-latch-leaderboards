@@ -66,28 +66,28 @@
   },
   {
     "rank": 14,
+    "teamName": "Espada",
+    "elo5v5": 72
+  },
+  {
+    "rank": 15,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Crimson Authority",
     "elo5v5": 60
   },
   {
-    "rank": 16,
-    "teamName": "Vollständig",
-    "elo5v5": 54
-  },
-  {
     "rank": 17,
-    "teamName": "Espada",
-    "elo5v5": 52
+    "teamName": "Completeness",
+    "elo5v5": 41
   },
   {
     "rank": 18,
-    "teamName": "Completeness",
-    "elo5v5": 41
+    "teamName": "Vollständig",
+    "elo5v5": 34
   },
   {
     "rank": 19,
