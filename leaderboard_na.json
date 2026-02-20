@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
+    "teamName": "Kimani",
+    "elo5v5": 65
+  },
+  {
+    "rank": 16,
     "teamName": "Crimson Authority",
     "elo5v5": 60
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Uma:Virtue",
     "elo5v5": 60
-  },
-  {
-    "rank": 17,
-    "teamName": "Kimani",
-    "elo5v5": 46
   },
   {
     "rank": 18,
@@ -116,23 +116,23 @@
   },
   {
     "rank": 24,
-    "teamName": "Imperium NA",
-    "elo5v5": 27
-  },
-  {
-    "rank": 25,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Rose Garden FC",
     "elo5v5": 13
+  },
+  {
+    "rank": 27,
+    "teamName": "Imperium NA",
+    "elo5v5": 7
   },
   {
     "rank": 28,
