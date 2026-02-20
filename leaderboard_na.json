@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Kindai no kotei",
-    "elo5v5": 125
-  },
-  {
-    "rank": 8,
     "teamName": "Vizard",
     "elo5v5": 117
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Fruit Ninjas",
     "elo5v5": 109
+  },
+  {
+    "rank": 9,
+    "teamName": "Kindai no kotei",
+    "elo5v5": 107
   },
   {
     "rank": 10,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Virtue",
+    "elo5v5": 81
+  },
+  {
+    "rank": 13,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 60
-  },
-  {
-    "rank": 15,
-    "teamName": "Virtue",
-    "elo5v5": 59
   },
   {
     "rank": 16,
