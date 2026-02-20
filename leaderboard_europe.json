@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Taisho",
+    "elo5v5": 83
+  },
+  {
+    "rank": 11,
     "teamName": "Primordials",
     "elo5v5": 80
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Chain Breakers",
     "elo5v5": 78
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Resurrection",
     "elo5v5": 68
-  },
-  {
-    "rank": 13,
-    "teamName": "Taisho",
-    "elo5v5": 66
   },
   {
     "rank": 14,
