@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Vizard",
-    "elo5v5": 134
+    "elo5v5": 117
   },
   {
     "rank": 8,
@@ -51,23 +51,23 @@
   },
   {
     "rank": 11,
+    "teamName": "Espada",
+    "elo5v5": 94
+  },
+  {
+    "rank": 12,
     "teamName": "Fruit Ninjas",
     "elo5v5": 92
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Uma:Virtue",
     "elo5v5": 81
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
-  },
-  {
-    "rank": 14,
-    "teamName": "Espada",
-    "elo5v5": 72
   },
   {
     "rank": 15,
