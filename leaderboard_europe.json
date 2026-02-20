@@ -81,18 +81,18 @@
   },
   {
     "rank": 17,
+    "teamName": "Casanova",
+    "elo5v5": 43
+  },
+  {
+    "rank": 18,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Hotspot FC",
     "elo5v5": 41
-  },
-  {
-    "rank": 19,
-    "teamName": "Deadzone",
-    "elo5v5": 27
   },
   {
     "rank": 20,
@@ -101,22 +101,22 @@
   },
   {
     "rank": 21,
-    "teamName": "Casanova",
-    "elo5v5": 22
-  },
-  {
-    "rank": 22,
     "teamName": "SPRISEN REQUIEM",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Kyōtsū",
     "elo5v5": 10
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Brick Corp EU",
+    "elo5v5": 6
+  },
+  {
+    "rank": 24,
+    "teamName": "Deadzone",
     "elo5v5": 6
   },
   {
