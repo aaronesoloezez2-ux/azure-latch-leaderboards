@@ -116,23 +116,23 @@
   },
   {
     "rank": 24,
+    "teamName": "Imperium NA",
+    "elo5v5": 27
+  },
+  {
+    "rank": 25,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Rose Garden FC",
     "elo5v5": 13
-  },
-  {
-    "rank": 27,
-    "teamName": "Imperium NA",
-    "elo5v5": 7
   },
   {
     "rank": 28,
