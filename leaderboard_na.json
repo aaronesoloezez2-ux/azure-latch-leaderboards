@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 138
+    "teamName": "Vizard",
+    "elo5v5": 145
   },
   {
     "rank": 7,
-    "teamName": "Vizard",
-    "elo5v5": 131
+    "teamName": "Sovereign",
+    "elo5v5": 138
   },
   {
     "rank": 8,
@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 79
-  },
-  {
-    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Kimani",
     "elo5v5": 65
+  },
+  {
+    "rank": 16,
+    "teamName": "Uma:Virtue",
+    "elo5v5": 62
   },
   {
     "rank": 17,
