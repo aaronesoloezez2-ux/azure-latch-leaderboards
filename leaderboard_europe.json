@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Taisho",
+    "elo5v5": 84
+  },
+  {
+    "rank": 10,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 83
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Chain Breakers",
     "elo5v5": 78
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Resurrection",
     "elo5v5": 68
-  },
-  {
-    "rank": 12,
-    "teamName": "Taisho",
-    "elo5v5": 65
   },
   {
     "rank": 13,
@@ -81,18 +81,18 @@
   },
   {
     "rank": 17,
-    "teamName": "Casanova",
-    "elo5v5": 43
-  },
-  {
-    "rank": 18,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Hotspot FC",
     "elo5v5": 41
+  },
+  {
+    "rank": 19,
+    "teamName": "Casanova",
+    "elo5v5": 24
   },
   {
     "rank": 20,
