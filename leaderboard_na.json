@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Kurain",
-    "elo5v5": 185
+    "teamName": "Revelation",
+    "elo5v5": 190
   },
   {
     "rank": 4,
-    "teamName": "Revelation",
-    "elo5v5": 182
+    "teamName": "Kurain",
+    "elo5v5": 185
   },
   {
     "rank": 5,
@@ -111,23 +111,23 @@
   },
   {
     "rank": 23,
-    "teamName": "Tempest",
-    "elo5v5": 22
-  },
-  {
-    "rank": 24,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Chrysalis",
     "elo5v5": 11
+  },
+  {
+    "rank": 26,
+    "teamName": "Tempest",
+    "elo5v5": 8
   },
   {
     "rank": 27,
