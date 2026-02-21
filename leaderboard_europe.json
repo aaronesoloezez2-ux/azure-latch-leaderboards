@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Genesis V",
-    "elo5v5": 207
+    "elo5v5": 214
   },
   {
     "rank": 3,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
-    "teamName": "Resurrection",
-    "elo5v5": 68
-  },
-  {
-    "rank": 13,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 63
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Destiny FC",
     "elo5v5": 56
+  },
+  {
+    "rank": 15,
+    "teamName": "Resurrection",
+    "elo5v5": 54
   },
   {
     "rank": 16,
