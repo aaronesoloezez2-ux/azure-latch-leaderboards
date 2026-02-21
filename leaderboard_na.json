@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Sovereign",
-    "elo5v5": 138
+    "elo5v5": 121
   },
   {
     "rank": 8,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
+    "teamName": "Uma:Virtue",
+    "elo5v5": 109
+  },
+  {
+    "rank": 10,
     "teamName": "Fruit Ninjas",
     "elo5v5": 108
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Kindai no kotei",
     "elo5v5": 107
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Ashbound",
     "elo5v5": 101
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Shutoku",
     "elo5v5": 94
-  },
-  {
-    "rank": 13,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 89
   },
   {
     "rank": 14,
