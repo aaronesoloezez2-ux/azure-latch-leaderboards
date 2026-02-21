@@ -121,23 +121,23 @@
   },
   {
     "rank": 25,
+    "teamName": "Tempest",
+    "elo5v5": 21
+  },
+  {
+    "rank": 26,
     "teamName": "Vollständig",
     "elo5v5": 19
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Rose Garden FC",
     "elo5v5": 13
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Imperium NA",
     "elo5v5": 8
-  },
-  {
-    "rank": 28,
-    "teamName": "Persimmons",
-    "elo5v5": 5
   },
   {
     "rank": 29,
@@ -716,67 +716,67 @@
   },
   {
     "rank": 144,
-    "teamName": "Tempest",
-    "elo5v5": 0
-  },
-  {
-    "rank": 145,
     "teamName": "Milanna FC",
     "elo5v5": 0
   },
   {
-    "rank": 146,
+    "rank": 145,
     "teamName": "The BlueLock Project",
     "elo5v5": 0
   },
   {
-    "rank": 147,
+    "rank": 146,
     "teamName": "Berserk Dortmund",
     "elo5v5": 0
   },
   {
-    "rank": 148,
+    "rank": 147,
     "teamName": "Unbalanced FC",
     "elo5v5": 0
   },
   {
-    "rank": 149,
+    "rank": 148,
     "teamName": "Zethar",
     "elo5v5": 0
   },
   {
-    "rank": 150,
+    "rank": 149,
     "teamName": "Ascendant",
     "elo5v5": 0
   },
   {
-    "rank": 151,
+    "rank": 150,
     "teamName": "Truth",
     "elo5v5": 0
   },
   {
-    "rank": 152,
+    "rank": 151,
     "teamName": "RedKey Strikers",
     "elo5v5": 0
   },
   {
-    "rank": 153,
+    "rank": 152,
     "teamName": "Espada courtyard",
     "elo5v5": 0
   },
   {
-    "rank": 154,
+    "rank": 153,
     "teamName": "Forever",
     "elo5v5": 0
   },
   {
-    "rank": 155,
+    "rank": 154,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 0
   },
   {
-    "rank": 156,
+    "rank": 155,
     "teamName": "Esperion FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 156,
+    "teamName": "Persimmons",
     "elo5v5": 0
   },
   {
