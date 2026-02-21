@@ -66,28 +66,28 @@
   },
   {
     "rank": 14,
-    "teamName": "Chrysalis",
-    "elo5v5": 67
-  },
-  {
-    "rank": 15,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Kimani",
     "elo5v5": 65
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Uma:Virtue",
     "elo5v5": 62
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 60
+  },
+  {
+    "rank": 18,
+    "teamName": "Chrysalis",
+    "elo5v5": 47
   },
   {
     "rank": 19,
