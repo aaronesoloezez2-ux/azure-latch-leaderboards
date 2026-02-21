@@ -36,22 +36,22 @@
   },
   {
     "rank": 8,
+    "teamName": "Espada",
+    "elo5v5": 111
+  },
+  {
+    "rank": 9,
     "teamName": "Kindai no kotei",
     "elo5v5": 107
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Ashbound",
     "elo5v5": 101
   },
   {
-    "rank": 10,
-    "teamName": "Shutoku",
-    "elo5v5": 94
-  },
-  {
     "rank": 11,
-    "teamName": "Espada",
+    "teamName": "Shutoku",
     "elo5v5": 94
   },
   {
@@ -86,17 +86,17 @@
   },
   {
     "rank": 18,
-    "teamName": "Chrysalis",
-    "elo5v5": 47
-  },
-  {
-    "rank": 19,
     "teamName": "Completeness",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fight Club",
+    "elo5v5": 29
+  },
+  {
+    "rank": 20,
+    "teamName": "Chrysalis",
     "elo5v5": 29
   },
   {
