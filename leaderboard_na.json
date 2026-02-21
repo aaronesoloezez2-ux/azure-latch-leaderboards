@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Vizard",
-    "elo5v5": 117
+    "elo5v5": 131
   },
   {
     "rank": 8,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "Israel FC",
-    "elo5v5": 42
-  },
-  {
-    "rank": 19,
     "teamName": "Completeness",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Chrysalis",
     "elo5v5": 29
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 22,
+    "teamName": "Israel FC",
+    "elo5v5": 25
   },
   {
     "rank": 23,
