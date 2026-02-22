@@ -72,7 +72,7 @@
   {
     "rank": 15,
     "teamName": "Kimani",
-    "elo5v5": 43
+    "elo5v5": 62
   },
   {
     "rank": 16,
@@ -126,22 +126,22 @@
   },
   {
     "rank": 26,
-    "teamName": "Persimmons",
-    "elo5v5": 21
-  },
-  {
-    "rank": 27,
     "teamName": "Chrysalis",
     "elo5v5": 13
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Israel FC",
     "elo5v5": 4
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Tempest",
+    "elo5v5": 1
+  },
+  {
+    "rank": 29,
+    "teamName": "Persimmons",
     "elo5v5": 1
   },
   {
