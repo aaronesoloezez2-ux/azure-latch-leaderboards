@@ -71,8 +71,8 @@
   },
   {
     "rank": 15,
-    "teamName": "Kimani",
-    "elo5v5": 62
+    "teamName": "Tempest",
+    "elo5v5": 44
   },
   {
     "rank": 16,
@@ -86,32 +86,32 @@
   },
   {
     "rank": 18,
+    "teamName": "Kimani",
+    "elo5v5": 41
+  },
+  {
+    "rank": 19,
     "teamName": "Crimson Authority",
     "elo5v5": 38
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Vollständig",
     "elo5v5": 31
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 22,
-    "teamName": "Rose Garden FC",
-    "elo5v5": 22
-  },
-  {
     "rank": 23,
-    "teamName": "Tempest",
+    "teamName": "Rose Garden FC",
     "elo5v5": 22
   },
   {
