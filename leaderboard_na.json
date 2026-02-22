@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Kurain",
-    "elo5v5": 185
-  },
-  {
-    "rank": 4,
     "teamName": "Teto Company",
     "elo5v5": 177
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Kōdo Giasu",
     "elo5v5": 175
+  },
+  {
+    "rank": 5,
+    "teamName": "Kurain",
+    "elo5v5": 172
   },
   {
     "rank": 6,
@@ -31,38 +31,38 @@
   },
   {
     "rank": 7,
+    "teamName": "Serendipity",
+    "elo5v5": 122
+  },
+  {
+    "rank": 8,
     "teamName": "Sovereign",
     "elo5v5": 121
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Shutoku",
     "elo5v5": 116
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 111
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Uma:Virtue",
     "elo5v5": 109
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Fruit Ninjas",
     "elo5v5": 108
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Kindai no kotei",
     "elo5v5": 107
-  },
-  {
-    "rank": 13,
-    "teamName": "Serendipity",
-    "elo5v5": 101
   },
   {
     "rank": 14,
