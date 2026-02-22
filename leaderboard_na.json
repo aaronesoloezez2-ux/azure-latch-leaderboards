@@ -26,22 +26,22 @@
   },
   {
     "rank": 6,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 129
-  },
-  {
-    "rank": 7,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Shutoku",
     "elo5v5": 116
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Fruit Ninjas",
+    "elo5v5": 110
+  },
+  {
+    "rank": 9,
+    "teamName": "Uma:Virtue",
     "elo5v5": 110
   },
   {
@@ -71,28 +71,28 @@
   },
   {
     "rank": 15,
+    "teamName": "Completeness",
+    "elo5v5": 65
+  },
+  {
+    "rank": 16,
     "teamName": "Kimani",
     "elo5v5": 60
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Vollständig",
     "elo5v5": 55
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Tempest",
     "elo5v5": 44
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Sees",
     "elo5v5": 42
-  },
-  {
-    "rank": 19,
-    "teamName": "Completeness",
-    "elo5v5": 41
   },
   {
     "rank": 20,
