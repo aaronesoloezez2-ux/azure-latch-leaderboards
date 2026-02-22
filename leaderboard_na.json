@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Teto Company",
-    "elo5v5": 206
+    "teamName": "Shadow FC",
+    "elo5v5": 197
   },
   {
     "rank": 2,
-    "teamName": "Shadow FC",
-    "elo5v5": 197
+    "teamName": "Teto Company",
+    "elo5v5": 194
   },
   {
     "rank": 3,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
+    "teamName": "Vollständig",
+    "elo5v5": 81
+  },
+  {
+    "rank": 15,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 16,
-    "teamName": "Vollständig",
-    "elo5v5": 55
   },
   {
     "rank": 17,
