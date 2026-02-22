@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Shadow FC",
-    "elo5v5": 197
+    "teamName": "Revelation",
+    "elo5v5": 199
   },
   {
     "rank": 2,
-    "teamName": "Revelation",
-    "elo5v5": 190
+    "teamName": "Shadow FC",
+    "elo5v5": 197
   },
   {
     "rank": 3,
@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
-    "teamName": "Sovereign",
-    "elo5v5": 121
-  },
-  {
-    "rank": 9,
     "teamName": "Shutoku",
     "elo5v5": 116
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Espada",
     "elo5v5": 111
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Uma:Virtue",
     "elo5v5": 109
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Fruit Ninjas",
     "elo5v5": 108
+  },
+  {
+    "rank": 12,
+    "teamName": "Sovereign",
+    "elo5v5": 107
   },
   {
     "rank": 13,
