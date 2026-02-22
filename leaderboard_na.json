@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
+    "teamName": "Completeness",
+    "elo5v5": 84
+  },
+  {
+    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 15,
-    "teamName": "Completeness",
-    "elo5v5": 65
   },
   {
     "rank": 16,
@@ -81,33 +81,33 @@
   },
   {
     "rank": 17,
-    "teamName": "Tempest",
-    "elo5v5": 44
-  },
-  {
-    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 42
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Kimani",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Crimson Authority",
     "elo5v5": 38
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 22,
+    "teamName": "Tempest",
+    "elo5v5": 25
   },
   {
     "rank": 23,
