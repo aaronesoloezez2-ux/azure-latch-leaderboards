@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Money Break",
-    "elo5v5": 128
+    "elo5v5": 143
   },
   {
     "rank": 7,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "Primordials",
-    "elo5v5": 112
-  },
-  {
-    "rank": 9,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 112
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Abibas FC",
     "elo5v5": 107
+  },
+  {
+    "rank": 10,
+    "teamName": "Primordials",
+    "elo5v5": 95
   },
   {
     "rank": 11,
