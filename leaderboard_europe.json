@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Blacklisted FC",
-    "elo5v5": 134
+    "elo5v5": 146
   },
   {
     "rank": 6,
@@ -101,32 +101,32 @@
   },
   {
     "rank": 21,
-    "teamName": "Brick Corp EU",
-    "elo5v5": 21
-  },
-  {
-    "rank": 22,
     "teamName": "Valorbound",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Larp FC",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Silence",
     "elo5v5": 10
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Deadzone",
     "elo5v5": 6
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "NEO STRIKERS",
+    "elo5v5": 5
+  },
+  {
+    "rank": 26,
+    "teamName": "Brick Corp EU",
     "elo5v5": 5
   },
   {
