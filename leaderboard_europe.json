@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 112
+  },
+  {
+    "rank": 9,
     "teamName": "Abibas FC",
     "elo5v5": 107
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Taisho",
     "elo5v5": 103
-  },
-  {
-    "rank": 10,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 96
   },
   {
     "rank": 11,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Casanova",
-    "elo5v5": 24
-  },
-  {
-    "rank": 20,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Valorbound",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Larp FC",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Silence",
     "elo5v5": 10
+  },
+  {
+    "rank": 23,
+    "teamName": "Casanova",
+    "elo5v5": 6
   },
   {
     "rank": 24,
