@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 110
+  },
+  {
+    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 109
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Kindai no kotei",
     "elo5v5": 107
   },
   {
-    "rank": 11,
-    "teamName": "Serendipity",
-    "elo5v5": 105
-  },
-  {
     "rank": 12,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 91
+    "teamName": "Serendipity",
+    "elo5v5": 87
   },
   {
     "rank": 13,
