@@ -26,23 +26,23 @@
   },
   {
     "rank": 6,
+    "teamName": "Espada",
+    "elo5v5": 128
+  },
+  {
+    "rank": 7,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Serendipity",
     "elo5v5": 122
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Shutoku",
     "elo5v5": 116
-  },
-  {
-    "rank": 9,
-    "teamName": "Espada",
-    "elo5v5": 111
   },
   {
     "rank": 10,
@@ -51,13 +51,13 @@
   },
   {
     "rank": 11,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 108
+    "teamName": "Kindai no kotei",
+    "elo5v5": 107
   },
   {
     "rank": 12,
-    "teamName": "Kindai no kotei",
-    "elo5v5": 107
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 91
   },
   {
     "rank": 13,
