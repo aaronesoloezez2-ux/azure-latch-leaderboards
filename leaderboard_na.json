@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 125
+    "teamName": "Uma:Virtue",
+    "elo5v5": 137
   },
   {
     "rank": 7,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 124
+    "teamName": "Sovereign",
+    "elo5v5": 125
   },
   {
     "rank": 8,
@@ -121,18 +121,18 @@
   },
   {
     "rank": 25,
-    "teamName": "Monarchs Recrowned | FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 26,
     "teamName": "Chrysalis",
     "elo5v5": 13
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Tempest",
     "elo5v5": 5
+  },
+  {
+    "rank": 27,
+    "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 4
   },
   {
     "rank": 28,
