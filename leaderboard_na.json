@@ -57,7 +57,7 @@
   {
     "rank": 12,
     "teamName": "Serendipity",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   {
     "rank": 13,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Kimani",
-    "elo5v5": 60
-  },
-  {
-    "rank": 17,
     "teamName": "Vollständig",
     "elo5v5": 55
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Tempest",
     "elo5v5": 44
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 42
+  },
+  {
+    "rank": 19,
+    "teamName": "Kimani",
+    "elo5v5": 41
   },
   {
     "rank": 20,
