@@ -27,27 +27,27 @@
   {
     "rank": 6,
     "teamName": "Vizard",
-    "elo5v5": 145
+    "elo5v5": 130
   },
   {
     "rank": 7,
+    "teamName": "Uma:Virtue",
+    "elo5v5": 128
+  },
+  {
+    "rank": 8,
     "teamName": "Serendipity",
     "elo5v5": 122
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Shutoku",
     "elo5v5": 116
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 111
-  },
-  {
-    "rank": 10,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 109
   },
   {
     "rank": 11,
