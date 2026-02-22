@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Revelation",
+    "elo5v5": 198
+  },
+  {
+    "rank": 2,
     "teamName": "Shadow FC",
     "elo5v5": 197
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Teto Company",
     "elo5v5": 194
-  },
-  {
-    "rank": 3,
-    "teamName": "Revelation",
-    "elo5v5": 189
   },
   {
     "rank": 4,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 110
-  },
-  {
-    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 109
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Kindai no kotei",
     "elo5v5": 107
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 102
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Shutoku",
     "elo5v5": 99
+  },
+  {
+    "rank": 13,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 95
   },
   {
     "rank": 14,
