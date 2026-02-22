@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
+    "teamName": "Kimani",
+    "elo5v5": 61
+  },
+  {
+    "rank": 17,
     "teamName": "Vollständig",
     "elo5v5": 55
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 42
-  },
-  {
-    "rank": 18,
-    "teamName": "Kimani",
-    "elo5v5": 41
   },
   {
     "rank": 19,
@@ -106,33 +106,33 @@
   },
   {
     "rank": 22,
-    "teamName": "Tempest",
-    "elo5v5": 25
-  },
-  {
-    "rank": 23,
     "teamName": "Rose Garden FC",
     "elo5v5": 22
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Chrysalis",
     "elo5v5": 13
+  },
+  {
+    "rank": 27,
+    "teamName": "Tempest",
+    "elo5v5": 5
   },
   {
     "rank": 28,
