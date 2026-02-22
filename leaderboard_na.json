@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Shutoku",
+    "elo5v5": 115
+  },
+  {
+    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 109
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 102
-  },
-  {
-    "rank": 11,
-    "teamName": "Shutoku",
-    "elo5v5": 99
   },
   {
     "rank": 12,
@@ -96,28 +96,28 @@
   },
   {
     "rank": 20,
-    "teamName": "Tempest",
-    "elo5v5": 27
-  },
-  {
-    "rank": 21,
     "teamName": "Rose Garden FC",
     "elo5v5": 22
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Crimson Authority",
     "elo5v5": 16
+  },
+  {
+    "rank": 24,
+    "teamName": "Tempest",
+    "elo5v5": 9
   },
   {
     "rank": 25,
