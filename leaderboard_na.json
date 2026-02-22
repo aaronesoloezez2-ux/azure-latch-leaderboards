@@ -91,17 +91,17 @@
   },
   {
     "rank": 19,
-    "teamName": "Crimson Authority",
-    "elo5v5": 38
-  },
-  {
-    "rank": 20,
     "teamName": "Fight Club",
     "elo5v5": 29
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Imperium FC",
+    "elo5v5": 27
+  },
+  {
+    "rank": 21,
+    "teamName": "Tempest",
     "elo5v5": 27
   },
   {
@@ -121,13 +121,13 @@
   },
   {
     "rank": 25,
-    "teamName": "Chrysalis",
-    "elo5v5": 13
+    "teamName": "Crimson Authority",
+    "elo5v5": 16
   },
   {
     "rank": 26,
-    "teamName": "Tempest",
-    "elo5v5": 5
+    "teamName": "Chrysalis",
+    "elo5v5": 13
   },
   {
     "rank": 27,
