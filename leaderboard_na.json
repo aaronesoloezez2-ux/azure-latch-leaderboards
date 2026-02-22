@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Espada",
-    "elo5v5": 128
-  },
-  {
-    "rank": 8,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Shutoku",
     "elo5v5": 116
+  },
+  {
+    "rank": 9,
+    "teamName": "Espada",
+    "elo5v5": 109
   },
   {
     "rank": 10,
@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
+    "teamName": "Vollständig",
+    "elo5v5": 55
+  },
+  {
+    "rank": 16,
     "teamName": "Tempest",
     "elo5v5": 44
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Completeness",
     "elo5v5": 41
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Kimani",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Crimson Authority",
     "elo5v5": 38
-  },
-  {
-    "rank": 20,
-    "teamName": "Vollständig",
-    "elo5v5": 31
   },
   {
     "rank": 21,
