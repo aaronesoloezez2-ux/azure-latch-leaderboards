@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "Espada",
+    "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
     "rank": 9,
-    "teamName": "Sovereign",
-    "elo5v5": 125
+    "teamName": "Espada",
+    "elo5v5": 129
   },
   {
     "rank": 10,
-    "teamName": "Shutoku",
-    "elo5v5": 115
+    "teamName": "Sovereign",
+    "elo5v5": 125
   },
   {
     "rank": 11,
@@ -96,38 +96,38 @@
   },
   {
     "rank": 20,
-    "teamName": "Rose Garden FC",
-    "elo5v5": 22
-  },
-  {
-    "rank": 21,
     "teamName": "Chrysalis",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Eclipse",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 16
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Tempest",
     "elo5v5": 9
+  },
+  {
+    "rank": 26,
+    "teamName": "Rose Garden FC",
+    "elo5v5": 5
   },
   {
     "rank": 27,
