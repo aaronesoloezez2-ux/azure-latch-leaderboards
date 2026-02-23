@@ -1,52 +1,52 @@
 [
   {
     "rank": 1,
+    "teamName": "New Gen.",
+    "elo5v5": 21
+  },
+  {
+    "rank": 2,
     "teamName": "Criciúma",
     "elo5v5": 0
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Moggers",
     "elo5v5": 0
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Index Predator",
     "elo5v5": 0
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "WorldBreakers",
     "elo5v5": 0
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Kurain SA",
     "elo5v5": 0
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Lolings",
     "elo5v5": 0
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "COMIBLES",
     "elo5v5": 0
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Bastard Reborn",
     "elo5v5": 0
   },
   {
-    "rank": 9,
-    "teamName": "Sky Reapers",
-    "elo5v5": 0
-  },
-  {
     "rank": 10,
-    "teamName": "New Gen.",
+    "teamName": "Sky Reapers",
     "elo5v5": 0
   },
   {
