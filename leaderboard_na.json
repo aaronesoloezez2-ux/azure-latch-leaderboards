@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Monarchs Recrowned | FC",
+    "teamName": "Chrysalis",
     "elo5v5": 25
   },
   {
     "rank": 21,
+    "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 22,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 16
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Tempest",
     "elo5v5": 9
-  },
-  {
-    "rank": 25,
-    "teamName": "Chrysalis",
-    "elo5v5": 5
   },
   {
     "rank": 26,
