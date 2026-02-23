@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
-    "teamName": "Kurain",
-    "elo5v5": 172
-  },
-  {
-    "rank": 5,
     "teamName": "Uma:Virtue",
     "elo5v5": 167
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Kōdo Giasu",
     "elo5v5": 163
+  },
+  {
+    "rank": 6,
+    "teamName": "Kurain",
+    "elo5v5": 159
   },
   {
     "rank": 7,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Espada",
+    "elo5v5": 129
+  },
+  {
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Shutoku",
     "elo5v5": 115
-  },
-  {
-    "rank": 10,
-    "teamName": "Espada",
-    "elo5v5": 109
   },
   {
     "rank": 11,
