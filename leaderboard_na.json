@@ -31,17 +31,17 @@
   },
   {
     "rank": 7,
+    "teamName": "Espada",
+    "elo5v5": 142
+  },
+  {
+    "rank": 8,
     "teamName": "Serendipity",
     "elo5v5": 136
   },
   {
-    "rank": 8,
-    "teamName": "Shutoku",
-    "elo5v5": 129
-  },
-  {
     "rank": 9,
-    "teamName": "Espada",
+    "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
-    "teamName": "Chrysalis",
-    "elo5v5": 21
-  },
-  {
-    "rank": 22,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Crimson Authority",
     "elo5v5": 16
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Tempest",
     "elo5v5": 9
+  },
+  {
+    "rank": 25,
+    "teamName": "Chrysalis",
+    "elo5v5": 5
   },
   {
     "rank": 26,
