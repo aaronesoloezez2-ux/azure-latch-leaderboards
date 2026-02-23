@@ -16,23 +16,23 @@
   },
   {
     "rank": 4,
-    "teamName": "Taisho",
+    "teamName": "Money Break",
     "elo5v5": 151
   },
   {
     "rank": 5,
+    "teamName": "Taisho",
+    "elo5v5": 151
+  },
+  {
+    "rank": 6,
     "teamName": "Blacklisted FC",
     "elo5v5": 146
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Luminosity",
     "elo5v5": 145
-  },
-  {
-    "rank": 7,
-    "teamName": "Money Break",
-    "elo5v5": 140
   },
   {
     "rank": 8,
