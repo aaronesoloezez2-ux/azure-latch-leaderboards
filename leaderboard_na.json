@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 188
+    "teamName": "Revelation",
+    "elo5v5": 187
   },
   {
     "rank": 4,
-    "teamName": "Revelation",
-    "elo5v5": 187
+    "teamName": "Uma:Virtue",
+    "elo5v5": 176
   },
   {
     "rank": 5,
@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
+    "teamName": "Completeness",
+    "elo5v5": 135
+  },
+  {
+    "rank": 9,
     "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 126
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Vollständig",
     "elo5v5": 120
-  },
-  {
-    "rank": 12,
-    "teamName": "Completeness",
-    "elo5v5": 116
   },
   {
     "rank": 13,
