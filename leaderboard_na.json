@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Espada",
-    "elo5v5": 142
-  },
-  {
-    "rank": 8,
     "teamName": "Serendipity",
     "elo5v5": 136
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Shutoku",
     "elo5v5": 129
+  },
+  {
+    "rank": 9,
+    "teamName": "Espada",
+    "elo5v5": 126
   },
   {
     "rank": 10,
@@ -51,13 +51,13 @@
   },
   {
     "rank": 11,
-    "teamName": "Completeness",
-    "elo5v5": 102
+    "teamName": "Vollständig",
+    "elo5v5": 120
   },
   {
     "rank": 12,
-    "teamName": "Vollständig",
-    "elo5v5": 101
+    "teamName": "Completeness",
+    "elo5v5": 102
   },
   {
     "rank": 13,
