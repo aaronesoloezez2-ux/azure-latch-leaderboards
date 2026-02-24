@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
+    "teamName": "Optimal",
+    "elo5v5": 42
+  },
+  {
+    "rank": 19,
     "teamName": "Crimson Authority",
     "elo5v5": 36
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Chrysalis",
     "elo5v5": 31
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 29
-  },
-  {
-    "rank": 21,
-    "teamName": "Persimmons",
-    "elo5v5": 28
   },
   {
     "rank": 22,
@@ -131,13 +131,13 @@
   },
   {
     "rank": 27,
-    "teamName": "Optimal",
-    "elo5v5": 21
+    "teamName": "Tempest",
+    "elo5v5": 9
   },
   {
     "rank": 28,
-    "teamName": "Tempest",
-    "elo5v5": 9
+    "teamName": "Persimmons",
+    "elo5v5": 7
   },
   {
     "rank": 29,
