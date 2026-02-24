@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Revelation",
-    "elo5v5": 187
+    "teamName": "Uma:Virtue",
+    "elo5v5": 194
   },
   {
     "rank": 4,
-    "teamName": "Uma:Virtue",
-    "elo5v5": 186
+    "teamName": "Revelation",
+    "elo5v5": 187
   },
   {
     "rank": 5,
@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Chrysalis",
-    "elo5v5": 25
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Optimal",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 16
+  },
+  {
+    "rank": 25,
+    "teamName": "Chrysalis",
+    "elo5v5": 11
   },
   {
     "rank": 26,
