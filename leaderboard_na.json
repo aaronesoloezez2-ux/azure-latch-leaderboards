@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Kurain",
-    "elo5v5": 159
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 162
   },
   {
     "rank": 6,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 151
+    "teamName": "Kurain",
+    "elo5v5": 159
   },
   {
     "rank": 7,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Kimani",
-    "elo5v5": 46
-  },
-  {
-    "rank": 17,
     "teamName": "Optimal",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 36
+  },
+  {
+    "rank": 18,
+    "teamName": "Kimani",
+    "elo5v5": 30
   },
   {
     "rank": 19,
