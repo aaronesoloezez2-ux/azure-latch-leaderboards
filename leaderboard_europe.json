@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
+    "teamName": "Luminosity",
+    "elo5v5": 172
+  },
+  {
+    "rank": 6,
     "teamName": "Blacklisted FC",
     "elo5v5": 166
   },
   {
-    "rank": 6,
-    "teamName": "Luminosity",
-    "elo5v5": 159
-  },
-  {
     "rank": 7,
-    "teamName": "Taisho",
-    "elo5v5": 133
+    "teamName": "Primordials",
+    "elo5v5": 127
   },
   {
     "rank": 8,
-    "teamName": "Primordials",
-    "elo5v5": 127
+    "teamName": "Taisho",
+    "elo5v5": 118
   },
   {
     "rank": 9,
