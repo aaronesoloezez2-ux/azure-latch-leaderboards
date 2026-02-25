@@ -52,7 +52,7 @@
   {
     "rank": 11,
     "teamName": "Vollständig",
-    "elo5v5": 120
+    "elo5v5": 101
   },
   {
     "rank": 12,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
+    "teamName": "Paris X Gen",
+    "elo5v5": 75
+  },
+  {
+    "rank": 15,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Fight Club",
     "elo5v5": 55
-  },
-  {
-    "rank": 16,
-    "teamName": "Paris X Gen",
-    "elo5v5": 52
   },
   {
     "rank": 17,
