@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Teto Company",
-    "elo5v5": 210
+    "elo5v5": 216
   },
   {
     "rank": 2,
@@ -111,18 +111,18 @@
   },
   {
     "rank": 23,
-    "teamName": "Sees",
-    "elo5v5": 22
-  },
-  {
-    "rank": 24,
     "teamName": "Mentos",
     "elo5v5": 22
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "The Wiki",
     "elo5v5": 21
+  },
+  {
+    "rank": 25,
+    "teamName": "Sees",
+    "elo5v5": 9
   },
   {
     "rank": 26,
