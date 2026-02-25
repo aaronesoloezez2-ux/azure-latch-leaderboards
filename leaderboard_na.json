@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Promised",
-    "elo5v5": 76
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 91
   },
   {
     "rank": 13,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 74
+    "teamName": "Promised",
+    "elo5v5": 76
   },
   {
     "rank": 14,
@@ -111,33 +111,33 @@
   },
   {
     "rank": 23,
-    "teamName": "Mentos",
-    "elo5v5": 22
-  },
-  {
-    "rank": 24,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Chrysalis",
     "elo5v5": 9
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Persimmons",
     "elo5v5": 7
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Rose Garden FC",
     "elo5v5": 5
+  },
+  {
+    "rank": 28,
+    "teamName": "Mentos",
+    "elo5v5": 4
   },
   {
     "rank": 29,
