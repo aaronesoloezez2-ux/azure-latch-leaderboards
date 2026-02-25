@@ -116,28 +116,28 @@
   },
   {
     "rank": 24,
+    "teamName": "Ascendant",
+    "elo5v5": 21
+  },
+  {
+    "rank": 25,
     "teamName": "Crimson Authority",
     "elo5v5": 20
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Persimmons",
     "elo5v5": 7
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Rose Garden FC",
     "elo5v5": 5
-  },
-  {
-    "rank": 28,
-    "teamName": "Mentos",
-    "elo5v5": 4
   },
   {
     "rank": 29,
@@ -696,62 +696,62 @@
   },
   {
     "rank": 140,
-    "teamName": "Ascendant",
-    "elo5v5": 0
-  },
-  {
-    "rank": 141,
     "teamName": "Truth",
     "elo5v5": 0
   },
   {
-    "rank": 142,
+    "rank": 141,
     "teamName": "RedKey Strikers",
     "elo5v5": 0
   },
   {
-    "rank": 143,
+    "rank": 142,
     "teamName": "Espada courtyard",
     "elo5v5": 0
   },
   {
-    "rank": 144,
+    "rank": 143,
     "teamName": "Forever",
     "elo5v5": 0
   },
   {
-    "rank": 145,
+    "rank": 144,
     "teamName": "Esperion FC",
     "elo5v5": 0
   },
   {
-    "rank": 146,
+    "rank": 145,
     "teamName": "Withering",
     "elo5v5": 0
   },
   {
-    "rank": 147,
+    "rank": 146,
     "teamName": "Heroic Cowards",
     "elo5v5": 0
   },
   {
-    "rank": 148,
+    "rank": 147,
     "teamName": "Son",
     "elo5v5": 0
   },
   {
-    "rank": 149,
+    "rank": 148,
     "teamName": "Decaying order",
     "elo5v5": 0
   },
   {
-    "rank": 150,
+    "rank": 149,
     "teamName": "Black Shores",
     "elo5v5": 0
   },
   {
-    "rank": 151,
+    "rank": 150,
     "teamName": "Xitados FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 151,
+    "teamName": "Mentos",
     "elo5v5": 0
   },
   {
