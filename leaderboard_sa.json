@@ -11,8 +11,8 @@
   },
   {
     "rank": 3,
-    "teamName": "Criciúma",
-    "elo5v5": 21
+    "teamName": "Coitadinhos",
+    "elo5v5": 22
   },
   {
     "rank": 4,
@@ -21,52 +21,52 @@
   },
   {
     "rank": 5,
-    "teamName": "Moggers",
+    "teamName": "Criciúma",
     "elo5v5": 0
   },
   {
     "rank": 6,
-    "teamName": "Index Predator",
+    "teamName": "Moggers",
     "elo5v5": 0
   },
   {
     "rank": 7,
-    "teamName": "WorldBreakers",
+    "teamName": "Index Predator",
     "elo5v5": 0
   },
   {
     "rank": 8,
-    "teamName": "Kurain SA",
+    "teamName": "WorldBreakers",
     "elo5v5": 0
   },
   {
     "rank": 9,
-    "teamName": "Lolings",
+    "teamName": "Kurain SA",
     "elo5v5": 0
   },
   {
     "rank": 10,
-    "teamName": "Bastard Reborn",
+    "teamName": "Lolings",
     "elo5v5": 0
   },
   {
     "rank": 11,
-    "teamName": "Sky Reapers",
+    "teamName": "Bastard Reborn",
     "elo5v5": 0
   },
   {
     "rank": 12,
-    "teamName": "Matcha kids",
+    "teamName": "Sky Reapers",
     "elo5v5": 0
   },
   {
     "rank": 13,
-    "teamName": "Drones.exe",
+    "teamName": "Matcha kids",
     "elo5v5": 0
   },
   {
     "rank": 14,
-    "teamName": "Coitadinhos",
+    "teamName": "Drones.exe",
     "elo5v5": 0
   }
 ]
