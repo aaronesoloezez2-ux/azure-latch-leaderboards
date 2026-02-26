@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Shadow FC",
-    "elo5v5": 203
+    "elo5v5": 209
   },
   {
     "rank": 3,
@@ -116,27 +116,27 @@
   },
   {
     "rank": 24,
-    "teamName": "Mentos",
-    "elo5v5": 21
-  },
-  {
-    "rank": 25,
     "teamName": "Crimson Authority",
     "elo5v5": 20
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Chrysalis",
     "elo5v5": 9
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Persimmons",
+    "elo5v5": 7
+  },
+  {
+    "rank": 28,
+    "teamName": "Mentos",
     "elo5v5": 7
   },
   {
