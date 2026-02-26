@@ -76,28 +76,28 @@
   },
   {
     "rank": 16,
+    "teamName": "Paris X Gen U-20",
+    "elo5v5": 45
+  },
+  {
+    "rank": 17,
     "teamName": "Optimal",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Chrysalis",
     "elo5v5": 27
-  },
-  {
-    "rank": 20,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 26
   },
   {
     "rank": 21,
