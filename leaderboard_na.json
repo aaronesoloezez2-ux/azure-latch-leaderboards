@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 91
+    "teamName": "Vollständig",
+    "elo5v5": 99
   },
   {
     "rank": 11,
-    "teamName": "Vollständig",
-    "elo5v5": 82
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 91
   },
   {
     "rank": 12,
@@ -96,42 +96,42 @@
   },
   {
     "rank": 20,
-    "teamName": "Chrysalis",
-    "elo5v5": 27
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 22
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Ascendant",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Mentos",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Crimson Authority",
     "elo5v5": 20
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Sees",
+    "elo5v5": 9
+  },
+  {
+    "rank": 27,
+    "teamName": "Chrysalis",
     "elo5v5": 9
   },
   {
