@@ -116,17 +116,17 @@
   },
   {
     "rank": 24,
+    "teamName": "Exalted",
+    "elo5v5": 21
+  },
+  {
+    "rank": 25,
     "teamName": "Crimson Authority",
     "elo5v5": 20
   },
   {
-    "rank": 25,
-    "teamName": "Sees",
-    "elo5v5": 9
-  },
-  {
     "rank": 26,
-    "teamName": "Chrysalis",
+    "teamName": "Sees",
     "elo5v5": 9
   },
   {
@@ -416,402 +416,402 @@
   },
   {
     "rank": 84,
-    "teamName": "Ash FC",
+    "teamName": "Chrysalis",
     "elo5v5": 0
   },
   {
     "rank": 85,
-    "teamName": "Blue Rose Fc",
+    "teamName": "Ash FC",
     "elo5v5": 0
   },
   {
     "rank": 86,
-    "teamName": "NEO United",
+    "teamName": "Blue Rose Fc",
     "elo5v5": 0
   },
   {
     "rank": 87,
-    "teamName": "Monarchs",
+    "teamName": "NEO United",
     "elo5v5": 0
   },
   {
     "rank": 88,
-    "teamName": "Vinland",
+    "teamName": "Monarchs",
     "elo5v5": 0
   },
   {
     "rank": 89,
-    "teamName": "Rai Kanji XI.",
+    "teamName": "Vinland",
     "elo5v5": 0
   },
   {
     "rank": 90,
-    "teamName": "Sovereign Black Volocity",
+    "teamName": "Rai Kanji XI.",
     "elo5v5": 0
   },
   {
     "rank": 91,
-    "teamName": "Saikai",
+    "teamName": "Sovereign Black Volocity",
     "elo5v5": 0
   },
   {
     "rank": 92,
-    "teamName": "Vocaloid FC",
+    "teamName": "Saikai",
     "elo5v5": 0
   },
   {
     "rank": 93,
-    "teamName": "Asakusa FC",
+    "teamName": "Vocaloid FC",
     "elo5v5": 0
   },
   {
     "rank": 94,
-    "teamName": "CHRONOHEART A.F.",
+    "teamName": "Asakusa FC",
     "elo5v5": 0
   },
   {
     "rank": 95,
-    "teamName": "Spades F.C.",
+    "teamName": "CHRONOHEART A.F.",
     "elo5v5": 0
   },
   {
     "rank": 96,
-    "teamName": "Strikers Legacy",
+    "teamName": "Spades F.C.",
     "elo5v5": 0
   },
   {
     "rank": 97,
-    "teamName": "Kirisaki NA",
+    "teamName": "Strikers Legacy",
     "elo5v5": 0
   },
   {
     "rank": 98,
-    "teamName": "LATCH CORE",
+    "teamName": "Kirisaki NA",
     "elo5v5": 0
   },
   {
     "rank": 99,
-    "teamName": "The Tuff Knuckles",
+    "teamName": "LATCH CORE",
     "elo5v5": 0
   },
   {
     "rank": 100,
-    "teamName": "Tengoku FC",
+    "teamName": "The Tuff Knuckles",
     "elo5v5": 0
   },
   {
     "rank": 101,
-    "teamName": "勝 Benevolence 勝",
+    "teamName": "Tengoku FC",
     "elo5v5": 0
   },
   {
     "rank": 102,
-    "teamName": "Generation of Miracles",
+    "teamName": "勝 Benevolence 勝",
     "elo5v5": 0
   },
   {
     "rank": 103,
-    "teamName": "Bloco Dos Finfas",
+    "teamName": "Generation of Miracles",
     "elo5v5": 0
   },
   {
     "rank": 104,
-    "teamName": "Kantou Curses",
+    "teamName": "Bloco Dos Finfas",
     "elo5v5": 0
   },
   {
     "rank": 105,
-    "teamName": "Malice",
+    "teamName": "Kantou Curses",
     "elo5v5": 0
   },
   {
     "rank": 106,
-    "teamName": "Astrillion",
+    "teamName": "Malice",
     "elo5v5": 0
   },
   {
     "rank": 107,
-    "teamName": "Azure Syndicate",
+    "teamName": "Astrillion",
     "elo5v5": 0
   },
   {
     "rank": 108,
-    "teamName": "Legion Of Bloom",
+    "teamName": "Azure Syndicate",
     "elo5v5": 0
   },
   {
     "rank": 109,
-    "teamName": "Heart of Paris",
+    "teamName": "Legion Of Bloom",
     "elo5v5": 0
   },
   {
     "rank": 110,
-    "teamName": "The White Palace",
+    "teamName": "Heart of Paris",
     "elo5v5": 0
   },
   {
     "rank": 111,
-    "teamName": "SYLLOGISM",
+    "teamName": "The White Palace",
     "elo5v5": 0
   },
   {
     "rank": 112,
-    "teamName": "Ruin no Ō Owner",
+    "teamName": "SYLLOGISM",
     "elo5v5": 0
   },
   {
     "rank": 113,
-    "teamName": "RE",
+    "teamName": "Ruin no Ō Owner",
     "elo5v5": 0
   },
   {
     "rank": 114,
-    "teamName": "Aogiri NA",
+    "teamName": "RE",
     "elo5v5": 0
   },
   {
     "rank": 115,
-    "teamName": "Vamp FC",
+    "teamName": "Aogiri NA",
     "elo5v5": 0
   },
   {
     "rank": 116,
-    "teamName": "MEH_0000",
+    "teamName": "Vamp FC",
     "elo5v5": 0
   },
   {
     "rank": 117,
-    "teamName": "Ethereal",
+    "teamName": "MEH_0000",
     "elo5v5": 0
   },
   {
     "rank": 118,
-    "teamName": "Essence of The Soul",
+    "teamName": "Ethereal",
     "elo5v5": 0
   },
   {
     "rank": 119,
-    "teamName": "Haku House",
+    "teamName": "Essence of The Soul",
     "elo5v5": 0
   },
   {
     "rank": 120,
-    "teamName": "Lobotomy Corporation NA",
+    "teamName": "Haku House",
     "elo5v5": 0
   },
   {
     "rank": 121,
-    "teamName": "TL HOMAGE",
+    "teamName": "Lobotomy Corporation NA",
     "elo5v5": 0
   },
   {
     "rank": 122,
-    "teamName": "TEIKO FC",
+    "teamName": "TL HOMAGE",
     "elo5v5": 0
   },
   {
     "rank": 123,
-    "teamName": "RE.",
+    "teamName": "TEIKO FC",
     "elo5v5": 0
   },
   {
     "rank": 124,
-    "teamName": "Knights Of Black",
+    "teamName": "RE.",
     "elo5v5": 0
   },
   {
     "rank": 125,
-    "teamName": "Astral NA",
+    "teamName": "Knights Of Black",
     "elo5v5": 0
   },
   {
     "rank": 126,
-    "teamName": "Jesters F.C.",
+    "teamName": "Astral NA",
     "elo5v5": 0
   },
   {
     "rank": 127,
-    "teamName": "Yuri FC",
+    "teamName": "Jesters F.C.",
     "elo5v5": 0
   },
   {
     "rank": 128,
-    "teamName": "a",
+    "teamName": "Yuri FC",
     "elo5v5": 0
   },
   {
     "rank": 129,
-    "teamName": "AZB",
+    "teamName": "a",
     "elo5v5": 0
   },
   {
     "rank": 130,
-    "teamName": "Laundry FC",
+    "teamName": "AZB",
     "elo5v5": 0
   },
   {
     "rank": 131,
-    "teamName": "Phantom FC",
+    "teamName": "Laundry FC",
     "elo5v5": 0
   },
   {
     "rank": 132,
-    "teamName": "Real Madrid",
+    "teamName": "Phantom FC",
     "elo5v5": 0
   },
   {
     "rank": 133,
-    "teamName": "BLLK 11",
+    "teamName": "Real Madrid",
     "elo5v5": 0
   },
   {
     "rank": 134,
-    "teamName": "Xcution",
+    "teamName": "BLLK 11",
     "elo5v5": 0
   },
   {
     "rank": 135,
-    "teamName": "Milanna FC",
+    "teamName": "Xcution",
     "elo5v5": 0
   },
   {
     "rank": 136,
-    "teamName": "The BlueLock Project",
+    "teamName": "Milanna FC",
     "elo5v5": 0
   },
   {
     "rank": 137,
-    "teamName": "Berserk Dortmund",
+    "teamName": "The BlueLock Project",
     "elo5v5": 0
   },
   {
     "rank": 138,
-    "teamName": "Unbalanced FC",
+    "teamName": "Berserk Dortmund",
     "elo5v5": 0
   },
   {
     "rank": 139,
-    "teamName": "Zethar",
+    "teamName": "Unbalanced FC",
     "elo5v5": 0
   },
   {
     "rank": 140,
-    "teamName": "Truth",
+    "teamName": "Zethar",
     "elo5v5": 0
   },
   {
     "rank": 141,
-    "teamName": "RedKey Strikers",
+    "teamName": "Truth",
     "elo5v5": 0
   },
   {
     "rank": 142,
-    "teamName": "Espada courtyard",
+    "teamName": "RedKey Strikers",
     "elo5v5": 0
   },
   {
     "rank": 143,
-    "teamName": "Forever",
+    "teamName": "Espada courtyard",
     "elo5v5": 0
   },
   {
     "rank": 144,
-    "teamName": "Esperion FC",
+    "teamName": "Forever",
     "elo5v5": 0
   },
   {
     "rank": 145,
-    "teamName": "Withering",
+    "teamName": "Esperion FC",
     "elo5v5": 0
   },
   {
     "rank": 146,
-    "teamName": "Heroic Cowards",
+    "teamName": "Withering",
     "elo5v5": 0
   },
   {
     "rank": 147,
-    "teamName": "Son",
+    "teamName": "Heroic Cowards",
     "elo5v5": 0
   },
   {
     "rank": 148,
-    "teamName": "Decaying order",
+    "teamName": "Son",
     "elo5v5": 0
   },
   {
     "rank": 149,
-    "teamName": "Black Shores",
+    "teamName": "Decaying order",
     "elo5v5": 0
   },
   {
     "rank": 150,
-    "teamName": "Xitados FC",
+    "teamName": "Black Shores",
     "elo5v5": 0
   },
   {
     "rank": 151,
-    "teamName": "Mentos",
+    "teamName": "Xitados FC",
     "elo5v5": 0
   },
   {
     "rank": 152,
-    "teamName": "Eclipse",
+    "teamName": "Mentos",
     "elo5v5": 0
   },
   {
     "rank": 153,
-    "teamName": "Black Zenith",
+    "teamName": "Eclipse",
     "elo5v5": 0
   },
   {
     "rank": 154,
-    "teamName": "Crossed Latch",
+    "teamName": "Black Zenith",
     "elo5v5": 0
   },
   {
     "rank": 155,
-    "teamName": "Awoken",
+    "teamName": "Crossed Latch",
     "elo5v5": 0
   },
   {
     "rank": 156,
-    "teamName": "Rimu",
+    "teamName": "Awoken",
     "elo5v5": 0
   },
   {
     "rank": 157,
-    "teamName": "67SonicSpeedGoalers",
+    "teamName": "Rimu",
     "elo5v5": 0
   },
   {
     "rank": 158,
-    "teamName": "Los Hermanos",
+    "teamName": "67SonicSpeedGoalers",
     "elo5v5": 0
   },
   {
     "rank": 159,
-    "teamName": "The True Larpers F.C.",
+    "teamName": "Los Hermanos",
     "elo5v5": 0
   },
   {
     "rank": 160,
-    "teamName": "Fallen Strikers",
+    "teamName": "The True Larpers F.C.",
     "elo5v5": 0
   },
   {
     "rank": 161,
-    "teamName": "The Shadow Of Azure Latch FC.",
+    "teamName": "Fallen Strikers",
     "elo5v5": 0
   },
   {
     "rank": 162,
-    "teamName": "Doki Doki FC",
+    "teamName": "The Shadow Of Azure Latch FC.",
     "elo5v5": 0
   },
   {
     "rank": 163,
-    "teamName": "Exalted",
+    "teamName": "Doki Doki FC",
     "elo5v5": 0
   },
   {
