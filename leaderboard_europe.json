@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Genesis V",
-    "elo5v5": 213
+    "teamName": "Spectral",
+    "elo5v5": 203
   },
   {
     "rank": 3,
-    "teamName": "Spectral",
-    "elo5v5": 203
+    "teamName": "Genesis V",
+    "elo5v5": 201
   },
   {
     "rank": 4,
@@ -1161,23 +1161,23 @@
   },
   {
     "rank": 233,
+    "teamName": "black phantoms",
+    "elo5v5": 96
+  },
+  {
+    "rank": 234,
     "teamName": "Kodo Giasu",
     "elo5v5": 81
   },
   {
-    "rank": 234,
+    "rank": 235,
     "teamName": "Chain Breakers",
     "elo5v5": 78
   },
   {
-    "rank": 235,
+    "rank": 236,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 77
-  },
-  {
-    "rank": 236,
-    "teamName": "black phantoms",
-    "elo5v5": 71
   },
   {
     "rank": 237,
