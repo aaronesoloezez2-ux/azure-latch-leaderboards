@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 146
+    "elo5v5": 158
   },
   {
     "rank": 6,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 45
-  },
-  {
-    "rank": 17,
     "teamName": "Optimal",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kimani",
     "elo5v5": 30
+  },
+  {
+    "rank": 18,
+    "teamName": "Paris X Gen U-20",
+    "elo5v5": 29
   },
   {
     "rank": 19,
