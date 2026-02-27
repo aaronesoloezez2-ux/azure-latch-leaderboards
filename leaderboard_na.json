@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Teto Company",
-    "elo5v5": 237
+    "elo5v5": 242
   },
   {
     "rank": 2,
@@ -86,43 +86,43 @@
   },
   {
     "rank": 18,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 29
-  },
-  {
-    "rank": 19,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Ascendant",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Exalted",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 20
+  },
+  {
+    "rank": 25,
+    "teamName": "Paris X Gen U-20",
+    "elo5v5": 16
   },
   {
     "rank": 26,
