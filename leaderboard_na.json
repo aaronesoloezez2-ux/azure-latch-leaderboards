@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "Vollständig",
-    "elo5v5": 99
+    "elo5v5": 114
   },
   {
     "rank": 11,
@@ -106,43 +106,43 @@
   },
   {
     "rank": 22,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 22
-  },
-  {
-    "rank": 23,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Ascendant",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 20
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Chrysalis",
     "elo5v5": 9
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Rose Garden FC",
     "elo5v5": 5
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Ubers+",
     "elo5v5": 5
+  },
+  {
+    "rank": 29,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 4
   },
   {
     "rank": 30,
