@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Spectral",
-    "elo5v5": 195
+    "elo5v5": 203
   },
   {
     "rank": 4,
@@ -1196,28 +1196,28 @@
   },
   {
     "rank": 240,
-    "teamName": "M1 F.C.",
-    "elo5v5": 51
-  },
-  {
-    "rank": 241,
     "teamName": "Cowabungas FC",
     "elo5v5": 46
   },
   {
-    "rank": 242,
+    "rank": 241,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 243,
+    "rank": 242,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 244,
+    "rank": 243,
     "teamName": "Ferencvaros",
     "elo5v5": 41
+  },
+  {
+    "rank": 244,
+    "teamName": "M1 F.C.",
+    "elo5v5": 36
   },
   {
     "rank": 245,
