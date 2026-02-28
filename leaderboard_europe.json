@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
-    "teamName": "Genesis V",
-    "elo5v5": 191
-  },
-  {
-    "rank": 5,
     "teamName": "Luminosity",
     "elo5v5": 181
   },
   {
+    "rank": 5,
+    "teamName": "Genesis V",
+    "elo5v5": 180
+  },
+  {
     "rank": 6,
     "teamName": "M1 F.C.",
-    "elo5v5": 162
+    "elo5v5": 176
   },
   {
     "rank": 7,
