@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Revelation",
-    "elo5v5": 194
+    "teamName": "Shadow FC",
+    "elo5v5": 197
   },
   {
     "rank": 4,
-    "teamName": "Shadow FC",
-    "elo5v5": 190
+    "teamName": "Revelation",
+    "elo5v5": 194
   },
   {
     "rank": 5,
@@ -111,18 +111,18 @@
   },
   {
     "rank": 23,
-    "teamName": "Ascendant",
-    "elo5v5": 21
-  },
-  {
-    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 20
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Sees",
     "elo5v5": 9
+  },
+  {
+    "rank": 25,
+    "teamName": "Ascendant",
+    "elo5v5": 7
   },
   {
     "rank": 26,
