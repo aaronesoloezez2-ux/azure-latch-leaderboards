@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kurain",
-    "elo5v5": 219
+    "elo5v5": 225
   },
   {
     "rank": 3,
@@ -101,18 +101,18 @@
   },
   {
     "rank": 21,
-    "teamName": "Exalted",
-    "elo5v5": 23
-  },
-  {
-    "rank": 22,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 20
+  },
+  {
+    "rank": 23,
+    "teamName": "Exalted",
+    "elo5v5": 10
   },
   {
     "rank": 24,
