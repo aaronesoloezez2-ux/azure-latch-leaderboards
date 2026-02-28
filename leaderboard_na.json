@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
+    "teamName": "Optimal",
+    "elo5v5": 78
+  },
+  {
+    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 15,
-    "teamName": "Optimal",
-    "elo5v5": 61
   },
   {
     "rank": 16,
