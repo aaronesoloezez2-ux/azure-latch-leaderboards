@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Optimal",
-    "elo5v5": 78
-  },
-  {
-    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 15,
+    "teamName": "Optimal",
+    "elo5v5": 57
   },
   {
     "rank": 16,
@@ -81,33 +81,33 @@
   },
   {
     "rank": 17,
+    "teamName": "Chrysalis",
+    "elo5v5": 44
+  },
+  {
+    "rank": 18,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Exalted",
     "elo5v5": 30
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
-  },
-  {
-    "rank": 22,
-    "teamName": "Chrysalis",
-    "elo5v5": 21
   },
   {
     "rank": 23,
