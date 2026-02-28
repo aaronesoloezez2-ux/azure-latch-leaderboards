@@ -71,47 +71,47 @@
   },
   {
     "rank": 15,
-    "teamName": "Ascendant",
-    "elo5v5": 48
-  },
-  {
-    "rank": 16,
     "teamName": "Optimal",
     "elo5v5": 42
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 25
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Exalted",
     "elo5v5": 23
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "The Wiki",
+    "elo5v5": 21
+  },
+  {
+    "rank": 23,
+    "teamName": "Ascendant",
     "elo5v5": 21
   },
   {
