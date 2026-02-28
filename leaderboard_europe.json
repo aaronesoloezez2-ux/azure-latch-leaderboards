@@ -7,22 +7,22 @@
   {
     "rank": 2,
     "teamName": "Spectral",
-    "elo5v5": 213
+    "elo5v5": 203
   },
   {
     "rank": 3,
+    "teamName": "Genesis V",
+    "elo5v5": 192
+  },
+  {
+    "rank": 4,
     "teamName": "Money Break",
     "elo5v5": 191
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Luminosity",
     "elo5v5": 181
-  },
-  {
-    "rank": 5,
-    "teamName": "Genesis V",
-    "elo5v5": 180
   },
   {
     "rank": 6,
