@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "M.FC",
+    "elo5v5": 130
+  },
+  {
+    "rank": 9,
     "teamName": "Primordials",
     "elo5v5": 127
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Taisho",
     "elo5v5": 118
-  },
-  {
-    "rank": 10,
-    "teamName": "M.FC",
-    "elo5v5": 115
   },
   {
     "rank": 11,
