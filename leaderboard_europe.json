@@ -1646,17 +1646,17 @@
   },
   {
     "rank": 330,
-    "teamName": "UNBLACKLISTED FC",
-    "elo5v5": 0
-  },
-  {
-    "rank": 331,
     "teamName": "DNS FC",
     "elo5v5": 0
   },
   {
-    "rank": 332,
+    "rank": 331,
     "teamName": "Bloom FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 332,
+    "teamName": "UnBlacklisted FC",
     "elo5v5": 0
   },
   {
