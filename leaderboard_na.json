@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 259
+    "teamName": "Teto Company",
+    "elo5v5": 253
   },
   {
     "rank": 2,
-    "teamName": "Teto Company",
-    "elo5v5": 253
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 248
   },
   {
     "rank": 3,
@@ -51,28 +51,28 @@
   },
   {
     "rank": 11,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 92
+  },
+  {
+    "rank": 12,
     "teamName": "Fruit Ninjas",
     "elo5v5": 91
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 90
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 15,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 65
   },
   {
     "rank": 16,
