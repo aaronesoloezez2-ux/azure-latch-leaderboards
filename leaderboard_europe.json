@@ -1091,18 +1091,18 @@
   },
   {
     "rank": 219,
-    "teamName": "Chain Breakers",
-    "elo5v5": 96
-  },
-  {
-    "rank": 220,
     "teamName": "black phantoms",
     "elo5v5": 90
   },
   {
-    "rank": 221,
+    "rank": 220,
     "teamName": "Nullifier",
     "elo5v5": 81
+  },
+  {
+    "rank": 221,
+    "teamName": "Chain Breakers",
+    "elo5v5": 80
   },
   {
     "rank": 222,
