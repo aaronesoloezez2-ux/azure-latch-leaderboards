@@ -51,23 +51,23 @@
   },
   {
     "rank": 11,
+    "teamName": "Fight Club",
+    "elo5v5": 108
+  },
+  {
+    "rank": 12,
     "teamName": "Fruit Ninjas",
     "elo5v5": 91
   },
   {
-    "rank": 12,
-    "teamName": "Fight Club",
-    "elo5v5": 90
-  },
-  {
     "rank": 13,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 86
+    "teamName": "Promised",
+    "elo5v5": 76
   },
   {
     "rank": 14,
-    "teamName": "Promised",
-    "elo5v5": 76
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 67
   },
   {
     "rank": 15,
