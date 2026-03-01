@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Shadow FC",
-    "elo5v5": 203
+    "elo5v5": 211
   },
   {
     "rank": 5,
@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
-    "teamName": "Completeness",
-    "elo5v5": 134
-  },
-  {
-    "rank": 8,
     "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Espada",
     "elo5v5": 126
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 125
+  },
+  {
+    "rank": 10,
+    "teamName": "Completeness",
+    "elo5v5": 121
   },
   {
     "rank": 11,
