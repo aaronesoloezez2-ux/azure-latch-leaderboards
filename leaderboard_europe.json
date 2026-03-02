@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "M1 F.C.",
-    "elo5v5": 162
+    "teamName": "Genesis V",
+    "elo5v5": 172
   },
   {
     "rank": 7,
-    "teamName": "Genesis V",
-    "elo5v5": 161
+    "teamName": "M1 F.C.",
+    "elo5v5": 162
   },
   {
     "rank": 8,
@@ -901,18 +901,18 @@
   },
   {
     "rank": 181,
-    "teamName": "black phantoms",
-    "elo5v5": 90
-  },
-  {
-    "rank": 182,
     "teamName": "Nullifier",
     "elo5v5": 81
   },
   {
-    "rank": 183,
+    "rank": 182,
     "teamName": "SPRIZEN REQUIEM",
     "elo5v5": 79
+  },
+  {
+    "rank": 183,
+    "teamName": "black phantoms",
+    "elo5v5": 74
   },
   {
     "rank": 184,
