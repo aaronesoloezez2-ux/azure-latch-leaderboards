@@ -36,17 +36,17 @@
   },
   {
     "rank": 8,
+    "teamName": "Taishō",
+    "elo5v5": 131
+  },
+  {
+    "rank": 9,
     "teamName": "Primordials",
     "elo5v5": 121
   },
   {
-    "rank": 9,
-    "teamName": "Cowabungas",
-    "elo5v5": 118
-  },
-  {
     "rank": 10,
-    "teamName": "Taishō",
+    "teamName": "Cowabungas",
     "elo5v5": 118
   },
   {
