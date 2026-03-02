@@ -66,57 +66,57 @@
   },
   {
     "rank": 14,
+    "teamName": "Optimal",
+    "elo5v5": 76
+  },
+  {
+    "rank": 15,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 67
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Chrysalis",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 18,
-    "teamName": "Optimal",
-    "elo5v5": 57
-  },
-  {
     "rank": 19,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 45
-  },
-  {
-    "rank": 20,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "TEIKO FC",
     "elo5v5": 25
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 24,
+    "teamName": "Paris X Gen U-20",
     "elo5v5": 25
   },
   {
