@@ -896,18 +896,18 @@
   },
   {
     "rank": 180,
-    "teamName": "Nullifier",
-    "elo5v5": 81
-  },
-  {
-    "rank": 181,
     "teamName": "SPRIZEN REQUIEM",
     "elo5v5": 79
   },
   {
-    "rank": 182,
+    "rank": 181,
     "teamName": "Cowabungas FC",
     "elo5v5": 64
+  },
+  {
+    "rank": 182,
+    "teamName": "Nullifier",
+    "elo5v5": 60
   },
   {
     "rank": 183,
@@ -926,42 +926,42 @@
   },
   {
     "rank": 186,
+    "teamName": "Manshine United EU",
+    "elo5v5": 45
+  },
+  {
+    "rank": 187,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 187,
+    "rank": 188,
     "teamName": "Ferencvaros",
     "elo5v5": 41
   },
   {
-    "rank": 188,
+    "rank": 189,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 189,
+    "rank": 190,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 190,
+    "rank": 191,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 191,
+    "rank": 192,
     "teamName": "Goku FC",
     "elo5v5": 25
   },
   {
-    "rank": 192,
-    "teamName": "Abibas: sambas",
-    "elo5v5": 22
-  },
-  {
     "rank": 193,
-    "teamName": "Manshine United EU",
+    "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
