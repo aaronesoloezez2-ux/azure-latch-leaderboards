@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
+    "teamName": "Paris X Gen U-20",
+    "elo5v5": 29
+  },
+  {
+    "rank": 22,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "TEIKO FC",
     "elo5v5": 25
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
-  },
-  {
-    "rank": 25,
-    "teamName": "Mugen",
-    "elo5v5": 22
   },
   {
     "rank": 26,
@@ -136,8 +136,8 @@
   },
   {
     "rank": 28,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 8
+    "teamName": "Mugen",
+    "elo5v5": 1
   },
   {
     "rank": 29,
