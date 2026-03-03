@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "Fight Club",
+    "elo5v5": 135
+  },
+  {
+    "rank": 9,
     "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Paris X Gen",
     "elo5v5": 124
-  },
-  {
-    "rank": 11,
-    "teamName": "Fight Club",
-    "elo5v5": 122
   },
   {
     "rank": 12,
@@ -121,23 +121,23 @@
   },
   {
     "rank": 25,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 25
-  },
-  {
-    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 22
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Sees",
     "elo5v5": 9
+  },
+  {
+    "rank": 28,
+    "teamName": "Paris X Gen U-20",
+    "elo5v5": 8
   },
   {
     "rank": 29,
