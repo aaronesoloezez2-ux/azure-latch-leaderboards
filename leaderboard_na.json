@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "Optimal",
+    "elo5v5": 109
+  },
+  {
+    "rank": 12,
     "teamName": "Fruit Ninjas",
     "elo5v5": 101
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 100
-  },
-  {
-    "rank": 13,
-    "teamName": "Optimal",
-    "elo5v5": 94
   },
   {
     "rank": 14,
