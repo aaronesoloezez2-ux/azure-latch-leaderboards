@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Kōdo Giasu",
-    "elo5v5": 221
-  },
-  {
-    "rank": 4,
     "teamName": "Shadow FC",
     "elo5v5": 217
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Kurain",
     "elo5v5": 215
+  },
+  {
+    "rank": 5,
+    "teamName": "Kōdo Giasu",
+    "elo5v5": 209
   },
   {
     "rank": 6,
@@ -91,53 +91,53 @@
   },
   {
     "rank": 19,
+    "teamName": "Valkyrie",
+    "elo5v5": 37
+  },
+  {
+    "rank": 20,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "TEIKO FC",
     "elo5v5": 25
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Paris X Gen U-20",
     "elo5v5": 25
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 22
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Sees",
     "elo5v5": 9
-  },
-  {
-    "rank": 28,
-    "teamName": "Valkyrie",
-    "elo5v5": 8
   },
   {
     "rank": 29,
