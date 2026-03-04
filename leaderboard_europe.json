@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Blacklisted FC",
-    "elo5v5": 198
+    "elo5v5": 205
   },
   {
     "rank": 5,
@@ -896,27 +896,27 @@
   },
   {
     "rank": 180,
-    "teamName": "Murmur",
-    "elo5v5": 60
-  },
-  {
-    "rank": 181,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 182,
+    "rank": 181,
     "teamName": "Chain Breakers",
     "elo5v5": 58
   },
   {
-    "rank": 183,
+    "rank": 182,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 184,
+    "rank": 183,
     "teamName": "Manshine United EU",
+    "elo5v5": 45
+  },
+  {
+    "rank": 184,
+    "teamName": "Murmur",
     "elo5v5": 45
   },
   {
