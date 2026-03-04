@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "M1 F.C.",
-    "elo5v5": 170
+    "elo5v5": 179
   },
   {
     "rank": 8,
@@ -901,22 +901,22 @@
   },
   {
     "rank": 181,
-    "teamName": "Chain Breakers",
-    "elo5v5": 40
-  },
-  {
-    "rank": 182,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 183,
+    "rank": 182,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 184,
+    "rank": 183,
     "teamName": "Eternal FC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 184,
+    "teamName": "Chain Breakers",
     "elo5v5": 25
   },
   {
