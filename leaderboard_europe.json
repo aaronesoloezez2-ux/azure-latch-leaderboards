@@ -931,8 +931,8 @@
   },
   {
     "rank": 187,
-    "teamName": "Blessed",
-    "elo5v5": 21
+    "teamName": "Bluelock XI",
+    "elo5v5": 22
   },
   {
     "rank": 188,
@@ -1406,17 +1406,17 @@
   },
   {
     "rank": 282,
-    "teamName": "Bluelock XI",
-    "elo5v5": 0
-  },
-  {
-    "rank": 283,
     "teamName": "Muringo FC",
     "elo5v5": 0
   },
   {
-    "rank": 284,
+    "rank": 283,
     "teamName": "big pigs",
+    "elo5v5": 0
+  },
+  {
+    "rank": 284,
+    "teamName": "Blessed",
     "elo5v5": 0
   },
   {
