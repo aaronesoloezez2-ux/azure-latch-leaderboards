@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Genesis V",
-    "elo5v5": 180
+    "elo5v5": 188
   },
   {
     "rank": 7,
@@ -911,23 +911,23 @@
   },
   {
     "rank": 183,
-    "teamName": "Manshine United EU",
-    "elo5v5": 45
-  },
-  {
-    "rank": 184,
     "teamName": "Murmur",
     "elo5v5": 45
   },
   {
-    "rank": 185,
+    "rank": 184,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 186,
+    "rank": 185,
     "teamName": "Ferencvaros",
     "elo5v5": 41
+  },
+  {
+    "rank": 186,
+    "teamName": "Manshine United EU",
+    "elo5v5": 30
   },
   {
     "rank": 187,
