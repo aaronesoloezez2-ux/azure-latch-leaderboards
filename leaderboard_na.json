@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
+    "teamName": "Valkyrie",
+    "elo5v5": 102
+  },
+  {
+    "rank": 13,
     "teamName": "Fruit Ninjas",
     "elo5v5": 101
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 100
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 93
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Optimal",
     "elo5v5": 89
-  },
-  {
-    "rank": 16,
-    "teamName": "Valkyrie",
-    "elo5v5": 86
   },
   {
     "rank": 17,
