@@ -37,7 +37,7 @@
   {
     "rank": 8,
     "teamName": "Primordials",
-    "elo5v5": 119
+    "elo5v5": 134
   },
   {
     "rank": 9,
@@ -876,33 +876,33 @@
   },
   {
     "rank": 176,
-    "teamName": "Chain Breakers",
-    "elo5v5": 58
-  },
-  {
-    "rank": 177,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 178,
+    "rank": 177,
     "teamName": "Manshine United EU",
     "elo5v5": 45
   },
   {
-    "rank": 179,
+    "rank": 178,
     "teamName": "Murmur",
     "elo5v5": 45
   },
   {
-    "rank": 180,
+    "rank": 179,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 181,
+    "rank": 180,
     "teamName": "Ferencvaros",
     "elo5v5": 41
+  },
+  {
+    "rank": 181,
+    "teamName": "Chain Breakers",
+    "elo5v5": 40
   },
   {
     "rank": 182,
