@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Shadow FC",
-    "elo5v5": 185
+    "teamName": "Espada",
+    "elo5v5": 178
   },
   {
     "rank": 6,
-    "teamName": "Espada",
-    "elo5v5": 178
+    "teamName": "Shadow FC",
+    "elo5v5": 173
   },
   {
     "rank": 7,
@@ -36,17 +36,17 @@
   },
   {
     "rank": 8,
+    "teamName": "Valkyrie",
+    "elo5v5": 147
+  },
+  {
+    "rank": 9,
     "teamName": "Paris X Gen",
     "elo5v5": 130
   },
   {
-    "rank": 9,
-    "teamName": "Shutoku",
-    "elo5v5": 129
-  },
-  {
     "rank": 10,
-    "teamName": "Valkyrie",
+    "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
