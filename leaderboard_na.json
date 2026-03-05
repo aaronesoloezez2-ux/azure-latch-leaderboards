@@ -56,17 +56,17 @@
   },
   {
     "rank": 12,
-    "teamName": "Chrysalis",
-    "elo5v5": 101
-  },
-  {
-    "rank": 13,
     "teamName": "Fruit Ninjas",
     "elo5v5": 101
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Fight Club",
+    "elo5v5": 100
+  },
+  {
+    "rank": 14,
+    "teamName": "Paris X Gen U-20",
     "elo5v5": 100
   },
   {
@@ -96,8 +96,8 @@
   },
   {
     "rank": 20,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 60
+    "teamName": "Chrysalis",
+    "elo5v5": 63
   },
   {
     "rank": 21,
