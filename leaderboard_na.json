@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 101
+  },
+  {
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 100
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Paris X Gen U-20",
     "elo5v5": 100
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 93
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Optimal",
     "elo5v5": 89
-  },
-  {
-    "rank": 16,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 85
   },
   {
     "rank": 17,
