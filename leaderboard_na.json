@@ -56,48 +56,48 @@
   },
   {
     "rank": 12,
-    "teamName": "Fruit Ninjas",
+    "teamName": "Chrysalis",
     "elo5v5": 101
   },
   {
     "rank": 13,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 101
+  },
+  {
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 100
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 93
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Optimal",
     "elo5v5": 89
   },
   {
-    "rank": 16,
-    "teamName": "Chrysalis",
-    "elo5v5": 82
-  },
-  {
     "rank": 17,
-    "teamName": "Paris X Gen U-20",
-    "elo5v5": 79
-  },
-  {
-    "rank": 18,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 67
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 20,
+    "teamName": "Paris X Gen U-20",
+    "elo5v5": 60
   },
   {
     "rank": 21,
