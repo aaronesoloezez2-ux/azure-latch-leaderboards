@@ -851,37 +851,37 @@
   },
   {
     "rank": 171,
-    "teamName": "Murmur",
+    "teamName": "Chain Breakers",
     "elo5v5": 45
   },
   {
     "rank": 172,
+    "teamName": "Murmur",
+    "elo5v5": 45
+  },
+  {
+    "rank": 173,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 173,
+    "rank": 174,
     "teamName": "Ferencvaros",
     "elo5v5": 41
   },
   {
-    "rank": 174,
+    "rank": 175,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 175,
+    "rank": 176,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 176,
-    "teamName": "Eternal FC",
-    "elo5v5": 25
-  },
-  {
     "rank": 177,
-    "teamName": "Chain Breakers",
+    "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
