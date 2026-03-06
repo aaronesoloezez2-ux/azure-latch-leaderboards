@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Authority",
+    "elo5v5": 222
+  },
+  {
+    "rank": 4,
     "teamName": "Money Break",
     "elo5v5": 221
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Genesis V",
     "elo5v5": 211
-  },
-  {
-    "rank": 5,
-    "teamName": "Authority",
-    "elo5v5": 210
   },
   {
     "rank": 6,
