@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kurain",
-    "elo5v5": 215
+    "elo5v5": 221
   },
   {
     "rank": 3,
@@ -116,33 +116,33 @@
   },
   {
     "rank": 24,
-    "teamName": "Kodo Giasu U20",
-    "elo5v5": 27
-  },
-  {
-    "rank": 25,
     "teamName": "Reprised",
     "elo5v5": 26
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Eclipse",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
+  },
+  {
+    "rank": 29,
+    "teamName": "Kodo Giasu U20",
+    "elo5v5": 14
   },
   {
     "rank": 30,
