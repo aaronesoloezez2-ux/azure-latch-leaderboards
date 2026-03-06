@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Optimal",
-    "elo5v5": 89
-  },
-  {
-    "rank": 17,
     "teamName": "Chrysalis",
     "elo5v5": 80
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Promised",
     "elo5v5": 76
+  },
+  {
+    "rank": 18,
+    "teamName": "Optimal",
+    "elo5v5": 69
   },
   {
     "rank": 19,
@@ -102,7 +102,7 @@
   {
     "rank": 21,
     "teamName": "Burger FC [NA]",
-    "elo5v5": 42
+    "elo5v5": 64
   },
   {
     "rank": 22,
