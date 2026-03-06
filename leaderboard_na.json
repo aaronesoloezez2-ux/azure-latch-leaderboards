@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Revelation",
-    "elo5v5": 214
+    "elo5v5": 220
   },
   {
     "rank": 4,
@@ -136,18 +136,18 @@
   },
   {
     "rank": 28,
-    "teamName": "Kodo Giasu U20",
-    "elo5v5": 14
-  },
-  {
-    "rank": 29,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Reprised",
     "elo5v5": 5
+  },
+  {
+    "rank": 30,
+    "teamName": "Kodo Giasu U20",
+    "elo5v5": 1
   },
   {
     "rank": 31,
