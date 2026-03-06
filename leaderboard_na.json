@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
+    "teamName": "Optimal",
+    "elo5v5": 106
+  },
+  {
+    "rank": 13,
     "teamName": "Fight Club",
     "elo5v5": 100
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Valkyrie",
     "elo5v5": 96
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 93
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Fruit Ninjas",
     "elo5v5": 91
-  },
-  {
-    "rank": 16,
-    "teamName": "Optimal",
-    "elo5v5": 89
   },
   {
     "rank": 17,
@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
-    "teamName": "Burger FC [NA]",
-    "elo5v5": 42
-  },
-  {
-    "rank": 22,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
+  },
+  {
+    "rank": 25,
+    "teamName": "Burger FC [NA]",
+    "elo5v5": 24
   },
   {
     "rank": 26,
