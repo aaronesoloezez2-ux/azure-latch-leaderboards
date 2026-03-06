@@ -37,7 +37,7 @@
   {
     "rank": 8,
     "teamName": "Taishō",
-    "elo5v5": 118
+    "elo5v5": 132
   },
   {
     "rank": 9,
@@ -841,33 +841,33 @@
   },
   {
     "rank": 169,
-    "teamName": "Murmur",
-    "elo5v5": 31
-  },
-  {
-    "rank": 170,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 171,
+    "rank": 170,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 172,
+    "rank": 171,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 173,
+    "rank": 172,
     "teamName": "Goku FC",
     "elo5v5": 25
   },
   {
-    "rank": 174,
+    "rank": 173,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
+  },
+  {
+    "rank": 174,
+    "teamName": "Murmur",
+    "elo5v5": 14
   },
   {
     "rank": 175,
