@@ -81,23 +81,23 @@
   },
   {
     "rank": 17,
+    "teamName": "Chrysalis",
+    "elo5v5": 80
+  },
+  {
+    "rank": 18,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 67
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 20,
-    "teamName": "Chrysalis",
-    "elo5v5": 63
   },
   {
     "rank": 21,
