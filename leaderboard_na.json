@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Fight Club",
-    "elo5v5": 100
+    "teamName": "Re Al U-20",
+    "elo5v5": 116
   },
   {
     "rank": 13,
-    "teamName": "Re Al U-20",
-    "elo5v5": 99
+    "teamName": "Fight Club",
+    "elo5v5": 100
   },
   {
     "rank": 14,
@@ -81,23 +81,23 @@
   },
   {
     "rank": 17,
-    "teamName": "Chrysalis",
-    "elo5v5": 80
-  },
-  {
-    "rank": 18,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 67
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 20,
+    "teamName": "Chrysalis",
+    "elo5v5": 62
   },
   {
     "rank": 21,
