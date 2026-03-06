@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Authority",
+    "teamName": "Genesis V",
     "elo5v5": 210
   },
   {
     "rank": 5,
-    "teamName": "Genesis V",
-    "elo5v5": 203
+    "teamName": "Authority",
+    "elo5v5": 210
   },
   {
     "rank": 6,
@@ -846,33 +846,33 @@
   },
   {
     "rank": 170,
-    "teamName": "U20",
-    "elo5v5": 29
-  },
-  {
-    "rank": 171,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 172,
+    "rank": 171,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 173,
+    "rank": 172,
     "teamName": "Goku FC",
     "elo5v5": 25
   },
   {
-    "rank": 174,
+    "rank": 173,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 175,
+    "rank": 174,
     "teamName": "Pumba FC",
     "elo5v5": 21
+  },
+  {
+    "rank": 175,
+    "teamName": "U20",
+    "elo5v5": 15
   },
   {
     "rank": 176,
