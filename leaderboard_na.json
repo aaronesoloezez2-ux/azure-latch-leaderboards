@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Revelation",
-    "elo5v5": 210
+    "elo5v5": 217
   },
   {
     "rank": 4,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 88
-  },
-  {
-    "rank": 16,
     "teamName": "Chrysalis",
     "elo5v5": 83
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Promised",
     "elo5v5": 76
+  },
+  {
+    "rank": 17,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 74
   },
   {
     "rank": 18,
