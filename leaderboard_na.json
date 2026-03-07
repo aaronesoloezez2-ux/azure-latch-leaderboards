@@ -101,13 +101,13 @@
   },
   {
     "rank": 21,
-    "teamName": "Sees",
-    "elo5v5": 37
+    "teamName": "Valkyrie",
+    "elo5v5": 55
   },
   {
     "rank": 22,
-    "teamName": "Valkyrie",
-    "elo5v5": 35
+    "teamName": "Sees",
+    "elo5v5": 37
   },
   {
     "rank": 23,
@@ -131,23 +131,23 @@
   },
   {
     "rank": 27,
-    "teamName": "Mugen",
-    "elo5v5": 21
-  },
-  {
-    "rank": 28,
     "teamName": "Smilers",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Reprised",
     "elo5v5": 5
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Burger FC [NA]",
     "elo5v5": 3
+  },
+  {
+    "rank": 30,
+    "teamName": "Mugen",
+    "elo5v5": 1
   },
   {
     "rank": 31,
