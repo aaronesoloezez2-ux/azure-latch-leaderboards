@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Chrysalis",
-    "elo5v5": 83
-  },
-  {
-    "rank": 17,
     "teamName": "Promised",
     "elo5v5": 76
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 67
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 19,
+    "teamName": "Chrysalis",
+    "elo5v5": 61
   },
   {
     "rank": 20,
@@ -116,28 +116,28 @@
   },
   {
     "rank": 24,
+    "teamName": "Reprised",
+    "elo5v5": 29
+  },
+  {
+    "rank": 25,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Smilers",
     "elo5v5": 21
-  },
-  {
-    "rank": 28,
-    "teamName": "Reprised",
-    "elo5v5": 5
   },
   {
     "rank": 29,
