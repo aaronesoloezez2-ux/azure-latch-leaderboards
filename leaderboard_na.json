@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
+    "teamName": "Eclipse",
+    "elo5v5": 42
+  },
+  {
+    "rank": 22,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Persimmons",
     "elo5v5": 28
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
-  },
-  {
-    "rank": 25,
-    "teamName": "Burger FC [NA]",
-    "elo5v5": 24
   },
   {
     "rank": 26,
@@ -131,23 +131,23 @@
   },
   {
     "rank": 27,
-    "teamName": "Eclipse",
-    "elo5v5": 21
-  },
-  {
-    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Reprised",
     "elo5v5": 5
+  },
+  {
+    "rank": 30,
+    "teamName": "Burger FC [NA]",
+    "elo5v5": 3
   },
   {
     "rank": 31,
