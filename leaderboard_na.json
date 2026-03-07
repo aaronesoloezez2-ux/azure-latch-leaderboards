@@ -136,18 +136,18 @@
   },
   {
     "rank": 28,
+    "teamName": "Mugen",
+    "elo5v5": 21
+  },
+  {
+    "rank": 29,
     "teamName": "Sees",
     "elo5v5": 9
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Reprised",
     "elo5v5": 5
-  },
-  {
-    "rank": 30,
-    "teamName": "Kodo Giasu U20",
-    "elo5v5": 1
   },
   {
     "rank": 31,
@@ -841,27 +841,27 @@
   },
   {
     "rank": 169,
-    "teamName": "Mugen",
-    "elo5v5": 0
-  },
-  {
-    "rank": 170,
     "teamName": "Smilers",
     "elo5v5": 0
   },
   {
-    "rank": 171,
+    "rank": 170,
     "teamName": "Neo striker Reborn league",
     "elo5v5": 0
   },
   {
-    "rank": 172,
+    "rank": 171,
     "teamName": "Soup Bowl",
     "elo5v5": 0
   },
   {
-    "rank": 173,
+    "rank": 172,
     "teamName": "Civis Imperium",
+    "elo5v5": 0
+  },
+  {
+    "rank": 173,
+    "teamName": "Kodo Giasu U20",
     "elo5v5": 0
   },
   {
