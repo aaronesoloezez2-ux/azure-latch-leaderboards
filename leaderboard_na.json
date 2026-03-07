@@ -41,48 +41,48 @@
   },
   {
     "rank": 9,
-    "teamName": "Re Al U-20",
-    "elo5v5": 132
-  },
-  {
-    "rank": 10,
     "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Fight Club",
     "elo5v5": 115
   },
   {
+    "rank": 13,
+    "teamName": "Re Al U-20",
+    "elo5v5": 115
+  },
+  {
     "rank": 14,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 95
+  },
+  {
+    "rank": 15,
     "teamName": "Crimson Authority",
     "elo5v5": 93
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Chrysalis",
     "elo5v5": 83
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Promised",
     "elo5v5": 76
-  },
-  {
-    "rank": 17,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 74
   },
   {
     "rank": 18,
