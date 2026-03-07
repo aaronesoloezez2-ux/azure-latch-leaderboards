@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Primordials",
-    "elo5v5": 176
+    "elo5v5": 185
   },
   {
     "rank": 7,
@@ -781,23 +781,23 @@
   },
   {
     "rank": 157,
-    "teamName": "Chain Breakers",
-    "elo5v5": 45
-  },
-  {
-    "rank": 158,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 159,
+    "rank": 158,
     "teamName": "Ferencvaros",
     "elo5v5": 41
   },
   {
-    "rank": 160,
+    "rank": 159,
     "teamName": "Cowabungas FC",
     "elo5v5": 32
+  },
+  {
+    "rank": 160,
+    "teamName": "Chain Breakers",
+    "elo5v5": 30
   },
   {
     "rank": 161,
