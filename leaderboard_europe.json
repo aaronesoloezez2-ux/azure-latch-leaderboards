@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Primordials",
-    "elo5v5": 166
+    "elo5v5": 176
   },
   {
     "rank": 7,
@@ -761,18 +761,18 @@
   },
   {
     "rank": 153,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 64
-  },
-  {
-    "rank": 154,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 155,
+    "rank": 154,
     "teamName": "Destiny FC",
     "elo5v5": 56
+  },
+  {
+    "rank": 155,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 48
   },
   {
     "rank": 156,
