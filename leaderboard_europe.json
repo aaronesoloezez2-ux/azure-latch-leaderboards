@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Authority",
-    "elo5v5": 222
+    "elo5v5": 228
   },
   {
     "rank": 4,
@@ -791,53 +791,53 @@
   },
   {
     "rank": 159,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 32
-  },
-  {
-    "rank": 160,
     "teamName": "Chain Breakers",
     "elo5v5": 30
   },
   {
-    "rank": 161,
+    "rank": 160,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 162,
+    "rank": 161,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 163,
+    "rank": 162,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 164,
+    "rank": 163,
     "teamName": "Goku FC",
     "elo5v5": 25
   },
   {
-    "rank": 165,
+    "rank": 164,
     "teamName": "U20",
     "elo5v5": 24
   },
   {
-    "rank": 166,
+    "rank": 165,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 167,
+    "rank": 166,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 168,
+    "rank": 167,
     "teamName": "obsession",
     "elo5v5": 21
+  },
+  {
+    "rank": 168,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 19
   },
   {
     "rank": 169,
