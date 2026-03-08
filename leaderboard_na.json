@@ -71,13 +71,13 @@
   },
   {
     "rank": 15,
-    "teamName": "Crimson Authority",
-    "elo5v5": 108
+    "teamName": "Fight Club",
+    "elo5v5": 94
   },
   {
     "rank": 16,
-    "teamName": "Fight Club",
-    "elo5v5": 94
+    "teamName": "Crimson Authority",
+    "elo5v5": 88
   },
   {
     "rank": 17,
@@ -111,22 +111,22 @@
   },
   {
     "rank": 23,
+    "teamName": "Olympus",
+    "elo5v5": 49
+  },
+  {
+    "rank": 24,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 25,
-    "teamName": "Monarchs Recrowned | FC",
-    "elo5v5": 25
-  },
-  {
     "rank": 26,
-    "teamName": "Olympus",
+    "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
