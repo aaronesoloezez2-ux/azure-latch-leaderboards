@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Genesis V",
-    "elo5v5": 226
+    "elo5v5": 231
   },
   {
     "rank": 5,
@@ -806,33 +806,33 @@
   },
   {
     "rank": 162,
-    "teamName": "Goku FC",
-    "elo5v5": 25
-  },
-  {
-    "rank": 163,
     "teamName": "U20",
     "elo5v5": 24
   },
   {
-    "rank": 164,
+    "rank": 163,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 165,
+    "rank": 164,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 166,
+    "rank": 165,
     "teamName": "obsession",
     "elo5v5": 21
   },
   {
-    "rank": 167,
+    "rank": 166,
     "teamName": "Cowabungas FC",
     "elo5v5": 19
+  },
+  {
+    "rank": 167,
+    "teamName": "Goku FC",
+    "elo5v5": 12
   },
   {
     "rank": 168,
