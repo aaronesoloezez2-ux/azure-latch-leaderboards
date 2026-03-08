@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Authority",
-    "elo5v5": 233
+    "elo5v5": 239
   },
   {
     "rank": 4,
@@ -746,23 +746,23 @@
   },
   {
     "rank": 150,
-    "teamName": "Abibas FC",
-    "elo5v5": 64
-  },
-  {
-    "rank": 151,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 152,
+    "rank": 151,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 153,
+    "rank": 152,
     "teamName": "Cute & Drunk",
     "elo5v5": 52
+  },
+  {
+    "rank": 153,
+    "teamName": "Abibas FC",
+    "elo5v5": 50
   },
   {
     "rank": 154,
