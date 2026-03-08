@@ -71,13 +71,13 @@
   },
   {
     "rank": 15,
-    "teamName": "Fight Club",
-    "elo5v5": 94
+    "teamName": "Crimson Authority",
+    "elo5v5": 104
   },
   {
     "rank": 16,
-    "teamName": "Crimson Authority",
-    "elo5v5": 88
+    "teamName": "Fight Club",
+    "elo5v5": 94
   },
   {
     "rank": 17,
@@ -126,38 +126,38 @@
   },
   {
     "rank": 26,
-    "teamName": "Mugetsu",
-    "elo5v5": 26
-  },
-  {
-    "rank": 27,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Bear United",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Smilers",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Zenith",
     "elo5v5": 21
+  },
+  {
+    "rank": 32,
+    "teamName": "Mugetsu",
+    "elo5v5": 8
   },
   {
     "rank": 33,
