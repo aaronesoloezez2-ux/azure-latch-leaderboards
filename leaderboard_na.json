@@ -86,22 +86,22 @@
   },
   {
     "rank": 18,
+    "teamName": "Eclipse",
+    "elo5v5": 78
+  },
+  {
+    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 76
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 20,
-    "teamName": "Chrysalis",
-    "elo5v5": 61
-  },
-  {
     "rank": 21,
-    "teamName": "Eclipse",
+    "teamName": "Chrysalis",
     "elo5v5": 61
   },
   {
