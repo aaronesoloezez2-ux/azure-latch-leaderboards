@@ -77,7 +77,7 @@
   {
     "rank": 16,
     "teamName": "Oshu Oshi NA",
-    "elo5v5": 84
+    "elo5v5": 101
   },
   {
     "rank": 17,
@@ -121,38 +121,38 @@
   },
   {
     "rank": 25,
-    "teamName": "Reprised",
-    "elo5v5": 29
-  },
-  {
-    "rank": 26,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Bear United",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Smilers",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
+  },
+  {
+    "rank": 31,
+    "teamName": "Reprised",
+    "elo5v5": 11
   },
   {
     "rank": 32,
