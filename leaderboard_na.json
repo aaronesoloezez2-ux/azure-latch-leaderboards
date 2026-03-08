@@ -841,47 +841,47 @@
   },
   {
     "rank": 169,
-    "teamName": "Kodo Giasu U20",
-    "elo5v5": 0
-  },
-  {
-    "rank": 170,
     "teamName": "Kiseki",
     "elo5v5": 0
   },
   {
-    "rank": 171,
+    "rank": 170,
     "teamName": "Synergy FC",
     "elo5v5": 0
   },
   {
-    "rank": 172,
+    "rank": 171,
     "teamName": "Yhixx Yhap",
     "elo5v5": 0
   },
   {
-    "rank": 173,
+    "rank": 172,
     "teamName": "Lancelot",
     "elo5v5": 0
   },
   {
-    "rank": 174,
+    "rank": 173,
     "teamName": "Seraph FC",
     "elo5v5": 0
   },
   {
-    "rank": 175,
+    "rank": 174,
     "teamName": "67 Rizzlers",
     "elo5v5": 0
   },
   {
-    "rank": 176,
+    "rank": 175,
     "teamName": "Neutron",
     "elo5v5": 0
   },
   {
-    "rank": 177,
+    "rank": 176,
     "teamName": "Zenith",
+    "elo5v5": 0
+  },
+  {
+    "rank": 177,
+    "teamName": "Mugetsu",
     "elo5v5": 0
   }
 ]
