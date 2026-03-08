@@ -141,23 +141,23 @@
   },
   {
     "rank": 29,
-    "teamName": "Smilers",
+    "teamName": "Mugen",
     "elo5v5": 21
   },
   {
     "rank": 30,
-    "teamName": "Burger FC [NA]",
+    "teamName": "Smilers",
     "elo5v5": 21
   },
   {
     "rank": 31,
-    "teamName": "Zenith",
+    "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
     "rank": 32,
-    "teamName": "Mugetsu",
-    "elo5v5": 8
+    "teamName": "Zenith",
+    "elo5v5": 21
   },
   {
     "rank": 33,
@@ -831,62 +831,62 @@
   },
   {
     "rank": 167,
-    "teamName": "Mugen",
-    "elo5v5": 0
-  },
-  {
-    "rank": 168,
     "teamName": "Neo striker Reborn league",
     "elo5v5": 0
   },
   {
-    "rank": 169,
+    "rank": 168,
     "teamName": "Soup Bowl",
     "elo5v5": 0
   },
   {
-    "rank": 170,
+    "rank": 169,
     "teamName": "Reprised",
     "elo5v5": 0
   },
   {
-    "rank": 171,
+    "rank": 170,
     "teamName": "Civis Imperium",
     "elo5v5": 0
   },
   {
-    "rank": 172,
+    "rank": 171,
     "teamName": "Kiseki",
     "elo5v5": 0
   },
   {
-    "rank": 173,
+    "rank": 172,
     "teamName": "Synergy FC",
     "elo5v5": 0
   },
   {
-    "rank": 174,
+    "rank": 173,
     "teamName": "Yhixx Yhap",
     "elo5v5": 0
   },
   {
-    "rank": 175,
+    "rank": 174,
     "teamName": "Lancelot",
     "elo5v5": 0
   },
   {
-    "rank": 176,
+    "rank": 175,
     "teamName": "Seraph FC",
     "elo5v5": 0
   },
   {
-    "rank": 177,
+    "rank": 176,
     "teamName": "67 Rizzlers",
     "elo5v5": 0
   },
   {
-    "rank": 178,
+    "rank": 177,
     "teamName": "Neutron",
+    "elo5v5": 0
+  },
+  {
+    "rank": 178,
+    "teamName": "Mugetsu",
     "elo5v5": 0
   },
   {
