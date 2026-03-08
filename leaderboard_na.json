@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
-    "teamName": "Fruit Ninjas",
-    "elo5v5": 132
-  },
-  {
-    "rank": 10,
     "teamName": "Shutoku",
     "elo5v5": 129
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Fight Club",
     "elo5v5": 115
+  },
+  {
+    "rank": 13,
+    "teamName": "Fruit Ninjas",
+    "elo5v5": 113
   },
   {
     "rank": 14,
@@ -106,32 +106,32 @@
   },
   {
     "rank": 22,
+    "teamName": "Arrogante",
+    "elo5v5": 50
+  },
+  {
+    "rank": 23,
     "teamName": "Sees",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Reprised",
     "elo5v5": 29
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 26,
-    "teamName": "Monarchs Recrowned | FC",
-    "elo5v5": 25
-  },
-  {
     "rank": 27,
-    "teamName": "Arrogante",
+    "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 25
   },
   {
