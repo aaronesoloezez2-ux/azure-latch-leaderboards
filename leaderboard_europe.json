@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Taishō",
-    "elo5v5": 149
+    "elo5v5": 133
   },
   {
     "rank": 7,
@@ -731,18 +731,18 @@
   },
   {
     "rank": 147,
+    "teamName": "Abibas FC",
+    "elo5v5": 98
+  },
+  {
+    "rank": 148,
     "teamName": "Rai Kanji XI",
     "elo5v5": 85
   },
   {
-    "rank": 148,
+    "rank": 149,
     "teamName": "Cute & Drunk",
     "elo5v5": 77
-  },
-  {
-    "rank": 149,
-    "teamName": "Abibas FC",
-    "elo5v5": 76
   },
   {
     "rank": 150,
