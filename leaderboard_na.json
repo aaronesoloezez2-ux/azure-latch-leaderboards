@@ -106,18 +106,18 @@
   },
   {
     "rank": 22,
+    "teamName": "Arrogante",
+    "elo5v5": 49
+  },
+  {
+    "rank": 23,
     "teamName": "Zenith",
     "elo5v5": 41
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Kimani",
     "elo5v5": 30
-  },
-  {
-    "rank": 24,
-    "teamName": "Arrogante",
-    "elo5v5": 29
   },
   {
     "rank": 25,
@@ -167,7 +167,7 @@
   {
     "rank": 34,
     "teamName": "Yōsen",
-    "elo5v5": 21
+    "elo5v5": 1
   },
   {
     "rank": 35,
