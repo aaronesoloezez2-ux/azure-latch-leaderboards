@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Taishō",
-    "elo5v5": 133
+    "elo5v5": 146
   },
   {
     "rank": 7,
@@ -776,48 +776,48 @@
   },
   {
     "rank": 156,
-    "teamName": "Chain Breakers",
-    "elo5v5": 30
-  },
-  {
-    "rank": 157,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 158,
+    "rank": 157,
     "teamName": "Tea Time",
     "elo5v5": 26
   },
   {
-    "rank": 159,
+    "rank": 158,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 160,
+    "rank": 159,
     "teamName": "U20",
     "elo5v5": 24
   },
   {
-    "rank": 161,
+    "rank": 160,
     "teamName": "Abibas: sambas",
     "elo5v5": 22
   },
   {
-    "rank": 162,
+    "rank": 161,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 163,
+    "rank": 162,
     "teamName": "obsession",
     "elo5v5": 21
   },
   {
-    "rank": 164,
+    "rank": 163,
     "teamName": "Cowabungas FC",
     "elo5v5": 19
+  },
+  {
+    "rank": 164,
+    "teamName": "Chain Breakers",
+    "elo5v5": 14
   },
   {
     "rank": 165,
