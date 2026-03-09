@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Taishō",
-    "elo5v5": 146
+    "elo5v5": 157
   },
   {
     "rank": 7,
@@ -801,23 +801,23 @@
   },
   {
     "rank": 161,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 19
-  },
-  {
-    "rank": 162,
     "teamName": "Chain Breakers",
     "elo5v5": 14
   },
   {
-    "rank": 163,
+    "rank": 162,
     "teamName": "Goku FC",
     "elo5v5": 12
   },
   {
-    "rank": 164,
+    "rank": 163,
     "teamName": "NEO STRIKERS",
     "elo5v5": 5
+  },
+  {
+    "rank": 164,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 3
   },
   {
     "rank": 165,
