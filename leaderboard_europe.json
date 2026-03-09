@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Authority",
-    "elo5v5": 239
+    "elo5v5": 244
   },
   {
     "rank": 4,
@@ -801,23 +801,23 @@
   },
   {
     "rank": 161,
-    "teamName": "Chain Breakers",
-    "elo5v5": 14
-  },
-  {
-    "rank": 162,
     "teamName": "Goku FC",
     "elo5v5": 12
   },
   {
-    "rank": 163,
+    "rank": 162,
     "teamName": "NEO STRIKERS",
     "elo5v5": 5
   },
   {
-    "rank": 164,
+    "rank": 163,
     "teamName": "Cowabungas FC",
     "elo5v5": 3
+  },
+  {
+    "rank": 164,
+    "teamName": "Chain Breakers",
+    "elo5v5": 2
   },
   {
     "rank": 165,
