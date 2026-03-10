@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 242
+    "elo5v5": 247
   },
   {
     "rank": 2,
@@ -146,28 +146,28 @@
   },
   {
     "rank": 30,
-    "teamName": "Epoch",
-    "elo5v5": 24
-  },
-  {
-    "rank": 31,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Smilers",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Reprised",
     "elo5v5": 21
+  },
+  {
+    "rank": 34,
+    "teamName": "Epoch",
+    "elo5v5": 12
   },
   {
     "rank": 35,
