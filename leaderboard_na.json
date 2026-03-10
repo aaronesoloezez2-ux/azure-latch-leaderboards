@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 133
+  },
+  {
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Optimal",
     "elo5v5": 124
-  },
-  {
-    "rank": 12,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 118
   },
   {
     "rank": 13,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "Zenith",
-    "elo5v5": 64
-  },
-  {
-    "rank": 19,
     "teamName": "Eclipse",
     "elo5v5": 63
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Chrysalis",
     "elo5v5": 61
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Sees",
     "elo5v5": 58
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Infernum",
     "elo5v5": 54
+  },
+  {
+    "rank": 22,
+    "teamName": "Zenith",
+    "elo5v5": 46
   },
   {
     "rank": 23,
