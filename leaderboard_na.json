@@ -111,32 +111,32 @@
   },
   {
     "rank": 23,
-    "teamName": "Mugetsu",
-    "elo5v5": 45
-  },
-  {
-    "rank": 24,
     "teamName": "Arrogante",
     "elo5v5": 34
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Kimani",
     "elo5v5": 30
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Kiseki",
     "elo5v5": 28
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 28,
+    "teamName": "Mugetsu",
     "elo5v5": 25
   },
   {
