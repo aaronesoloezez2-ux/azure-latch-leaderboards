@@ -731,23 +731,23 @@
   },
   {
     "rank": 147,
+    "teamName": "Taiyo",
+    "elo5v5": 70
+  },
+  {
+    "rank": 148,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 66
   },
   {
-    "rank": 148,
+    "rank": 149,
     "teamName": "Oshu Oshi EU",
     "elo5v5": 59
   },
   {
-    "rank": 149,
+    "rank": 150,
     "teamName": "Destiny FC",
     "elo5v5": 56
-  },
-  {
-    "rank": 150,
-    "teamName": "Taiyo",
-    "elo5v5": 51
   },
   {
     "rank": 151,
@@ -786,13 +786,13 @@
   },
   {
     "rank": 158,
-    "teamName": "U20",
-    "elo5v5": 23
+    "teamName": "Pumba FC",
+    "elo5v5": 21
   },
   {
     "rank": 159,
-    "teamName": "Pumba FC",
-    "elo5v5": 21
+    "teamName": "U20",
+    "elo5v5": 4
   },
   {
     "rank": 160,
