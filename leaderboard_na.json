@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
+    "teamName": "AOGIRI",
+    "elo5v5": 80
+  },
+  {
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 68
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Olympus",
     "elo5v5": 64
-  },
-  {
-    "rank": 19,
-    "teamName": "AOGIRI",
-    "elo5v5": 63
   },
   {
     "rank": 20,
