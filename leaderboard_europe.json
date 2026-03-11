@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Genesis V",
-    "elo5v5": 200
+    "elo5v5": 208
   },
   {
     "rank": 5,
@@ -716,18 +716,18 @@
   },
   {
     "rank": 144,
-    "teamName": "Taiyo",
-    "elo5v5": 70
-  },
-  {
-    "rank": 145,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 66
   },
   {
-    "rank": 146,
+    "rank": 145,
     "teamName": "Destiny FC",
     "elo5v5": 56
+  },
+  {
+    "rank": 146,
+    "teamName": "Taiyo",
+    "elo5v5": 55
   },
   {
     "rank": 147,
