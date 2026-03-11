@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Crimson Authority",
-    "elo5v5": 103
+    "teamName": "Serendipity",
+    "elo5v5": 113
   },
   {
     "rank": 14,
-    "teamName": "Serendipity",
-    "elo5v5": 96
+    "teamName": "Crimson Authority",
+    "elo5v5": 103
   },
   {
     "rank": 15,
@@ -116,22 +116,22 @@
   },
   {
     "rank": 24,
-    "teamName": "Zenith",
-    "elo5v5": 46
-  },
-  {
-    "rank": 25,
     "teamName": "Epoch",
     "elo5v5": 34
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Kiseki",
+    "elo5v5": 28
+  },
+  {
+    "rank": 27,
+    "teamName": "Zenith",
     "elo5v5": 28
   },
   {
