@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Abibas FC",
-    "elo5v5": 123
+    "elo5v5": 137
   },
   {
     "rank": 8,
@@ -716,23 +716,23 @@
   },
   {
     "rank": 144,
-    "teamName": "Taiyo",
-    "elo5v5": 55
-  },
-  {
-    "rank": 145,
     "teamName": "Manshine United EU",
     "elo5v5": 45
   },
   {
-    "rank": 146,
+    "rank": 145,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 147,
+    "rank": 146,
     "teamName": "Ferencvaros",
     "elo5v5": 41
+  },
+  {
+    "rank": 147,
+    "teamName": "Taiyo",
+    "elo5v5": 38
   },
   {
     "rank": 148,
