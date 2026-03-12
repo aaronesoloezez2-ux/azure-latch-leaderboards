@@ -61,17 +61,17 @@
   },
   {
     "rank": 13,
-    "teamName": "Serendipity",
-    "elo5v5": 113
-  },
-  {
-    "rank": 14,
     "teamName": "Crimson Authority",
     "elo5v5": 103
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Fight Club",
+    "elo5v5": 94
+  },
+  {
+    "rank": 15,
+    "teamName": "Serendipity",
     "elo5v5": 94
   },
   {
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
+    "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 74
+  },
+  {
+    "rank": 20,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Olympus",
     "elo5v5": 64
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Chrysalis",
     "elo5v5": 61
-  },
-  {
-    "rank": 22,
-    "teamName": "Monarchs Recrowned | FC",
-    "elo5v5": 52
   },
   {
     "rank": 23,
