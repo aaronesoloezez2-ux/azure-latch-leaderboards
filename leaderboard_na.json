@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Polarys",
+    "elo5v5": 157
+  },
+  {
+    "rank": 7,
     "teamName": "Re Al",
     "elo5v5": 156
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Espada",
     "elo5v5": 146
-  },
-  {
-    "rank": 8,
-    "teamName": "Polarys",
-    "elo5v5": 144
   },
   {
     "rank": 9,
@@ -71,13 +71,13 @@
   },
   {
     "rank": 15,
-    "teamName": "AOGIRI",
-    "elo5v5": 103
+    "teamName": "Fight Club",
+    "elo5v5": 94
   },
   {
     "rank": 16,
-    "teamName": "Fight Club",
-    "elo5v5": 94
+    "teamName": "AOGIRI",
+    "elo5v5": 87
   },
   {
     "rank": 17,
