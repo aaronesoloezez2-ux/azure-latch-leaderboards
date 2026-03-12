@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Completeness",
-    "elo5v5": 206
+    "teamName": "Shadow FC",
+    "elo5v5": 200
   },
   {
     "rank": 4,
-    "teamName": "Shadow FC",
-    "elo5v5": 200
+    "teamName": "Completeness",
+    "elo5v5": 194
   },
   {
     "rank": 5,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
+    "teamName": "Seeds",
+    "elo5v5": 93
+  },
+  {
+    "rank": 17,
     "teamName": "AOGIRI",
     "elo5v5": 87
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 77
-  },
-  {
-    "rank": 18,
-    "teamName": "Seeds",
-    "elo5v5": 68
   },
   {
     "rank": 19,
