@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 247
+    "elo5v5": 252
   },
   {
     "rank": 2,
@@ -121,38 +121,38 @@
   },
   {
     "rank": 25,
-    "teamName": "Arrogante",
-    "elo5v5": 35
-  },
-  {
-    "rank": 26,
     "teamName": "Epoch",
     "elo5v5": 34
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Infernum",
     "elo5v5": 32
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Kiseki",
     "elo5v5": 28
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Zenith",
     "elo5v5": 27
+  },
+  {
+    "rank": 31,
+    "teamName": "Arrogante",
+    "elo5v5": 22
   },
   {
     "rank": 32,
