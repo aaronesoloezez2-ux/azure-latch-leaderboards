@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Espada",
+    "elo5v5": 145
+  },
+  {
+    "rank": 8,
     "teamName": "Re Al U-20",
     "elo5v5": 142
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Polarys",
     "elo5v5": 142
-  },
-  {
-    "rank": 9,
-    "teamName": "Espada",
-    "elo5v5": 132
   },
   {
     "rank": 10,
@@ -111,28 +111,28 @@
   },
   {
     "rank": 23,
-    "teamName": "Zenith",
-    "elo5v5": 50
-  },
-  {
-    "rank": 24,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Smilers",
     "elo5v5": 41
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Reprised",
     "elo5v5": 41
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Epoch",
     "elo5v5": 34
+  },
+  {
+    "rank": 27,
+    "teamName": "Zenith",
+    "elo5v5": 33
   },
   {
     "rank": 28,
