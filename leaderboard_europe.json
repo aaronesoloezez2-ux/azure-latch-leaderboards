@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Quashers",
-    "elo5v5": 247
+    "elo5v5": 252
   },
   {
     "rank": 3,
@@ -711,23 +711,23 @@
   },
   {
     "rank": 143,
-    "teamName": "Vergil's Chair",
-    "elo5v5": 22
-  },
-  {
-    "rank": 144,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 145,
+    "rank": 144,
     "teamName": "nerv",
     "elo5v5": 21
   },
   {
-    "rank": 146,
+    "rank": 145,
     "teamName": "Ferencvaros",
     "elo5v5": 19
+  },
+  {
+    "rank": 146,
+    "teamName": "Vergil's Chair",
+    "elo5v5": 10
   },
   {
     "rank": 147,
