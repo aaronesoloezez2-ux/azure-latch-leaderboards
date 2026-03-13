@@ -111,17 +111,17 @@
   },
   {
     "rank": 23,
+    "teamName": "Reprised",
+    "elo5v5": 60
+  },
+  {
+    "rank": 24,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 24,
-    "teamName": "Smilers",
-    "elo5v5": 41
-  },
-  {
     "rank": 25,
-    "teamName": "Reprised",
+    "teamName": "Smilers",
     "elo5v5": 41
   },
   {
