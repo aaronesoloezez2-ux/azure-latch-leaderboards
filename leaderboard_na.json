@@ -26,17 +26,17 @@
   },
   {
     "rank": 6,
-    "teamName": "Polarys",
-    "elo5v5": 157
-  },
-  {
-    "rank": 7,
     "teamName": "Re Al",
     "elo5v5": 156
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Re Al U-20",
+    "elo5v5": 142
+  },
+  {
+    "rank": 8,
+    "teamName": "Polarys",
     "elo5v5": 142
   },
   {
@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
+    "teamName": "Serendipity",
+    "elo5v5": 115
+  },
+  {
+    "rank": 13,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 114
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Crimson Authority",
     "elo5v5": 103
-  },
-  {
-    "rank": 14,
-    "teamName": "Serendipity",
-    "elo5v5": 94
   },
   {
     "rank": 15,
