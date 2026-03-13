@@ -66,28 +66,28 @@
   },
   {
     "rank": 14,
-    "teamName": "Fight Club",
-    "elo5v5": 94
-  },
-  {
-    "rank": 15,
     "teamName": "Serendipity",
     "elo5v5": 94
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 77
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 77
+  },
+  {
+    "rank": 18,
+    "teamName": "Fight Club",
+    "elo5v5": 73
   },
   {
     "rank": 19,
@@ -111,47 +111,47 @@
   },
   {
     "rank": 23,
+    "teamName": "Zenith",
+    "elo5v5": 50
+  },
+  {
+    "rank": 24,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Smilers",
     "elo5v5": 41
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Reprised",
     "elo5v5": 41
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Epoch",
     "elo5v5": 34
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Infernum",
     "elo5v5": 32
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Kiseki",
     "elo5v5": 28
   },
   {
-    "rank": 30,
-    "teamName": "Imperium FC",
-    "elo5v5": 27
-  },
-  {
     "rank": 31,
-    "teamName": "Zenith",
+    "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
