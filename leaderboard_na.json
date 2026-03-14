@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 114
+    "teamName": "Olympus",
+    "elo5v5": 106
   },
   {
     "rank": 14,
-    "teamName": "Olympus",
-    "elo5v5": 106
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 94
   },
   {
     "rank": 15,
@@ -116,28 +116,28 @@
   },
   {
     "rank": 24,
+    "teamName": "Epoch",
+    "elo5v5": 57
+  },
+  {
+    "rank": 25,
     "teamName": "Zenith",
     "elo5v5": 55
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Kiseki",
     "elo5v5": 47
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
-  },
-  {
-    "rank": 28,
-    "teamName": "Epoch",
-    "elo5v5": 34
   },
   {
     "rank": 29,
