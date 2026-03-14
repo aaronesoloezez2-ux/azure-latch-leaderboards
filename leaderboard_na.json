@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Re Al",
-    "elo5v5": 156
+    "elo5v5": 166
   },
   {
     "rank": 7,
@@ -141,33 +141,33 @@
   },
   {
     "rank": 29,
-    "teamName": "Arrogante",
-    "elo5v5": 29
-  },
-  {
-    "rank": 30,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Redmoon",
     "elo5v5": 21
+  },
+  {
+    "rank": 34,
+    "teamName": "Arrogante",
+    "elo5v5": 13
   },
   {
     "rank": 35,
