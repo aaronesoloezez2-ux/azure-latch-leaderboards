@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 259
+    "elo5v5": 264
   },
   {
     "rank": 2,
@@ -111,22 +111,22 @@
   },
   {
     "rank": 23,
-    "teamName": "Epoch",
-    "elo5v5": 57
-  },
-  {
-    "rank": 24,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Kiseki",
     "elo5v5": 47
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Mugen",
+    "elo5v5": 44
+  },
+  {
+    "rank": 26,
+    "teamName": "Epoch",
     "elo5v5": 44
   },
   {
