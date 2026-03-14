@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Completeness",
-    "elo5v5": 150
+    "teamName": "Serendipity",
+    "elo5v5": 155
   },
   {
     "rank": 7,
-    "teamName": "Serendipity",
-    "elo5v5": 143
+    "teamName": "Completeness",
+    "elo5v5": 150
   },
   {
     "rank": 8,
@@ -131,43 +131,43 @@
   },
   {
     "rank": 27,
-    "teamName": "Zenith",
-    "elo5v5": 36
-  },
-  {
-    "rank": 28,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Bear United",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Redmoon",
     "elo5v5": 21
+  },
+  {
+    "rank": 34,
+    "teamName": "Zenith",
+    "elo5v5": 20
   },
   {
     "rank": 35,
