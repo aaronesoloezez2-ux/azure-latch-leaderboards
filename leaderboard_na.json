@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Kōdo Giasu",
-    "elo5v5": 170
+    "elo5v5": 179
   },
   {
     "rank": 5,
@@ -151,18 +151,18 @@
   },
   {
     "rank": 31,
-    "teamName": "Arrogante",
-    "elo5v5": 22
-  },
-  {
-    "rank": 32,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
+  },
+  {
+    "rank": 33,
+    "teamName": "Arrogante",
+    "elo5v5": 7
   },
   {
     "rank": 34,
