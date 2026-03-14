@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
+    "teamName": "Kiseki",
+    "elo5v5": 100
+  },
+  {
+    "rank": 16,
     "teamName": "Reprised",
     "elo5v5": 96
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Crimson Authority",
     "elo5v5": 83
-  },
-  {
-    "rank": 18,
-    "teamName": "Kiseki",
-    "elo5v5": 82
   },
   {
     "rank": 19,
@@ -126,23 +126,23 @@
   },
   {
     "rank": 26,
-    "teamName": "Smilers",
-    "elo5v5": 43
-  },
-  {
-    "rank": 27,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 29,
+    "teamName": "Smilers",
+    "elo5v5": 24
   },
   {
     "rank": 30,
