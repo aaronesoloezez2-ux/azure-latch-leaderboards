@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Divine",
-    "elo5v5": 202
+    "elo5v5": 209
   },
   {
     "rank": 5,
@@ -671,18 +671,18 @@
   },
   {
     "rank": 135,
-    "teamName": "Ascendance [RM]",
-    "elo5v5": 45
-  },
-  {
-    "rank": 136,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 137,
+    "rank": 136,
     "teamName": "Taiyo",
     "elo5v5": 38
+  },
+  {
+    "rank": 137,
+    "teamName": "Ascendance [RM]",
+    "elo5v5": 31
   },
   {
     "rank": 138,
