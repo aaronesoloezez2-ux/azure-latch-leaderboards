@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
+    "teamName": "AOGIRI",
+    "elo5v5": 108
+  },
+  {
+    "rank": 14,
     "teamName": "Olympus",
     "elo5v5": 106
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 100
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Seeds",
     "elo5v5": 93
-  },
-  {
-    "rank": 16,
-    "teamName": "AOGIRI",
-    "elo5v5": 91
   },
   {
     "rank": 17,
@@ -116,23 +116,23 @@
   },
   {
     "rank": 24,
-    "teamName": "Zenith",
-    "elo5v5": 55
-  },
-  {
-    "rank": 25,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Kiseki",
     "elo5v5": 47
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 44
+  },
+  {
+    "rank": 27,
+    "teamName": "Zenith",
+    "elo5v5": 36
   },
   {
     "rank": 28,
