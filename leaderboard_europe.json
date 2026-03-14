@@ -696,23 +696,23 @@
   },
   {
     "rank": 140,
-    "teamName": "Pumba FC",
+    "teamName": "Anteiku FC",
     "elo5v5": 21
   },
   {
     "rank": 141,
-    "teamName": "nerv",
+    "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
     "rank": 142,
-    "teamName": "Ferencvaros",
-    "elo5v5": 19
+    "teamName": "nerv",
+    "elo5v5": 21
   },
   {
     "rank": 143,
-    "teamName": "Vergil's Chair",
-    "elo5v5": 10
+    "teamName": "Ferencvaros",
+    "elo5v5": 19
   },
   {
     "rank": 144,
@@ -1076,37 +1076,37 @@
   },
   {
     "rank": 216,
-    "teamName": "Anteiku FC",
-    "elo5v5": 0
-  },
-  {
-    "rank": 217,
     "teamName": "Larp FC",
     "elo5v5": 0
   },
   {
-    "rank": 218,
+    "rank": 217,
     "teamName": "Michałek FC",
     "elo5v5": 0
   },
   {
-    "rank": 219,
+    "rank": 218,
     "teamName": "Siege",
     "elo5v5": 0
   },
   {
-    "rank": 220,
+    "rank": 219,
     "teamName": "Silence",
     "elo5v5": 0
   },
   {
-    "rank": 221,
+    "rank": 220,
     "teamName": "Sovereign EU",
     "elo5v5": 0
   },
   {
-    "rank": 222,
+    "rank": 221,
     "teamName": "Celestials",
+    "elo5v5": 0
+  },
+  {
+    "rank": 222,
+    "teamName": "Vergil's Chair",
     "elo5v5": 0
   },
   {
