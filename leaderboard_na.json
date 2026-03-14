@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
+    "teamName": "Kiseki",
+    "elo5v5": 82
+  },
+  {
+    "rank": 19,
     "teamName": "Reprised",
     "elo5v5": 78
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Sees",
     "elo5v5": 77
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 21,
-    "teamName": "Kiseki",
-    "elo5v5": 65
   },
   {
     "rank": 22,
