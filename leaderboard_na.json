@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
+    "teamName": "Sees",
+    "elo5v5": 96
+  },
+  {
+    "rank": 16,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 88
-  },
-  {
-    "rank": 17,
-    "teamName": "Monarchs Recrowned | FC",
-    "elo5v5": 84
   },
   {
     "rank": 18,
@@ -91,18 +91,18 @@
   },
   {
     "rank": 19,
-    "teamName": "Sees",
-    "elo5v5": 77
-  },
-  {
-    "rank": 20,
     "teamName": "AOGIRI",
     "elo5v5": 69
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 21,
+    "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 65
   },
   {
     "rank": 22,
