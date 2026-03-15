@@ -37,7 +37,7 @@
   {
     "rank": 8,
     "teamName": "Serendipity",
-    "elo5v5": 151
+    "elo5v5": 162
   },
   {
     "rank": 9,
@@ -121,23 +121,23 @@
   },
   {
     "rank": 25,
-    "teamName": "Bear United",
-    "elo5v5": 41
-  },
-  {
-    "rank": 26,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Zenith",
     "elo5v5": 27
+  },
+  {
+    "rank": 28,
+    "teamName": "Bear United",
+    "elo5v5": 25
   },
   {
     "rank": 29,
