@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Olympus",
-    "elo5v5": 150
+    "elo5v5": 134
   },
   {
     "rank": 10,
@@ -66,23 +66,23 @@
   },
   {
     "rank": 14,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 109
+  },
+  {
+    "rank": 15,
     "teamName": "Kiseki",
     "elo5v5": 100
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 96
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
-  },
-  {
-    "rank": 17,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 88
   },
   {
     "rank": 18,
