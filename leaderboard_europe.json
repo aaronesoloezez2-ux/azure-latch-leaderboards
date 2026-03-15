@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Abibas FC",
+    "elo5v5": 140
+  },
+  {
+    "rank": 8,
     "teamName": "Cute & Drunk",
     "elo5v5": 129
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Tea Time",
     "elo5v5": 128
-  },
-  {
-    "rank": 9,
-    "teamName": "Abibas FC",
-    "elo5v5": 127
   },
   {
     "rank": 10,
@@ -721,13 +721,13 @@
   },
   {
     "rank": 145,
-    "teamName": "Nike FC",
-    "elo5v5": 21
+    "teamName": "Ferencvaros",
+    "elo5v5": 19
   },
   {
     "rank": 146,
-    "teamName": "Ferencvaros",
-    "elo5v5": 19
+    "teamName": "Nike FC",
+    "elo5v5": 5
   },
   {
     "rank": 147,
