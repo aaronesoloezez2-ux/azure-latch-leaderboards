@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Olympus",
-    "elo5v5": 150
+    "teamName": "Polarys",
+    "elo5v5": 153
   },
   {
     "rank": 9,
-    "teamName": "Polarys",
-    "elo5v5": 142
+    "teamName": "Olympus",
+    "elo5v5": 150
   },
   {
     "rank": 10,
@@ -151,28 +151,28 @@
   },
   {
     "rank": 31,
-    "teamName": "Zenith",
-    "elo5v5": 23
-  },
-  {
-    "rank": 32,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Redmoon",
     "elo5v5": 21
+  },
+  {
+    "rank": 35,
+    "teamName": "Zenith",
+    "elo5v5": 7
   },
   {
     "rank": 36,
