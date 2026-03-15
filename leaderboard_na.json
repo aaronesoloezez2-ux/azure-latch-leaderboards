@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
+    "teamName": "Infernum",
+    "elo5v5": 71
+  },
+  {
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 69
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 21,
-    "teamName": "Monarchs Recrowned | FC",
-    "elo5v5": 65
   },
   {
     "rank": 22,
@@ -126,8 +126,8 @@
   },
   {
     "rank": 26,
-    "teamName": "Infernum",
-    "elo5v5": 50
+    "teamName": "Monarchs Recrowned | FC",
+    "elo5v5": 45
   },
   {
     "rank": 27,
