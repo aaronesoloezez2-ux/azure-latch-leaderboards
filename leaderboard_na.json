@@ -76,43 +76,43 @@
   },
   {
     "rank": 16,
+    "teamName": "Crimson Authority",
+    "elo5v5": 102
+  },
+  {
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
-    "teamName": "Crimson Authority",
-    "elo5v5": 83
-  },
-  {
     "rank": 18,
-    "teamName": "Kiseki",
-    "elo5v5": 79
-  },
-  {
-    "rank": 19,
     "teamName": "Zenith",
     "elo5v5": 74
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 69
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 65
+  },
+  {
+    "rank": 23,
+    "teamName": "Kiseki",
+    "elo5v5": 60
   },
   {
     "rank": 24,
