@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kurain",
-    "elo5v5": 238
+    "elo5v5": 244
   },
   {
     "rank": 3,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "Zenith",
-    "elo5v5": 74
-  },
-  {
-    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 71
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 69
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 22,
+    "teamName": "Zenith",
+    "elo5v5": 61
   },
   {
     "rank": 23,
