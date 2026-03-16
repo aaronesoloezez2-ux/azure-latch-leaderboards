@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Reprised",
-    "elo5v5": 117
+    "teamName": "Espada",
+    "elo5v5": 113
   },
   {
     "rank": 13,
-    "teamName": "Espada",
-    "elo5v5": 113
+    "teamName": "Reprised",
+    "elo5v5": 97
   },
   {
     "rank": 14,
@@ -126,57 +126,57 @@
   },
   {
     "rank": 26,
+    "teamName": "Gotei  13",
+    "elo5v5": 45
+  },
+  {
+    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Dreamers (NA)",
     "elo5v5": 41
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Bear United",
     "elo5v5": 32
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 30,
+    "rank": 31,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Yhixx Yhap",
     "elo5v5": 25
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 35,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 35,
-    "teamName": "Redmoon",
-    "elo5v5": 21
-  },
-  {
     "rank": 36,
-    "teamName": "Gotei  13",
+    "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
