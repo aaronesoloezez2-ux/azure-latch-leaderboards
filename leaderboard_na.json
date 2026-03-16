@@ -101,8 +101,8 @@
   },
   {
     "rank": 21,
-    "teamName": "Zenith",
-    "elo5v5": 61
+    "teamName": "Gotei  13",
+    "elo5v5": 66
   },
   {
     "rank": 22,
@@ -126,17 +126,17 @@
   },
   {
     "rank": 26,
-    "teamName": "Gotei  13",
-    "elo5v5": 45
-  },
-  {
-    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Dreamers (NA)",
+    "elo5v5": 41
+  },
+  {
+    "rank": 28,
+    "teamName": "Zenith",
     "elo5v5": 41
   },
   {
