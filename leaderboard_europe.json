@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Abibas FC",
-    "elo5v5": 140
-  },
-  {
-    "rank": 8,
     "teamName": "Cute & Drunk",
     "elo5v5": 129
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Tea Time",
     "elo5v5": 128
+  },
+  {
+    "rank": 9,
+    "teamName": "Abibas FC",
+    "elo5v5": 123
   },
   {
     "rank": 10,
@@ -651,18 +651,18 @@
   },
   {
     "rank": 131,
+    "teamName": "Ascendance [RM]",
+    "elo5v5": 90
+  },
+  {
+    "rank": 132,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 89
   },
   {
-    "rank": 132,
+    "rank": 133,
     "teamName": "Rai Kanji XI",
     "elo5v5": 85
-  },
-  {
-    "rank": 133,
-    "teamName": "Ascendance [RM]",
-    "elo5v5": 68
   },
   {
     "rank": 134,
