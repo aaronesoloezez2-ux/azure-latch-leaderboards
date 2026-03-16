@@ -1261,42 +1261,42 @@
   },
   {
     "rank": 253,
-    "teamName": "Melodica",
-    "elo5v5": 0
-  },
-  {
-    "rank": 254,
     "teamName": "Astral FC",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "par.x.gen",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Contractors",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Vizard",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "The Shadows",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Tekkai",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "Starfall Vanguard",
+    "elo5v5": 0
+  },
+  {
+    "rank": 260,
+    "teamName": "Promised",
     "elo5v5": 0
   }
 ]
