@@ -1211,92 +1211,92 @@
   },
   {
     "rank": 243,
-    "teamName": "Divine F.C.",
-    "elo5v5": 0
-  },
-  {
-    "rank": 244,
     "teamName": "Brick FC",
     "elo5v5": 0
   },
   {
-    "rank": 245,
+    "rank": 244,
     "teamName": "D7th",
     "elo5v5": 0
   },
   {
-    "rank": 246,
+    "rank": 245,
     "teamName": "Ressurection",
     "elo5v5": 0
   },
   {
-    "rank": 247,
+    "rank": 246,
     "teamName": "MraX",
     "elo5v5": 0
   },
   {
-    "rank": 248,
+    "rank": 247,
     "teamName": "pen pen",
     "elo5v5": 0
   },
   {
-    "rank": 249,
+    "rank": 248,
     "teamName": "Shattered prodigies",
     "elo5v5": 0
   },
   {
-    "rank": 250,
+    "rank": 249,
     "teamName": "chicken overlords",
     "elo5v5": 0
   },
   {
-    "rank": 251,
+    "rank": 250,
     "teamName": "The Shooting Stars",
     "elo5v5": 0
   },
   {
-    "rank": 252,
+    "rank": 251,
     "teamName": "Pampers United",
     "elo5v5": 0
   },
   {
-    "rank": 253,
+    "rank": 252,
     "teamName": "Astral FC",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "par.x.gen",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "Contractors",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Vizard",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "The Shadows",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Tekkai",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Starfall Vanguard",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "Promised",
+    "elo5v5": 0
+  },
+  {
+    "rank": 260,
+    "teamName": "Vanguard",
     "elo5v5": 0
   }
 ]
