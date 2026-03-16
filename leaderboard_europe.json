@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Primordials",
-    "elo5v5": 196
+    "teamName": "Divine",
+    "elo5v5": 199
   },
   {
     "rank": 4,
-    "teamName": "Divine",
-    "elo5v5": 190
+    "teamName": "Primordials",
+    "elo5v5": 196
   },
   {
     "rank": 5,
@@ -641,17 +641,17 @@
   },
   {
     "rank": 129,
-    "teamName": "Chapter: Contractors",
-    "elo5v5": 100
-  },
-  {
-    "rank": 130,
     "teamName": "Uma:Virtue",
     "elo5v5": 100
   },
   {
-    "rank": 131,
+    "rank": 130,
     "teamName": "Rai Kanji XI",
+    "elo5v5": 85
+  },
+  {
+    "rank": 131,
+    "teamName": "Chapter: Contractors",
     "elo5v5": 85
   },
   {
