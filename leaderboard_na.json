@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Completeness",
-    "elo5v5": 172
-  },
-  {
-    "rank": 6,
     "teamName": "Kōdo Giasu",
     "elo5v5": 163
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Polarys",
     "elo5v5": 163
+  },
+  {
+    "rank": 7,
+    "teamName": "Completeness",
+    "elo5v5": 157
   },
   {
     "rank": 8,
@@ -116,38 +116,38 @@
   },
   {
     "rank": 24,
-    "teamName": "AOGIRI",
+    "teamName": "Bear United",
     "elo5v5": 51
   },
   {
     "rank": 25,
+    "teamName": "AOGIRI",
+    "elo5v5": 51
+  },
+  {
+    "rank": 26,
     "teamName": "Arrogante",
     "elo5v5": 50
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 45
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Imperium FC",
     "elo5v5": 27
-  },
-  {
-    "rank": 30,
-    "teamName": "Bear United",
-    "elo5v5": 25
   },
   {
     "rank": 31,
