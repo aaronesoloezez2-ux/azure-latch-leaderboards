@@ -61,8 +61,8 @@
   },
   {
     "rank": 13,
-    "teamName": "Reprised",
-    "elo5v5": 97
+    "teamName": "Infernum",
+    "elo5v5": 111
   },
   {
     "rank": 14,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Infernum",
-    "elo5v5": 92
-  },
-  {
-    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 90
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 81
+  },
+  {
+    "rank": 18,
+    "teamName": "Reprised",
+    "elo5v5": 79
   },
   {
     "rank": 19,
