@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Re Al",
-    "elo5v5": 191
+    "elo5v5": 178
   },
   {
     "rank": 5,
@@ -91,43 +91,43 @@
   },
   {
     "rank": 19,
+    "teamName": "Arrogante",
+    "elo5v5": 75
+  },
+  {
+    "rank": 20,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Zenith",
     "elo5v5": 61
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Kiseki",
     "elo5v5": 60
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Bear United",
     "elo5v5": 51
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "AOGIRI",
     "elo5v5": 51
-  },
-  {
-    "rank": 26,
-    "teamName": "Arrogante",
-    "elo5v5": 50
   },
   {
     "rank": 27,
