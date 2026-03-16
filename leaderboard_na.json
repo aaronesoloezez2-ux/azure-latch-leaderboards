@@ -936,6 +936,11 @@
   },
   {
     "rank": 188,
+    "teamName": "Vanguard",
+    "elo5v5": 0
+  },
+  {
+    "rank": 189,
     "teamName": "Yakuza",
     "elo5v5": 0
   }
