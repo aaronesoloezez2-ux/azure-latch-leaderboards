@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Cute & Drunk",
-    "elo5v5": 129
+    "teamName": "Tea Time",
+    "elo5v5": 142
   },
   {
     "rank": 8,
-    "teamName": "Tea Time",
-    "elo5v5": 128
+    "teamName": "Cute & Drunk",
+    "elo5v5": 129
   },
   {
     "rank": 9,
@@ -666,18 +666,18 @@
   },
   {
     "rank": 134,
-    "teamName": "Anteiku FC",
-    "elo5v5": 60
-  },
-  {
-    "rank": 135,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 136,
+    "rank": 135,
     "teamName": "Manshine United EU",
     "elo5v5": 45
+  },
+  {
+    "rank": 136,
+    "teamName": "Anteiku FC",
+    "elo5v5": 43
   },
   {
     "rank": 137,
