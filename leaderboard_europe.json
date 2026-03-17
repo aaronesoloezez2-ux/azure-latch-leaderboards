@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Primordials",
-    "elo5v5": 196
+    "teamName": "Divine",
+    "elo5v5": 201
   },
   {
     "rank": 4,
-    "teamName": "Divine",
-    "elo5v5": 194
+    "teamName": "Primordials",
+    "elo5v5": 196
   },
   {
     "rank": 5,
@@ -691,28 +691,28 @@
   },
   {
     "rank": 139,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 140,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 141,
+    "rank": 140,
     "teamName": "nerv",
     "elo5v5": 21
   },
   {
-    "rank": 142,
+    "rank": 141,
     "teamName": "Barely Whitelisted FC",
     "elo5v5": 21
   },
   {
-    "rank": 143,
+    "rank": 142,
     "teamName": "Ferencvaros",
     "elo5v5": 19
+  },
+  {
+    "rank": 143,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 7
   },
   {
     "rank": 144,
