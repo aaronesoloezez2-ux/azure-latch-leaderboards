@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Completeness",
-    "elo5v5": 157
-  },
-  {
-    "rank": 6,
     "teamName": "Serendipity",
     "elo5v5": 156
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Polarys",
     "elo5v5": 147
+  },
+  {
+    "rank": 7,
+    "teamName": "Completeness",
+    "elo5v5": 141
   },
   {
     "rank": 8,
@@ -96,37 +96,37 @@
   },
   {
     "rank": 20,
+    "teamName": "AOGIRI",
+    "elo5v5": 75
+  },
+  {
+    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Kiseki",
     "elo5v5": 60
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 25,
-    "teamName": "Yhixx Yhap",
-    "elo5v5": 51
-  },
-  {
     "rank": 26,
-    "teamName": "AOGIRI",
+    "teamName": "Yhixx Yhap",
     "elo5v5": 51
   },
   {
