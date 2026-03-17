@@ -71,53 +71,53 @@
   },
   {
     "rank": 15,
+    "teamName": "Arrogante",
+    "elo5v5": 94
+  },
+  {
+    "rank": 16,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 81
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Reprised",
     "elo5v5": 79
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Zenith",
     "elo5v5": 77
   },
   {
-    "rank": 19,
-    "teamName": "Arrogante",
-    "elo5v5": 75
-  },
-  {
     "rank": 20,
-    "teamName": "AOGIRI",
-    "elo5v5": 75
-  },
-  {
-    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Kiseki",
     "elo5v5": 60
+  },
+  {
+    "rank": 24,
+    "teamName": "AOGIRI",
+    "elo5v5": 56
   },
   {
     "rank": 25,
