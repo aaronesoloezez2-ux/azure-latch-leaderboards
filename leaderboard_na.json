@@ -86,38 +86,38 @@
   },
   {
     "rank": 18,
+    "teamName": "Zenith",
+    "elo5v5": 79
+  },
+  {
+    "rank": 19,
     "teamName": "Arrogante",
     "elo5v5": 75
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "AOGIRI",
     "elo5v5": 75
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Kiseki",
     "elo5v5": 60
-  },
-  {
-    "rank": 24,
-    "teamName": "Zenith",
-    "elo5v5": 59
   },
   {
     "rank": 25,
@@ -126,28 +126,28 @@
   },
   {
     "rank": 26,
-    "teamName": "Bear United",
-    "elo5v5": 51
-  },
-  {
-    "rank": 27,
     "teamName": "Yhixx Yhap",
     "elo5v5": 51
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 45
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Dreamers (NA)",
     "elo5v5": 41
+  },
+  {
+    "rank": 30,
+    "teamName": "Bear United",
+    "elo5v5": 31
   },
   {
     "rank": 31,
