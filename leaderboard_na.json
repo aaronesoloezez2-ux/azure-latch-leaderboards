@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Gotei  13",
-    "elo5v5": 122
+    "teamName": "Infernum",
+    "elo5v5": 111
   },
   {
     "rank": 14,
-    "teamName": "Infernum",
-    "elo5v5": 111
+    "teamName": "Gotei  13",
+    "elo5v5": 104
   },
   {
     "rank": 15,
@@ -76,28 +76,28 @@
   },
   {
     "rank": 16,
+    "teamName": "Epoch",
+    "elo5v5": 90
+  },
+  {
+    "rank": 17,
     "teamName": "Crimson Authority",
     "elo5v5": 81
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Reprised",
     "elo5v5": 79
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Zenith",
     "elo5v5": 77
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
-  },
-  {
-    "rank": 20,
-    "teamName": "Epoch",
-    "elo5v5": 68
   },
   {
     "rank": 21,
