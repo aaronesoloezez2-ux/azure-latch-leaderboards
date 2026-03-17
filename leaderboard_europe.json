@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "Ascendance [RM]",
-    "elo5v5": 138
-  },
-  {
-    "rank": 9,
     "teamName": "Rose",
     "elo5v5": 133
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Cute & Drunk",
     "elo5v5": 129
+  },
+  {
+    "rank": 10,
+    "teamName": "Ascendance [RM]",
+    "elo5v5": 120
   },
   {
     "rank": 11,
@@ -656,43 +656,43 @@
   },
   {
     "rank": 132,
+    "teamName": "Nike FC",
+    "elo5v5": 47
+  },
+  {
+    "rank": 133,
     "teamName": "Manshine United EU",
     "elo5v5": 45
   },
   {
-    "rank": 133,
+    "rank": 134,
     "teamName": "Anteiku FC",
     "elo5v5": 43
   },
   {
-    "rank": 134,
+    "rank": 135,
     "teamName": "MraX",
     "elo5v5": 42
   },
   {
-    "rank": 135,
+    "rank": 136,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 136,
+    "rank": 137,
     "teamName": "Taiyo",
     "elo5v5": 38
   },
   {
-    "rank": 137,
+    "rank": 138,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 138,
+    "rank": 139,
     "teamName": "Eternal FC",
     "elo5v5": 25
-  },
-  {
-    "rank": 139,
-    "teamName": "Nike FC",
-    "elo5v5": 22
   },
   {
     "rank": 140,
