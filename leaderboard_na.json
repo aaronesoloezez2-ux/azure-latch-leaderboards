@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
+    "teamName": "Sees",
+    "elo5v5": 133
+  },
+  {
+    "rank": 10,
     "teamName": "Espada",
     "elo5v5": 130
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Gotei  13",
     "elo5v5": 122
-  },
-  {
-    "rank": 13,
-    "teamName": "Sees",
-    "elo5v5": 117
   },
   {
     "rank": 14,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Arrogante",
-    "elo5v5": 76
-  },
-  {
-    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Kiseki",
     "elo5v5": 60
+  },
+  {
+    "rank": 23,
+    "teamName": "Arrogante",
+    "elo5v5": 58
   },
   {
     "rank": 24,
