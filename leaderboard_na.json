@@ -101,37 +101,37 @@
   },
   {
     "rank": 21,
+    "teamName": "Yhixx Yhap",
+    "elo5v5": 71
+  },
+  {
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Kiseki",
     "elo5v5": 60
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Arrogante",
     "elo5v5": 58
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "AOGIRI",
     "elo5v5": 56
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 26,
-    "teamName": "Bear United",
-    "elo5v5": 51
-  },
-  {
     "rank": 27,
-    "teamName": "Yhixx Yhap",
+    "teamName": "Bear United",
     "elo5v5": 51
   },
   {
@@ -146,27 +146,27 @@
   },
   {
     "rank": 30,
-    "teamName": "Dreamers (NA)",
-    "elo5v5": 41
-  },
-  {
-    "rank": 31,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "The Wiki",
+    "elo5v5": 21
+  },
+  {
+    "rank": 34,
+    "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
