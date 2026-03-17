@@ -86,38 +86,38 @@
   },
   {
     "rank": 18,
-    "teamName": "Zenith",
-    "elo5v5": 79
-  },
-  {
-    "rank": 19,
     "teamName": "Arrogante",
     "elo5v5": 75
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 75
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Epoch",
     "elo5v5": 68
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Kiseki",
     "elo5v5": 60
+  },
+  {
+    "rank": 24,
+    "teamName": "Zenith",
+    "elo5v5": 59
   },
   {
     "rank": 25,
