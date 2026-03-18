@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
+    "teamName": "Zenith",
+    "elo5v5": 96
+  },
+  {
+    "rank": 16,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Yhixx Yhap",
     "elo5v5": 88
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Crimson Authority",
     "elo5v5": 81
-  },
-  {
-    "rank": 18,
-    "teamName": "Zenith",
-    "elo5v5": 80
   },
   {
     "rank": 19,
