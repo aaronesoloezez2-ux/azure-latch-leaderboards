@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
+    "teamName": "Gotei  13",
+    "elo5v5": 105
+  },
+  {
+    "rank": 15,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Yhixx Yhap",
     "elo5v5": 88
-  },
-  {
-    "rank": 16,
-    "teamName": "Gotei  13",
-    "elo5v5": 87
   },
   {
     "rank": 17,
@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
-    "teamName": "Reprised",
-    "elo5v5": 79
-  },
-  {
-    "rank": 20,
     "teamName": "Kiseki",
     "elo5v5": 78
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Fight Club",
     "elo5v5": 73
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Bear United",
     "elo5v5": 69
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 24,
+    "teamName": "Reprised",
+    "elo5v5": 60
   },
   {
     "rank": 25,
