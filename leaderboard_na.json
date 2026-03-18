@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
+    "teamName": "Kiseki",
+    "elo5v5": 78
+  },
+  {
+    "rank": 19,
     "teamName": "Zenith",
     "elo5v5": 77
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Yhixx Yhap",
     "elo5v5": 71
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 22,
-    "teamName": "Kiseki",
-    "elo5v5": 60
   },
   {
     "rank": 23,
@@ -161,18 +161,18 @@
   },
   {
     "rank": 33,
-    "teamName": "Dreamers (NA)",
-    "elo5v5": 21
-  },
-  {
-    "rank": 34,
     "teamName": "Burger FC [NA]",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Redmoon",
     "elo5v5": 21
+  },
+  {
+    "rank": 35,
+    "teamName": "Dreamers (NA)",
+    "elo5v5": 2
   },
   {
     "rank": 36,
