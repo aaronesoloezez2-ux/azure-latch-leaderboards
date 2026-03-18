@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Tea Time",
-    "elo5v5": 142
+    "teamName": "Rose",
+    "elo5v5": 146
   },
   {
     "rank": 7,
-    "teamName": "Rose",
-    "elo5v5": 133
+    "teamName": "Tea Time",
+    "elo5v5": 142
   },
   {
     "rank": 8,
@@ -676,32 +676,32 @@
   },
   {
     "rank": 136,
-    "teamName": "MraX",
-    "elo5v5": 42
-  },
-  {
-    "rank": 137,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 138,
+    "rank": 137,
     "teamName": "Taiyo",
     "elo5v5": 38
   },
   {
-    "rank": 139,
+    "rank": 138,
     "teamName": "Cowabungas FC",
     "elo5v5": 36
   },
   {
-    "rank": 140,
+    "rank": 139,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 141,
+    "rank": 140,
     "teamName": "Eternal FC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 141,
+    "teamName": "MraX",
     "elo5v5": 25
   },
   {
