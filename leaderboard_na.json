@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 269
+    "elo5v5": 275
   },
   {
     "rank": 2,
@@ -31,33 +31,33 @@
   },
   {
     "rank": 7,
-    "teamName": "Espada",
-    "elo5v5": 130
-  },
-  {
-    "rank": 8,
     "teamName": "Polarys",
     "elo5v5": 130
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Completeness",
     "elo5v5": 125
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Optimal",
     "elo5v5": 124
+  },
+  {
+    "rank": 12,
+    "teamName": "Espada",
+    "elo5v5": 118
   },
   {
     "rank": 13,
