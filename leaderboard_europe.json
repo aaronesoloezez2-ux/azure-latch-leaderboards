@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Cute & Drunk",
-    "elo5v5": 129
+    "teamName": "Abibas FC",
+    "elo5v5": 136
   },
   {
     "rank": 9,
-    "teamName": "Abibas FC",
-    "elo5v5": 122
+    "teamName": "Cute & Drunk",
+    "elo5v5": 129
   },
   {
     "rank": 10,
@@ -691,33 +691,33 @@
   },
   {
     "rank": 139,
-    "teamName": "MraX",
-    "elo5v5": 31
-  },
-  {
-    "rank": 140,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 141,
+    "rank": 140,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 142,
+    "rank": 141,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 143,
+    "rank": 142,
     "teamName": "Barely Whitelisted FC",
     "elo5v5": 21
   },
   {
-    "rank": 144,
+    "rank": 143,
     "teamName": "Ferencvaros",
     "elo5v5": 19
+  },
+  {
+    "rank": 144,
+    "teamName": "MraX",
+    "elo5v5": 14
   },
   {
     "rank": 145,
