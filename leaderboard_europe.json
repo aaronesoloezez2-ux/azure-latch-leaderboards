@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Authority",
-    "elo5v5": 221
+    "elo5v5": 209
   },
   {
     "rank": 3,
@@ -686,38 +686,38 @@
   },
   {
     "rank": 138,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 36
+  },
+  {
+    "rank": 139,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 139,
+    "rank": 140,
     "teamName": "Eternal FC",
     "elo5v5": 25
   },
   {
-    "rank": 140,
+    "rank": 141,
     "teamName": "Chain Breakers",
     "elo5v5": 21
   },
   {
-    "rank": 141,
+    "rank": 142,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 142,
+    "rank": 143,
     "teamName": "Barely Whitelisted FC",
     "elo5v5": 21
   },
   {
-    "rank": 143,
+    "rank": 144,
     "teamName": "Ferencvaros",
     "elo5v5": 19
-  },
-  {
-    "rank": 144,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 7
   },
   {
     "rank": 145,
