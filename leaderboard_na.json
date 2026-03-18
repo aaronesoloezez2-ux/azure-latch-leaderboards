@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Infernum",
+    "elo5v5": 126
+  },
+  {
+    "rank": 10,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Optimal",
     "elo5v5": 124
-  },
-  {
-    "rank": 12,
-    "teamName": "Infernum",
-    "elo5v5": 111
   },
   {
     "rank": 13,
@@ -126,18 +126,18 @@
   },
   {
     "rank": 26,
-    "teamName": "AOGIRI",
-    "elo5v5": 56
-  },
-  {
-    "rank": 27,
     "teamName": "Monarchs Recrowned | FC",
     "elo5v5": 45
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
+  },
+  {
+    "rank": 28,
+    "teamName": "AOGIRI",
+    "elo5v5": 38
   },
   {
     "rank": 29,
