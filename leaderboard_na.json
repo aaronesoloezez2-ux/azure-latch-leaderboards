@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 264
+    "elo5v5": 269
   },
   {
     "rank": 2,
@@ -111,23 +111,23 @@
   },
   {
     "rank": 23,
-    "teamName": "Arrogante",
-    "elo5v5": 58
-  },
-  {
-    "rank": 24,
     "teamName": "AOGIRI",
     "elo5v5": 56
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Fight Club",
     "elo5v5": 52
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Bear United",
     "elo5v5": 51
+  },
+  {
+    "rank": 26,
+    "teamName": "Arrogante",
+    "elo5v5": 46
   },
   {
     "rank": 27,
