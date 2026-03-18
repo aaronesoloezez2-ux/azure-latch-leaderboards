@@ -26,17 +26,17 @@
   },
   {
     "rank": 6,
-    "teamName": "Polarys",
-    "elo5v5": 147
-  },
-  {
-    "rank": 7,
     "teamName": "Olympus",
     "elo5v5": 138
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Espada",
+    "elo5v5": 130
+  },
+  {
+    "rank": 8,
+    "teamName": "Polarys",
     "elo5v5": 130
   },
   {
@@ -86,33 +86,33 @@
   },
   {
     "rank": 18,
+    "teamName": "Zenith",
+    "elo5v5": 80
+  },
+  {
+    "rank": 19,
     "teamName": "Reprised",
     "elo5v5": 79
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Kiseki",
     "elo5v5": 78
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 73
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 23,
-    "teamName": "Zenith",
-    "elo5v5": 57
   },
   {
     "rank": 24,
