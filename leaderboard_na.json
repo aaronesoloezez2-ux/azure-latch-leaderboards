@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kurain",
-    "elo5v5": 235
+    "elo5v5": 241
   },
   {
     "rank": 3,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Kiseki",
-    "elo5v5": 109
-  },
-  {
-    "rank": 15,
     "teamName": "Gotei  13",
     "elo5v5": 105
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Bear United",
     "elo5v5": 102
+  },
+  {
+    "rank": 16,
+    "teamName": "Kiseki",
+    "elo5v5": 96
   },
   {
     "rank": 17,
