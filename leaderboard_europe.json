@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Divine",
-    "elo5v5": 211
+    "teamName": "Primordials",
+    "elo5v5": 217
   },
   {
     "rank": 3,
-    "teamName": "Primordials",
-    "elo5v5": 210
+    "teamName": "Divine",
+    "elo5v5": 211
   },
   {
     "rank": 4,
@@ -646,23 +646,23 @@
   },
   {
     "rank": 130,
-    "teamName": "Chain Breakers",
-    "elo5v5": 57
-  },
-  {
-    "rank": 131,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 132,
+    "rank": 131,
     "teamName": "Anteiku FC",
     "elo5v5": 48
   },
   {
-    "rank": 133,
+    "rank": 132,
     "teamName": "Manshine United EU",
     "elo5v5": 45
+  },
+  {
+    "rank": 133,
+    "teamName": "Chain Breakers",
+    "elo5v5": 43
   },
   {
     "rank": 134,
