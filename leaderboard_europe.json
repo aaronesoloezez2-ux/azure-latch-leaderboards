@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Authority",
-    "elo5v5": 209
+    "teamName": "Primordials",
+    "elo5v5": 210
   },
   {
     "rank": 4,
-    "teamName": "Primordials",
-    "elo5v5": 203
+    "teamName": "Authority",
+    "elo5v5": 209
   },
   {
     "rank": 5,
@@ -656,42 +656,42 @@
   },
   {
     "rank": 132,
-    "teamName": "Virtuality",
-    "elo5v5": 43
-  },
-  {
-    "rank": 133,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 134,
+    "rank": 133,
     "teamName": "Chain Breakers",
     "elo5v5": 38
   },
   {
-    "rank": 135,
+    "rank": 134,
     "teamName": "Taiyo",
     "elo5v5": 38
   },
   {
-    "rank": 136,
+    "rank": 135,
     "teamName": "Cowabungas FC",
     "elo5v5": 36
   },
   {
-    "rank": 137,
+    "rank": 136,
     "teamName": "Nike FC",
     "elo5v5": 31
   },
   {
-    "rank": 138,
+    "rank": 137,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 139,
+    "rank": 138,
     "teamName": "Anteiku FC",
+    "elo5v5": 29
+  },
+  {
+    "rank": 139,
+    "teamName": "Virtuality",
     "elo5v5": 29
   },
   {
