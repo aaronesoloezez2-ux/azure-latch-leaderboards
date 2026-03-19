@@ -31,58 +31,58 @@
   },
   {
     "rank": 7,
+    "teamName": "Epoch",
+    "elo5v5": 127
+  },
+  {
+    "rank": 8,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Bear United",
     "elo5v5": 121
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Completeness",
     "elo5v5": 121
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Gotei  13",
     "elo5v5": 119
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Espada",
     "elo5v5": 118
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Zenith",
     "elo5v5": 115
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Polarys",
     "elo5v5": 113
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Kiseki",
     "elo5v5": 111
-  },
-  {
-    "rank": 17,
-    "teamName": "Epoch",
-    "elo5v5": 110
   },
   {
     "rank": 18,
@@ -101,13 +101,13 @@
   },
   {
     "rank": 21,
-    "teamName": "AOGIRI",
-    "elo5v5": 85
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 71
   },
   {
     "rank": 22,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 71
+    "teamName": "AOGIRI",
+    "elo5v5": 67
   },
   {
     "rank": 23,
