@@ -26,27 +26,27 @@
   },
   {
     "rank": 6,
+    "teamName": "Completeness",
+    "elo5v5": 137
+  },
+  {
+    "rank": 7,
     "teamName": "Zenith",
     "elo5v5": 132
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Sees",
     "elo5v5": 131
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 9,
-    "teamName": "Sovereign",
-    "elo5v5": 125
-  },
-  {
     "rank": 10,
-    "teamName": "Completeness",
+    "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
