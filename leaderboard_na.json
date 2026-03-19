@@ -151,23 +151,23 @@
   },
   {
     "rank": 31,
+    "teamName": "Moonlight",
+    "elo5v5": 25
+  },
+  {
+    "rank": 32,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Redmoon",
     "elo5v5": 21
-  },
-  {
-    "rank": 34,
-    "teamName": "Moonlight",
-    "elo5v5": 5
   },
   {
     "rank": 35,
