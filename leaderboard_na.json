@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Sees",
-    "elo5v5": 148
+    "teamName": "Serendipity",
+    "elo5v5": 142
   },
   {
     "rank": 6,
-    "teamName": "Serendipity",
-    "elo5v5": 142
+    "teamName": "Sees",
+    "elo5v5": 131
   },
   {
     "rank": 7,
@@ -101,23 +101,23 @@
   },
   {
     "rank": 21,
+    "teamName": "AOGIRI",
+    "elo5v5": 85
+  },
+  {
+    "rank": 22,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 63
-  },
-  {
-    "rank": 24,
-    "teamName": "AOGIRI",
-    "elo5v5": 62
   },
   {
     "rank": 25,
