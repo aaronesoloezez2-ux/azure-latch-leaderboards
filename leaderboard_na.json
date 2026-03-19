@@ -51,28 +51,28 @@
   },
   {
     "rank": 11,
+    "teamName": "Bear United",
+    "elo5v5": 119
+  },
+  {
+    "rank": 12,
     "teamName": "Espada",
     "elo5v5": 118
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Polarys",
     "elo5v5": 111
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Epoch",
     "elo5v5": 110
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Gotei  13",
     "elo5v5": 105
-  },
-  {
-    "rank": 15,
-    "teamName": "Bear United",
-    "elo5v5": 102
   },
   {
     "rank": 16,
@@ -101,18 +101,18 @@
   },
   {
     "rank": 21,
-    "teamName": "Crimson Authority",
-    "elo5v5": 81
-  },
-  {
-    "rank": 22,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 23,
+    "teamName": "Crimson Authority",
+    "elo5v5": 63
   },
   {
     "rank": 24,
