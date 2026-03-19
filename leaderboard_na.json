@@ -31,58 +31,58 @@
   },
   {
     "rank": 7,
-    "teamName": "Zenith",
-    "elo5v5": 132
-  },
-  {
-    "rank": 8,
     "teamName": "Sees",
     "elo5v5": 131
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Gotei  13",
     "elo5v5": 119
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Espada",
     "elo5v5": 118
   },
   {
+    "rank": 13,
+    "teamName": "Zenith",
+    "elo5v5": 115
+  },
+  {
     "rank": 14,
+    "teamName": "Polarys",
+    "elo5v5": 113
+  },
+  {
+    "rank": 15,
     "teamName": "Epoch",
     "elo5v5": 110
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Bear United",
     "elo5v5": 102
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Kiseki",
     "elo5v5": 96
-  },
-  {
-    "rank": 17,
-    "teamName": "Polarys",
-    "elo5v5": 93
   },
   {
     "rank": 18,
