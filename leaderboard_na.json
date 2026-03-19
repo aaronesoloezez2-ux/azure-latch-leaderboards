@@ -26,42 +26,42 @@
   },
   {
     "rank": 6,
+    "teamName": "Completeness",
+    "elo5v5": 135
+  },
+  {
+    "rank": 7,
     "teamName": "Zenith",
     "elo5v5": 134
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Sees",
     "elo5v5": 131
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Epoch",
     "elo5v5": 127
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 12,
-    "teamName": "Bear United",
-    "elo5v5": 121
-  },
-  {
     "rank": 13,
-    "teamName": "Completeness",
+    "teamName": "Bear United",
     "elo5v5": 121
   },
   {
@@ -151,28 +151,28 @@
   },
   {
     "rank": 31,
-    "teamName": "Moonlight",
-    "elo5v5": 25
-  },
-  {
-    "rank": 32,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Elite Guard",
     "elo5v5": 21
+  },
+  {
+    "rank": 35,
+    "teamName": "Moonlight",
+    "elo5v5": 8
   },
   {
     "rank": 36,
