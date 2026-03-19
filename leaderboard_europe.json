@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Authority",
-    "elo5v5": 209
+    "elo5v5": 196
   },
   {
     "rank": 5,
@@ -646,48 +646,48 @@
   },
   {
     "rank": 130,
+    "teamName": "Nike FC",
+    "elo5v5": 58
+  },
+  {
+    "rank": 131,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 131,
+    "rank": 132,
     "teamName": "Anteiku FC",
     "elo5v5": 48
   },
   {
-    "rank": 132,
+    "rank": 133,
     "teamName": "Manshine United EU",
     "elo5v5": 45
   },
   {
-    "rank": 133,
+    "rank": 134,
     "teamName": "Chain Breakers",
     "elo5v5": 43
   },
   {
-    "rank": 134,
+    "rank": 135,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 135,
+    "rank": 136,
     "teamName": "D7th",
     "elo5v5": 41
   },
   {
-    "rank": 136,
+    "rank": 137,
     "teamName": "Taiyo",
     "elo5v5": 38
   },
   {
-    "rank": 137,
+    "rank": 138,
     "teamName": "Cowabungas FC",
     "elo5v5": 36
-  },
-  {
-    "rank": 138,
-    "teamName": "Nike FC",
-    "elo5v5": 31
   },
   {
     "rank": 139,
