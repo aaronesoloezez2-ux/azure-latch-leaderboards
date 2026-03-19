@@ -26,37 +26,37 @@
   },
   {
     "rank": 6,
+    "teamName": "Ruthless",
+    "elo5v5": 21
+  },
+  {
+    "rank": 7,
     "teamName": "Cry",
     "elo5v5": 3
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Jeigamanassac",
     "elo5v5": 0
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Brick Merchants",
     "elo5v5": 0
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Facade",
     "elo5v5": 0
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "bum central",
     "elo5v5": 0
   },
   {
-    "rank": 11,
-    "teamName": "Steaks",
-    "elo5v5": 0
-  },
-  {
     "rank": 12,
-    "teamName": "Ruthless",
+    "teamName": "Steaks",
     "elo5v5": 0
   },
   {
