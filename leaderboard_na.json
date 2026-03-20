@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kurain",
-    "elo5v5": 241
+    "elo5v5": 247
   },
   {
     "rank": 3,
@@ -66,23 +66,23 @@
   },
   {
     "rank": 14,
-    "teamName": "Gotei  13",
-    "elo5v5": 119
-  },
-  {
-    "rank": 15,
     "teamName": "Espada",
     "elo5v5": 118
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Arrogante",
     "elo5v5": 110
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Epoch",
     "elo5v5": 110
+  },
+  {
+    "rank": 17,
+    "teamName": "Gotei  13",
+    "elo5v5": 106
   },
   {
     "rank": 18,
