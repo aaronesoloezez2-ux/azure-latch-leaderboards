@@ -41,33 +41,33 @@
   },
   {
     "rank": 9,
-    "teamName": "Gotei  13",
-    "elo5v5": 137
-  },
-  {
-    "rank": 10,
     "teamName": "Bear United",
     "elo5v5": 134
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Kiseki",
     "elo5v5": 125
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Optimal",
     "elo5v5": 124
+  },
+  {
+    "rank": 14,
+    "teamName": "Gotei  13",
+    "elo5v5": 119
   },
   {
     "rank": 15,
@@ -101,23 +101,23 @@
   },
   {
     "rank": 21,
+    "teamName": "AOGIRI",
+    "elo5v5": 72
+  },
+  {
+    "rank": 22,
     "teamName": "Yhixx Yhap",
     "elo5v5": 70
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 63
-  },
-  {
-    "rank": 24,
-    "teamName": "AOGIRI",
-    "elo5v5": 48
   },
   {
     "rank": 25,
