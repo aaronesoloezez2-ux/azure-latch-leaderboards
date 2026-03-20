@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Olympus",
-    "elo5v5": 152
+    "teamName": "Zenith",
+    "elo5v5": 162
   },
   {
     "rank": 5,
-    "teamName": "Zenith",
-    "elo5v5": 149
+    "teamName": "Olympus",
+    "elo5v5": 152
   },
   {
     "rank": 6,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Polarys",
-    "elo5v5": 113
-  },
-  {
-    "rank": 17,
     "teamName": "Kiseki",
     "elo5v5": 111
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Epoch",
     "elo5v5": 110
+  },
+  {
+    "rank": 18,
+    "teamName": "Polarys",
+    "elo5v5": 97
   },
   {
     "rank": 19,
