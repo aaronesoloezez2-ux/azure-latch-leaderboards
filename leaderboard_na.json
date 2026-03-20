@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Olympus",
-    "elo5v5": 150
+    "teamName": "Sees",
+    "elo5v5": 161
   },
   {
     "rank": 6,
-    "teamName": "Sees",
-    "elo5v5": 147
+    "teamName": "Olympus",
+    "elo5v5": 150
   },
   {
     "rank": 7,
@@ -36,33 +36,33 @@
   },
   {
     "rank": 8,
-    "teamName": "Completeness",
-    "elo5v5": 138
-  },
-  {
-    "rank": 9,
     "teamName": "Bear United",
     "elo5v5": 134
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Kiseki",
     "elo5v5": 125
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Optimal",
     "elo5v5": 124
+  },
+  {
+    "rank": 13,
+    "teamName": "Completeness",
+    "elo5v5": 123
   },
   {
     "rank": 14,
