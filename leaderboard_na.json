@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
+    "teamName": "Olympus",
+    "elo5v5": 150
+  },
+  {
+    "rank": 6,
     "teamName": "Sees",
     "elo5v5": 147
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Serendipity",
     "elo5v5": 142
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Completeness",
     "elo5v5": 138
-  },
-  {
-    "rank": 8,
-    "teamName": "Olympus",
-    "elo5v5": 137
   },
   {
     "rank": 9,
@@ -116,23 +116,23 @@
   },
   {
     "rank": 24,
-    "teamName": "Fight Club",
-    "elo5v5": 51
-  },
-  {
-    "rank": 25,
     "teamName": "AOGIRI",
     "elo5v5": 48
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Reprised",
     "elo5v5": 41
+  },
+  {
+    "rank": 27,
+    "teamName": "Fight Club",
+    "elo5v5": 34
   },
   {
     "rank": 28,
