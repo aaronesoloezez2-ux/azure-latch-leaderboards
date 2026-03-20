@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "Ascendance [RM]",
-    "elo5v5": 110
+    "elo5v5": 124
   },
   {
     "rank": 11,
@@ -716,13 +716,13 @@
   },
   {
     "rank": 144,
-    "teamName": "Ferencvaros",
-    "elo5v5": 19
+    "teamName": "MraX",
+    "elo5v5": 8
   },
   {
     "rank": 145,
-    "teamName": "MraX",
-    "elo5v5": 8
+    "teamName": "Ferencvaros",
+    "elo5v5": 2
   },
   {
     "rank": 146,
