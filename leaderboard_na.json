@@ -41,17 +41,17 @@
   },
   {
     "rank": 9,
-    "teamName": "Epoch",
-    "elo5v5": 127
-  },
-  {
-    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Sovereign",
+    "elo5v5": 125
+  },
+  {
+    "rank": 11,
+    "teamName": "Arrogante",
     "elo5v5": 125
   },
   {
@@ -86,8 +86,8 @@
   },
   {
     "rank": 18,
-    "teamName": "Arrogante",
-    "elo5v5": 107
+    "teamName": "Epoch",
+    "elo5v5": 110
   },
   {
     "rank": 19,
