@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Primordials",
-    "elo5v5": 217
+    "elo5v5": 223
   },
   {
     "rank": 3,
@@ -676,28 +676,28 @@
   },
   {
     "rank": 136,
-    "teamName": "Cowabungas FC",
-    "elo5v5": 36
-  },
-  {
-    "rank": 137,
     "teamName": "Anteiku FC",
     "elo5v5": 34
   },
   {
-    "rank": 138,
+    "rank": 137,
     "teamName": "Brick Corp EU",
     "elo5v5": 29
   },
   {
-    "rank": 139,
+    "rank": 138,
     "teamName": "Virtuality",
     "elo5v5": 29
   },
   {
-    "rank": 140,
+    "rank": 139,
     "teamName": "Eternal FC",
     "elo5v5": 25
+  },
+  {
+    "rank": 140,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 22
   },
   {
     "rank": 141,
