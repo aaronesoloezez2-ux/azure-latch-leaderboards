@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Bear United",
-    "elo5v5": 156
+    "elo5v5": 167
   },
   {
     "rank": 7,
@@ -96,23 +96,23 @@
   },
   {
     "rank": 20,
-    "teamName": "Yhixx Yhap",
-    "elo5v5": 70
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 63
+  },
+  {
+    "rank": 23,
+    "teamName": "Yhixx Yhap",
+    "elo5v5": 54
   },
   {
     "rank": 24,
