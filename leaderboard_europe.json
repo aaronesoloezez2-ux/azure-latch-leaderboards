@@ -1273,5 +1273,10 @@
     "rank": 255,
     "teamName": "Azura",
     "elo5v5": 0
+  },
+  {
+    "rank": 256,
+    "teamName": "SkyFall",
+    "elo5v5": 0
   }
 ]
