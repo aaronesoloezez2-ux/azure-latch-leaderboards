@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
+    "teamName": "Gotei  13",
+    "elo5v5": 121
+  },
+  {
+    "rank": 14,
     "teamName": "Serendipity",
     "elo5v5": 110
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Arrogante",
     "elo5v5": 110
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Epoch",
     "elo5v5": 110
-  },
-  {
-    "rank": 16,
-    "teamName": "Gotei  13",
-    "elo5v5": 106
   },
   {
     "rank": 17,
@@ -131,43 +131,43 @@
   },
   {
     "rank": 27,
-    "teamName": "Fight Club",
-    "elo5v5": 34
-  },
-  {
-    "rank": 28,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Pleiades",
     "elo5v5": 24
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Redmoon",
     "elo5v5": 21
+  },
+  {
+    "rank": 34,
+    "teamName": "Fight Club",
+    "elo5v5": 16
   },
   {
     "rank": 35,
