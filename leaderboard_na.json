@@ -36,33 +36,33 @@
   },
   {
     "rank": 8,
-    "teamName": "Serendipity",
-    "elo5v5": 128
-  },
-  {
-    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 125
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Kiseki",
     "elo5v5": 125
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Completeness",
     "elo5v5": 123
+  },
+  {
+    "rank": 13,
+    "teamName": "Serendipity",
+    "elo5v5": 110
   },
   {
     "rank": 14,
@@ -101,23 +101,23 @@
   },
   {
     "rank": 21,
+    "teamName": "Monarchs Recrowned FC",
+    "elo5v5": 68
+  },
+  {
+    "rank": 22,
     "teamName": "AOGIRI",
     "elo5v5": 67
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 63
-  },
-  {
-    "rank": 24,
-    "teamName": "Monarchs Recrowned FC",
-    "elo5v5": 45
   },
   {
     "rank": 25,
