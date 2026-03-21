@@ -11,23 +11,23 @@
   },
   {
     "rank": 3,
-    "teamName": "Zenith",
-    "elo5v5": 179
-  },
-  {
-    "rank": 4,
     "teamName": "Re Al",
     "elo5v5": 173
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Sees",
     "elo5v5": 170
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Bear United",
     "elo5v5": 167
+  },
+  {
+    "rank": 6,
+    "teamName": "Zenith",
+    "elo5v5": 164
   },
   {
     "rank": 7,
@@ -116,23 +116,23 @@
   },
   {
     "rank": 24,
+    "teamName": "Pleiades",
+    "elo5v5": 60
+  },
+  {
+    "rank": 25,
     "teamName": "AOGIRI",
     "elo5v5": 52
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Reprised",
     "elo5v5": 41
-  },
-  {
-    "rank": 27,
-    "teamName": "Pleiades",
-    "elo5v5": 34
   },
   {
     "rank": 28,
