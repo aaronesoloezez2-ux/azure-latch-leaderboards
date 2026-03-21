@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 275
+    "elo5v5": 280
   },
   {
     "rank": 2,
@@ -111,18 +111,18 @@
   },
   {
     "rank": 23,
-    "teamName": "Pleiades",
-    "elo5v5": 60
-  },
-  {
-    "rank": 24,
     "teamName": "AOGIRI",
     "elo5v5": 52
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Moonlight",
     "elo5v5": 50
+  },
+  {
+    "rank": 25,
+    "teamName": "Pleiades",
+    "elo5v5": 48
   },
   {
     "rank": 26,
