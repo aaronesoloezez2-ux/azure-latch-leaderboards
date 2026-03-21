@@ -111,18 +111,18 @@
   },
   {
     "rank": 23,
-    "teamName": "Crimson Authority",
-    "elo5v5": 63
-  },
-  {
-    "rank": 24,
     "teamName": "Pleiades",
     "elo5v5": 60
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "AOGIRI",
     "elo5v5": 52
+  },
+  {
+    "rank": 25,
+    "teamName": "Moonlight",
+    "elo5v5": 50
   },
   {
     "rank": 26,
@@ -131,18 +131,18 @@
   },
   {
     "rank": 27,
+    "teamName": "Crimson Authority",
+    "elo5v5": 42
+  },
+  {
+    "rank": 28,
     "teamName": "Reprised",
     "elo5v5": 41
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Saisei",
     "elo5v5": 30
-  },
-  {
-    "rank": 29,
-    "teamName": "Moonlight",
-    "elo5v5": 28
   },
   {
     "rank": 30,
