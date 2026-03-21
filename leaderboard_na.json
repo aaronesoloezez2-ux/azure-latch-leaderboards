@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
+    "teamName": "Serendipity",
+    "elo5v5": 122
+  },
+  {
+    "rank": 14,
     "teamName": "Arrogante",
     "elo5v5": 110
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Epoch",
     "elo5v5": 110
-  },
-  {
-    "rank": 15,
-    "teamName": "Serendipity",
-    "elo5v5": 105
   },
   {
     "rank": 16,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
-    "teamName": "Gotei  13",
-    "elo5v5": 81
-  },
-  {
-    "rank": 20,
     "teamName": "Yhixx Yhap",
     "elo5v5": 76
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 22,
+    "teamName": "Gotei  13",
+    "elo5v5": 63
   },
   {
     "rank": 23,
