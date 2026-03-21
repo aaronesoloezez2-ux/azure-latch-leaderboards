@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
+    "teamName": "Serendipity",
+    "elo5v5": 105
+  },
+  {
+    "rank": 16,
     "teamName": "Polarys",
     "elo5v5": 97
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 90
-  },
-  {
-    "rank": 18,
-    "teamName": "Serendipity",
-    "elo5v5": 89
   },
   {
     "rank": 19,
