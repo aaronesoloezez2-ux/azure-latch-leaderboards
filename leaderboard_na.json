@@ -116,73 +116,73 @@
   },
   {
     "rank": 24,
+    "teamName": "Moonlight",
+    "elo5v5": 53
+  },
+  {
+    "rank": 25,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "CAA",
     "elo5v5": 42
   },
   {
-    "rank": 26,
-    "teamName": "AOGIRI",
-    "elo5v5": 35
-  },
-  {
     "rank": 27,
-    "teamName": "Moonlight",
-    "elo5v5": 33
-  },
-  {
-    "rank": 28,
     "teamName": "Reprised",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 25
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Moon Noobs",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Gotei  13",
     "elo5v5": 16
+  },
+  {
+    "rank": 37,
+    "teamName": "AOGIRI",
+    "elo5v5": 15
   },
   {
     "rank": 38,
