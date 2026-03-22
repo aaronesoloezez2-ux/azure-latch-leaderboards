@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Zenith",
-    "elo5v5": 184
+    "elo5v5": 193
   },
   {
     "rank": 4,
@@ -96,23 +96,23 @@
   },
   {
     "rank": 20,
-    "teamName": "AOGIRI",
-    "elo5v5": 70
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 61
+  },
+  {
+    "rank": 23,
+    "teamName": "AOGIRI",
+    "elo5v5": 55
   },
   {
     "rank": 24,
