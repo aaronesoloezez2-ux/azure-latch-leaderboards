@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Rose",
-    "elo5v5": 182
+    "elo5v5": 190
   },
   {
     "rank": 6,
@@ -641,28 +641,28 @@
   },
   {
     "rank": 129,
-    "teamName": "Eternal FC",
-    "elo5v5": 25
-  },
-  {
-    "rank": 130,
     "teamName": "Cowabungas FC",
     "elo5v5": 22
   },
   {
-    "rank": 131,
+    "rank": 130,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 132,
+    "rank": 131,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 133,
+    "rank": 132,
     "teamName": "fc fc",
     "elo5v5": 21
+  },
+  {
+    "rank": 133,
+    "teamName": "Eternal FC",
+    "elo5v5": 10
   },
   {
     "rank": 134,
