@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Bear United",
-    "elo5v5": 178
-  },
-  {
-    "rank": 6,
     "teamName": "Sees",
     "elo5v5": 170
   },
   {
+    "rank": 6,
+    "teamName": "Bear United",
+    "elo5v5": 166
+  },
+  {
     "rank": 7,
     "teamName": "Sovereign",
-    "elo5v5": 151
+    "elo5v5": 166
   },
   {
     "rank": 8,
