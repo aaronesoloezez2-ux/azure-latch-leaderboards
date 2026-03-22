@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
+    "teamName": "CAA",
+    "elo5v5": 61
+  },
+  {
+    "rank": 25,
     "teamName": "Polarys",
     "elo5v5": 48
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 44
-  },
-  {
-    "rank": 26,
-    "teamName": "CAA",
-    "elo5v5": 42
   },
   {
     "rank": 27,
@@ -156,38 +156,38 @@
   },
   {
     "rank": 32,
-    "teamName": "Azure Syndicate",
-    "elo5v5": 21
-  },
-  {
-    "rank": 33,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Reprised",
     "elo5v5": 12
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Elite Guard",
     "elo5v5": 5
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Dreamers (NA)",
     "elo5v5": 2
+  },
+  {
+    "rank": 38,
+    "teamName": "Azure Syndicate",
+    "elo5v5": 1
   },
   {
     "rank": 39,
