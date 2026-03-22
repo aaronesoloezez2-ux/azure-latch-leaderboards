@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Pleiades",
+    "elo5v5": 139
+  },
+  {
+    "rank": 11,
     "teamName": "Kiseki",
     "elo5v5": 137
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Optimal",
     "elo5v5": 124
-  },
-  {
-    "rank": 13,
-    "teamName": "Pleiades",
-    "elo5v5": 123
   },
   {
     "rank": 14,
@@ -81,18 +81,18 @@
   },
   {
     "rank": 17,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 106
-  },
-  {
-    "rank": 18,
     "teamName": "Crimson Authority",
     "elo5v5": 96
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Seeds",
     "elo5v5": 93
+  },
+  {
+    "rank": 19,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 89
   },
   {
     "rank": 20,
