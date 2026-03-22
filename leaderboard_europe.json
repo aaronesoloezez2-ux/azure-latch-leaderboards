@@ -616,33 +616,33 @@
   },
   {
     "rank": 124,
-    "teamName": "fc fc",
+    "teamName": "Chain Breakers",
     "elo5v5": 42
   },
   {
     "rank": 125,
+    "teamName": "fc fc",
+    "elo5v5": 42
+  },
+  {
+    "rank": 126,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 126,
+    "rank": 127,
     "teamName": "D7th",
     "elo5v5": 41
   },
   {
-    "rank": 127,
+    "rank": 128,
     "teamName": "Taiyo",
     "elo5v5": 38
   },
   {
-    "rank": 128,
+    "rank": 129,
     "teamName": "Virtuality",
     "elo5v5": 29
-  },
-  {
-    "rank": 129,
-    "teamName": "Chain Breakers",
-    "elo5v5": 22
   },
   {
     "rank": 130,
