@@ -611,8 +611,8 @@
   },
   {
     "rank": 123,
-    "teamName": "Chain Breakers",
-    "elo5v5": 43
+    "teamName": "fc fc",
+    "elo5v5": 42
   },
   {
     "rank": 124,
@@ -641,22 +641,22 @@
   },
   {
     "rank": 129,
-    "teamName": "Cowabungas FC",
+    "teamName": "Chain Breakers",
     "elo5v5": 22
   },
   {
     "rank": 130,
+    "teamName": "Cowabungas FC",
+    "elo5v5": 22
+  },
+  {
+    "rank": 131,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 131,
-    "teamName": "Pumba FC",
-    "elo5v5": 21
-  },
-  {
     "rank": 132,
-    "teamName": "fc fc",
+    "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
