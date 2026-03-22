@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
+    "teamName": "Bear United",
+    "elo5v5": 178
+  },
+  {
+    "rank": 5,
     "teamName": "Re Al",
     "elo5v5": 173
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Sees",
     "elo5v5": 170
-  },
-  {
-    "rank": 6,
-    "teamName": "Bear United",
-    "elo5v5": 167
   },
   {
     "rank": 7,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Polarys",
-    "elo5v5": 97
-  },
-  {
-    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 90
+  },
+  {
+    "rank": 18,
+    "teamName": "Polarys",
+    "elo5v5": 81
   },
   {
     "rank": 19,
