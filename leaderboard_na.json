@@ -21,17 +21,17 @@
   },
   {
     "rank": 5,
+    "teamName": "Sovereign",
+    "elo5v5": 178
+  },
+  {
+    "rank": 6,
     "teamName": "Sees",
     "elo5v5": 170
   },
   {
-    "rank": 6,
-    "teamName": "Bear United",
-    "elo5v5": 166
-  },
-  {
     "rank": 7,
-    "teamName": "Sovereign",
+    "teamName": "Bear United",
     "elo5v5": 166
   },
   {
@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Infernum",
-    "elo5v5": 140
+    "elo5v5": 126
   },
   {
     "rank": 10,
