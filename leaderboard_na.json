@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Sovereign",
-    "elo5v5": 188
+    "elo5v5": 176
   },
   {
     "rank": 6,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Vollstandig",
+    "elo5v5": 153
+  },
+  {
+    "rank": 9,
     "teamName": "Olympus",
     "elo5v5": 150
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Kiseki",
     "elo5v5": 137
-  },
-  {
-    "rank": 10,
-    "teamName": "Vollstandig",
-    "elo5v5": 136
   },
   {
     "rank": 11,
