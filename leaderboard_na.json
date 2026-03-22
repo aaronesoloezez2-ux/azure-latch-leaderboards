@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kurain",
-    "elo5v5": 247
+    "elo5v5": 237
   },
   {
     "rank": 3,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Vollstandig",
+    "elo5v5": 136
+  },
+  {
+    "rank": 11,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Completeness",
     "elo5v5": 122
-  },
-  {
-    "rank": 13,
-    "teamName": "Vollstandig",
-    "elo5v5": 115
   },
   {
     "rank": 14,
