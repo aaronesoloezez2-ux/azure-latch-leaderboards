@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Sovereign",
-    "elo5v5": 178
+    "elo5v5": 188
   },
   {
     "rank": 6,
@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
-    "teamName": "Pleiades",
-    "elo5v5": 102
-  },
-  {
-    "rank": 16,
     "teamName": "Vollstandig",
     "elo5v5": 95
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 90
+  },
+  {
+    "rank": 18,
+    "teamName": "Pleiades",
+    "elo5v5": 87
   },
   {
     "rank": 19,
