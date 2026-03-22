@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Infernum",
-    "elo5v5": 126
+    "elo5v5": 140
   },
   {
     "rank": 10,
@@ -96,23 +96,23 @@
   },
   {
     "rank": 20,
-    "teamName": "Pleiades",
-    "elo5v5": 68
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 61
+  },
+  {
+    "rank": 23,
+    "teamName": "Pleiades",
+    "elo5v5": 51
   },
   {
     "rank": 24,
