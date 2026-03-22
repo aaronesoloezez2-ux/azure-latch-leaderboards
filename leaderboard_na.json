@@ -41,38 +41,38 @@
   },
   {
     "rank": 9,
-    "teamName": "Completeness",
-    "elo5v5": 138
-  },
-  {
-    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 126
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Kiseki",
     "elo5v5": 125
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
+    "rank": 12,
+    "teamName": "Completeness",
+    "elo5v5": 122
+  },
+  {
     "rank": 13,
+    "teamName": "Vollstandig",
+    "elo5v5": 115
+  },
+  {
+    "rank": 14,
     "teamName": "Epoch",
     "elo5v5": 110
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Serendipity",
     "elo5v5": 107
-  },
-  {
-    "rank": 15,
-    "teamName": "Vollstandig",
-    "elo5v5": 95
   },
   {
     "rank": 16,
