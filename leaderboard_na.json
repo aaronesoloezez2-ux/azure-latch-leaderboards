@@ -81,13 +81,13 @@
   },
   {
     "rank": 17,
-    "teamName": "Seeds",
-    "elo5v5": 93
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 106
   },
   {
     "rank": 18,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 90
+    "teamName": "Seeds",
+    "elo5v5": 93
   },
   {
     "rank": 19,
@@ -131,53 +131,53 @@
   },
   {
     "rank": 27,
-    "teamName": "Reprised",
-    "elo5v5": 30
-  },
-  {
-    "rank": 28,
     "teamName": "Saisei",
     "elo5v5": 30
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 25
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Azure Syndicate",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
+  },
+  {
+    "rank": 36,
+    "teamName": "Reprised",
+    "elo5v5": 12
   },
   {
     "rank": 37,
