@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Olympus",
-    "elo5v5": 150
+    "teamName": "Sovereign",
+    "elo5v5": 151
   },
   {
     "rank": 8,
-    "teamName": "Sovereign",
-    "elo5v5": 139
+    "teamName": "Olympus",
+    "elo5v5": 150
   },
   {
     "rank": 9,
@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
-    "teamName": "Moonlight",
-    "elo5v5": 50
-  },
-  {
-    "rank": 25,
     "teamName": "Pleiades",
     "elo5v5": 48
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Mugen",
     "elo5v5": 44
+  },
+  {
+    "rank": 26,
+    "teamName": "Moonlight",
+    "elo5v5": 33
   },
   {
     "rank": 27,
