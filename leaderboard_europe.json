@@ -1273,5 +1273,10 @@
     "rank": 255,
     "teamName": "dump message ids in here delete when 20 members and recreate",
     "elo5v5": 0
+  },
+  {
+    "rank": 256,
+    "teamName": "Fate's Dominion",
+    "elo5v5": 0
   }
 ]
