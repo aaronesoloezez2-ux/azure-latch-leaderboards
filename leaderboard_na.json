@@ -101,23 +101,23 @@
   },
   {
     "rank": 21,
+    "teamName": "CAA",
+    "elo5v5": 78
+  },
+  {
+    "rank": 22,
     "teamName": "Yhixx Yhap",
     "elo5v5": 76
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Moonlight",
     "elo5v5": 72
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 24,
-    "teamName": "CAA",
-    "elo5v5": 61
   },
   {
     "rank": 25,
