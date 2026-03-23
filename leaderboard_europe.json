@@ -596,28 +596,28 @@
   },
   {
     "rank": 120,
+    "teamName": "Virtuality",
+    "elo5v5": 49
+  },
+  {
+    "rank": 121,
     "teamName": "Brick Corp EU",
     "elo5v5": 48
   },
   {
-    "rank": 121,
+    "rank": 122,
     "teamName": "Chain Breakers",
     "elo5v5": 42
   },
   {
-    "rank": 122,
+    "rank": 123,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 123,
+    "rank": 124,
     "teamName": "D7th",
     "elo5v5": 41
-  },
-  {
-    "rank": 124,
-    "teamName": "Virtuality",
-    "elo5v5": 29
   },
   {
     "rank": 125,
@@ -631,42 +631,42 @@
   },
   {
     "rank": 127,
-    "teamName": "fc fc",
-    "elo5v5": 22
-  },
-  {
-    "rank": 128,
     "teamName": "Elite Firecrackers",
     "elo5v5": 21
   },
   {
-    "rank": 129,
+    "rank": 128,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 130,
+    "rank": 129,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 131,
+    "rank": 130,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 132,
+    "rank": 131,
     "teamName": "MraX",
     "elo5v5": 8
   },
   {
-    "rank": 133,
+    "rank": 132,
     "teamName": "Shin 心",
     "elo5v5": 8
   },
   {
-    "rank": 134,
+    "rank": 133,
     "teamName": "Ferencvaros",
+    "elo5v5": 2
+  },
+  {
+    "rank": 134,
+    "teamName": "fc fc",
     "elo5v5": 2
   },
   {
