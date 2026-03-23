@@ -596,13 +596,13 @@
   },
   {
     "rank": 120,
-    "teamName": "Destiny FC",
-    "elo5v5": 56
+    "teamName": "Anteiku FC",
+    "elo5v5": 73
   },
   {
     "rank": 121,
-    "teamName": "Anteiku FC",
-    "elo5v5": 53
+    "teamName": "Destiny FC",
+    "elo5v5": 56
   },
   {
     "rank": 122,
@@ -621,32 +621,32 @@
   },
   {
     "rank": 125,
-    "teamName": "fc fc",
-    "elo5v5": 42
-  },
-  {
-    "rank": 126,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 127,
+    "rank": 126,
     "teamName": "D7th",
     "elo5v5": 41
   },
   {
-    "rank": 128,
+    "rank": 127,
     "teamName": "Taiyo",
     "elo5v5": 38
   },
   {
-    "rank": 129,
+    "rank": 128,
     "teamName": "Virtuality",
     "elo5v5": 29
   },
   {
-    "rank": 130,
+    "rank": 129,
     "teamName": "Cowabungas FC",
+    "elo5v5": 22
+  },
+  {
+    "rank": 130,
+    "teamName": "fc fc",
     "elo5v5": 22
   },
   {
