@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "Sovereign",
+    "elo5v5": 175
+  },
+  {
+    "rank": 6,
     "teamName": "Bear United",
     "elo5v5": 166
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Pleiades",
     "elo5v5": 166
-  },
-  {
-    "rank": 7,
-    "teamName": "Sovereign",
-    "elo5v5": 163
   },
   {
     "rank": 8,
@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
-    "teamName": "Vollstandig",
-    "elo5v5": 139
-  },
-  {
-    "rank": 12,
     "teamName": "Kiseki",
     "elo5v5": 137
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Infernum",
     "elo5v5": 126
+  },
+  {
+    "rank": 13,
+    "teamName": "Vollstandig",
+    "elo5v5": 125
   },
   {
     "rank": 14,
