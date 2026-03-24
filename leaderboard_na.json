@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Bear United",
-    "elo5v5": 177
-  },
-  {
-    "rank": 6,
     "teamName": "Pleiades",
     "elo5v5": 174
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Sees",
     "elo5v5": 168
+  },
+  {
+    "rank": 7,
+    "teamName": "Bear United",
+    "elo5v5": 163
   },
   {
     "rank": 8,
@@ -76,48 +76,48 @@
   },
   {
     "rank": 16,
+    "teamName": "SIVA",
+    "elo5v5": 94
+  },
+  {
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 89
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Crimson Authority",
     "elo5v5": 81
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "CAA",
     "elo5v5": 78
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Yhixx Yhap",
     "elo5v5": 76
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Moonlight",
     "elo5v5": 76
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Serendipity",
     "elo5v5": 75
-  },
-  {
-    "rank": 24,
-    "teamName": "SIVA",
-    "elo5v5": 71
   },
   {
     "rank": 25,
