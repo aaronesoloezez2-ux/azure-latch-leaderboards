@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Abibas FC",
-    "elo5v5": 147
+    "elo5v5": 158
   },
   {
     "rank": 7,
@@ -601,23 +601,23 @@
   },
   {
     "rank": 121,
-    "teamName": "Chain Breakers",
-    "elo5v5": 42
-  },
-  {
-    "rank": 122,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 123,
+    "rank": 122,
     "teamName": "D7th",
     "elo5v5": 41
   },
   {
-    "rank": 124,
+    "rank": 123,
     "teamName": "Oshu Oshi",
     "elo5v5": 28
+  },
+  {
+    "rank": 124,
+    "teamName": "Chain Breakers",
+    "elo5v5": 26
   },
   {
     "rank": 125,
