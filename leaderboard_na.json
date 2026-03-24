@@ -96,23 +96,23 @@
   },
   {
     "rank": 20,
-    "teamName": "CAA",
-    "elo5v5": 78
-  },
-  {
-    "rank": 21,
     "teamName": "Yhixx Yhap",
     "elo5v5": 76
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Serendipity",
     "elo5v5": 75
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 23,
+    "teamName": "CAA",
+    "elo5v5": 57
   },
   {
     "rank": 24,
@@ -141,42 +141,42 @@
   },
   {
     "rank": 29,
+    "teamName": "SIVA",
+    "elo5v5": 44
+  },
+  {
+    "rank": 30,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 30,
+    "rank": 31,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 35,
     "teamName": "FC Babalona",
     "elo5v5": 21
   },
   {
-    "rank": 35,
-    "teamName": "Crimson Authority U20",
-    "elo5v5": 21
-  },
-  {
     "rank": 36,
-    "teamName": "SIVA",
+    "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
