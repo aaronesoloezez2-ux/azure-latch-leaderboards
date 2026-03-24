@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
+    "teamName": "Moonlight",
+    "elo5v5": 76
+  },
+  {
+    "rank": 22,
     "teamName": "Serendipity",
     "elo5v5": 75
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "SIVA",
     "elo5v5": 71
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "CAA",
     "elo5v5": 60
-  },
-  {
-    "rank": 25,
-    "teamName": "Moonlight",
-    "elo5v5": 56
   },
   {
     "rank": 26,
@@ -131,28 +131,28 @@
   },
   {
     "rank": 27,
-    "teamName": "AOGIRI",
-    "elo5v5": 46
-  },
-  {
-    "rank": 28,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 31,
+    "teamName": "AOGIRI",
+    "elo5v5": 26
   },
   {
     "rank": 32,
