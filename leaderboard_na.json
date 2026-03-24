@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Zenith",
-    "elo5v5": 206
+    "teamName": "Re Al",
+    "elo5v5": 201
   },
   {
     "rank": 4,
-    "teamName": "Re Al",
-    "elo5v5": 201
+    "teamName": "Zenith",
+    "elo5v5": 195
   },
   {
     "rank": 5,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Epoch",
+    "elo5v5": 131
+  },
+  {
+    "rank": 13,
     "teamName": "Vollstandig",
     "elo5v5": 125
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Optimal",
     "elo5v5": 124
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Infernum",
     "elo5v5": 112
-  },
-  {
-    "rank": 15,
-    "teamName": "Epoch",
-    "elo5v5": 110
   },
   {
     "rank": 16,
