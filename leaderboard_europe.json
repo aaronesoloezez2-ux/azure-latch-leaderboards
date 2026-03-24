@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Primordials",
-    "elo5v5": 232
+    "elo5v5": 222
   },
   {
     "rank": 3,
@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Ascendance [RM]",
+    "elo5v5": 146
+  },
+  {
+    "rank": 7,
     "teamName": "Abibas FC",
     "elo5v5": 145
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Cute & Drunk",
     "elo5v5": 129
-  },
-  {
-    "rank": 8,
-    "teamName": "Ascendance [RM]",
-    "elo5v5": 127
   },
   {
     "rank": 9,
