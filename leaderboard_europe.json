@@ -571,18 +571,18 @@
   },
   {
     "rank": 115,
-    "teamName": "Anteiku FC",
-    "elo5v5": 90
-  },
-  {
-    "rank": 116,
     "teamName": "Nike FC",
     "elo5v5": 84
   },
   {
-    "rank": 117,
+    "rank": 116,
     "teamName": "Index Predators",
     "elo5v5": 83
+  },
+  {
+    "rank": 117,
+    "teamName": "Anteiku FC",
+    "elo5v5": 68
   },
   {
     "rank": 118,
@@ -621,47 +621,47 @@
   },
   {
     "rank": 125,
+    "teamName": "fc fc",
+    "elo5v5": 26
+  },
+  {
+    "rank": 126,
     "teamName": "Cowabungas FC",
     "elo5v5": 22
   },
   {
-    "rank": 126,
+    "rank": 127,
     "teamName": "Elite Firecrackers",
     "elo5v5": 21
   },
   {
-    "rank": 127,
+    "rank": 128,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 128,
+    "rank": 129,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 129,
+    "rank": 130,
     "teamName": "Pumba FC",
     "elo5v5": 21
   },
   {
-    "rank": 130,
+    "rank": 131,
     "teamName": "MraX",
     "elo5v5": 8
   },
   {
-    "rank": 131,
+    "rank": 132,
     "teamName": "Shin 心",
     "elo5v5": 8
   },
   {
-    "rank": 132,
-    "teamName": "Ferencvaros",
-    "elo5v5": 2
-  },
-  {
     "rank": 133,
-    "teamName": "fc fc",
+    "teamName": "Ferencvaros",
     "elo5v5": 2
   },
   {
