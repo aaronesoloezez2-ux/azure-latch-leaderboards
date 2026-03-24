@@ -116,33 +116,33 @@
   },
   {
     "rank": 24,
+    "teamName": "CAA",
+    "elo5v5": 60
+  },
+  {
+    "rank": 25,
     "teamName": "Moonlight",
     "elo5v5": 56
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Polarys",
     "elo5v5": 48
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "AOGIRI",
     "elo5v5": 46
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Mugen",
     "elo5v5": 44
-  },
-  {
-    "rank": 29,
-    "teamName": "CAA",
-    "elo5v5": 41
   },
   {
     "rank": 30,
