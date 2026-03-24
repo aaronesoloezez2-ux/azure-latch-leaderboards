@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Zenith",
-    "elo5v5": 218
+    "elo5v5": 206
   },
   {
     "rank": 4,
@@ -106,37 +106,37 @@
   },
   {
     "rank": 22,
+    "teamName": "SIVA",
+    "elo5v5": 71
+  },
+  {
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Moonlight",
     "elo5v5": 56
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Polarys",
     "elo5v5": 48
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "AOGIRI",
     "elo5v5": 46
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 27,
-    "teamName": "Mugen",
-    "elo5v5": 44
-  },
-  {
     "rank": 28,
-    "teamName": "SIVA",
+    "teamName": "Mugen",
     "elo5v5": 44
   },
   {
