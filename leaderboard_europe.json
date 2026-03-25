@@ -572,7 +572,7 @@
   {
     "rank": 115,
     "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 89
+    "elo5v5": 68
   },
   {
     "rank": 116,
@@ -581,33 +581,33 @@
   },
   {
     "rank": 117,
+    "teamName": "Chain Breakers",
+    "elo5v5": 57
+  },
+  {
+    "rank": 118,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 118,
+    "rank": 119,
     "teamName": "Anteiku FC",
     "elo5v5": 47
   },
   {
-    "rank": 119,
+    "rank": 120,
     "teamName": "fc fc",
     "elo5v5": 45
   },
   {
-    "rank": 120,
+    "rank": 121,
     "teamName": "Elite Firecrackers",
     "elo5v5": 41
   },
   {
-    "rank": 121,
+    "rank": 122,
     "teamName": "Hotspot FC",
     "elo5v5": 41
-  },
-  {
-    "rank": 122,
-    "teamName": "Chain Breakers",
-    "elo5v5": 34
   },
   {
     "rank": 123,
