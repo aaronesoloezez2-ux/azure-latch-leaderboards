@@ -71,13 +71,13 @@
   },
   {
     "rank": 15,
-    "teamName": "Epoch",
-    "elo5v5": 115
+    "teamName": "SIVA",
+    "elo5v5": 124
   },
   {
     "rank": 16,
-    "teamName": "SIVA",
-    "elo5v5": 109
+    "teamName": "Epoch",
+    "elo5v5": 115
   },
   {
     "rank": 17,
@@ -176,23 +176,23 @@
   },
   {
     "rank": 36,
-    "teamName": "Re Al U20",
-    "elo5v5": 21
-  },
-  {
-    "rank": 37,
     "teamName": "Reprised",
     "elo5v5": 12
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Saisei",
     "elo5v5": 8
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 6
+  },
+  {
+    "rank": 39,
+    "teamName": "Re Al U20",
+    "elo5v5": 4
   },
   {
     "rank": 40,
