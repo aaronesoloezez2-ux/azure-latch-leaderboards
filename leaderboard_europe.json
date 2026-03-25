@@ -1273,5 +1273,10 @@
     "rank": 255,
     "teamName": "NOVA 2.0",
     "elo5v5": 0
+  },
+  {
+    "rank": 256,
+    "teamName": "Sambas",
+    "elo5v5": 0
   }
 ]
