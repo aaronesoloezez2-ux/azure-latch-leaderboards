@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Re Al",
-    "elo5v5": 179
+    "teamName": "Pleiades",
+    "elo5v5": 184
   },
   {
     "rank": 6,
-    "teamName": "Pleiades",
-    "elo5v5": 174
+    "teamName": "Re Al",
+    "elo5v5": 179
   },
   {
     "rank": 7,
@@ -106,18 +106,18 @@
   },
   {
     "rank": 22,
-    "teamName": "Moonlight",
-    "elo5v5": 76
-  },
-  {
-    "rank": 23,
     "teamName": "Serendipity",
     "elo5v5": 75
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 24,
+    "teamName": "Moonlight",
+    "elo5v5": 60
   },
   {
     "rank": 25,
