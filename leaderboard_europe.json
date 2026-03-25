@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Ascendance [RM]",
-    "elo5v5": 146
+    "teamName": "Abibas FC",
+    "elo5v5": 157
   },
   {
     "rank": 7,
-    "teamName": "Abibas FC",
-    "elo5v5": 145
+    "teamName": "Ascendance [RM]",
+    "elo5v5": 146
   },
   {
     "rank": 8,
@@ -586,28 +586,28 @@
   },
   {
     "rank": 118,
-    "teamName": "Brick Corp EU",
-    "elo5v5": 48
-  },
-  {
-    "rank": 119,
     "teamName": "Anteiku FC",
     "elo5v5": 47
   },
   {
-    "rank": 120,
+    "rank": 119,
     "teamName": "Elite Firecrackers",
     "elo5v5": 41
   },
   {
-    "rank": 121,
+    "rank": 120,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 122,
+    "rank": 121,
     "teamName": "Chain Breakers",
     "elo5v5": 34
+  },
+  {
+    "rank": 122,
+    "teamName": "Brick Corp EU",
+    "elo5v5": 32
   },
   {
     "rank": 123,
