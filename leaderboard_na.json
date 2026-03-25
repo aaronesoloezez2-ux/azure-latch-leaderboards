@@ -106,18 +106,18 @@
   },
   {
     "rank": 22,
+    "teamName": "Moonlight",
+    "elo5v5": 78
+  },
+  {
+    "rank": 23,
     "teamName": "Serendipity",
     "elo5v5": 75
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 24,
-    "teamName": "Moonlight",
-    "elo5v5": 60
   },
   {
     "rank": 25,
