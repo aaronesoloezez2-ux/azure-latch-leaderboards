@@ -16,23 +16,23 @@
   },
   {
     "rank": 4,
-    "teamName": "Re Al",
-    "elo5v5": 190
+    "teamName": "Sovereign",
+    "elo5v5": 179
   },
   {
     "rank": 5,
+    "teamName": "Re Al",
+    "elo5v5": 179
+  },
+  {
+    "rank": 6,
     "teamName": "Pleiades",
     "elo5v5": 174
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Sees",
     "elo5v5": 168
-  },
-  {
-    "rank": 7,
-    "teamName": "Sovereign",
-    "elo5v5": 166
   },
   {
     "rank": 8,
