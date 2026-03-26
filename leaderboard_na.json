@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Sees",
-    "elo5v5": 168
+    "teamName": "Bear United",
+    "elo5v5": 174
   },
   {
     "rank": 8,
-    "teamName": "Bear United",
-    "elo5v5": 163
+    "teamName": "Sees",
+    "elo5v5": 168
   },
   {
     "rank": 9,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 85
-  },
-  {
-    "rank": 20,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Crimson Authority",
     "elo5v5": 81
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "CAA",
     "elo5v5": 78
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Moonlight",
     "elo5v5": 76
+  },
+  {
+    "rank": 23,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 69
   },
   {
     "rank": 24,
