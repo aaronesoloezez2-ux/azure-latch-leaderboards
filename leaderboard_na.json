@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Pleiades",
-    "elo5v5": 190
+    "elo5v5": 197
   },
   {
     "rank": 6,
@@ -136,43 +136,43 @@
   },
   {
     "rank": 28,
-    "teamName": "AOGIRI",
-    "elo5v5": 32
-  },
-  {
-    "rank": 29,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "FC Babalona",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
+  },
+  {
+    "rank": 35,
+    "teamName": "AOGIRI",
+    "elo5v5": 18
   },
   {
     "rank": 36,
