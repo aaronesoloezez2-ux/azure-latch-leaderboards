@@ -56,22 +56,22 @@
   },
   {
     "rank": 12,
+    "teamName": "SIVA",
+    "elo5v5": 136
+  },
+  {
+    "rank": 13,
     "teamName": "Infernum",
     "elo5v5": 130
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Vollstandig",
     "elo5v5": 125
   },
   {
-    "rank": 14,
-    "teamName": "Optimal",
-    "elo5v5": 124
-  },
-  {
     "rank": 15,
-    "teamName": "SIVA",
+    "teamName": "Optimal",
     "elo5v5": 124
   },
   {
