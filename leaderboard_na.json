@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Pleiades",
-    "elo5v5": 207
+    "elo5v5": 213
   },
   {
     "rank": 6,
@@ -181,18 +181,18 @@
   },
   {
     "rank": 37,
-    "teamName": "AOGIRI",
-    "elo5v5": 18
-  },
-  {
-    "rank": 38,
     "teamName": "Reprised",
     "elo5v5": 12
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Saisei",
     "elo5v5": 8
+  },
+  {
+    "rank": 39,
+    "teamName": "AOGIRI",
+    "elo5v5": 5
   },
   {
     "rank": 40,
