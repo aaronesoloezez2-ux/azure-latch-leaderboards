@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Abibas FC",
-    "elo5v5": 144
+    "elo5v5": 155
   },
   {
     "rank": 7,
@@ -631,43 +631,43 @@
   },
   {
     "rank": 127,
-    "teamName": "Messatsu",
-    "elo5v5": 21
-  },
-  {
-    "rank": 128,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 129,
+    "rank": 128,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 130,
+    "rank": 129,
     "teamName": "Shrine",
     "elo5v5": 21
   },
   {
-    "rank": 131,
+    "rank": 130,
     "teamName": "Ego XI",
     "elo5v5": 21
   },
   {
-    "rank": 132,
+    "rank": 131,
     "teamName": "D7th",
     "elo5v5": 19
   },
   {
-    "rank": 133,
+    "rank": 132,
     "teamName": "MraX",
     "elo5v5": 8
   },
   {
-    "rank": 134,
+    "rank": 133,
     "teamName": "Shin 心",
     "elo5v5": 8
+  },
+  {
+    "rank": 134,
+    "teamName": "Messatsu",
+    "elo5v5": 5
   },
   {
     "rank": 135,
