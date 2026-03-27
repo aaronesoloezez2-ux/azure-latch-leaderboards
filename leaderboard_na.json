@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Pleiades",
-    "elo5v5": 213
+    "elo5v5": 201
   },
   {
     "rank": 6,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
+    "teamName": "Moonlight",
+    "elo5v5": 86
+  },
+  {
+    "rank": 20,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Crimson Authority",
     "elo5v5": 81
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 22,
-    "teamName": "Moonlight",
-    "elo5v5": 61
   },
   {
     "rank": 23,
