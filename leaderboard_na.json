@@ -51,13 +51,13 @@
   },
   {
     "rank": 11,
-    "teamName": "Sovereign",
-    "elo5v5": 149
+    "teamName": "Infernum",
+    "elo5v5": 143
   },
   {
     "rank": 12,
-    "teamName": "Infernum",
-    "elo5v5": 143
+    "teamName": "Sovereign",
+    "elo5v5": 133
   },
   {
     "rank": 13,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 99
+  },
+  {
+    "rank": 18,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Moonlight",
     "elo5v5": 86
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Crimson Authority",
     "elo5v5": 81
-  },
-  {
-    "rank": 21,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 77
   },
   {
     "rank": 22,
