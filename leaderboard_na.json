@@ -171,22 +171,22 @@
   },
   {
     "rank": 35,
+    "teamName": "Metalogic",
+    "elo5v5": 22
+  },
+  {
+    "rank": 36,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 37,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 37,
-    "teamName": "Crucifer",
-    "elo5v5": 21
-  },
-  {
     "rank": 38,
-    "teamName": "Crimson Authority U20",
+    "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
@@ -856,117 +856,117 @@
   },
   {
     "rank": 172,
-    "teamName": "Metalogic",
-    "elo5v5": 0
-  },
-  {
-    "rank": 173,
     "teamName": "Rebirth Arena FC",
     "elo5v5": 0
   },
   {
-    "rank": 174,
+    "rank": 173,
     "teamName": "Golden Age",
     "elo5v5": 0
   },
   {
-    "rank": 175,
+    "rank": 174,
     "teamName": "AOGIRI",
     "elo5v5": 0
   },
   {
-    "rank": 176,
+    "rank": 175,
     "teamName": "Dominion FC",
     "elo5v5": 0
   },
   {
-    "rank": 177,
+    "rank": 176,
     "teamName": "Floral FC",
     "elo5v5": 0
   },
   {
-    "rank": 178,
+    "rank": 177,
     "teamName": "Synergy FC West",
     "elo5v5": 0
   },
   {
-    "rank": 179,
+    "rank": 178,
     "teamName": "Overdrive",
     "elo5v5": 0
   },
   {
-    "rank": 180,
+    "rank": 179,
     "teamName": "Lucent:RE",
     "elo5v5": 0
   },
   {
-    "rank": 181,
+    "rank": 180,
     "teamName": "FC Crow",
     "elo5v5": 0
   },
   {
-    "rank": 182,
+    "rank": 181,
     "teamName": "Waffle",
     "elo5v5": 0
   },
   {
-    "rank": 183,
+    "rank": 182,
     "teamName": "Vanguard",
     "elo5v5": 0
   },
   {
-    "rank": 184,
+    "rank": 183,
     "teamName": "Yakuza",
     "elo5v5": 0
   },
   {
-    "rank": 185,
+    "rank": 184,
     "teamName": "Melancholy",
     "elo5v5": 0
   },
   {
-    "rank": 186,
+    "rank": 185,
     "teamName": "Elite Guard",
     "elo5v5": 0
   },
   {
-    "rank": 187,
+    "rank": 186,
     "teamName": "Panthera",
     "elo5v5": 0
   },
   {
-    "rank": 188,
+    "rank": 187,
     "teamName": "Snowflakes",
     "elo5v5": 0
   },
   {
-    "rank": 189,
+    "rank": 188,
     "teamName": "Bibliomania",
     "elo5v5": 0
   },
   {
-    "rank": 190,
+    "rank": 189,
     "teamName": "Crimsons",
     "elo5v5": 0
   },
   {
-    "rank": 191,
+    "rank": 190,
     "teamName": "Moonlight U20",
     "elo5v5": 0
   },
   {
-    "rank": 192,
+    "rank": 191,
     "teamName": "ZZZ Lovers",
     "elo5v5": 0
   },
   {
-    "rank": 193,
+    "rank": 192,
     "teamName": "Crown Monopoly",
     "elo5v5": 0
   },
   {
-    "rank": 194,
+    "rank": 193,
     "teamName": "U4-CORP",
+    "elo5v5": 0
+  },
+  {
+    "rank": 194,
+    "teamName": "Crimson Authority U20",
     "elo5v5": 0
   },
   {
