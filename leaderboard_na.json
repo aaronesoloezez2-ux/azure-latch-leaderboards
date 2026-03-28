@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 176
-  },
-  {
-    "rank": 7,
     "teamName": "Pleiades",
     "elo5v5": 174
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Sees",
     "elo5v5": 168
+  },
+  {
+    "rank": 8,
+    "teamName": "Sovereign",
+    "elo5v5": 162
   },
   {
     "rank": 9,
@@ -101,13 +101,13 @@
   },
   {
     "rank": 21,
-    "teamName": "Sunrise",
-    "elo5v5": 66
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 77
   },
   {
     "rank": 22,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 52
+    "teamName": "Sunrise",
+    "elo5v5": 66
   },
   {
     "rank": 23,
