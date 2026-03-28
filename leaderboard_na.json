@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Bear United",
-    "elo5v5": 185
+    "teamName": "Pleiades",
+    "elo5v5": 186
   },
   {
     "rank": 6,
-    "teamName": "Pleiades",
-    "elo5v5": 174
+    "teamName": "Bear United",
+    "elo5v5": 185
   },
   {
     "rank": 7,
@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
-    "teamName": "Sovereign",
-    "elo5v5": 162
-  },
-  {
-    "rank": 9,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Olympus",
     "elo5v5": 150
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "SIVA",
     "elo5v5": 150
+  },
+  {
+    "rank": 11,
+    "teamName": "Sovereign",
+    "elo5v5": 149
   },
   {
     "rank": 12,
