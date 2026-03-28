@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Pleiades",
-    "elo5v5": 187
-  },
-  {
-    "rank": 6,
     "teamName": "Bear United",
     "elo5v5": 185
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Sovereign",
     "elo5v5": 176
+  },
+  {
+    "rank": 7,
+    "teamName": "Pleiades",
+    "elo5v5": 174
   },
   {
     "rank": 8,
@@ -76,13 +76,13 @@
   },
   {
     "rank": 16,
-    "teamName": "Seeds",
-    "elo5v5": 93
+    "teamName": "Serendipity",
+    "elo5v5": 114
   },
   {
     "rank": 17,
-    "teamName": "Serendipity",
-    "elo5v5": 92
+    "teamName": "Seeds",
+    "elo5v5": 93
   },
   {
     "rank": 18,
