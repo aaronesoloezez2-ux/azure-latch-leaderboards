@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Abibas FC",
-    "elo5v5": 170
+    "elo5v5": 179
   },
   {
     "rank": 5,
@@ -606,43 +606,43 @@
   },
   {
     "rank": 122,
-    "teamName": "NEO STRIKERS",
-    "elo5v5": 21
-  },
-  {
-    "rank": 123,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 124,
+    "rank": 123,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 125,
+    "rank": 124,
     "teamName": "Celestians",
     "elo5v5": 21
   },
   {
-    "rank": 126,
+    "rank": 125,
     "teamName": "Shrine",
     "elo5v5": 21
   },
   {
-    "rank": 127,
+    "rank": 126,
     "teamName": "Ego XI",
     "elo5v5": 21
   },
   {
-    "rank": 128,
+    "rank": 127,
     "teamName": "D7th",
     "elo5v5": 19
   },
   {
-    "rank": 129,
+    "rank": 128,
     "teamName": "MraX",
     "elo5v5": 8
+  },
+  {
+    "rank": 129,
+    "teamName": "NEO STRIKERS",
+    "elo5v5": 6
   },
   {
     "rank": 130,
