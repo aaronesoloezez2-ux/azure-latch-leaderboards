@@ -6,12 +6,12 @@
   },
   {
     "rank": 2,
-    "teamName": "Kurain",
-    "elo5v5": 237
+    "teamName": "Zenith",
+    "elo5v5": 242
   },
   {
     "rank": 3,
-    "teamName": "Zenith",
+    "teamName": "Kurain",
     "elo5v5": 237
   },
   {
@@ -151,48 +151,48 @@
   },
   {
     "rank": 31,
-    "teamName": "Azure Syndicate",
-    "elo5v5": 24
-  },
-  {
-    "rank": 32,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Metalogic",
     "elo5v5": 22
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "AxisEleven",
     "elo5v5": 22
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Reprised",
     "elo5v5": 12
+  },
+  {
+    "rank": 39,
+    "teamName": "Azure Syndicate",
+    "elo5v5": 11
   },
   {
     "rank": 40,
