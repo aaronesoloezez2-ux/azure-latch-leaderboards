@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Kurain",
-    "elo5v5": 211
+    "elo5v5": 199
   },
   {
     "rank": 5,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
+    "teamName": "Moonlight",
+    "elo5v5": 86
+  },
+  {
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Kiseki",
     "elo5v5": 77
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Inazuki",
     "elo5v5": 65
-  },
-  {
-    "rank": 22,
-    "teamName": "Moonlight",
-    "elo5v5": 61
   },
   {
     "rank": 23,
