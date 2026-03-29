@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "SIVA",
-    "elo5v5": 183
+    "teamName": "Bear United",
+    "elo5v5": 190
   },
   {
     "rank": 7,
-    "teamName": "Bear United",
-    "elo5v5": 181
+    "teamName": "SIVA",
+    "elo5v5": 183
   },
   {
     "rank": 8,
@@ -81,18 +81,18 @@
   },
   {
     "rank": 17,
-    "teamName": "Kiseki",
-    "elo5v5": 92
-  },
-  {
-    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 87
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
+  },
+  {
+    "rank": 19,
+    "teamName": "Kiseki",
+    "elo5v5": 77
   },
   {
     "rank": 20,
