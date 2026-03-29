@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Pleiades",
-    "elo5v5": 186
+    "elo5v5": 194
   },
   {
     "rank": 6,
@@ -146,53 +146,53 @@
   },
   {
     "rank": 30,
-    "teamName": "Fight Club",
-    "elo5v5": 24
-  },
-  {
-    "rank": 31,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Metalogic",
     "elo5v5": 22
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "AxisEleven",
     "elo5v5": 22
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Reprised",
     "elo5v5": 12
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Azure Syndicate",
     "elo5v5": 11
+  },
+  {
+    "rank": 39,
+    "teamName": "Fight Club",
+    "elo5v5": 10
   },
   {
     "rank": 40,
