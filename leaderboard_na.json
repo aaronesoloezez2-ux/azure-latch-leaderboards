@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Kurain",
-    "elo5v5": 223
+    "elo5v5": 211
   },
   {
     "rank": 5,
@@ -116,62 +116,62 @@
   },
   {
     "rank": 24,
+    "teamName": "Metalogic",
+    "elo5v5": 50
+  },
+  {
+    "rank": 25,
     "teamName": "Inazuki",
     "elo5v5": 47
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "CAA",
     "elo5v5": 35
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "AOGIRI",
     "elo5v5": 29
   },
   {
-    "rank": 30,
+    "rank": 31,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 34,
-    "teamName": "Ubers+",
-    "elo5v5": 22
-  },
-  {
     "rank": 35,
-    "teamName": "Metalogic",
+    "teamName": "Ubers+",
     "elo5v5": 22
   },
   {
