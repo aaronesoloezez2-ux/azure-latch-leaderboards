@@ -576,62 +576,62 @@
   },
   {
     "rank": 116,
-    "teamName": "Ego XI",
-    "elo5v5": 49
-  },
-  {
-    "rank": 117,
     "teamName": "Elite Firecrackers",
     "elo5v5": 41
   },
   {
-    "rank": 118,
+    "rank": 117,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 119,
+    "rank": 118,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 120,
+    "rank": 119,
     "teamName": "Oshu Oshi",
     "elo5v5": 28
   },
   {
-    "rank": 121,
+    "rank": 120,
     "teamName": "fc fc",
     "elo5v5": 23
   },
   {
-    "rank": 122,
+    "rank": 121,
     "teamName": "Energy",
     "elo5v5": 22
   },
   {
-    "rank": 123,
+    "rank": 122,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 124,
+    "rank": 123,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 125,
+    "rank": 124,
     "teamName": "Celestians",
     "elo5v5": 21
   },
   {
-    "rank": 126,
+    "rank": 125,
     "teamName": "Calamity",
     "elo5v5": 21
   },
   {
-    "rank": 127,
+    "rank": 126,
     "teamName": "Shrine",
+    "elo5v5": 21
+  },
+  {
+    "rank": 127,
+    "teamName": "Ego XI",
     "elo5v5": 21
   },
   {
