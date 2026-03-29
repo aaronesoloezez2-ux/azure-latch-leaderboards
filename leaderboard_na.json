@@ -166,43 +166,43 @@
   },
   {
     "rank": 34,
+    "teamName": "AxisEleven",
+    "elo5v5": 22
+  },
+  {
+    "rank": 35,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 36,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 37,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 38,
     "teamName": "Reprised",
     "elo5v5": 12
   },
   {
-    "rank": 38,
+    "rank": 39,
     "teamName": "Azure Syndicate",
     "elo5v5": 11
   },
   {
-    "rank": 39,
+    "rank": 40,
     "teamName": "Fight Club",
     "elo5v5": 10
   },
   {
-    "rank": 40,
+    "rank": 41,
     "teamName": "Saisei",
     "elo5v5": 8
-  },
-  {
-    "rank": 41,
-    "teamName": "AxisEleven",
-    "elo5v5": 1
   },
   {
     "rank": 42,
