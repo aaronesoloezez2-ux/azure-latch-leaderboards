@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 226
+    "elo5v5": 231
   },
   {
     "rank": 3,
@@ -631,22 +631,22 @@
   },
   {
     "rank": 127,
-    "teamName": "Ego XI",
-    "elo5v5": 21
-  },
-  {
-    "rank": 128,
     "teamName": "D7th",
     "elo5v5": 19
   },
   {
-    "rank": 129,
+    "rank": 128,
     "teamName": "Celestials",
     "elo5v5": 18
   },
   {
-    "rank": 130,
+    "rank": 129,
     "teamName": "MraX",
+    "elo5v5": 8
+  },
+  {
+    "rank": 130,
+    "teamName": "Ego XI",
     "elo5v5": 8
   },
   {
