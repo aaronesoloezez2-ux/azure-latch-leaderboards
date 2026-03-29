@@ -21,23 +21,23 @@
   },
   {
     "rank": 5,
-    "teamName": "Ascendance [RM]",
-    "elo5v5": 133
-  },
-  {
-    "rank": 6,
     "teamName": "Cute & Drunk",
     "elo5v5": 129
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Chain Breakers",
     "elo5v5": 122
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 116
+  },
+  {
+    "rank": 8,
+    "teamName": "Ascendance [RM]",
+    "elo5v5": 115
   },
   {
     "rank": 9,
@@ -566,18 +566,18 @@
   },
   {
     "rank": 114,
+    "teamName": "Oshu Oshi",
+    "elo5v5": 72
+  },
+  {
+    "rank": 115,
     "teamName": "Virtuality",
     "elo5v5": 67
   },
   {
-    "rank": 115,
+    "rank": 116,
     "teamName": "Destiny FC",
     "elo5v5": 56
-  },
-  {
-    "rank": 116,
-    "teamName": "Oshu Oshi",
-    "elo5v5": 49
   },
   {
     "rank": 117,
