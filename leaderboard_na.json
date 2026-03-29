@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "Zenith",
-    "elo5v5": 238
-  },
-  {
-    "rank": 3,
     "teamName": "Kurain",
     "elo5v5": 237
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Re Al",
     "elo5v5": 233
+  },
+  {
+    "rank": 4,
+    "teamName": "Zenith",
+    "elo5v5": 231
   },
   {
     "rank": 5,
