@@ -576,8 +576,8 @@
   },
   {
     "rank": 116,
-    "teamName": "Elite Firecrackers",
-    "elo5v5": 41
+    "teamName": "Oshu Oshi",
+    "elo5v5": 49
   },
   {
     "rank": 117,
@@ -591,43 +591,43 @@
   },
   {
     "rank": 119,
-    "teamName": "Oshu Oshi",
-    "elo5v5": 28
-  },
-  {
-    "rank": 120,
     "teamName": "fc fc",
     "elo5v5": 23
   },
   {
-    "rank": 121,
+    "rank": 120,
     "teamName": "Energy",
     "elo5v5": 22
   },
   {
-    "rank": 122,
+    "rank": 121,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 123,
+    "rank": 122,
     "teamName": "Kasamatsu",
     "elo5v5": 21
   },
   {
-    "rank": 124,
+    "rank": 123,
     "teamName": "Celestians",
     "elo5v5": 21
   },
   {
-    "rank": 125,
+    "rank": 124,
     "teamName": "Calamity",
     "elo5v5": 21
   },
   {
-    "rank": 126,
+    "rank": 125,
     "teamName": "Shrine",
     "elo5v5": 21
+  },
+  {
+    "rank": 126,
+    "teamName": "Elite Firecrackers",
+    "elo5v5": 20
   },
   {
     "rank": 127,
