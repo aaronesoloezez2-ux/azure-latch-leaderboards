@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Pleiades",
-    "elo5v5": 193
-  },
-  {
-    "rank": 6,
     "teamName": "Bear United",
     "elo5v5": 190
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "SIVA",
     "elo5v5": 183
+  },
+  {
+    "rank": 7,
+    "teamName": "Pleiades",
+    "elo5v5": 180
   },
   {
     "rank": 8,
@@ -101,42 +101,42 @@
   },
   {
     "rank": 21,
+    "teamName": "Moonlight",
+    "elo5v5": 61
+  },
+  {
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 51
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Inazuki",
     "elo5v5": 47
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 27,
-    "teamName": "CAA",
-    "elo5v5": 35
-  },
-  {
     "rank": 28,
-    "teamName": "Moonlight",
+    "teamName": "CAA",
     "elo5v5": 35
   },
   {
