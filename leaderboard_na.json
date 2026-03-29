@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "SIVA",
-    "elo5v5": 193
+    "elo5v5": 181
   },
   {
     "rank": 7,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Sovereign",
+    "elo5v5": 137
+  },
+  {
+    "rank": 13,
     "teamName": "Serendipity",
     "elo5v5": 132
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Vollstandig",
     "elo5v5": 125
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Optimal",
     "elo5v5": 124
-  },
-  {
-    "rank": 15,
-    "teamName": "Sovereign",
-    "elo5v5": 118
   },
   {
     "rank": 16,
