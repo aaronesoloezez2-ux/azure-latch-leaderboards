@@ -596,27 +596,27 @@
   },
   {
     "rank": 120,
-    "teamName": "Celestians",
-    "elo5v5": 23
-  },
-  {
-    "rank": 121,
     "teamName": "fc fc",
     "elo5v5": 23
   },
   {
-    "rank": 122,
+    "rank": 121,
     "teamName": "Energy",
     "elo5v5": 22
   },
   {
-    "rank": 123,
+    "rank": 122,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 124,
+    "rank": 123,
     "teamName": "Kasamatsu",
+    "elo5v5": 21
+  },
+  {
+    "rank": 124,
+    "teamName": "Celestians",
     "elo5v5": 21
   },
   {
