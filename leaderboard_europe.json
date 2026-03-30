@@ -596,13 +596,13 @@
   },
   {
     "rank": 120,
-    "teamName": "D7th",
-    "elo5v5": 26
+    "teamName": "Ego XI",
+    "elo5v5": 29
   },
   {
     "rank": 121,
-    "teamName": "fc fc",
-    "elo5v5": 23
+    "teamName": "D7th",
+    "elo5v5": 26
   },
   {
     "rank": 122,
@@ -636,37 +636,37 @@
   },
   {
     "rank": 128,
-    "teamName": "Ego XI",
-    "elo5v5": 8
-  },
-  {
-    "rank": 129,
     "teamName": "NEO STRIKERS",
     "elo5v5": 6
   },
   {
-    "rank": 130,
+    "rank": 129,
     "teamName": "Messatsu",
     "elo5v5": 5
   },
   {
-    "rank": 131,
+    "rank": 130,
     "teamName": "Eternal FC",
     "elo5v5": 3
   },
   {
-    "rank": 132,
+    "rank": 131,
     "teamName": "Kōchi FC",
     "elo5v5": 3
   },
   {
-    "rank": 133,
+    "rank": 132,
     "teamName": "Kasamatsu",
     "elo5v5": 3
   },
   {
-    "rank": 134,
+    "rank": 133,
     "teamName": "Ferencvaros",
+    "elo5v5": 2
+  },
+  {
+    "rank": 134,
+    "teamName": "fc fc",
     "elo5v5": 2
   },
   {
