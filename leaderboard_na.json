@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "SIVA",
-    "elo5v5": 181
+    "elo5v5": 189
   },
   {
     "rank": 7,
@@ -126,28 +126,28 @@
   },
   {
     "rank": 26,
-    "teamName": "AOGIRI",
-    "elo5v5": 48
-  },
-  {
-    "rank": 27,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "CAA",
     "elo5v5": 35
+  },
+  {
+    "rank": 30,
+    "teamName": "AOGIRI",
+    "elo5v5": 33
   },
   {
     "rank": 31,
