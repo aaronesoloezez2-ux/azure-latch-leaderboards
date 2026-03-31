@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Abibas FC",
-    "elo5v5": 171
+    "elo5v5": 180
   },
   {
     "rank": 5,
@@ -566,37 +566,37 @@
   },
   {
     "rank": 114,
-    "teamName": "InternalBleeding",
-    "elo5v5": 46
-  },
-  {
-    "rank": 115,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 116,
+    "rank": 115,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 117,
+    "rank": 116,
     "teamName": "Kōchi FC",
     "elo5v5": 41
   },
   {
-    "rank": 118,
+    "rank": 117,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 119,
+    "rank": 118,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 120,
+    "rank": 119,
     "teamName": "Virtuality",
+    "elo5v5": 31
+  },
+  {
+    "rank": 120,
+    "teamName": "InternalBleeding",
     "elo5v5": 31
   },
   {
