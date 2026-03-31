@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Serendipity",
+    "elo5v5": 157
+  },
+  {
+    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Olympus",
     "elo5v5": 150
-  },
-  {
-    "rank": 12,
-    "teamName": "Serendipity",
-    "elo5v5": 144
   },
   {
     "rank": 13,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
-    "teamName": "Kiseki",
-    "elo5v5": 78
-  },
-  {
-    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Moonlight",
     "elo5v5": 68
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
+  },
+  {
+    "rank": 22,
+    "teamName": "Kiseki",
+    "elo5v5": 61
   },
   {
     "rank": 23,
