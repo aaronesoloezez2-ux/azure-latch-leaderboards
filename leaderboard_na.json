@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Bear United",
-    "elo5v5": 191
+    "elo5v5": 178
   },
   {
     "rank": 8,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 95
+  },
+  {
+    "rank": 17,
     "teamName": "AOGIRI",
     "elo5v5": 94
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
-  },
-  {
-    "rank": 19,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 71
   },
   {
     "rank": 20,
