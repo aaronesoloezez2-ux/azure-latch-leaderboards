@@ -556,27 +556,27 @@
   },
   {
     "rank": 112,
+    "teamName": "Kōchi FC",
+    "elo5v5": 60
+  },
+  {
+    "rank": 113,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 113,
+    "rank": 114,
     "teamName": "Ego XI",
     "elo5v5": 48
   },
   {
-    "rank": 114,
+    "rank": 115,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 115,
-    "teamName": "Hotspot FC",
-    "elo5v5": 41
-  },
-  {
     "rank": 116,
-    "teamName": "Kōchi FC",
+    "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
