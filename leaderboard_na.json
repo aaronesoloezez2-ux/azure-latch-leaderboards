@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Infernum",
-    "elo5v5": 184
+    "teamName": "SIVA",
+    "elo5v5": 186
   },
   {
     "rank": 8,
-    "teamName": "SIVA",
-    "elo5v5": 176
+    "teamName": "Infernum",
+    "elo5v5": 184
   },
   {
     "rank": 9,
@@ -81,38 +81,38 @@
   },
   {
     "rank": 17,
-    "teamName": "Kiseki",
-    "elo5v5": 94
-  },
-  {
-    "rank": 18,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 19,
-    "teamName": "Moonlight",
-    "elo5v5": 88
-  },
-  {
-    "rank": 20,
+    "rank": 18,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
+    "rank": 19,
+    "teamName": "Kiseki",
+    "elo5v5": 78
+  },
+  {
+    "rank": 20,
+    "teamName": "AOGIRI",
+    "elo5v5": 74
+  },
+  {
     "rank": 21,
+    "teamName": "Moonlight",
+    "elo5v5": 68
+  },
+  {
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Crimson Authority",
     "elo5v5": 59
-  },
-  {
-    "rank": 23,
-    "teamName": "AOGIRI",
-    "elo5v5": 53
   },
   {
     "rank": 24,
