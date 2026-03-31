@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "SIVA",
-    "elo5v5": 186
+    "elo5v5": 194
   },
   {
     "rank": 7,
@@ -146,48 +146,48 @@
   },
   {
     "rank": 30,
-    "teamName": "CAA",
-    "elo5v5": 35
-  },
-  {
-    "rank": 31,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Dai Gurren",
     "elo5v5": 28
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Crucifer",
     "elo5v5": 21
+  },
+  {
+    "rank": 38,
+    "teamName": "CAA",
+    "elo5v5": 20
   },
   {
     "rank": 39,
