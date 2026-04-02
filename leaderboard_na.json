@@ -76,33 +76,33 @@
   },
   {
     "rank": 16,
+    "teamName": "Moonlight",
+    "elo5v5": 95
+  },
+  {
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Dai Gurren",
     "elo5v5": 90
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 19,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 83
-  },
-  {
     "rank": 20,
-    "teamName": "Moonlight",
-    "elo5v5": 75
+    "teamName": "Sunrise",
+    "elo5v5": 66
   },
   {
     "rank": 21,
-    "teamName": "Sunrise",
-    "elo5v5": 66
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 64
   },
   {
     "rank": 22,
