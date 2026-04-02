@@ -81,18 +81,18 @@
   },
   {
     "rank": 17,
+    "teamName": "Dai Gurren",
+    "elo5v5": 90
+  },
+  {
+    "rank": 18,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 83
-  },
-  {
-    "rank": 19,
-    "teamName": "AOGIRI",
-    "elo5v5": 78
   },
   {
     "rank": 20,
@@ -101,22 +101,22 @@
   },
   {
     "rank": 21,
-    "teamName": "Dai Gurren",
-    "elo5v5": 70
-  },
-  {
-    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Kiseki",
     "elo5v5": 61
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Crimson Authority",
+    "elo5v5": 59
+  },
+  {
+    "rank": 24,
+    "teamName": "AOGIRI",
     "elo5v5": 59
   },
   {
