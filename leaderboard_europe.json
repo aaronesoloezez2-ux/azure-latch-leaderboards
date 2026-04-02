@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Anteiku FC",
-    "elo5v5": 129
+    "teamName": "Chain Breakers",
+    "elo5v5": 131
   },
   {
     "rank": 7,
-    "teamName": "Chain Breakers",
-    "elo5v5": 116
+    "teamName": "Anteiku FC",
+    "elo5v5": 129
   },
   {
     "rank": 8,
@@ -76,33 +76,33 @@
   },
   {
     "rank": 16,
-    "teamName": "D7th",
-    "elo5v5": 49
-  },
-  {
-    "rank": 17,
     "teamName": "Ego XI",
     "elo5v5": 48
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
+  },
+  {
+    "rank": 21,
+    "teamName": "D7th",
+    "elo5v5": 31
   },
   {
     "rank": 22,
