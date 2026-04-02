@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Infernum",
+    "elo5v5": 176
+  },
+  {
+    "rank": 9,
     "teamName": "Sees",
     "elo5v5": 168
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Serendipity",
     "elo5v5": 166
-  },
-  {
-    "rank": 10,
-    "teamName": "Infernum",
-    "elo5v5": 165
   },
   {
     "rank": 11,
@@ -77,7 +77,7 @@
   {
     "rank": 16,
     "teamName": "Oshu Oshi NA",
-    "elo5v5": 112
+    "elo5v5": 97
   },
   {
     "rank": 17,
