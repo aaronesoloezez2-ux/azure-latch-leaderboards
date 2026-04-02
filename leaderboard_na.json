@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Serendipity",
-    "elo5v5": 176
+    "elo5v5": 186
   },
   {
     "rank": 8,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "AOGIRI",
-    "elo5v5": 94
-  },
-  {
-    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 83
+  },
+  {
+    "rank": 19,
+    "teamName": "AOGIRI",
+    "elo5v5": 78
   },
   {
     "rank": 20,
