@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Dai Gurren",
+    "teamName": "Metalogic",
     "elo5v5": 70
   },
   {
     "rank": 21,
+    "teamName": "Dai Gurren",
+    "elo5v5": 70
+  },
+  {
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Kiseki",
     "elo5v5": 61
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Moonlight",
     "elo5v5": 57
-  },
-  {
-    "rank": 25,
-    "teamName": "Metalogic",
-    "elo5v5": 50
   },
   {
     "rank": 26,
@@ -141,47 +141,47 @@
   },
   {
     "rank": 29,
-    "teamName": "Inazuki",
-    "elo5v5": 41
-  },
-  {
-    "rank": 30,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Ubers+",
     "elo5v5": 25
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Crucifer",
+    "elo5v5": 21
+  },
+  {
+    "rank": 37,
+    "teamName": "Inazuki",
     "elo5v5": 21
   },
   {
