@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Serendipity",
-    "elo5v5": 176
+    "teamName": "Sees",
+    "elo5v5": 179
   },
   {
     "rank": 8,
-    "teamName": "Sees",
-    "elo5v5": 168
+    "teamName": "Serendipity",
+    "elo5v5": 176
   },
   {
     "rank": 9,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Moonlight",
-    "elo5v5": 95
-  },
-  {
-    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Dai Gurren",
     "elo5v5": 90
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
+  },
+  {
+    "rank": 19,
+    "teamName": "Moonlight",
+    "elo5v5": 79
   },
   {
     "rank": 20,
