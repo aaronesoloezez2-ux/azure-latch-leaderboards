@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 252
+    "elo5v5": 241
   },
   {
     "rank": 3,
@@ -66,42 +66,42 @@
   },
   {
     "rank": 14,
+    "teamName": "InternalBleeding",
+    "elo5v5": 60
+  },
+  {
+    "rank": 15,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Ego XI",
     "elo5v5": 48
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 20,
-    "teamName": "Virtuality",
-    "elo5v5": 31
-  },
-  {
     "rank": 21,
-    "teamName": "InternalBleeding",
+    "teamName": "Virtuality",
     "elo5v5": 31
   },
   {
