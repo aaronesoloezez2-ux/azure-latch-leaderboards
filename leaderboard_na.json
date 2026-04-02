@@ -77,7 +77,7 @@
   {
     "rank": 16,
     "teamName": "Oshu Oshi NA",
-    "elo5v5": 95
+    "elo5v5": 112
   },
   {
     "rank": 17,
@@ -136,28 +136,28 @@
   },
   {
     "rank": 28,
-    "teamName": "Ubers+",
-    "elo5v5": 43
-  },
-  {
-    "rank": 29,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Inazuki",
     "elo5v5": 41
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 32,
+    "teamName": "Ubers+",
+    "elo5v5": 25
   },
   {
     "rank": 33,
