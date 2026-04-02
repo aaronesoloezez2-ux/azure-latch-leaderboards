@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Re Al",
-    "elo5v5": 247
+    "teamName": "Zenith",
+    "elo5v5": 248
   },
   {
     "rank": 3,
-    "teamName": "Zenith",
-    "elo5v5": 243
+    "teamName": "Re Al",
+    "elo5v5": 247
   },
   {
     "rank": 4,
@@ -186,27 +186,27 @@
   },
   {
     "rank": 38,
-    "teamName": "Inazuki",
-    "elo5v5": 21
-  },
-  {
-    "rank": 39,
     "teamName": "CAA",
     "elo5v5": 20
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Reprised",
     "elo5v5": 12
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Azure Syndicate",
     "elo5v5": 11
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 9
+  },
+  {
+    "rank": 42,
+    "teamName": "Inazuki",
     "elo5v5": 9
   },
   {
