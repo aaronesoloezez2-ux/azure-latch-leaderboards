@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Atph9",
+    "elo5v5": 250
+  },
+  {
+    "rank": 3,
     "teamName": "Re Al",
     "elo5v5": 248
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Zenith",
     "elo5v5": 248
-  },
-  {
-    "rank": 4,
-    "teamName": "Atph9",
-    "elo5v5": 243
   },
   {
     "rank": 5,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Moonlight",
-    "elo5v5": 153
-  },
-  {
-    "rank": 11,
     "teamName": "Sees",
     "elo5v5": 152
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Olympus",
     "elo5v5": 150
+  },
+  {
+    "rank": 13,
+    "teamName": "Moonlight",
+    "elo5v5": 142
   },
   {
     "rank": 14,
