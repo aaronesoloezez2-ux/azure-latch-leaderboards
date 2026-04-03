@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "Atph9",
-    "elo5v5": 252
-  },
-  {
-    "rank": 3,
     "teamName": "Re Al",
     "elo5v5": 248
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Zenith",
     "elo5v5": 248
+  },
+  {
+    "rank": 4,
+    "teamName": "Atph9",
+    "elo5v5": 243
   },
   {
     "rank": 5,
@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "SIVA",
-    "elo5v5": 202
+    "elo5v5": 213
   },
   {
     "rank": 7,
