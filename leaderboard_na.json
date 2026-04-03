@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Moonlight",
-    "elo5v5": 136
+    "teamName": "Sovereign",
+    "elo5v5": 140
   },
   {
     "rank": 14,
-    "teamName": "Sovereign",
-    "elo5v5": 126
+    "teamName": "Moonlight",
+    "elo5v5": 136
   },
   {
     "rank": 15,
@@ -131,37 +131,37 @@
   },
   {
     "rank": 27,
-    "teamName": "AOGIRI",
-    "elo5v5": 44
-  },
-  {
-    "rank": 28,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 36
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Imperium FC",
+    "elo5v5": 27
+  },
+  {
+    "rank": 33,
+    "teamName": "AOGIRI",
     "elo5v5": 27
   },
   {
