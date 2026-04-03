@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "Sees",
-    "elo5v5": 166
+    "teamName": "Infernum",
+    "elo5v5": 156
   },
   {
     "rank": 10,
-    "teamName": "Infernum",
-    "elo5v5": 156
+    "teamName": "Sees",
+    "elo5v5": 152
   },
   {
     "rank": 11,
@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
+    "teamName": "Moonlight",
+    "elo5v5": 136
+  },
+  {
+    "rank": 14,
     "teamName": "Sovereign",
     "elo5v5": 126
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Vollstandig",
     "elo5v5": 125
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Optimal",
     "elo5v5": 124
-  },
-  {
-    "rank": 16,
-    "teamName": "Moonlight",
-    "elo5v5": 118
   },
   {
     "rank": 17,
