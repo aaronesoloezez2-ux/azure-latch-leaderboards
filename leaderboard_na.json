@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Serendipity",
-    "elo5v5": 184
+    "teamName": "Bear United",
+    "elo5v5": 183
   },
   {
     "rank": 8,
-    "teamName": "Bear United",
-    "elo5v5": 183
+    "teamName": "Serendipity",
+    "elo5v5": 172
   },
   {
     "rank": 9,
@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
+    "teamName": "Moonlight",
+    "elo5v5": 153
+  },
+  {
+    "rank": 11,
     "teamName": "Sees",
     "elo5v5": 152
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Olympus",
     "elo5v5": 150
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Sovereign",
     "elo5v5": 140
-  },
-  {
-    "rank": 14,
-    "teamName": "Moonlight",
-    "elo5v5": 136
   },
   {
     "rank": 15,
