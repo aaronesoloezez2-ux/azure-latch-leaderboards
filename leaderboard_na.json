@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Moonlight",
-    "elo5v5": 142
+    "teamName": "Sovereign",
+    "elo5v5": 140
   },
   {
     "rank": 14,
-    "teamName": "Sovereign",
-    "elo5v5": 140
+    "teamName": "Moonlight",
+    "elo5v5": 125
   },
   {
     "rank": 15,
@@ -96,43 +96,43 @@
   },
   {
     "rank": 20,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 67
+  },
+  {
+    "rank": 21,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 56
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Metalogic",
     "elo5v5": 48
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Lotus",
     "elo5v5": 46
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
-  },
-  {
-    "rank": 27,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 43
   },
   {
     "rank": 28,
