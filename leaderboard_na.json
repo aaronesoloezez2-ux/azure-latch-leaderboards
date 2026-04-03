@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 299
+    "elo5v5": 303
   },
   {
     "rank": 2,
@@ -216,18 +216,18 @@
   },
   {
     "rank": 44,
-    "teamName": "AOGIRI",
-    "elo5v5": 14
-  },
-  {
-    "rank": 45,
     "teamName": "Ubers+",
     "elo5v5": 10
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "Saisei",
     "elo5v5": 8
+  },
+  {
+    "rank": 46,
+    "teamName": "AOGIRI",
+    "elo5v5": 4
   },
   {
     "rank": 47,
