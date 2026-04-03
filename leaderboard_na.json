@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "SIVA",
-    "elo5v5": 194
+    "elo5v5": 202
   },
   {
     "rank": 7,
@@ -111,27 +111,27 @@
   },
   {
     "rank": 23,
-    "teamName": "AOGIRI",
-    "elo5v5": 59
-  },
-  {
-    "rank": 24,
     "teamName": "Metalogic",
     "elo5v5": 48
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Ubers+",
     "elo5v5": 47
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Mugen",
+    "elo5v5": 44
+  },
+  {
+    "rank": 27,
+    "teamName": "AOGIRI",
     "elo5v5": 44
   },
   {
