@@ -201,18 +201,18 @@
   },
   {
     "rank": 41,
+    "teamName": "PXG",
+    "elo5v5": 21
+  },
+  {
+    "rank": 42,
     "teamName": "CAA",
     "elo5v5": 20
   },
   {
-    "rank": 42,
+    "rank": 43,
     "teamName": "Saisei",
     "elo5v5": 8
-  },
-  {
-    "rank": 43,
-    "teamName": "AxisEleven",
-    "elo5v5": 4
   },
   {
     "rank": 44,
@@ -956,82 +956,82 @@
   },
   {
     "rank": 192,
-    "teamName": "Nullscapes",
+    "teamName": "AxisEleven",
     "elo5v5": 0
   },
   {
     "rank": 193,
-    "teamName": "Vizards",
+    "teamName": "Nullscapes",
     "elo5v5": 0
   },
   {
     "rank": 194,
-    "teamName": "Borussia",
+    "teamName": "Vizards",
     "elo5v5": 0
   },
   {
     "rank": 195,
-    "teamName": "Kyzards",
+    "teamName": "Borussia",
     "elo5v5": 0
   },
   {
     "rank": 196,
-    "teamName": "Reverence",
+    "teamName": "Kyzards",
     "elo5v5": 0
   },
   {
     "rank": 197,
-    "teamName": "FC Starstruck",
+    "teamName": "Reverence",
     "elo5v5": 0
   },
   {
     "rank": 198,
-    "teamName": "Tea Time",
+    "teamName": "FC Starstruck",
     "elo5v5": 0
   },
   {
     "rank": 199,
-    "teamName": "Synthra",
+    "teamName": "Tea Time",
     "elo5v5": 0
   },
   {
     "rank": 200,
-    "teamName": "Snowgrave",
+    "teamName": "Synthra",
     "elo5v5": 0
   },
   {
     "rank": 201,
-    "teamName": "Anomalies",
+    "teamName": "Snowgrave",
     "elo5v5": 0
   },
   {
     "rank": 202,
-    "teamName": "Ivory",
+    "teamName": "Anomalies",
     "elo5v5": 0
   },
   {
     "rank": 203,
-    "teamName": "Manshine United NA",
+    "teamName": "Ivory",
     "elo5v5": 0
   },
   {
     "rank": 204,
-    "teamName": "Night Garden",
+    "teamName": "Manshine United NA",
     "elo5v5": 0
   },
   {
     "rank": 205,
-    "teamName": "The Fallen Crows",
+    "teamName": "Night Garden",
     "elo5v5": 0
   },
   {
     "rank": 206,
-    "teamName": "The Golden Pieces",
+    "teamName": "The Fallen Crows",
     "elo5v5": 0
   },
   {
     "rank": 207,
-    "teamName": "PXG",
+    "teamName": "The Golden Pieces",
     "elo5v5": 0
   }
 ]
