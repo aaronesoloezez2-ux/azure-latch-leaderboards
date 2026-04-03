@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Kurain",
-    "elo5v5": 224
+    "elo5v5": 230
   },
   {
     "rank": 6,
@@ -111,33 +111,33 @@
   },
   {
     "rank": 23,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 56
-  },
-  {
-    "rank": 24,
     "teamName": "Metalogic",
     "elo5v5": 48
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Lotus",
     "elo5v5": 46
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "FC Babalona",
     "elo5v5": 43
+  },
+  {
+    "rank": 28,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 42
   },
   {
     "rank": 29,
