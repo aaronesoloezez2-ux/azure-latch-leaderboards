@@ -141,28 +141,28 @@
   },
   {
     "rank": 29,
-    "teamName": "Night Garden",
-    "elo5v5": 42
-  },
-  {
-    "rank": 30,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 33,
+    "teamName": "AOGIRI",
+    "elo5v5": 26
   },
   {
     "rank": 34,
@@ -216,13 +216,13 @@
   },
   {
     "rank": 44,
-    "teamName": "Saisei",
-    "elo5v5": 8
+    "teamName": "Night Garden",
+    "elo5v5": 20
   },
   {
     "rank": 45,
-    "teamName": "AOGIRI",
-    "elo5v5": 4
+    "teamName": "Saisei",
+    "elo5v5": 8
   },
   {
     "rank": 46,
