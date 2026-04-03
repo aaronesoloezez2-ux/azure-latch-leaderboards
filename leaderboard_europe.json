@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 241
+    "elo5v5": 247
   },
   {
     "rank": 3,
@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
-    "teamName": "InternalBleeding",
-    "elo5v5": 98
-  },
-  {
-    "rank": 10,
     "teamName": "Ascendance [RM]",
     "elo5v5": 97
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Oshu Oshi",
     "elo5v5": 95
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 93
+  },
+  {
+    "rank": 12,
+    "teamName": "InternalBleeding",
+    "elo5v5": 85
   },
   {
     "rank": 13,
