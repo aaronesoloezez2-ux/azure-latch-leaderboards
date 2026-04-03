@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Chain Breakers",
-    "elo5v5": 131
-  },
-  {
-    "rank": 7,
     "teamName": "Anteiku FC",
     "elo5v5": 129
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "InternalBleeding",
-    "elo5v5": 108
+    "elo5v5": 126
+  },
+  {
+    "rank": 8,
+    "teamName": "Chain Breakers",
+    "elo5v5": 115
   },
   {
     "rank": 9,
