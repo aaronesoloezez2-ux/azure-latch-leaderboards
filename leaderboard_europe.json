@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 108
+  },
+  {
+    "rank": 10,
     "teamName": "Nike FC",
     "elo5v5": 100
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Ascendance [RM]",
     "elo5v5": 97
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Oshu Oshi",
     "elo5v5": 95
-  },
-  {
-    "rank": 12,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 93
   },
   {
     "rank": 13,
