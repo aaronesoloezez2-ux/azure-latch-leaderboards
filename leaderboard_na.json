@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Lotus",
+    "teamName": "Metalogic",
     "elo5v5": 70
   },
   {
     "rank": 21,
+    "teamName": "Lotus",
+    "elo5v5": 70
+  },
+  {
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 56
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "AOGIRI",
     "elo5v5": 53
-  },
-  {
-    "rank": 25,
-    "teamName": "Metalogic",
-    "elo5v5": 51
   },
   {
     "rank": 26,
@@ -206,33 +206,33 @@
   },
   {
     "rank": 42,
-    "teamName": "Vanguard",
-    "elo5v5": 21
-  },
-  {
-    "rank": 43,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "CAA",
     "elo5v5": 20
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "Saisei",
     "elo5v5": 8
   },
   {
-    "rank": 47,
+    "rank": 46,
     "teamName": "Neutron",
     "elo5v5": 7
+  },
+  {
+    "rank": 47,
+    "teamName": "Vanguard",
+    "elo5v5": 2
   },
   {
     "rank": 48,
