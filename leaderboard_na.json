@@ -62,7 +62,7 @@
   {
     "rank": 13,
     "teamName": "Sovereign",
-    "elo5v5": 128
+    "elo5v5": 142
   },
   {
     "rank": 14,
@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 75
-  },
-  {
-    "rank": 21,
     "teamName": "AOGIRI",
     "elo5v5": 75
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Metalogic",
     "elo5v5": 70
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Lotus",
     "elo5v5": 70
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 59
+  },
+  {
+    "rank": 25,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 58
   },
   {
     "rank": 26,
