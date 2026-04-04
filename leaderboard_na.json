@@ -96,28 +96,28 @@
   },
   {
     "rank": 20,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 75
+  },
+  {
+    "rank": 21,
     "teamName": "Metalogic",
     "elo5v5": 70
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Lotus",
     "elo5v5": 70
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 59
-  },
-  {
-    "rank": 24,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 56
   },
   {
     "rank": 25,
@@ -156,68 +156,68 @@
   },
   {
     "rank": 32,
-    "teamName": "Kiseki",
-    "elo5v5": 29
-  },
-  {
-    "rank": 33,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Mentos",
     "elo5v5": 21
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 21
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "CAA",
     "elo5v5": 20
+  },
+  {
+    "rank": 44,
+    "teamName": "Kiseki",
+    "elo5v5": 10
   },
   {
     "rank": 45,
