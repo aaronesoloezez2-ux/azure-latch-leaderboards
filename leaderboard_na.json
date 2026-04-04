@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "Moonlight",
-    "elo5v5": 107
-  },
-  {
-    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Dai Gurren",
     "elo5v5": 90
+  },
+  {
+    "rank": 18,
+    "teamName": "Moonlight",
+    "elo5v5": 88
   },
   {
     "rank": 19,
@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
+    "teamName": "AOGIRI",
+    "elo5v5": 75
+  },
+  {
+    "rank": 22,
     "teamName": "Metalogic",
     "elo5v5": 70
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Lotus",
     "elo5v5": 70
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Crimson Authority",
     "elo5v5": 59
-  },
-  {
-    "rank": 25,
-    "teamName": "AOGIRI",
-    "elo5v5": 53
   },
   {
     "rank": 26,
