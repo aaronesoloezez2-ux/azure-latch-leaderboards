@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Sees",
-    "elo5v5": 152
-  },
-  {
-    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Olympus",
     "elo5v5": 150
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Sovereign",
     "elo5v5": 140
+  },
+  {
+    "rank": 13,
+    "teamName": "Sees",
+    "elo5v5": 135
   },
   {
     "rank": 14,
@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
+    "teamName": "Lotus",
+    "elo5v5": 70
+  },
+  {
+    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 67
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Metalogic",
     "elo5v5": 48
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "AOGIRI",
     "elo5v5": 47
-  },
-  {
-    "rank": 25,
-    "teamName": "Lotus",
-    "elo5v5": 46
   },
   {
     "rank": 26,
