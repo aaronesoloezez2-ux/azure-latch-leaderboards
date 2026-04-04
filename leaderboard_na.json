@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Bear United",
-    "elo5v5": 201
+    "elo5v5": 208
   },
   {
     "rank": 8,
@@ -196,43 +196,43 @@
   },
   {
     "rank": 40,
-    "teamName": "Neutron",
-    "elo5v5": 21
-  },
-  {
-    "rank": 41,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Redmoon",
     "elo5v5": 21
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Vanguard",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "CAA",
     "elo5v5": 20
   },
   {
-    "rank": 47,
+    "rank": 46,
     "teamName": "Saisei",
     "elo5v5": 8
+  },
+  {
+    "rank": 47,
+    "teamName": "Neutron",
+    "elo5v5": 7
   },
   {
     "rank": 48,
