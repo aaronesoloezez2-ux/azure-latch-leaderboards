@@ -82,7 +82,7 @@
   {
     "rank": 17,
     "teamName": "Lotus",
-    "elo5v5": 104
+    "elo5v5": 120
   },
   {
     "rank": 18,
@@ -131,38 +131,38 @@
   },
   {
     "rank": 27,
-    "teamName": "Moonlight",
-    "elo5v5": 47
-  },
-  {
-    "rank": 28,
     "teamName": "PXG",
     "elo5v5": 47
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
+  },
+  {
+    "rank": 33,
+    "teamName": "Moonlight",
+    "elo5v5": 29
   },
   {
     "rank": 34,
