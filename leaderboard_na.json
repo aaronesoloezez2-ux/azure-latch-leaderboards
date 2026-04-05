@@ -121,23 +121,23 @@
   },
   {
     "rank": 25,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 64
+  },
+  {
+    "rank": 26,
     "teamName": "Crimson Authority",
     "elo5v5": 59
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 47
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
-  },
-  {
-    "rank": 28,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 44
   },
   {
     "rank": 29,
@@ -146,52 +146,52 @@
   },
   {
     "rank": 30,
-    "teamName": "PXG",
-    "elo5v5": 44
-  },
-  {
-    "rank": 31,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Kiseki",
     "elo5v5": 29
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Neutron",
     "elo5v5": 26
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Re Al U20",
+    "elo5v5": 24
+  },
+  {
+    "rank": 39,
+    "teamName": "PXG",
     "elo5v5": 24
   },
   {
