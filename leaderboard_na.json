@@ -111,17 +111,17 @@
   },
   {
     "rank": 23,
-    "teamName": "Moonlight",
-    "elo5v5": 67
-  },
-  {
-    "rank": 24,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 65
+  },
+  {
+    "rank": 25,
+    "teamName": "PXG",
     "elo5v5": 65
   },
   {
@@ -136,17 +136,17 @@
   },
   {
     "rank": 28,
+    "teamName": "Moonlight",
+    "elo5v5": 47
+  },
+  {
+    "rank": 29,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 29,
-    "teamName": "Mugen",
-    "elo5v5": 44
-  },
-  {
     "rank": 30,
-    "teamName": "PXG",
+    "teamName": "Mugen",
     "elo5v5": 44
   },
   {
