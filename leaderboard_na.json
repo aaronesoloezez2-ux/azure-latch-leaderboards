@@ -86,22 +86,22 @@
   },
   {
     "rank": 18,
+    "teamName": "Lotus",
+    "elo5v5": 88
+  },
+  {
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "AOGIRI",
     "elo5v5": 72
   },
   {
-    "rank": 20,
-    "teamName": "Metalogic",
-    "elo5v5": 70
-  },
-  {
     "rank": 21,
-    "teamName": "Lotus",
+    "teamName": "Metalogic",
     "elo5v5": 70
   },
   {
@@ -211,23 +211,23 @@
   },
   {
     "rank": 43,
-    "teamName": "CAA",
-    "elo5v5": 20
-  },
-  {
-    "rank": 44,
     "teamName": "Ubers+",
     "elo5v5": 20
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "Saisei",
     "elo5v5": 8
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "Vanguard",
     "elo5v5": 2
+  },
+  {
+    "rank": 46,
+    "teamName": "CAA",
+    "elo5v5": 1
   },
   {
     "rank": 47,
