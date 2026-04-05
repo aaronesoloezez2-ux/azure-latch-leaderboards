@@ -86,18 +86,18 @@
   },
   {
     "rank": 18,
+    "teamName": "Dai Gurren",
+    "elo5v5": 108
+  },
+  {
+    "rank": 19,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Seeds",
     "elo5v5": 93
-  },
-  {
-    "rank": 20,
-    "teamName": "Dai Gurren",
-    "elo5v5": 90
   },
   {
     "rank": 21,
@@ -106,28 +106,28 @@
   },
   {
     "rank": 22,
-    "teamName": "Night Garden",
-    "elo5v5": 68
-  },
-  {
-    "rank": 23,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 65
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 64
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Crimson Authority",
     "elo5v5": 59
+  },
+  {
+    "rank": 26,
+    "teamName": "Night Garden",
+    "elo5v5": 49
   },
   {
     "rank": 27,
