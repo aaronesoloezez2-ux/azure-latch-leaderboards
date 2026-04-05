@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Infernum",
-    "elo5v5": 182
+    "teamName": "Serendipity",
+    "elo5v5": 187
   },
   {
     "rank": 9,
-    "teamName": "Serendipity",
-    "elo5v5": 178
+    "teamName": "Infernum",
+    "elo5v5": 182
   },
   {
     "rank": 10,
@@ -156,33 +156,33 @@
   },
   {
     "rank": 32,
-    "teamName": "Neutron",
-    "elo5v5": 41
-  },
-  {
-    "rank": 33,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Kiseki",
     "elo5v5": 29
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Imperium FC",
     "elo5v5": 27
+  },
+  {
+    "rank": 37,
+    "teamName": "Neutron",
+    "elo5v5": 26
   },
   {
     "rank": 38,
