@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Anteiku FC",
-    "elo5v5": 129
+    "teamName": "InternalBleeding",
+    "elo5v5": 133
   },
   {
     "rank": 8,
-    "teamName": "InternalBleeding",
-    "elo5v5": 119
+    "teamName": "Anteiku FC",
+    "elo5v5": 129
   },
   {
     "rank": 9,
@@ -121,43 +121,43 @@
   },
   {
     "rank": 25,
-    "teamName": "SIU",
-    "elo5v5": 21
-  },
-  {
-    "rank": 26,
     "teamName": "Celestians",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Mega Pupsi",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Astral FC",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Shrine",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Celestials",
     "elo5v5": 18
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "MraX",
     "elo5v5": 8
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Messatsu",
     "elo5v5": 5
+  },
+  {
+    "rank": 32,
+    "teamName": "SIU",
+    "elo5v5": 4
   },
   {
     "rank": 33,
