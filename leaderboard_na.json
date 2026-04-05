@@ -62,7 +62,7 @@
   {
     "rank": 13,
     "teamName": "Sovereign",
-    "elo5v5": 130
+    "elo5v5": 143
   },
   {
     "rank": 14,
@@ -131,33 +131,33 @@
   },
   {
     "rank": 27,
-    "teamName": "PXG",
-    "elo5v5": 47
-  },
-  {
-    "rank": 28,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
+  },
+  {
+    "rank": 32,
+    "teamName": "PXG",
+    "elo5v5": 30
   },
   {
     "rank": 33,
