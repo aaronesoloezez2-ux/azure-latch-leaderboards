@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
+    "teamName": "AOGIRI",
+    "elo5v5": 105
+  },
+  {
+    "rank": 17,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Dai Gurren",
     "elo5v5": 90
-  },
-  {
-    "rank": 19,
-    "teamName": "AOGIRI",
-    "elo5v5": 89
   },
   {
     "rank": 20,
@@ -196,28 +196,28 @@
   },
   {
     "rank": 40,
-    "teamName": "Mentos",
-    "elo5v5": 21
-  },
-  {
-    "rank": 41,
     "teamName": "Neutron",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Saisei",
     "elo5v5": 8
+  },
+  {
+    "rank": 44,
+    "teamName": "Mentos",
+    "elo5v5": 3
   },
   {
     "rank": 45,
