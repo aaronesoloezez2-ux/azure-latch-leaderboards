@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "SIVA",
-    "elo5v5": 214
+    "teamName": "Kurain",
+    "elo5v5": 217
   },
   {
     "rank": 7,
-    "teamName": "Kurain",
-    "elo5v5": 211
+    "teamName": "SIVA",
+    "elo5v5": 214
   },
   {
     "rank": 8,
@@ -151,22 +151,22 @@
   },
   {
     "rank": 31,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 42
-  },
-  {
-    "rank": 32,
     "teamName": "Fight Club",
     "elo5v5": 36
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Azure Syndicate",
     "elo5v5": 31
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Moon Noobs",
+    "elo5v5": 28
+  },
+  {
+    "rank": 34,
+    "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 28
   },
   {
