@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Bear United",
-    "elo5v5": 225
+    "teamName": "SIVA",
+    "elo5v5": 221
   },
   {
     "rank": 6,
-    "teamName": "SIVA",
-    "elo5v5": 221
+    "teamName": "Bear United",
+    "elo5v5": 214
   },
   {
     "rank": 7,
@@ -76,33 +76,33 @@
   },
   {
     "rank": 16,
+    "teamName": "Metalogic",
+    "elo5v5": 95
+  },
+  {
+    "rank": 17,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Dai Gurren",
     "elo5v5": 90
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 89
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Lotus",
     "elo5v5": 88
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
-  },
-  {
-    "rank": 21,
-    "teamName": "Metalogic",
-    "elo5v5": 70
   },
   {
     "rank": 22,
