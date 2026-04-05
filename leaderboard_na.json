@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Kurain",
-    "elo5v5": 229
+    "elo5v5": 234
   },
   {
     "rank": 6,
@@ -161,53 +161,53 @@
   },
   {
     "rank": 33,
-    "teamName": "Kiseki",
-    "elo5v5": 29
-  },
-  {
-    "rank": 34,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Neutron",
     "elo5v5": 26
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "PXG",
     "elo5v5": 24
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Gengar FC",
     "elo5v5": 21
+  },
+  {
+    "rank": 42,
+    "teamName": "Kiseki",
+    "elo5v5": 16
   },
   {
     "rank": 43,
