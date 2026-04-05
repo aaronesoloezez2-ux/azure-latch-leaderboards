@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Oshu Oshi",
+    "elo5v5": 111
+  },
+  {
+    "rank": 10,
     "teamName": "Nike FC",
     "elo5v5": 100
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Ascendance [RM]",
     "elo5v5": 97
-  },
-  {
-    "rank": 11,
-    "teamName": "Oshu Oshi",
-    "elo5v5": 95
   },
   {
     "rank": 12,
@@ -136,32 +136,32 @@
   },
   {
     "rank": 28,
-    "teamName": "Shrine",
-    "elo5v5": 21
-  },
-  {
-    "rank": 29,
     "teamName": "Celestials",
     "elo5v5": 18
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "MraX",
     "elo5v5": 8
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Messatsu",
     "elo5v5": 5
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "SIU",
     "elo5v5": 4
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Kasamatsu",
+    "elo5v5": 3
+  },
+  {
+    "rank": 33,
+    "teamName": "Shrine",
     "elo5v5": 3
   },
   {
