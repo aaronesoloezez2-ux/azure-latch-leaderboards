@@ -41,43 +41,43 @@
   },
   {
     "rank": 9,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 108
-  },
-  {
-    "rank": 10,
     "teamName": "Nike FC",
     "elo5v5": 100
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Ascendance [RM]",
     "elo5v5": 97
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Oshu Oshi",
     "elo5v5": 95
   },
   {
+    "rank": 12,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 88
+  },
+  {
     "rank": 13,
+    "teamName": "SUFC",
+    "elo5v5": 68
+  },
+  {
+    "rank": 14,
     "teamName": "Kōchi FC",
     "elo5v5": 60
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Ego XI",
     "elo5v5": 48
-  },
-  {
-    "rank": 16,
-    "teamName": "SUFC",
-    "elo5v5": 45
   },
   {
     "rank": 17,
