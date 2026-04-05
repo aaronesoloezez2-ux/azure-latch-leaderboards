@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Cute & Drunk",
-    "elo5v5": 146
+    "teamName": "Chain Breakers",
+    "elo5v5": 155
   },
   {
     "rank": 6,
-    "teamName": "Chain Breakers",
-    "elo5v5": 143
+    "teamName": "Cute & Drunk",
+    "elo5v5": 146
   },
   {
     "rank": 7,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "Vespera",
-    "elo5v5": 43
-  },
-  {
-    "rank": 19,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Virtuality",
     "elo5v5": 31
+  },
+  {
+    "rank": 22,
+    "teamName": "Vespera",
+    "elo5v5": 27
   },
   {
     "rank": 23,
