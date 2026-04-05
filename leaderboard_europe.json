@@ -81,33 +81,33 @@
   },
   {
     "rank": 17,
+    "teamName": "Vespera",
+    "elo5v5": 46
+  },
+  {
+    "rank": 18,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Virtuality",
     "elo5v5": 31
-  },
-  {
-    "rank": 22,
-    "teamName": "Vespera",
-    "elo5v5": 27
   },
   {
     "rank": 23,
