@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Cute & Drunk",
-    "elo5v5": 146
+    "elo5v5": 130
   },
   {
     "rank": 7,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "InternalBleeding",
+    "elo5v5": 121
+  },
+  {
+    "rank": 9,
     "teamName": "Oshu Oshi",
     "elo5v5": 111
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 104
-  },
-  {
-    "rank": 10,
-    "teamName": "InternalBleeding",
-    "elo5v5": 102
   },
   {
     "rank": 11,
