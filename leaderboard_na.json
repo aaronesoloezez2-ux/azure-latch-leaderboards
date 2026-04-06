@@ -116,48 +116,48 @@
   },
   {
     "rank": 24,
+    "teamName": "PXG",
+    "elo5v5": 78
+  },
+  {
+    "rank": 25,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 25,
-    "teamName": "PXG",
-    "elo5v5": 58
-  },
-  {
     "rank": 26,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 50
-  },
-  {
-    "rank": 27,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Gengar FC",
     "elo5v5": 43
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Civis Imperium",
     "elo5v5": 41
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Fight Club",
     "elo5v5": 38
+  },
+  {
+    "rank": 32,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 30
   },
   {
     "rank": 33,
