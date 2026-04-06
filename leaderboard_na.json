@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Atph9",
-    "elo5v5": 259
+    "elo5v5": 264
   },
   {
     "rank": 3,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 98
-  },
-  {
-    "rank": 20,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Night Garden",
     "elo5v5": 87
+  },
+  {
+    "rank": 22,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 85
   },
   {
     "rank": 23,
