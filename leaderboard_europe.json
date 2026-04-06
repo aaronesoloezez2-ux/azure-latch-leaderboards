@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 272
+    "elo5v5": 276
   },
   {
     "rank": 3,
@@ -91,28 +91,28 @@
   },
   {
     "rank": 19,
-    "teamName": "Eternal FC",
-    "elo5v5": 41
-  },
-  {
-    "rank": 20,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Virtuality",
     "elo5v5": 31
+  },
+  {
+    "rank": 23,
+    "teamName": "Eternal FC",
+    "elo5v5": 29
   },
   {
     "rank": 24,
