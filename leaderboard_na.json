@@ -106,13 +106,13 @@
   },
   {
     "rank": 22,
-    "teamName": "Monarchs Recrowned FC",
-    "elo5v5": 85
+    "teamName": "Night Garden",
+    "elo5v5": 87
   },
   {
     "rank": 23,
-    "teamName": "Night Garden",
-    "elo5v5": 69
+    "teamName": "Monarchs Recrowned FC",
+    "elo5v5": 85
   },
   {
     "rank": 24,
@@ -161,38 +161,38 @@
   },
   {
     "rank": 33,
-    "teamName": "Crimson Authority",
-    "elo5v5": 38
-  },
-  {
-    "rank": 34,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Crucifer",
     "elo5v5": 21
+  },
+  {
+    "rank": 39,
+    "teamName": "Crimson Authority",
+    "elo5v5": 19
   },
   {
     "rank": 40,
