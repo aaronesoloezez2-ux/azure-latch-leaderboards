@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
-    "teamName": "InternalBleeding",
-    "elo5v5": 121
-  },
-  {
-    "rank": 9,
     "teamName": "Oshu Oshi",
     "elo5v5": 111
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 104
+  },
+  {
+    "rank": 10,
+    "teamName": "InternalBleeding",
+    "elo5v5": 102
   },
   {
     "rank": 11,
@@ -66,53 +66,53 @@
   },
   {
     "rank": 14,
+    "teamName": "D7th",
+    "elo5v5": 53
+  },
+  {
+    "rank": 15,
     "teamName": "Ego XI",
     "elo5v5": 48
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Vespera",
     "elo5v5": 47
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Kōchi FC",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Virtuality",
     "elo5v5": 31
-  },
-  {
-    "rank": 23,
-    "teamName": "D7th",
-    "elo5v5": 29
   },
   {
     "rank": 24,
