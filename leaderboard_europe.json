@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 268
+    "elo5v5": 272
   },
   {
     "rank": 3,
@@ -131,18 +131,18 @@
   },
   {
     "rank": 27,
-    "teamName": "Mega Pupsi",
-    "elo5v5": 21
-  },
-  {
-    "rank": 28,
     "teamName": "Astral FC",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Celestials",
     "elo5v5": 18
+  },
+  {
+    "rank": 29,
+    "teamName": "Mega Pupsi",
+    "elo5v5": 10
   },
   {
     "rank": 30,
