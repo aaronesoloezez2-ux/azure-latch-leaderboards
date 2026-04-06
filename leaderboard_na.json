@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Lotus",
+    "elo5v5": 157
+  },
+  {
+    "rank": 11,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Olympus",
     "elo5v5": 150
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Sees",
     "elo5v5": 147
-  },
-  {
-    "rank": 13,
-    "teamName": "Lotus",
-    "elo5v5": 145
   },
   {
     "rank": 14,
@@ -121,33 +121,33 @@
   },
   {
     "rank": 25,
-    "teamName": "Fight Club",
-    "elo5v5": 55
-  },
-  {
-    "rank": 26,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 45
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Gengar FC",
     "elo5v5": 43
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Civis Imperium",
     "elo5v5": 41
+  },
+  {
+    "rank": 30,
+    "teamName": "Fight Club",
+    "elo5v5": 38
   },
   {
     "rank": 31,
