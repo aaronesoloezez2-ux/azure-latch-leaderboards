@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Cute & Drunk",
-    "elo5v5": 130
-  },
-  {
-    "rank": 7,
     "teamName": "Anteiku FC",
     "elo5v5": 129
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "InternalBleeding",
     "elo5v5": 121
+  },
+  {
+    "rank": 8,
+    "teamName": "Cute & Drunk",
+    "elo5v5": 112
   },
   {
     "rank": 9,
@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
+    "teamName": "D7th",
+    "elo5v5": 76
+  },
+  {
+    "rank": 13,
     "teamName": "SUFC",
     "elo5v5": 68
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Destiny FC",
     "elo5v5": 56
-  },
-  {
-    "rank": 14,
-    "teamName": "D7th",
-    "elo5v5": 53
   },
   {
     "rank": 15,
