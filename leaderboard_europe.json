@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Kōchi FC",
-    "elo5v5": 63
-  },
-  {
-    "rank": 14,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Ego XI",
     "elo5v5": 48
+  },
+  {
+    "rank": 15,
+    "teamName": "Vespera",
+    "elo5v5": 47
   },
   {
     "rank": 16,
@@ -81,38 +81,38 @@
   },
   {
     "rank": 17,
+    "teamName": "Kōchi FC",
+    "elo5v5": 42
+  },
+  {
+    "rank": 18,
     "teamName": "Eternal FC",
     "elo5v5": 41
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Brick Corp EU",
     "elo5v5": 32
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Virtuality",
     "elo5v5": 31
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "NEO STRIKERS",
     "elo5v5": 26
-  },
-  {
-    "rank": 23,
-    "teamName": "Vespera",
-    "elo5v5": 25
   },
   {
     "rank": 24,
