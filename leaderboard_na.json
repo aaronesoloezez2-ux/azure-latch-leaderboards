@@ -71,23 +71,23 @@
   },
   {
     "rank": 15,
-    "teamName": "AOGIRI",
-    "elo5v5": 135
-  },
-  {
-    "rank": 16,
     "teamName": "Dai Gurren",
     "elo5v5": 131
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Vollstandig",
     "elo5v5": 125
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Optimal",
     "elo5v5": 124
+  },
+  {
+    "rank": 18,
+    "teamName": "AOGIRI",
+    "elo5v5": 116
   },
   {
     "rank": 19,
@@ -161,48 +161,48 @@
   },
   {
     "rank": 33,
+    "teamName": "Kiseki",
+    "elo5v5": 41
+  },
+  {
+    "rank": 34,
     "teamName": "Fight Club",
     "elo5v5": 38
   },
   {
-    "rank": 34,
+    "rank": 35,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 35,
+    "rank": 36,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 36,
+    "rank": 37,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 37,
+    "rank": 38,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 38,
+    "rank": 39,
     "teamName": "Crimson Authority",
     "elo5v5": 22
   },
   {
-    "rank": 39,
+    "rank": 40,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 40,
+    "rank": 41,
     "teamName": "Crucifer",
     "elo5v5": 21
-  },
-  {
-    "rank": 41,
-    "teamName": "Kiseki",
-    "elo5v5": 16
   },
   {
     "rank": 42,
