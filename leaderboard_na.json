@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 101
+  },
+  {
+    "rank": 20,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Night Garden",
     "elo5v5": 90
-  },
-  {
-    "rank": 22,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 85
   },
   {
     "rank": 23,
@@ -226,97 +226,97 @@
   },
   {
     "rank": 46,
-    "teamName": "CAA",
-    "elo5v5": 1
-  },
-  {
-    "rank": 47,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 48,
+    "rank": 47,
     "teamName": "7 deadly sins",
     "elo5v5": 0
   },
   {
-    "rank": 49,
+    "rank": 48,
     "teamName": "STARTING LINE",
     "elo5v5": 0
   },
   {
-    "rank": 50,
+    "rank": 49,
     "teamName": "Bst Munich",
     "elo5v5": 0
   },
   {
-    "rank": 51,
+    "rank": 50,
     "teamName": "eleven ⌞NA⌝",
     "elo5v5": 0
   },
   {
-    "rank": 52,
+    "rank": 51,
     "teamName": "Anty Company",
     "elo5v5": 0
   },
   {
-    "rank": 53,
+    "rank": 52,
     "teamName": "The New Generation",
     "elo5v5": 0
   },
   {
-    "rank": 54,
+    "rank": 53,
     "teamName": "Passione",
     "elo5v5": 0
   },
   {
-    "rank": 55,
+    "rank": 54,
     "teamName": "TGB",
     "elo5v5": 0
   },
   {
-    "rank": 56,
+    "rank": 55,
     "teamName": "Neon Genesis",
     "elo5v5": 0
   },
   {
-    "rank": 57,
+    "rank": 56,
     "teamName": "Scarlet Crusade",
     "elo5v5": 0
   },
   {
-    "rank": 58,
+    "rank": 57,
     "teamName": "Seals FC",
     "elo5v5": 0
   },
   {
-    "rank": 59,
+    "rank": 58,
     "teamName": "Crescent Rose FC (CSR)",
     "elo5v5": 0
   },
   {
-    "rank": 60,
+    "rank": 59,
     "teamName": "Croquissimo",
     "elo5v5": 0
   },
   {
-    "rank": 61,
+    "rank": 60,
     "teamName": "Apocalypse",
     "elo5v5": 0
   },
   {
-    "rank": 62,
+    "rank": 61,
     "teamName": "Viltrum",
     "elo5v5": 0
   },
   {
-    "rank": 63,
+    "rank": 62,
     "teamName": "Trigger",
     "elo5v5": 0
   },
   {
-    "rank": 64,
+    "rank": 63,
     "teamName": "Mayhem FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 64,
+    "teamName": "CAA",
     "elo5v5": 0
   },
   {
