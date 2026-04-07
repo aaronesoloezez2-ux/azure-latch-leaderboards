@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
+    "teamName": "Lineage",
+    "elo5v5": 61
+  },
+  {
+    "rank": 16,
     "teamName": "D7th",
     "elo5v5": 59
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "NOVA",
     "elo5v5": 49
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Vespera",
     "elo5v5": 47
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Energy",
     "elo5v5": 43
-  },
-  {
-    "rank": 20,
-    "teamName": "Lineage",
-    "elo5v5": 42
   },
   {
     "rank": 21,
