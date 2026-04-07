@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "InternalBleeding",
-    "elo5v5": 134
+    "elo5v5": 148
   },
   {
     "rank": 7,
@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "D7th",
-    "elo5v5": 76
-  },
-  {
-    "rank": 14,
     "teamName": "SUFC",
     "elo5v5": 68
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Kōchi FC",
     "elo5v5": 61
+  },
+  {
+    "rank": 15,
+    "teamName": "D7th",
+    "elo5v5": 59
   },
   {
     "rank": 16,
