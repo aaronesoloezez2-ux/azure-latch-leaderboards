@@ -66,13 +66,13 @@
   },
   {
     "rank": 14,
-    "teamName": "Sovereign",
-    "elo5v5": 133
+    "teamName": "Dai Gurren",
+    "elo5v5": 145
   },
   {
     "rank": 15,
-    "teamName": "Dai Gurren",
-    "elo5v5": 131
+    "teamName": "Sovereign",
+    "elo5v5": 133
   },
   {
     "rank": 16,
@@ -106,18 +106,18 @@
   },
   {
     "rank": 22,
-    "teamName": "Night Garden",
-    "elo5v5": 90
-  },
-  {
-    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "PXG",
     "elo5v5": 78
+  },
+  {
+    "rank": 24,
+    "teamName": "Night Garden",
+    "elo5v5": 73
   },
   {
     "rank": 25,
