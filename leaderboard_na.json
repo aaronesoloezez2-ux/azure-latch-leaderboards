@@ -96,38 +96,38 @@
   },
   {
     "rank": 20,
+    "teamName": "PXG",
+    "elo5v5": 96
+  },
+  {
+    "rank": 21,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 23,
-    "teamName": "PXG",
-    "elo5v5": 77
-  },
-  {
     "rank": 24,
-    "teamName": "Night Garden",
-    "elo5v5": 73
-  },
-  {
-    "rank": 25,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Kiseki",
     "elo5v5": 63
+  },
+  {
+    "rank": 26,
+    "teamName": "Night Garden",
+    "elo5v5": 54
   },
   {
     "rank": 27,
