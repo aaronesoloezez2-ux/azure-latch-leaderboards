@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation EU",
-    "elo5v5": 356
+    "elo5v5": 359
   },
   {
     "rank": 2,
@@ -146,42 +146,42 @@
   },
   {
     "rank": 30,
-    "teamName": "Mega Pupsi",
-    "elo5v5": 10
-  },
-  {
-    "rank": 31,
     "teamName": "MraX",
     "elo5v5": 8
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "SIU",
     "elo5v5": 4
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Kasamatsu",
     "elo5v5": 3
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Shrine",
     "elo5v5": 3
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Ferencvaros",
     "elo5v5": 2
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Lunar Company",
     "elo5v5": 1
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "R.x.x FC",
+    "elo5v5": 1
+  },
+  {
+    "rank": 37,
+    "teamName": "Mega Pupsi",
     "elo5v5": 1
   },
   {
