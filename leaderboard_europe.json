@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 276
+    "elo5v5": 281
   },
   {
     "rank": 3,
@@ -76,18 +76,18 @@
   },
   {
     "rank": 16,
-    "teamName": "D7th",
-    "elo5v5": 59
-  },
-  {
-    "rank": 17,
     "teamName": "Destiny FC",
     "elo5v5": 56
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "NOVA",
     "elo5v5": 49
+  },
+  {
+    "rank": 18,
+    "teamName": "D7th",
+    "elo5v5": 47
   },
   {
     "rank": 19,
