@@ -91,13 +91,13 @@
   },
   {
     "rank": 19,
-    "teamName": "AOGIRI",
-    "elo5v5": 116
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 98
   },
   {
     "rank": 20,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 98
+    "teamName": "AOGIRI",
+    "elo5v5": 97
   },
   {
     "rank": 21,
@@ -126,32 +126,32 @@
   },
   {
     "rank": 26,
+    "teamName": "Night Garden",
+    "elo5v5": 61
+  },
+  {
+    "rank": 27,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 48
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Civis Imperium",
     "elo5v5": 41
   },
   {
-    "rank": 30,
-    "teamName": "Fight Club",
-    "elo5v5": 38
-  },
-  {
     "rank": 31,
-    "teamName": "Night Garden",
+    "teamName": "Fight Club",
     "elo5v5": 38
   },
   {
