@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Re Al",
-    "elo5v5": 254
+    "teamName": "Atph9",
+    "elo5v5": 259
   },
   {
     "rank": 3,
-    "teamName": "Atph9",
-    "elo5v5": 253
+    "teamName": "Re Al",
+    "elo5v5": 254
   },
   {
     "rank": 4,
@@ -101,23 +101,23 @@
   },
   {
     "rank": 21,
-    "teamName": "PXG",
-    "elo5v5": 96
-  },
-  {
-    "rank": 22,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
+  },
+  {
+    "rank": 24,
+    "teamName": "PXG",
+    "elo5v5": 83
   },
   {
     "rank": 25,
