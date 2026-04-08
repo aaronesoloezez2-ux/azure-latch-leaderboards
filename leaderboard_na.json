@@ -51,12 +51,12 @@
   },
   {
     "rank": 11,
-    "teamName": "Serendipity",
-    "elo5v5": 167
+    "teamName": "Dai Gurren",
+    "elo5v5": 176
   },
   {
     "rank": 12,
-    "teamName": "Dai Gurren",
+    "teamName": "Serendipity",
     "elo5v5": 167
   },
   {
@@ -176,53 +176,53 @@
   },
   {
     "rank": 36,
-    "teamName": "Euclesis",
-    "elo5v5": 26
-  },
-  {
-    "rank": 37,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Crimson Authority",
     "elo5v5": 22
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Vanguard",
     "elo5v5": 22
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Limbo退屈",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "Enlightened",
     "elo5v5": 21
+  },
+  {
+    "rank": 45,
+    "teamName": "Euclesis",
+    "elo5v5": 11
   },
   {
     "rank": 46,
