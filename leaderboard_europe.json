@@ -803,5 +803,10 @@
     "rank": 161,
     "teamName": "PQ",
     "elo5v5": 0
+  },
+  {
+    "rank": 162,
+    "teamName": "Generic",
+    "elo5v5": 0
   }
 ]
