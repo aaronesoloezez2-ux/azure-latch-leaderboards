@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Sovereign",
+    "elo5v5": 180
+  },
+  {
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 178
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Lotus",
     "elo5v5": 175
-  },
-  {
-    "rank": 10,
-    "teamName": "Sovereign",
-    "elo5v5": 171
   },
   {
     "rank": 11,
@@ -131,27 +131,27 @@
   },
   {
     "rank": 27,
-    "teamName": "Night Garden",
-    "elo5v5": 54
-  },
-  {
-    "rank": 28,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Civis Imperium",
     "elo5v5": 41
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Fight Club",
+    "elo5v5": 38
+  },
+  {
+    "rank": 31,
+    "teamName": "Night Garden",
     "elo5v5": 38
   },
   {
