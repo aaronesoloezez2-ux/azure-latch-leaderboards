@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 70
-  },
-  {
-    "rank": 25,
     "teamName": "Sunrise",
     "elo5v5": 66
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "PXG",
     "elo5v5": 63
+  },
+  {
+    "rank": 26,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 48
   },
   {
     "rank": 27,
@@ -156,73 +156,73 @@
   },
   {
     "rank": 32,
+    "teamName": "Moonlight",
+    "elo5v5": 36
+  },
+  {
+    "rank": 33,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 29
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Moon Noobs",
     "elo5v5": 28
   },
   {
-    "rank": 34,
+    "rank": 35,
     "teamName": "Imperium FC",
     "elo5v5": 27
   },
   {
-    "rank": 35,
+    "rank": 36,
     "teamName": "Euclesis",
     "elo5v5": 26
   },
   {
-    "rank": 36,
+    "rank": 37,
     "teamName": "Smilers",
     "elo5v5": 24
   },
   {
-    "rank": 37,
+    "rank": 38,
     "teamName": "Re Al U20",
     "elo5v5": 24
   },
   {
-    "rank": 38,
+    "rank": 39,
     "teamName": "Crimson Authority",
     "elo5v5": 22
   },
   {
-    "rank": 39,
+    "rank": 40,
     "teamName": "Vanguard",
     "elo5v5": 22
   },
   {
-    "rank": 40,
+    "rank": 41,
     "teamName": "Limbo退屈",
     "elo5v5": 21
   },
   {
-    "rank": 41,
+    "rank": 42,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 43,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 43,
+    "rank": 44,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 45,
     "teamName": "Enlightened",
     "elo5v5": 21
-  },
-  {
-    "rank": 45,
-    "teamName": "Moonlight",
-    "elo5v5": 13
   },
   {
     "rank": 46,
