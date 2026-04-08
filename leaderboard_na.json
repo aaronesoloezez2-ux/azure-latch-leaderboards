@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
+    "teamName": "AOGIRI",
+    "elo5v5": 130
+  },
+  {
+    "rank": 17,
     "teamName": "Kiseki",
     "elo5v5": 129
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Vollstandig",
     "elo5v5": 125
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Optimal",
     "elo5v5": 124
-  },
-  {
-    "rank": 19,
-    "teamName": "AOGIRI",
-    "elo5v5": 116
   },
   {
     "rank": 20,
@@ -186,43 +186,43 @@
   },
   {
     "rank": 38,
-    "teamName": "Ubers+",
-    "elo5v5": 23
-  },
-  {
-    "rank": 39,
     "teamName": "Crimson Authority",
     "elo5v5": 22
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Vanguard",
     "elo5v5": 22
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "The Wiki",
     "elo5v5": 21
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Crucifer",
     "elo5v5": 21
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Gengar FC",
     "elo5v5": 21
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Moonlight",
     "elo5v5": 13
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "Saisei",
     "elo5v5": 8
+  },
+  {
+    "rank": 45,
+    "teamName": "Ubers+",
+    "elo5v5": 6
   },
   {
     "rank": 46,
