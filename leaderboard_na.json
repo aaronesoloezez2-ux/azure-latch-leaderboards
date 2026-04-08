@@ -86,33 +86,33 @@
   },
   {
     "rank": 18,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 116
-  },
-  {
-    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 116
   },
   {
+    "rank": 19,
+    "teamName": "Kiseki",
+    "elo5v5": 107
+  },
+  {
     "rank": 20,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 98
+  },
+  {
+    "rank": 21,
     "teamName": "PXG",
     "elo5v5": 96
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Seeds",
     "elo5v5": 93
-  },
-  {
-    "rank": 23,
-    "teamName": "Kiseki",
-    "elo5v5": 87
   },
   {
     "rank": 24,
