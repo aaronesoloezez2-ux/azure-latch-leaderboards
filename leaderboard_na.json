@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Kurain",
-    "elo5v5": 242
+    "elo5v5": 232
   },
   {
     "rank": 6,
@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
+    "teamName": "Kiseki",
+    "elo5v5": 117
+  },
+  {
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 116
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 98
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Metalogic",
     "elo5v5": 95
-  },
-  {
-    "rank": 21,
-    "teamName": "Kiseki",
-    "elo5v5": 94
   },
   {
     "rank": 22,
