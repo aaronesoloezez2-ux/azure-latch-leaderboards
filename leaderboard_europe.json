@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "InternalBleeding",
-    "elo5v5": 190
+    "teamName": "Abibas FC",
+    "elo5v5": 196
   },
   {
     "rank": 5,
-    "teamName": "Abibas FC",
-    "elo5v5": 188
+    "teamName": "InternalBleeding",
+    "elo5v5": 190
   },
   {
     "rank": 6,
@@ -86,37 +86,37 @@
   },
   {
     "rank": 18,
-    "teamName": "D7th",
-    "elo5v5": 47
-  },
-  {
-    "rank": 19,
     "teamName": "Vespera",
     "elo5v5": 47
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Energy",
     "elo5v5": 43
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Hotspot FC",
     "elo5v5": 41
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Elite Firecrackers",
     "elo5v5": 40
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Mega Pupsi",
     "elo5v5": 34
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Brick Corp EU",
+    "elo5v5": 32
+  },
+  {
+    "rank": 24,
+    "teamName": "D7th",
     "elo5v5": 32
   },
   {
