@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Valorant FC G",
-    "elo5v5": 65
+    "elo5v5": 83
   },
   {
     "rank": 5,
@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
-    "teamName": "Furin High",
-    "elo5v5": 21
-  },
-  {
-    "rank": 8,
     "teamName": "Aira",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "JPU20",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Parxousia",
     "elo5v5": 5
+  },
+  {
+    "rank": 10,
+    "teamName": "Furin High",
+    "elo5v5": 2
   },
   {
     "rank": 11,
