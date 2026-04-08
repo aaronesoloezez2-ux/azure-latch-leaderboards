@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Atph9",
-    "elo5v5": 259
+    "teamName": "Re Al",
+    "elo5v5": 254
   },
   {
     "rank": 3,
-    "teamName": "Re Al",
-    "elo5v5": 254
+    "teamName": "Atph9",
+    "elo5v5": 249
   },
   {
     "rank": 4,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Sovereign",
+    "elo5v5": 157
+  },
+  {
+    "rank": 13,
     "teamName": "Dai Gurren",
     "elo5v5": 156
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Olympus",
     "elo5v5": 150
-  },
-  {
-    "rank": 15,
-    "teamName": "Sovereign",
-    "elo5v5": 138
   },
   {
     "rank": 16,
