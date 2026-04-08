@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "Dai Gurren",
+    "elo5v5": 167
+  },
+  {
+    "rank": 12,
     "teamName": "Lotus",
     "elo5v5": 161
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Sees",
     "elo5v5": 159
-  },
-  {
-    "rank": 13,
-    "teamName": "Dai Gurren",
-    "elo5v5": 156
   },
   {
     "rank": 14,
@@ -136,28 +136,28 @@
   },
   {
     "rank": 28,
-    "teamName": "Rai Kanji XI.",
-    "elo5v5": 45
-  },
-  {
-    "rank": 29,
     "teamName": "Mugen",
     "elo5v5": 44
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "FC Babalona",
     "elo5v5": 43
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Civis Imperium",
     "elo5v5": 41
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Fight Club",
     "elo5v5": 38
+  },
+  {
+    "rank": 32,
+    "teamName": "Rai Kanji XI.",
+    "elo5v5": 29
   },
   {
     "rank": 33,
