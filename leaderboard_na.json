@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Revelation",
-    "elo5v5": 311
+    "elo5v5": 316
   },
   {
     "rank": 2,
@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
-    "teamName": "Sovereign",
-    "elo5v5": 180
-  },
-  {
-    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 178
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Dai Gurren",
     "elo5v5": 176
+  },
+  {
+    "rank": 11,
+    "teamName": "Sovereign",
+    "elo5v5": 171
   },
   {
     "rank": 12,
