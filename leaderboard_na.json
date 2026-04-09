@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "g50",
-    "elo5v5": 212
+    "elo5v5": 200
   },
   {
     "rank": 7,
@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
+    "teamName": "Night Garden",
+    "elo5v5": 86
+  },
+  {
+    "rank": 25,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Sunrise",
     "elo5v5": 66
-  },
-  {
-    "rank": 26,
-    "teamName": "Night Garden",
-    "elo5v5": 61
   },
   {
     "rank": 27,
