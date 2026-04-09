@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
+    "teamName": "SUFC",
+    "elo5v5": 71
+  },
+  {
+    "rank": 14,
     "teamName": "Kōchi FC",
     "elo5v5": 61
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Lineage",
     "elo5v5": 61
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Destiny FC",
     "elo5v5": 56
-  },
-  {
-    "rank": 16,
-    "teamName": "SUFC",
-    "elo5v5": 53
   },
   {
     "rank": 17,
