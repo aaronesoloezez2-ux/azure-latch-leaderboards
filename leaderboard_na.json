@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "g50",
-    "elo5v5": 208
+    "elo5v5": 217
   },
   {
     "rank": 6,
@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Kiseki",
-    "elo5v5": 153
-  },
-  {
-    "rank": 14,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Olympus",
     "elo5v5": 150
+  },
+  {
+    "rank": 15,
+    "teamName": "Kiseki",
+    "elo5v5": 141
   },
   {
     "rank": 16,
