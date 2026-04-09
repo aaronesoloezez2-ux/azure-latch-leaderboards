@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "g50",
-    "elo5v5": 200
+    "elo5v5": 208
   },
   {
     "rank": 6,
@@ -86,28 +86,28 @@
   },
   {
     "rank": 18,
-    "teamName": "PXG",
-    "elo5v5": 105
-  },
-  {
-    "rank": 19,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 98
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "AOGIRI",
     "elo5v5": 97
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Seeds",
     "elo5v5": 93
+  },
+  {
+    "rank": 22,
+    "teamName": "PXG",
+    "elo5v5": 90
   },
   {
     "rank": 23,
