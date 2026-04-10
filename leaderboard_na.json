@@ -51,28 +51,28 @@
   },
   {
     "rank": 11,
-    "teamName": "Lotus",
-    "elo5v5": 162
-  },
-  {
-    "rank": 12,
     "teamName": "Sees",
     "elo5v5": 159
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Kiseki",
     "elo5v5": 152
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Completeness",
     "elo5v5": 151
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Olympus",
     "elo5v5": 150
+  },
+  {
+    "rank": 15,
+    "teamName": "Lotus",
+    "elo5v5": 147
   },
   {
     "rank": 16,
@@ -96,23 +96,23 @@
   },
   {
     "rank": 20,
+    "teamName": "PXG",
+    "elo5v5": 97
+  },
+  {
+    "rank": 21,
     "teamName": "Metalogic",
     "elo5v5": 95
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Seeds",
     "elo5v5": 93
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 85
-  },
-  {
-    "rank": 23,
-    "teamName": "PXG",
-    "elo5v5": 75
   },
   {
     "rank": 24,
