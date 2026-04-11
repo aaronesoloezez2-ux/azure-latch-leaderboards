@@ -6,16 +6,21 @@
   },
   {
     "rank": 2,
-    "teamName": "Oshu Oshi NA",
+    "teamName": "Synergy FC West",
     "elo5v5": 0
   },
   {
     "rank": 3,
-    "teamName": "Visoreds",
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
     "rank": 4,
+    "teamName": "Visoreds",
+    "elo5v5": 0
+  },
+  {
+    "rank": 5,
     "teamName": "Witches Cult",
     "elo5v5": 0
   }
