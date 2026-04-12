@@ -6,61 +6,66 @@
   },
   {
     "rank": 2,
-    "teamName": "Synergy FC",
+    "teamName": "Moonlight",
     "elo5v5": 0
   },
   {
     "rank": 3,
-    "teamName": "Synergy FC West",
+    "teamName": "Synergy FC",
     "elo5v5": 0
   },
   {
     "rank": 4,
-    "teamName": "AOGIRI",
+    "teamName": "Synergy FC West",
     "elo5v5": 0
   },
   {
     "rank": 5,
-    "teamName": "Vanguard U20",
+    "teamName": "AOGIRI",
     "elo5v5": 0
   },
   {
     "rank": 6,
-    "teamName": "Oshu Oshi NA",
+    "teamName": "Vanguard U20",
     "elo5v5": 0
   },
   {
     "rank": 7,
-    "teamName": "Visoreds",
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
     "rank": 8,
-    "teamName": "Witches Cult",
+    "teamName": "Visoreds",
     "elo5v5": 0
   },
   {
     "rank": 9,
-    "teamName": "Union : RE",
+    "teamName": "Witches Cult",
     "elo5v5": 0
   },
   {
     "rank": 10,
-    "teamName": "Abyssal Stars",
+    "teamName": "Union : RE",
     "elo5v5": 0
   },
   {
     "rank": 11,
-    "teamName": "Kiseki",
+    "teamName": "Abyssal Stars",
     "elo5v5": 0
   },
   {
     "rank": 12,
-    "teamName": "PXG",
+    "teamName": "Kiseki",
     "elo5v5": 0
   },
   {
     "rank": 13,
+    "teamName": "PXG",
+    "elo5v5": 0
+  },
+  {
+    "rank": 14,
     "teamName": "Re:Resurrección",
     "elo5v5": 0
   }
