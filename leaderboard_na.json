@@ -1,62 +1,62 @@
 [
   {
     "rank": 1,
-    "teamName": "g50",
-    "elo5v5": 21
-  },
-  {
-    "rank": 2,
-    "teamName": "Revelation",
-    "elo5v5": 21
-  },
-  {
-    "rank": 3,
     "teamName": "Moonlight",
     "elo5v5": 0
   },
   {
-    "rank": 4,
+    "rank": 2,
     "teamName": "Synergy FC",
     "elo5v5": 0
   },
   {
-    "rank": 5,
+    "rank": 3,
     "teamName": "Synergy FC West",
     "elo5v5": 0
   },
   {
-    "rank": 6,
+    "rank": 4,
+    "teamName": "g50",
+    "elo5v5": 0
+  },
+  {
+    "rank": 5,
     "teamName": "AOGIRI",
     "elo5v5": 0
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Dreamers (NA)",
     "elo5v5": 0
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Vanguard U20",
     "elo5v5": 0
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Vanguard",
     "elo5v5": 0
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Neutron",
     "elo5v5": 0
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Kyzards",
+    "elo5v5": 0
+  },
+  {
+    "rank": 12,
+    "teamName": "Revelation",
     "elo5v5": 0
   },
   {
