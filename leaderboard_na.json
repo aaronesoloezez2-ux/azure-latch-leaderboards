@@ -31,66 +31,71 @@
   },
   {
     "rank": 7,
-    "teamName": "Vanguard U20",
+    "teamName": "Dreamers (NA)",
     "elo5v5": 0
   },
   {
     "rank": 8,
-    "teamName": "Vanguard",
+    "teamName": "Vanguard U20",
     "elo5v5": 0
   },
   {
     "rank": 9,
-    "teamName": "Neutron",
+    "teamName": "Vanguard",
     "elo5v5": 0
   },
   {
     "rank": 10,
-    "teamName": "Oshu Oshi NA",
+    "teamName": "Neutron",
     "elo5v5": 0
   },
   {
     "rank": 11,
-    "teamName": "Kyzards",
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
     "rank": 12,
-    "teamName": "Visoreds",
+    "teamName": "Kyzards",
     "elo5v5": 0
   },
   {
     "rank": 13,
-    "teamName": "Witches Cult",
+    "teamName": "Visoreds",
     "elo5v5": 0
   },
   {
     "rank": 14,
-    "teamName": "Union : RE",
+    "teamName": "Witches Cult",
     "elo5v5": 0
   },
   {
     "rank": 15,
-    "teamName": "Abyssal Stars",
+    "teamName": "Union : RE",
     "elo5v5": 0
   },
   {
     "rank": 16,
-    "teamName": "Kiseki",
+    "teamName": "Abyssal Stars",
     "elo5v5": 0
   },
   {
     "rank": 17,
-    "teamName": "PXG",
+    "teamName": "Kiseki",
     "elo5v5": 0
   },
   {
     "rank": 18,
-    "teamName": "Re:Resurrección",
+    "teamName": "PXG",
     "elo5v5": 0
   },
   {
     "rank": 19,
+    "teamName": "Re:Resurrección",
+    "elo5v5": 0
+  },
+  {
+    "rank": 20,
     "teamName": "Worst Gen 11",
     "elo5v5": 0
   }
