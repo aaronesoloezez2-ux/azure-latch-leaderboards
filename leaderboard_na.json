@@ -31,46 +31,51 @@
   },
   {
     "rank": 7,
-    "teamName": "Oshu Oshi NA",
+    "teamName": "Neutron",
     "elo5v5": 0
   },
   {
     "rank": 8,
-    "teamName": "Kyzards",
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
     "rank": 9,
-    "teamName": "Visoreds",
+    "teamName": "Kyzards",
     "elo5v5": 0
   },
   {
     "rank": 10,
-    "teamName": "Witches Cult",
+    "teamName": "Visoreds",
     "elo5v5": 0
   },
   {
     "rank": 11,
-    "teamName": "Union : RE",
+    "teamName": "Witches Cult",
     "elo5v5": 0
   },
   {
     "rank": 12,
-    "teamName": "Abyssal Stars",
+    "teamName": "Union : RE",
     "elo5v5": 0
   },
   {
     "rank": 13,
-    "teamName": "Kiseki",
+    "teamName": "Abyssal Stars",
     "elo5v5": 0
   },
   {
     "rank": 14,
-    "teamName": "PXG",
+    "teamName": "Kiseki",
     "elo5v5": 0
   },
   {
     "rank": 15,
+    "teamName": "PXG",
+    "elo5v5": 0
+  },
+  {
+    "rank": 16,
     "teamName": "Re:Resurrección",
     "elo5v5": 0
   }
