@@ -1,57 +1,57 @@
 [
   {
     "rank": 1,
-    "teamName": "New Gen.",
-    "elo5v5": 122
+    "teamName": "Criciúma",
+    "elo5v5": 0
   },
   {
     "rank": 2,
-    "teamName": "Criciúma",
-    "elo5v5": 117
-  },
-  {
-    "rank": 3,
-    "teamName": "Coitadinhos",
-    "elo5v5": 53
-  },
-  {
-    "rank": 4,
-    "teamName": "COMIBLES",
-    "elo5v5": 26
-  },
-  {
-    "rank": 5,
     "teamName": "Moggers",
     "elo5v5": 0
   },
   {
-    "rank": 6,
+    "rank": 3,
     "teamName": "Index Predator",
     "elo5v5": 0
   },
   {
-    "rank": 7,
+    "rank": 4,
     "teamName": "WorldBreakers",
     "elo5v5": 0
   },
   {
-    "rank": 8,
+    "rank": 5,
     "teamName": "Kurain SA",
     "elo5v5": 0
   },
   {
-    "rank": 9,
+    "rank": 6,
     "teamName": "Lolings",
     "elo5v5": 0
   },
   {
-    "rank": 10,
+    "rank": 7,
+    "teamName": "COMIBLES",
+    "elo5v5": 0
+  },
+  {
+    "rank": 8,
     "teamName": "Bastard Reborn",
     "elo5v5": 0
   },
   {
-    "rank": 11,
+    "rank": 9,
+    "teamName": "New Gen.",
+    "elo5v5": 0
+  },
+  {
+    "rank": 10,
     "teamName": "Drones.exe",
+    "elo5v5": 0
+  },
+  {
+    "rank": 11,
+    "teamName": "Coitadinhos",
     "elo5v5": 0
   },
   {
