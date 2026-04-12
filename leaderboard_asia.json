@@ -6,11 +6,16 @@
   },
   {
     "rank": 2,
-    "teamName": "Hecatia",
+    "teamName": "Aira",
     "elo5v5": 0
   },
   {
     "rank": 3,
+    "teamName": "Hecatia",
+    "elo5v5": 0
+  },
+  {
+    "rank": 4,
     "teamName": "Furin High",
     "elo5v5": 0
   }
