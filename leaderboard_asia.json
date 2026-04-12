@@ -1,22 +1,187 @@
 [
   {
     "rank": 1,
-    "teamName": "Parxousia",
-    "elo5v5": 0
+    "teamName": "Cult of miku",
+    "elo5v5": 134
   },
   {
     "rank": 2,
+    "teamName": "Hecatia",
+    "elo5v5": 132
+  },
+  {
+    "rank": 3,
+    "teamName": "Tora",
+    "elo5v5": 128
+  },
+  {
+    "rank": 4,
+    "teamName": "Umbrella (傘)",
+    "elo5v5": 45
+  },
+  {
+    "rank": 5,
+    "teamName": "Valorant FC G",
+    "elo5v5": 42
+  },
+  {
+    "rank": 6,
+    "teamName": "Ruthless",
+    "elo5v5": 21
+  },
+  {
+    "rank": 7,
+    "teamName": "Furin High",
+    "elo5v5": 21
+  },
+  {
+    "rank": 8,
+    "teamName": "JPU20",
+    "elo5v5": 21
+  },
+  {
+    "rank": 9,
+    "teamName": "Parxousia",
+    "elo5v5": 5
+  },
+  {
+    "rank": 10,
+    "teamName": "Cry",
+    "elo5v5": 3
+  },
+  {
+    "rank": 11,
+    "teamName": "Jeigamanassac",
+    "elo5v5": 0
+  },
+  {
+    "rank": 12,
+    "teamName": "Brick Merchants",
+    "elo5v5": 0
+  },
+  {
+    "rank": 13,
+    "teamName": "Facade",
+    "elo5v5": 0
+  },
+  {
+    "rank": 14,
+    "teamName": "bum central",
+    "elo5v5": 0
+  },
+  {
+    "rank": 15,
+    "teamName": "Steaks",
+    "elo5v5": 0
+  },
+  {
+    "rank": 16,
+    "teamName": "GTBSAT!",
+    "elo5v5": 0
+  },
+  {
+    "rank": 17,
+    "teamName": "Prime United FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 18,
+    "teamName": "Reflex",
+    "elo5v5": 0
+  },
+  {
+    "rank": 19,
+    "teamName": "Natus Vincere",
+    "elo5v5": 0
+  },
+  {
+    "rank": 20,
+    "teamName": "Lunaris",
+    "elo5v5": 0
+  },
+  {
+    "rank": 21,
+    "teamName": "Goo Goo Babies",
+    "elo5v5": 0
+  },
+  {
+    "rank": 22,
+    "teamName": "barebones",
+    "elo5v5": 0
+  },
+  {
+    "rank": 23,
+    "teamName": "Wizards",
+    "elo5v5": 0
+  },
+  {
+    "rank": 24,
+    "teamName": "Aetherion",
+    "elo5v5": 0
+  },
+  {
+    "rank": 25,
+    "teamName": "Selfish Strikers",
+    "elo5v5": 0
+  },
+  {
+    "rank": 26,
+    "teamName": "Ataraxia",
+    "elo5v5": 0
+  },
+  {
+    "rank": 27,
     "teamName": "Aira",
     "elo5v5": 0
   },
   {
-    "rank": 3,
-    "teamName": "Hecatia",
+    "rank": 28,
+    "teamName": "Cryo",
     "elo5v5": 0
   },
   {
-    "rank": 4,
-    "teamName": "Furin High",
+    "rank": 29,
+    "teamName": "星野",
+    "elo5v5": 0
+  },
+  {
+    "rank": 30,
+    "teamName": "Dark Magics",
+    "elo5v5": 0
+  },
+  {
+    "rank": 31,
+    "teamName": "Phyton",
+    "elo5v5": 0
+  },
+  {
+    "rank": 32,
+    "teamName": "Re:Croc",
+    "elo5v5": 0
+  },
+  {
+    "rank": 33,
+    "teamName": "Xerxes",
+    "elo5v5": 0
+  },
+  {
+    "rank": 34,
+    "teamName": "Master Ego",
+    "elo5v5": 0
+  },
+  {
+    "rank": 35,
+    "teamName": "Grand Chroma",
+    "elo5v5": 0
+  },
+  {
+    "rank": 36,
+    "teamName": "Bloodborne",
+    "elo5v5": 0
+  },
+  {
+    "rank": 37,
+    "teamName": "Stellarium",
     "elo5v5": 0
   }
 ]
