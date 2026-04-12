@@ -1216,67 +1216,67 @@
   },
   {
     "rank": 244,
-    "teamName": "Ego XI",
-    "elo5v5": 0
-  },
-  {
-    "rank": 245,
     "teamName": "Mellstroy FC",
     "elo5v5": 0
   },
   {
-    "rank": 246,
+    "rank": 245,
     "teamName": "Trollface FC",
     "elo5v5": 0
   },
   {
-    "rank": 247,
+    "rank": 246,
     "teamName": "Blue Execution",
     "elo5v5": 0
   },
   {
-    "rank": 248,
+    "rank": 247,
     "teamName": "SUFC",
     "elo5v5": 0
   },
   {
-    "rank": 249,
+    "rank": 248,
     "teamName": "Brit FC",
     "elo5v5": 0
   },
   {
-    "rank": 250,
+    "rank": 249,
     "teamName": "Paleideus",
     "elo5v5": 0
   },
   {
-    "rank": 251,
+    "rank": 250,
     "teamName": "Andromeda",
     "elo5v5": 0
   },
   {
-    "rank": 252,
+    "rank": 251,
     "teamName": "Green Needle FC",
     "elo5v5": 0
   },
   {
-    "rank": 253,
+    "rank": 252,
     "teamName": "Lineage",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "InternalBleeding",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "Fate",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Ascendance [RM]",
+    "elo5v5": 0
+  },
+  {
+    "rank": 256,
+    "teamName": "Acclamation",
     "elo5v5": 0
   }
 ]
