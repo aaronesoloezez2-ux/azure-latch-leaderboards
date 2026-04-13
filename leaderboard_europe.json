@@ -1266,27 +1266,27 @@
   },
   {
     "rank": 254,
-    "teamName": "Regalia C.F",
-    "elo5v5": 0
-  },
-  {
-    "rank": 255,
     "teamName": "Level",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Next Level",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Locked II",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Azure Phoenix",
+    "elo5v5": 0
+  },
+  {
+    "rank": 258,
+    "teamName": "Prominence",
     "elo5v5": 0
   }
 ]
