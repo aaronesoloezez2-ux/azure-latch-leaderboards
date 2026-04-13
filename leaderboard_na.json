@@ -16,37 +16,37 @@
   },
   {
     "rank": 4,
+    "teamName": "Euclesis",
+    "elo5v5": 41
+  },
+  {
+    "rank": 5,
     "teamName": "Revelation",
     "elo5v5": 22
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Vanguard",
     "elo5v5": 21
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Moonlight",
     "elo5v5": 21
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
-    "rank": 9,
-    "teamName": "Kyzards",
-    "elo5v5": 21
-  },
-  {
     "rank": 10,
-    "teamName": "Euclesis",
+    "teamName": "Kyzards",
     "elo5v5": 21
   },
   {
