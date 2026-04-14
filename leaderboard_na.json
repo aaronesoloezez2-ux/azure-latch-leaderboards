@@ -26,27 +26,27 @@
   },
   {
     "rank": 6,
-    "teamName": "Euclesis",
+    "teamName": "Vanguard",
     "elo5v5": 41
   },
   {
     "rank": 7,
+    "teamName": "Euclesis",
+    "elo5v5": 41
+  },
+  {
+    "rank": 8,
     "teamName": "Revelation",
     "elo5v5": 22
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Dai Gurren",
     "elo5v5": 22
   },
   {
-    "rank": 9,
-    "teamName": "AOGIRI",
-    "elo5v5": 21
-  },
-  {
     "rank": 10,
-    "teamName": "Vanguard",
+    "teamName": "AOGIRI",
     "elo5v5": 21
   },
   {
