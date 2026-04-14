@@ -1,17 +1,17 @@
 [
   {
     "rank": 1,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 94
+  },
+  {
+    "rank": 2,
     "teamName": "Kyzards",
     "elo5v5": 80
   },
   {
-    "rank": 2,
-    "teamName": "Infernum",
-    "elo5v5": 78
-  },
-  {
     "rank": 3,
-    "teamName": "ⅩⅠⅠⅠ",
+    "teamName": "Infernum",
     "elo5v5": 78
   },
   {
