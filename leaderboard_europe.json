@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
+    "teamName": "Abibas FC",
+    "elo5v5": 24
+  },
+  {
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Scar F.C",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Axiom",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Larp Society",
     "elo5v5": 21
-  },
-  {
-    "rank": 12,
-    "teamName": "Abibas FC",
-    "elo5v5": 3
   },
   {
     "rank": 13,
