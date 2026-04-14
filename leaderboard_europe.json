@@ -11,53 +11,53 @@
   },
   {
     "rank": 3,
+    "teamName": "Divine",
+    "elo5v5": 60
+  },
+  {
+    "rank": 4,
     "teamName": "Primordials",
     "elo5v5": 42
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "gamesense",
     "elo5v5": 42
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Chain Breakers",
     "elo5v5": 41
   },
   {
-    "rank": 6,
-    "teamName": "Divine",
-    "elo5v5": 40
-  },
-  {
     "rank": 7,
-    "teamName": "Mega Pupsi",
-    "elo5v5": 22
-  },
-  {
-    "rank": 8,
     "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Scar F.C",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Axiom",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "SUFC",
     "elo5v5": 21
+  },
+  {
+    "rank": 12,
+    "teamName": "Mega Pupsi",
+    "elo5v5": 2
   },
   {
     "rank": 13,
