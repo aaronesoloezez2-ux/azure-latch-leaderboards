@@ -26,8 +26,8 @@
   },
   {
     "rank": 6,
-    "teamName": "Moonlight",
-    "elo5v5": 41
+    "teamName": "Revelation",
+    "elo5v5": 43
   },
   {
     "rank": 7,
@@ -46,63 +46,63 @@
   },
   {
     "rank": 10,
-    "teamName": "Revelation",
-    "elo5v5": 22
-  },
-  {
-    "rank": 11,
     "teamName": "Dai Gurren",
     "elo5v5": 22
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Lynical",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Sees",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "AOGIRI",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "G50",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Visoreds",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fairy Tail",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Kyouki",
     "elo5v5": 21
+  },
+  {
+    "rank": 21,
+    "teamName": "Moonlight",
+    "elo5v5": 20
   },
   {
     "rank": 22,
