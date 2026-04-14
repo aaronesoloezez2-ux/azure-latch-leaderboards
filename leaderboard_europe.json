@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 78
+    "elo5v5": 95
   },
   {
     "rank": 2,
@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
-    "teamName": "Abibas FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Scar F.C",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Axiom",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Larp Society",
     "elo5v5": 21
+  },
+  {
+    "rank": 12,
+    "teamName": "Abibas FC",
+    "elo5v5": 3
   },
   {
     "rank": 13,
