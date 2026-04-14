@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Kyzards",
+    "teamName": "Moonlight",
     "elo5v5": 61
   },
   {
     "rank": 5,
-    "teamName": "Moonlight",
-    "elo5v5": 42
+    "teamName": "Kyzards",
+    "elo5v5": 61
   },
   {
     "rank": 6,
@@ -31,48 +31,48 @@
   },
   {
     "rank": 7,
-    "teamName": "Fight Club",
-    "elo5v5": 22
-  },
-  {
-    "rank": 8,
     "teamName": "Revelation",
     "elo5v5": 22
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Dai Gurren",
     "elo5v5": 22
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Vanguard",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Visoreds",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Fairy Tail",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Lynical",
     "elo5v5": 21
+  },
+  {
+    "rank": 15,
+    "teamName": "Fight Club",
+    "elo5v5": 2
   },
   {
     "rank": 16,
