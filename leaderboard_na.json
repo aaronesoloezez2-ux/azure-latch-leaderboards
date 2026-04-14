@@ -1,22 +1,22 @@
 [
   {
     "rank": 1,
+    "teamName": "Kyzards",
+    "elo5v5": 80
+  },
+  {
+    "rank": 2,
     "teamName": "Infernum",
     "elo5v5": 78
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 78
   },
   {
-    "rank": 3,
-    "teamName": "Moonlight",
-    "elo5v5": 61
-  },
-  {
     "rank": 4,
-    "teamName": "Kyzards",
+    "teamName": "Moonlight",
     "elo5v5": 61
   },
   {
@@ -31,27 +31,27 @@
   },
   {
     "rank": 7,
-    "teamName": "Lynical",
-    "elo5v5": 41
-  },
-  {
-    "rank": 8,
     "teamName": "Sovereign",
     "elo5v5": 39
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Re Al",
     "elo5v5": 23
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Revelation",
     "elo5v5": 22
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Dai Gurren",
+    "elo5v5": 22
+  },
+  {
+    "rank": 11,
+    "teamName": "Lynical",
     "elo5v5": 22
   },
   {
