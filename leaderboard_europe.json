@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Primordials",
+    "elo5v5": 94
+  },
+  {
+    "rank": 2,
     "teamName": "Divine",
     "elo5v5": 92
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Acclamation",
     "elo5v5": 82
-  },
-  {
-    "rank": 3,
-    "teamName": "Primordials",
-    "elo5v5": 78
   },
   {
     "rank": 4,
