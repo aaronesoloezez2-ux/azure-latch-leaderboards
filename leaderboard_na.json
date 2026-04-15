@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Infernum",
-    "elo5v5": 78
+    "teamName": "Vanguard",
+    "elo5v5": 60
   },
   {
     "rank": 4,
-    "teamName": "Vanguard",
-    "elo5v5": 60
+    "teamName": "Infernum",
+    "elo5v5": 57
   },
   {
     "rank": 5,
@@ -26,93 +26,93 @@
   },
   {
     "rank": 6,
-    "teamName": "Kyouki",
+    "teamName": "Moonlight",
     "elo5v5": 43
   },
   {
     "rank": 7,
+    "teamName": "Kyouki",
+    "elo5v5": 43
+  },
+  {
+    "rank": 8,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 42
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Euclesis",
     "elo5v5": 41
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Fairy Tail",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 39
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Re Al",
     "elo5v5": 23
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Lotus",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Re Al - Youth",
     "elo5v5": 22
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kiseki",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "AOGIRI",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Enlightened",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "G50",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Visoreds",
     "elo5v5": 21
-  },
-  {
-    "rank": 23,
-    "teamName": "Moonlight",
-    "elo5v5": 20
   },
   {
     "rank": 24,
