@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Primordials",
-    "elo5v5": 94
+    "teamName": "Divine",
+    "elo5v5": 109
   },
   {
     "rank": 2,
-    "teamName": "Divine",
-    "elo5v5": 92
+    "teamName": "Primordials",
+    "elo5v5": 94
   },
   {
     "rank": 3,
@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "gamesense",
-    "elo5v5": 42
+    "teamName": "Chain Breakers",
+    "elo5v5": 41
   },
   {
     "rank": 7,
-    "teamName": "Chain Breakers",
-    "elo5v5": 41
+    "teamName": "gamesense",
+    "elo5v5": 24
   },
   {
     "rank": 8,
