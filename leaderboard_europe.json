@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Divine",
+    "elo5v5": 92
+  },
+  {
+    "rank": 2,
     "teamName": "Acclamation",
     "elo5v5": 82
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Primordials",
     "elo5v5": 78
-  },
-  {
-    "rank": 3,
-    "teamName": "Divine",
-    "elo5v5": 75
   },
   {
     "rank": 4,
@@ -36,38 +36,38 @@
   },
   {
     "rank": 8,
-    "teamName": "Abibas FC",
-    "elo5v5": 24
-  },
-  {
-    "rank": 9,
     "teamName": "Kōchi FC",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Scar F.C",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Axiom",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Larp Society",
     "elo5v5": 21
+  },
+  {
+    "rank": 14,
+    "teamName": "Abibas FC",
+    "elo5v5": 5
   },
   {
     "rank": 15,
