@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Divine",
-    "elo5v5": 126
+    "elo5v5": 138
   },
   {
     "rank": 2,
@@ -71,42 +71,42 @@
   },
   {
     "rank": 15,
-    "teamName": "Abibas FC",
-    "elo5v5": 5
-  },
-  {
-    "rank": 16,
     "teamName": "Shrine",
     "elo5v5": 1
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Dyslexia Untied",
     "elo5v5": 0
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Emphatizers",
     "elo5v5": 0
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Elysium",
     "elo5v5": 0
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "FC MGE",
     "elo5v5": 0
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Fang of Metsudo",
     "elo5v5": 0
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Brickelona FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 22,
+    "teamName": "Abibas FC",
     "elo5v5": 0
   },
   {
