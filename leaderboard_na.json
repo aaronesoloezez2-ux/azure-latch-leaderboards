@@ -11,17 +11,17 @@
   },
   {
     "rank": 3,
+    "teamName": "Euclesis",
+    "elo5v5": 79
+  },
+  {
+    "rank": 4,
     "teamName": "Moonlight",
     "elo5v5": 62
   },
   {
-    "rank": 4,
-    "teamName": "Vanguard",
-    "elo5v5": 60
-  },
-  {
     "rank": 5,
-    "teamName": "Euclesis",
+    "teamName": "Vanguard",
     "elo5v5": 60
   },
   {
@@ -46,42 +46,42 @@
   },
   {
     "rank": 10,
-    "teamName": "Kiseki",
-    "elo5v5": 42
-  },
-  {
-    "rank": 11,
     "teamName": "Fairy Tail",
     "elo5v5": 41
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 39
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Enlightened",
     "elo5v5": 24
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 23
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "G50",
     "elo5v5": 23
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Revelation",
+    "elo5v5": 22
+  },
+  {
+    "rank": 17,
+    "teamName": "Kiseki",
     "elo5v5": 22
   },
   {
