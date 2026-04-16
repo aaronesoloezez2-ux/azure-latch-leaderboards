@@ -91,18 +91,18 @@
   },
   {
     "rank": 19,
+    "teamName": "Waltz Company",
+    "elo5v5": 21
+  },
+  {
+    "rank": 20,
     "teamName": "Kiseki",
     "elo5v5": 4
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 3
-  },
-  {
-    "rank": 21,
-    "teamName": "Crimson Authority U20",
-    "elo5v5": 1
   },
   {
     "rank": 22,
@@ -916,97 +916,97 @@
   },
   {
     "rank": 184,
-    "teamName": "Gengar FC",
+    "teamName": "Crimson Authority U20",
     "elo5v5": 0
   },
   {
     "rank": 185,
-    "teamName": "TBC",
+    "teamName": "Gengar FC",
     "elo5v5": 0
   },
   {
     "rank": 186,
-    "teamName": "AxisEleven",
+    "teamName": "TBC",
     "elo5v5": 0
   },
   {
     "rank": 187,
-    "teamName": "Vizards",
+    "teamName": "AxisEleven",
     "elo5v5": 0
   },
   {
     "rank": 188,
-    "teamName": "Borussia",
+    "teamName": "Vizards",
     "elo5v5": 0
   },
   {
     "rank": 189,
-    "teamName": "Inazuki",
+    "teamName": "Borussia",
     "elo5v5": 0
   },
   {
     "rank": 190,
-    "teamName": "Reverence",
+    "teamName": "Inazuki",
     "elo5v5": 0
   },
   {
     "rank": 191,
-    "teamName": "FC Starstruck",
+    "teamName": "Reverence",
     "elo5v5": 0
   },
   {
     "rank": 192,
-    "teamName": "Tea Time",
+    "teamName": "FC Starstruck",
     "elo5v5": 0
   },
   {
     "rank": 193,
-    "teamName": "Synthra",
+    "teamName": "Tea Time",
     "elo5v5": 0
   },
   {
     "rank": 194,
-    "teamName": "Atph9",
+    "teamName": "Synthra",
     "elo5v5": 0
   },
   {
     "rank": 195,
-    "teamName": "Lotus",
+    "teamName": "Atph9",
     "elo5v5": 0
   },
   {
     "rank": 196,
-    "teamName": "Snowgrave",
+    "teamName": "Lotus",
     "elo5v5": 0
   },
   {
     "rank": 197,
-    "teamName": "Anomalies",
+    "teamName": "Snowgrave",
     "elo5v5": 0
   },
   {
     "rank": 198,
-    "teamName": "Ivory",
+    "teamName": "Anomalies",
     "elo5v5": 0
   },
   {
     "rank": 199,
-    "teamName": "Manshine United NA",
+    "teamName": "Ivory",
     "elo5v5": 0
   },
   {
     "rank": 200,
-    "teamName": "The Fallen Crows",
+    "teamName": "Manshine United NA",
     "elo5v5": 0
   },
   {
     "rank": 201,
-    "teamName": "Paradox",
+    "teamName": "The Fallen Crows",
     "elo5v5": 0
   },
   {
     "rank": 202,
-    "teamName": "Waltz Company",
+    "teamName": "Paradox",
     "elo5v5": 0
   },
   {
