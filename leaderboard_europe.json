@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "NOVA",
-    "elo5v5": 46
+    "elo5v5": 65
   },
   {
     "rank": 5,
@@ -41,33 +41,33 @@
   },
   {
     "rank": 9,
-    "teamName": "Eternal FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 10,
     "teamName": "Siege",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Scar F.C",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Axiom",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Larp Society",
     "elo5v5": 21
+  },
+  {
+    "rank": 14,
+    "teamName": "Eternal FC",
+    "elo5v5": 1
   },
   {
     "rank": 15,
