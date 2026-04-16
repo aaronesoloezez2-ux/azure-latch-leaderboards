@@ -16,52 +16,52 @@
   },
   {
     "rank": 4,
+    "teamName": "Re Al - Youth",
+    "elo5v5": 61
+  },
+  {
+    "rank": 5,
     "teamName": "Vanguard",
     "elo5v5": 60
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Sovereign",
     "elo5v5": 59
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Moonlight",
     "elo5v5": 58
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 58
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Re Al",
     "elo5v5": 44
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Enlightened",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Revelation",
     "elo5v5": 43
   },
   {
-    "rank": 12,
-    "teamName": "Sees",
-    "elo5v5": 42
-  },
-  {
     "rank": 13,
-    "teamName": "Re Al - Youth",
+    "teamName": "Sees",
     "elo5v5": 42
   },
   {
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
-    "teamName": "Crimson Authority U20",
-    "elo5v5": 21
-  },
-  {
-    "rank": 18,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Kiseki",
     "elo5v5": 4
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 3
+  },
+  {
+    "rank": 21,
+    "teamName": "Crimson Authority U20",
+    "elo5v5": 1
   },
   {
     "rank": 22,
