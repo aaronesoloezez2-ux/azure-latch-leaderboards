@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kyouki",
-    "elo5v5": 113
+    "elo5v5": 129
   },
   {
     "rank": 2,
@@ -16,17 +16,17 @@
   },
   {
     "rank": 4,
-    "teamName": "Moonlight",
-    "elo5v5": 78
-  },
-  {
-    "rank": 5,
     "teamName": "Re Al - Youth",
     "elo5v5": 78
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Vanguard",
+    "elo5v5": 60
+  },
+  {
+    "rank": 6,
+    "teamName": "Moonlight",
     "elo5v5": 60
   },
   {
