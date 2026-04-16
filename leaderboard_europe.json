@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Chapter",
-    "elo5v5": 78
+    "elo5v5": 96
   },
   {
     "rank": 3,
@@ -21,17 +21,17 @@
   },
   {
     "rank": 5,
-    "teamName": "NOVA",
-    "elo5v5": 43
-  },
-  {
-    "rank": 6,
     "teamName": "SUFC",
     "elo5v5": 42
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "gamesense",
+    "elo5v5": 24
+  },
+  {
+    "rank": 7,
+    "teamName": "NOVA",
     "elo5v5": 24
   },
   {
