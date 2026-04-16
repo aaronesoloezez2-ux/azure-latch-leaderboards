@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Enlightened",
+    "elo5v5": 44
+  },
+  {
+    "rank": 11,
     "teamName": "Revelation",
     "elo5v5": 43
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Sees",
     "elo5v5": 42
-  },
-  {
-    "rank": 12,
-    "teamName": "Enlightened",
-    "elo5v5": 24
   },
   {
     "rank": 13,
