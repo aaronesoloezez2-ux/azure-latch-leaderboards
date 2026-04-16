@@ -41,33 +41,33 @@
   },
   {
     "rank": 9,
-    "teamName": "Siege",
+    "teamName": "Eternal FC",
     "elo5v5": 21
   },
   {
     "rank": 10,
-    "teamName": "Scar F.C",
+    "teamName": "Siege",
     "elo5v5": 21
   },
   {
     "rank": 11,
-    "teamName": "Axiom",
+    "teamName": "Scar F.C",
     "elo5v5": 21
   },
   {
     "rank": 12,
-    "teamName": "Shin 心",
+    "teamName": "Axiom",
     "elo5v5": 21
   },
   {
     "rank": 13,
-    "teamName": "Larp Society",
+    "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
     "rank": 14,
-    "teamName": "Kōchi FC",
-    "elo5v5": 5
+    "teamName": "Larp Society",
+    "elo5v5": 21
   },
   {
     "rank": 15,
@@ -276,62 +276,62 @@
   },
   {
     "rank": 56,
-    "teamName": "Eternal FC",
-    "elo5v5": 0
-  },
-  {
-    "rank": 57,
     "teamName": "Mighty Burger",
     "elo5v5": 0
   },
   {
-    "rank": 58,
+    "rank": 57,
     "teamName": "Alt FC",
     "elo5v5": 0
   },
   {
-    "rank": 59,
+    "rank": 58,
     "teamName": "Brick Corp EU",
     "elo5v5": 0
   },
   {
-    "rank": 60,
+    "rank": 59,
     "teamName": "Achernar",
     "elo5v5": 0
   },
   {
-    "rank": 61,
+    "rank": 60,
     "teamName": "Abydoss F.C  EU",
     "elo5v5": 0
   },
   {
-    "rank": 62,
+    "rank": 61,
     "teamName": "Hotspot FC",
     "elo5v5": 0
   },
   {
-    "rank": 63,
+    "rank": 62,
     "teamName": "Albania FC",
     "elo5v5": 0
   },
   {
-    "rank": 64,
+    "rank": 63,
     "teamName": "BLUELOCK 11",
     "elo5v5": 0
   },
   {
-    "rank": 65,
+    "rank": 64,
     "teamName": "Over Heaven",
     "elo5v5": 0
   },
   {
-    "rank": 66,
+    "rank": 65,
     "teamName": "Jojo Reference",
     "elo5v5": 0
   },
   {
-    "rank": 67,
+    "rank": 66,
     "teamName": "Tachyon",
+    "elo5v5": 0
+  },
+  {
+    "rank": 67,
+    "teamName": "Kōchi FC",
     "elo5v5": 0
   },
   {
