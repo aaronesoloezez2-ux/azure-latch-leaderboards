@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 94
+    "teamName": "Kyouki",
+    "elo5v5": 98
   },
   {
     "rank": 2,
-    "teamName": "Kyouki",
-    "elo5v5": 81
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 94
   },
   {
     "rank": 3,
@@ -81,33 +81,33 @@
   },
   {
     "rank": 17,
-    "teamName": "Kiseki",
-    "elo5v5": 22
-  },
-  {
-    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Crimson Authority U20",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Fairy Tail",
     "elo5v5": 19
+  },
+  {
+    "rank": 22,
+    "teamName": "Kiseki",
+    "elo5v5": 4
   },
   {
     "rank": 23,
