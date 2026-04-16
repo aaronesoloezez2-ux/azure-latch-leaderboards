@@ -16,48 +16,48 @@
   },
   {
     "rank": 4,
-    "teamName": "Re Al - Youth",
+    "teamName": "Moonlight",
     "elo5v5": 78
   },
   {
     "rank": 5,
+    "teamName": "Re Al - Youth",
+    "elo5v5": 78
+  },
+  {
+    "rank": 6,
     "teamName": "Vanguard",
     "elo5v5": 60
   },
   {
-    "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 59
-  },
-  {
     "rank": 7,
-    "teamName": "Moonlight",
-    "elo5v5": 58
-  },
-  {
-    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 58
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Re Al",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Enlightened",
     "elo5v5": 44
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Sees",
     "elo5v5": 42
+  },
+  {
+    "rank": 12,
+    "teamName": "Sovereign",
+    "elo5v5": 39
   },
   {
     "rank": 13,
