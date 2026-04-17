@@ -1,23 +1,23 @@
 [
   {
     "rank": 1,
-    "teamName": "Kyouki",
-    "elo5v5": 110
-  },
-  {
-    "rank": 2,
     "teamName": "Moonlight",
     "elo5v5": 96
   },
   {
-    "rank": 3,
+    "rank": 2,
     "teamName": "Euclesis",
     "elo5v5": 95
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 94
+  },
+  {
+    "rank": 4,
+    "teamName": "Kyouki",
+    "elo5v5": 89
   },
   {
     "rank": 5,
@@ -61,48 +61,48 @@
   },
   {
     "rank": 13,
+    "teamName": "G50",
+    "elo5v5": 31
+  },
+  {
+    "rank": 14,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 23
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Enlightened",
     "elo5v5": 22
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Waltz Company",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Passione",
     "elo5v5": 21
-  },
-  {
-    "rank": 21,
-    "teamName": "G50",
-    "elo5v5": 6
   },
   {
     "rank": 22,
