@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "gamesense",
+    "elo5v5": 44
+  },
+  {
+    "rank": 6,
     "teamName": "SUFC",
     "elo5v5": 42
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Acclamation",
     "elo5v5": 40
-  },
-  {
-    "rank": 7,
-    "teamName": "gamesense",
-    "elo5v5": 24
   },
   {
     "rank": 8,
@@ -41,33 +41,33 @@
   },
   {
     "rank": 9,
-    "teamName": "Abibas FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 10,
     "teamName": "Siege",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Axiom",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "AZL ISLAND",
     "elo5v5": 21
+  },
+  {
+    "rank": 14,
+    "teamName": "Abibas FC",
+    "elo5v5": 1
   },
   {
     "rank": 15,
