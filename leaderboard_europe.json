@@ -36,32 +36,32 @@
   },
   {
     "rank": 8,
+    "teamName": "Siege",
+    "elo5v5": 41
+  },
+  {
+    "rank": 9,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Abibas FC",
     "elo5v5": 27
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Cute & Drunk",
     "elo5v5": 23
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Viltrum EU",
     "elo5v5": 22
   },
   {
-    "rank": 12,
-    "teamName": "Elite Firecrackers",
-    "elo5v5": 21
-  },
-  {
     "rank": 13,
-    "teamName": "Siege",
+    "teamName": "Elite Firecrackers",
     "elo5v5": 21
   },
   {
