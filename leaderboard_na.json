@@ -1016,37 +1016,37 @@
   },
   {
     "rank": 204,
-    "teamName": "Fairy Tail",
-    "elo5v5": 0
-  },
-  {
-    "rank": 205,
     "teamName": "Seraph's",
     "elo5v5": 0
   },
   {
-    "rank": 206,
+    "rank": 205,
     "teamName": "Glitch FC",
     "elo5v5": 0
   },
   {
-    "rank": 207,
+    "rank": 206,
     "teamName": "The Abyssal Stars",
     "elo5v5": 0
   },
   {
-    "rank": 208,
+    "rank": 207,
     "teamName": "Hysteria",
     "elo5v5": 0
   },
   {
-    "rank": 209,
+    "rank": 208,
     "teamName": "BZRK",
     "elo5v5": 0
   },
   {
-    "rank": 210,
+    "rank": 209,
     "teamName": "Squadra",
+    "elo5v5": 0
+  },
+  {
+    "rank": 210,
+    "teamName": "UNDEAD CORPORATION",
     "elo5v5": 0
   }
 ]
