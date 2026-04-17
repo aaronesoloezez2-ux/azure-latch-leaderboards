@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "NOVA",
-    "elo5v5": 43
+    "elo5v5": 62
   },
   {
     "rank": 6,
@@ -76,17 +76,17 @@
   },
   {
     "rank": 16,
-    "teamName": "AZL ISLAND",
-    "elo5v5": 21
-  },
-  {
-    "rank": 17,
     "teamName": "Generic",
     "elo5v5": 3
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Shrine",
+    "elo5v5": 1
+  },
+  {
+    "rank": 18,
+    "teamName": "AZL ISLAND",
     "elo5v5": 1
   },
   {
