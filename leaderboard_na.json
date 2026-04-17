@@ -16,17 +16,17 @@
   },
   {
     "rank": 4,
-    "teamName": "Re Al - Youth",
+    "teamName": "Moonlight",
     "elo5v5": 78
   },
   {
     "rank": 5,
-    "teamName": "Vanguard",
-    "elo5v5": 60
+    "teamName": "Re Al - Youth",
+    "elo5v5": 78
   },
   {
     "rank": 6,
-    "teamName": "Moonlight",
+    "teamName": "Vanguard",
     "elo5v5": 60
   },
   {
@@ -106,22 +106,22 @@
   },
   {
     "rank": 22,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 3
-  },
-  {
-    "rank": 23,
     "teamName": "Lynical",
     "elo5v5": 1
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "7 deadly sins",
+    "elo5v5": 0
+  },
+  {
+    "rank": 25,
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
