@@ -31,22 +31,22 @@
   },
   {
     "rank": 7,
+    "teamName": "Vanguard",
+    "elo5v5": 61
+  },
+  {
+    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 58
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 9,
-    "teamName": "Sovereign",
-    "elo5v5": 42
-  },
-  {
     "rank": 10,
-    "teamName": "Vanguard",
+    "teamName": "Sovereign",
     "elo5v5": 42
   },
   {
