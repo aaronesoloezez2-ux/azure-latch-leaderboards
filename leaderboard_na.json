@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Euclesis",
-    "elo5v5": 113
+    "teamName": "Moonlight",
+    "elo5v5": 127
   },
   {
     "rank": 2,
-    "teamName": "Moonlight",
-    "elo5v5": 111
+    "teamName": "Euclesis",
+    "elo5v5": 113
   },
   {
     "rank": 3,
@@ -36,22 +36,22 @@
   },
   {
     "rank": 8,
-    "teamName": "Vanguard",
-    "elo5v5": 60
-  },
-  {
-    "rank": 9,
     "teamName": "Kyzards",
     "elo5v5": 58
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Sovereign",
+    "elo5v5": 42
+  },
+  {
+    "rank": 11,
+    "teamName": "Vanguard",
     "elo5v5": 42
   },
   {
