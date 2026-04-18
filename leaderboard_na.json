@@ -21,32 +21,32 @@
   },
   {
     "rank": 5,
+    "teamName": "Valhalla",
+    "elo5v5": 79
+  },
+  {
+    "rank": 6,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Re Al - Youth",
     "elo5v5": 74
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "G50",
     "elo5v5": 71
   },
   {
-    "rank": 9,
-    "teamName": "Vanguard",
-    "elo5v5": 61
-  },
-  {
     "rank": 10,
-    "teamName": "Valhalla",
+    "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
@@ -121,13 +121,13 @@
   },
   {
     "rank": 25,
-    "teamName": "Passione",
-    "elo5v5": 21
+    "teamName": "Squadra",
+    "elo5v5": 4
   },
   {
     "rank": 26,
-    "teamName": "Squadra",
-    "elo5v5": 4
+    "teamName": "Passione",
+    "elo5v5": 2
   },
   {
     "rank": 27,
