@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Kyouki",
-    "elo5v5": 115
+    "elo5v5": 131
   },
   {
     "rank": 4,
@@ -31,22 +31,22 @@
   },
   {
     "rank": 7,
-    "teamName": "Valhalla",
-    "elo5v5": 79
-  },
-  {
-    "rank": 8,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Vanguard",
+    "elo5v5": 61
+  },
+  {
+    "rank": 10,
+    "teamName": "Valhalla",
     "elo5v5": 61
   },
   {
