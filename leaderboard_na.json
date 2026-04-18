@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Euclesis",
-    "elo5v5": 128
+    "teamName": "Moonlight",
+    "elo5v5": 140
   },
   {
     "rank": 2,
-    "teamName": "Moonlight",
-    "elo5v5": 127
+    "teamName": "Euclesis",
+    "elo5v5": 128
   },
   {
     "rank": 3,
@@ -51,23 +51,23 @@
   },
   {
     "rank": 11,
-    "teamName": "Lotus",
-    "elo5v5": 42
-  },
-  {
-    "rank": 12,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Valhalla",
     "elo5v5": 40
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "G50",
     "elo5v5": 31
+  },
+  {
+    "rank": 14,
+    "teamName": "Lotus",
+    "elo5v5": 25
   },
   {
     "rank": 15,
