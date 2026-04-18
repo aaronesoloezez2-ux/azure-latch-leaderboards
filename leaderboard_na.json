@@ -26,38 +26,38 @@
   },
   {
     "rank": 6,
+    "teamName": "G50",
+    "elo5v5": 71
+  },
+  {
+    "rank": 7,
     "teamName": "Kyouki",
     "elo5v5": 67
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Valhalla",
     "elo5v5": 61
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Visoreds",
     "elo5v5": 60
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Re Al - Youth",
     "elo5v5": 56
-  },
-  {
-    "rank": 12,
-    "teamName": "G50",
-    "elo5v5": 53
   },
   {
     "rank": 13,
