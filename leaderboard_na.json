@@ -26,17 +26,17 @@
   },
   {
     "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 64
-  },
-  {
-    "rank": 7,
     "teamName": "Re Al",
     "elo5v5": 63
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Vanguard",
+    "elo5v5": 61
+  },
+  {
+    "rank": 8,
+    "teamName": "Valhalla",
     "elo5v5": 61
   },
   {
@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Bear United",
-    "elo5v5": 41
+    "teamName": "Sovereign",
+    "elo5v5": 43
   },
   {
     "rank": 13,
-    "teamName": "Valhalla",
-    "elo5v5": 40
+    "teamName": "Bear United",
+    "elo5v5": 41
   },
   {
     "rank": 14,
