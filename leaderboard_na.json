@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Moonlight",
-    "elo5v5": 140
+    "teamName": "Euclesis",
+    "elo5v5": 141
   },
   {
     "rank": 2,
-    "teamName": "Euclesis",
-    "elo5v5": 128
+    "teamName": "Moonlight",
+    "elo5v5": 140
   },
   {
     "rank": 3,
@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
-    "teamName": "Lynical",
-    "elo5v5": 22
-  },
-  {
-    "rank": 22,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Passione",
     "elo5v5": 21
+  },
+  {
+    "rank": 25,
+    "teamName": "Lynical",
+    "elo5v5": 6
   },
   {
     "rank": 26,
