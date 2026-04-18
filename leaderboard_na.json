@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Metalogic",
-    "elo5v5": 46
-  },
-  {
-    "rank": 14,
     "teamName": "Waltz Company",
     "elo5v5": 44
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Sovereign",
     "elo5v5": 43
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Lotus",
     "elo5v5": 25
+  },
+  {
+    "rank": 17,
+    "teamName": "Metalogic",
+    "elo5v5": 24
   },
   {
     "rank": 18,
