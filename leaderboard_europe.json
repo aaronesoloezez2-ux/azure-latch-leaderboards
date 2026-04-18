@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Chapter",
-    "elo5v5": 130
+    "teamName": "Chain Breakers",
+    "elo5v5": 139
   },
   {
     "rank": 2,
-    "teamName": "Chain Breakers",
-    "elo5v5": 126
+    "teamName": "Chapter",
+    "elo5v5": 130
   },
   {
     "rank": 3,
@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
-    "teamName": "Viltrum EU",
-    "elo5v5": 22
-  },
-  {
-    "rank": 14,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Axiom",
     "elo5v5": 20
+  },
+  {
+    "rank": 17,
+    "teamName": "Viltrum EU",
+    "elo5v5": 6
   },
   {
     "rank": 18,
