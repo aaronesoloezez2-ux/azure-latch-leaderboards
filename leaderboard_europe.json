@@ -36,27 +36,27 @@
   },
   {
     "rank": 8,
-    "teamName": "SUFC",
+    "teamName": "Chain Breakers: New Hope",
     "elo5v5": 42
   },
   {
     "rank": 9,
+    "teamName": "SUFC",
+    "elo5v5": 42
+  },
+  {
+    "rank": 10,
     "teamName": "Siege",
     "elo5v5": 41
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 11,
-    "teamName": "Lunar Company",
-    "elo5v5": 22
-  },
-  {
     "rank": 12,
-    "teamName": "Chain Breakers: New Hope",
+    "teamName": "Lunar Company",
     "elo5v5": 22
   },
   {
