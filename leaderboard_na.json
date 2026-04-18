@@ -46,33 +46,33 @@
   },
   {
     "rank": 10,
+    "teamName": "Precision XI",
+    "elo5v5": 61
+  },
+  {
+    "rank": 11,
     "teamName": "Visoreds",
     "elo5v5": 60
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Re Al - Youth",
     "elo5v5": 56
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Waltz Company",
     "elo5v5": 44
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Sovereign",
     "elo5v5": 43
-  },
-  {
-    "rank": 15,
-    "teamName": "Precision XI",
-    "elo5v5": 42
   },
   {
     "rank": 16,
