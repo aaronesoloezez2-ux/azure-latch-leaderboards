@@ -66,28 +66,28 @@
   },
   {
     "rank": 14,
+    "teamName": "Sovereign",
+    "elo5v5": 43
+  },
+  {
+    "rank": 15,
     "teamName": "Precision XI",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Lotus",
     "elo5v5": 25
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Metalogic",
     "elo5v5": 24
-  },
-  {
-    "rank": 18,
-    "teamName": "Sovereign",
-    "elo5v5": 23
   },
   {
     "rank": 19,
