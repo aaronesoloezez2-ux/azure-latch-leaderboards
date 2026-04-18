@@ -11,43 +11,43 @@
   },
   {
     "rank": 3,
-    "teamName": "Kyouki",
-    "elo5v5": 89
-  },
-  {
-    "rank": 4,
     "teamName": "Re Al - Youth",
     "elo5v5": 78
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
+    "rank": 6,
+    "teamName": "Kyouki",
+    "elo5v5": 69
+  },
+  {
     "rank": 7,
+    "teamName": "Sovereign",
+    "elo5v5": 64
+  },
+  {
+    "rank": 8,
     "teamName": "Re Al",
     "elo5v5": 63
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 57
-  },
-  {
-    "rank": 10,
-    "teamName": "Sovereign",
-    "elo5v5": 42
   },
   {
     "rank": 11,
