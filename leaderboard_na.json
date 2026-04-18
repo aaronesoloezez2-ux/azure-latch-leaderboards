@@ -31,28 +31,28 @@
   },
   {
     "rank": 7,
+    "teamName": "Kyouki",
+    "elo5v5": 67
+  },
+  {
+    "rank": 8,
     "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Valhalla",
     "elo5v5": 61
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "G50",
     "elo5v5": 53
-  },
-  {
-    "rank": 11,
-    "teamName": "Kyouki",
-    "elo5v5": 48
   },
   {
     "rank": 12,
@@ -101,33 +101,33 @@
   },
   {
     "rank": 21,
-    "teamName": "Kiseki",
-    "elo5v5": 21
-  },
-  {
-    "rank": 22,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Visoreds",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Passione",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Squadra",
     "elo5v5": 4
+  },
+  {
+    "rank": 26,
+    "teamName": "Kiseki",
+    "elo5v5": 2
   },
   {
     "rank": 27,
