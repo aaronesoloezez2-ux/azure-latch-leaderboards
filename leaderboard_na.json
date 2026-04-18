@@ -36,58 +36,58 @@
   },
   {
     "rank": 8,
+    "teamName": "Precision XI",
+    "elo5v5": 62
+  },
+  {
+    "rank": 9,
     "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Valhalla",
     "elo5v5": 61
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Visoreds",
     "elo5v5": 60
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Re Al - Youth",
     "elo5v5": 56
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Waltz Company",
     "elo5v5": 44
   },
   {
-    "rank": 14,
-    "teamName": "Sovereign",
-    "elo5v5": 43
-  },
-  {
     "rank": 15,
-    "teamName": "Precision XI",
-    "elo5v5": 42
-  },
-  {
-    "rank": 16,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Lotus",
     "elo5v5": 25
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Metalogic",
     "elo5v5": 24
+  },
+  {
+    "rank": 18,
+    "teamName": "Sovereign",
+    "elo5v5": 23
   },
   {
     "rank": 19,
