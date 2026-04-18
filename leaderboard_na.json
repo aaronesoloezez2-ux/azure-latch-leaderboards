@@ -26,43 +26,43 @@
   },
   {
     "rank": 6,
-    "teamName": "Kyouki",
-    "elo5v5": 69
-  },
-  {
-    "rank": 7,
     "teamName": "Sovereign",
     "elo5v5": 64
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Re Al",
     "elo5v5": 63
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
+    "rank": 10,
+    "teamName": "G50",
+    "elo5v5": 53
+  },
+  {
     "rank": 11,
+    "teamName": "Kyouki",
+    "elo5v5": 48
+  },
+  {
+    "rank": 12,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Valhalla",
     "elo5v5": 40
-  },
-  {
-    "rank": 13,
-    "teamName": "G50",
-    "elo5v5": 31
   },
   {
     "rank": 14,
