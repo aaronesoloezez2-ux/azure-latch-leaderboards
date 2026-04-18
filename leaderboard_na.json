@@ -16,33 +16,33 @@
   },
   {
     "rank": 4,
+    "teamName": "G50",
+    "elo5v5": 89
+  },
+  {
+    "rank": 5,
     "teamName": "Re Al",
     "elo5v5": 81
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Valhalla",
     "elo5v5": 79
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Re Al - Youth",
     "elo5v5": 74
-  },
-  {
-    "rank": 9,
-    "teamName": "G50",
-    "elo5v5": 71
   },
   {
     "rank": 10,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Sovereign",
-    "elo5v5": 43
-  },
-  {
-    "rank": 16,
     "teamName": "Bear United",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Lotus",
     "elo5v5": 25
+  },
+  {
+    "rank": 17,
+    "teamName": "Sovereign",
+    "elo5v5": 24
   },
   {
     "rank": 18,
