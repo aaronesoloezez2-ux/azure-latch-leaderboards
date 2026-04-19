@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Chain Breakers",
-    "elo5v5": 139
+    "elo5v5": 151
   },
   {
     "rank": 2,
@@ -41,17 +41,17 @@
   },
   {
     "rank": 9,
-    "teamName": "Stars of The City",
-    "elo5v5": 41
-  },
-  {
-    "rank": 10,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "SUFC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 11,
+    "teamName": "Stars of The City",
     "elo5v5": 25
   },
   {
