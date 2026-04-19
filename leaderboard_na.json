@@ -66,38 +66,38 @@
   },
   {
     "rank": 14,
-    "teamName": "Passione",
-    "elo5v5": 48
-  },
-  {
-    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Waltz Company",
     "elo5v5": 44
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Valhalla",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Re Al",
     "elo5v5": 38
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Squadra",
     "elo5v5": 28
+  },
+  {
+    "rank": 20,
+    "teamName": "Passione",
+    "elo5v5": 26
   },
   {
     "rank": 21,
