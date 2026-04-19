@@ -76,38 +76,38 @@
   },
   {
     "rank": 16,
+    "teamName": "Los Primos",
+    "elo5v5": 42
+  },
+  {
+    "rank": 17,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Visoreds",
     "elo5v5": 38
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 31
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Squadra",
     "elo5v5": 28
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Glitch FC",
     "elo5v5": 23
-  },
-  {
-    "rank": 22,
-    "teamName": "Serendipity",
-    "elo5v5": 22
   },
   {
     "rank": 23,
@@ -141,18 +141,18 @@
   },
   {
     "rank": 29,
-    "teamName": "Los Primos",
-    "elo5v5": 21
-  },
-  {
-    "rank": 30,
     "teamName": "Velvet Eclipse",
     "elo5v5": 9
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Passione",
     "elo5v5": 2
+  },
+  {
+    "rank": 31,
+    "teamName": "Serendipity",
+    "elo5v5": 1
   },
   {
     "rank": 32,
