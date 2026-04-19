@@ -16,28 +16,28 @@
   },
   {
     "rank": 4,
-    "teamName": "Re Al - Youth",
-    "elo5v5": 91
-  },
-  {
-    "rank": 5,
     "teamName": "G50",
     "elo5v5": 89
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Re Al",
     "elo5v5": 81
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Kyzards",
     "elo5v5": 76
+  },
+  {
+    "rank": 8,
+    "teamName": "Re Al - Youth",
+    "elo5v5": 69
   },
   {
     "rank": 9,
@@ -81,48 +81,48 @@
   },
   {
     "rank": 17,
+    "teamName": "Squadra",
+    "elo5v5": 28
+  },
+  {
+    "rank": 18,
     "teamName": "Lotus",
     "elo5v5": 25
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Sovereign",
     "elo5v5": 24
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Sees",
     "elo5v5": 23
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Serendipity",
     "elo5v5": 22
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Night Garden",
     "elo5v5": 21
-  },
-  {
-    "rank": 25,
-    "teamName": "Squadra",
-    "elo5v5": 4
   },
   {
     "rank": 26,
