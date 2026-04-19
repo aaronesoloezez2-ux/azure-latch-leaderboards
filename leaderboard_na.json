@@ -21,73 +21,73 @@
   },
   {
     "rank": 5,
+    "teamName": "Vanguard",
+    "elo5v5": 81
+  },
+  {
+    "rank": 6,
     "teamName": "Bear United",
     "elo5v5": 78
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Re Al - Youth",
     "elo5v5": 69
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Kurain",
     "elo5v5": 61
   },
   {
-    "rank": 10,
-    "teamName": "Vanguard",
-    "elo5v5": 61
-  },
-  {
     "rank": 11,
-    "teamName": "Precision XI",
-    "elo5v5": 61
-  },
-  {
-    "rank": 12,
     "teamName": "Visoreds",
     "elo5v5": 60
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Sovereign",
     "elo5v5": 49
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Passione",
     "elo5v5": 48
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Waltz Company",
     "elo5v5": 44
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Valhalla",
     "elo5v5": 42
+  },
+  {
+    "rank": 18,
+    "teamName": "Precision XI",
+    "elo5v5": 41
   },
   {
     "rank": 19,
