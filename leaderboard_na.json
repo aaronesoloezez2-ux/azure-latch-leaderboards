@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Moonlight",
-    "elo5v5": 170
+    "elo5v5": 179
   },
   {
     "rank": 2,
@@ -96,38 +96,38 @@
   },
   {
     "rank": 20,
-    "teamName": "Velvet Eclipse",
-    "elo5v5": 24
-  },
-  {
-    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Glitch FC",
     "elo5v5": 23
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Serendipity",
     "elo5v5": 22
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Night Garden",
     "elo5v5": 21
+  },
+  {
+    "rank": 26,
+    "teamName": "Velvet Eclipse",
+    "elo5v5": 9
   },
   {
     "rank": 27,
