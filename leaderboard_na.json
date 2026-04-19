@@ -21,38 +21,38 @@
   },
   {
     "rank": 5,
+    "teamName": "Bear United",
+    "elo5v5": 78
+  },
+  {
+    "rank": 6,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 76
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Re Al - Youth",
     "elo5v5": 69
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Kurain",
     "elo5v5": 61
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Precision XI",
     "elo5v5": 61
-  },
-  {
-    "rank": 11,
-    "teamName": "Bear United",
-    "elo5v5": 60
   },
   {
     "rank": 12,
