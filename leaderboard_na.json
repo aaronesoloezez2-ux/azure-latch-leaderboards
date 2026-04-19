@@ -26,33 +26,33 @@
   },
   {
     "rank": 6,
+    "teamName": "Re Al",
+    "elo5v5": 81
+  },
+  {
+    "rank": 7,
     "teamName": "Bear United",
     "elo5v5": 78
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Re Al - Youth",
     "elo5v5": 69
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Kurain",
     "elo5v5": 61
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Visoreds",
     "elo5v5": 60
-  },
-  {
-    "rank": 11,
-    "teamName": "Re Al",
-    "elo5v5": 59
   },
   {
     "rank": 12,
