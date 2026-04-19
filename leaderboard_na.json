@@ -126,13 +126,13 @@
   },
   {
     "rank": 26,
-    "teamName": "Velvet Eclipse",
-    "elo5v5": 9
+    "teamName": "Los Primos",
+    "elo5v5": 21
   },
   {
     "rank": 27,
-    "teamName": "Lotus",
-    "elo5v5": 4
+    "teamName": "Velvet Eclipse",
+    "elo5v5": 9
   },
   {
     "rank": 28,
@@ -991,72 +991,72 @@
   },
   {
     "rank": 199,
-    "teamName": "Snowgrave",
+    "teamName": "Lotus",
     "elo5v5": 0
   },
   {
     "rank": 200,
-    "teamName": "Anomalies",
+    "teamName": "Snowgrave",
     "elo5v5": 0
   },
   {
     "rank": 201,
-    "teamName": "Ivory",
+    "teamName": "Anomalies",
     "elo5v5": 0
   },
   {
     "rank": 202,
-    "teamName": "Manshine United NA",
+    "teamName": "Ivory",
     "elo5v5": 0
   },
   {
     "rank": 203,
-    "teamName": "The Fallen Crows",
+    "teamName": "Manshine United NA",
     "elo5v5": 0
   },
   {
     "rank": 204,
-    "teamName": "Enlightened",
+    "teamName": "The Fallen Crows",
     "elo5v5": 0
   },
   {
     "rank": 205,
-    "teamName": "Paradox",
+    "teamName": "Enlightened",
     "elo5v5": 0
   },
   {
     "rank": 206,
-    "teamName": "The Abyssal Stars",
+    "teamName": "Paradox",
     "elo5v5": 0
   },
   {
     "rank": 207,
-    "teamName": "Hysteria",
+    "teamName": "The Abyssal Stars",
     "elo5v5": 0
   },
   {
     "rank": 208,
-    "teamName": "BZRK",
+    "teamName": "Hysteria",
     "elo5v5": 0
   },
   {
     "rank": 209,
-    "teamName": "UNDEAD CORPORATION",
+    "teamName": "BZRK",
     "elo5v5": 0
   },
   {
     "rank": 210,
-    "teamName": "Repaired",
+    "teamName": "UNDEAD CORPORATION",
     "elo5v5": 0
   },
   {
     "rank": 211,
-    "teamName": "Instinct",
+    "teamName": "Repaired",
     "elo5v5": 0
   },
   {
     "rank": 212,
-    "teamName": "Los Primos",
+    "teamName": "Instinct",
     "elo5v5": 0
   }
 ]
