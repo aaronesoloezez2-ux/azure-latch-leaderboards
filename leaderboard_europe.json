@@ -41,22 +41,22 @@
   },
   {
     "rank": 9,
+    "teamName": "D7th",
+    "elo5v5": 42
+  },
+  {
+    "rank": 10,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "SUFC",
     "elo5v5": 25
   },
   {
-    "rank": 11,
-    "teamName": "Lunar Company",
-    "elo5v5": 22
-  },
-  {
     "rank": 12,
-    "teamName": "D7th",
+    "teamName": "Lunar Company",
     "elo5v5": 22
   },
   {
