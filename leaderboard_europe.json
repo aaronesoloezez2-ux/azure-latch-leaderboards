@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "gamesense",
-    "elo5v5": 83
+    "teamName": "Abibas FC",
+    "elo5v5": 70
   },
   {
     "rank": 6,
-    "teamName": "Abibas FC",
-    "elo5v5": 70
+    "teamName": "gamesense",
+    "elo5v5": 62
   },
   {
     "rank": 7,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "SUFC",
+    "elo5v5": 48
+  },
+  {
+    "rank": 9,
     "teamName": "Cute & Drunk",
     "elo5v5": 44
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Acclamation",
     "elo5v5": 40
-  },
-  {
-    "rank": 10,
-    "teamName": "SUFC",
-    "elo5v5": 25
   },
   {
     "rank": 11,
