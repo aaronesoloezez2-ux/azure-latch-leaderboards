@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
-    "teamName": "Divine",
-    "elo5v5": 140
-  },
-  {
-    "rank": 2,
     "teamName": "Chain Breakers",
     "elo5v5": 139
   },
   {
-    "rank": 3,
+    "rank": 2,
     "teamName": "Chapter",
     "elo5v5": 130
+  },
+  {
+    "rank": 3,
+    "teamName": "Divine",
+    "elo5v5": 122
   },
   {
     "rank": 4,
@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "Abibas FC",
+    "elo5v5": 70
+  },
+  {
+    "rank": 6,
     "teamName": "gamesense",
     "elo5v5": 62
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Siege",
     "elo5v5": 60
-  },
-  {
-    "rank": 7,
-    "teamName": "Abibas FC",
-    "elo5v5": 46
   },
   {
     "rank": 8,
