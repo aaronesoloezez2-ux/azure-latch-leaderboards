@@ -41,48 +41,48 @@
   },
   {
     "rank": 9,
-    "teamName": "Vanguard",
+    "teamName": "Kurain",
     "elo5v5": 61
   },
   {
     "rank": 10,
-    "teamName": "Valhalla",
+    "teamName": "Vanguard",
     "elo5v5": 61
   },
   {
     "rank": 11,
-    "teamName": "Precision XI",
+    "teamName": "Valhalla",
     "elo5v5": 61
   },
   {
     "rank": 12,
+    "teamName": "Precision XI",
+    "elo5v5": 61
+  },
+  {
+    "rank": 13,
     "teamName": "Bear United",
     "elo5v5": 60
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Visoreds",
     "elo5v5": 60
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Waltz Company",
     "elo5v5": 44
-  },
-  {
-    "rank": 17,
-    "teamName": "Kurain",
-    "elo5v5": 42
   },
   {
     "rank": 18,
