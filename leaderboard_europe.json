@@ -16,28 +16,28 @@
   },
   {
     "rank": 4,
-    "teamName": "Abibas FC",
-    "elo5v5": 88
-  },
-  {
-    "rank": 5,
     "teamName": "Divine",
     "elo5v5": 86
   },
   {
+    "rank": 5,
+    "teamName": "SUFC",
+    "elo5v5": 70
+  },
+  {
     "rank": 6,
+    "teamName": "Abibas FC",
+    "elo5v5": 68
+  },
+  {
+    "rank": 7,
     "teamName": "gamesense",
     "elo5v5": 62
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Siege",
     "elo5v5": 60
-  },
-  {
-    "rank": 8,
-    "teamName": "SUFC",
-    "elo5v5": 48
   },
   {
     "rank": 9,
