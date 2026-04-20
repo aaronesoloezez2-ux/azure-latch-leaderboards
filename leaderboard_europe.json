@@ -66,33 +66,33 @@
   },
   {
     "rank": 14,
-    "teamName": "Oshu Oshi",
+    "teamName": "SIU",
     "elo5v5": 21
   },
   {
     "rank": 15,
-    "teamName": "Shin 心",
+    "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
     "rank": 16,
-    "teamName": "Larp Society",
+    "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
     "rank": 17,
+    "teamName": "Larp Society",
+    "elo5v5": 21
+  },
+  {
+    "rank": 18,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 20
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "D7th",
     "elo5v5": 3
-  },
-  {
-    "rank": 19,
-    "teamName": "Eternal FC",
-    "elo5v5": 1
   },
   {
     "rank": 20,
@@ -226,72 +226,72 @@
   },
   {
     "rank": 46,
-    "teamName": "SIU",
-    "elo5v5": 0
-  },
-  {
-    "rank": 47,
     "teamName": "Edgerunners FC",
     "elo5v5": 0
   },
   {
-    "rank": 48,
+    "rank": 47,
     "teamName": "Oblivion Sharks",
     "elo5v5": 0
   },
   {
-    "rank": 49,
+    "rank": 48,
     "teamName": "Chemiluminescence",
     "elo5v5": 0
   },
   {
-    "rank": 50,
+    "rank": 49,
     "teamName": "DARK CLUB",
     "elo5v5": 0
   },
   {
-    "rank": 51,
+    "rank": 50,
     "teamName": "Sinners FC",
     "elo5v5": 0
   },
   {
-    "rank": 52,
+    "rank": 51,
     "teamName": "KingsOfBricks",
     "elo5v5": 0
   },
   {
-    "rank": 53,
+    "rank": 52,
     "teamName": "Energy",
     "elo5v5": 0
   },
   {
-    "rank": 54,
+    "rank": 53,
     "teamName": "Hol",
     "elo5v5": 0
   },
   {
-    "rank": 55,
+    "rank": 54,
     "teamName": "Los pollos",
     "elo5v5": 0
   },
   {
-    "rank": 56,
+    "rank": 55,
     "teamName": "Endure.",
     "elo5v5": 0
   },
   {
-    "rank": 57,
+    "rank": 56,
     "teamName": "Messatsu",
     "elo5v5": 0
   },
   {
-    "rank": 58,
+    "rank": 57,
     "teamName": "Ubers",
     "elo5v5": 0
   },
   {
-    "rank": 59,
+    "rank": 58,
     "teamName": "Re://:SurgeX",
+    "elo5v5": 0
+  },
+  {
+    "rank": 59,
+    "teamName": "Eternal FC",
     "elo5v5": 0
   },
   {
