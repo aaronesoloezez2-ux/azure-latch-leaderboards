@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Kyouki",
-    "elo5v5": 150
+    "elo5v5": 161
   },
   {
     "rank": 3,
@@ -66,38 +66,38 @@
   },
   {
     "rank": 14,
-    "teamName": "Kiseki",
-    "elo5v5": 46
-  },
-  {
-    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Waltz Company",
     "elo5v5": 44
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Valhalla",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Visoreds",
     "elo5v5": 38
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 31
+  },
+  {
+    "rank": 20,
+    "teamName": "Kiseki",
+    "elo5v5": 30
   },
   {
     "rank": 21,
