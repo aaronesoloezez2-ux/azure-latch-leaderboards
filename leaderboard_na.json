@@ -26,28 +26,28 @@
   },
   {
     "rank": 6,
+    "teamName": "Sovereign",
+    "elo5v5": 88
+  },
+  {
+    "rank": 7,
     "teamName": "Los Primos",
     "elo5v5": 85
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Re Al",
     "elo5v5": 81
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Bear United",
     "elo5v5": 78
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 10,
-    "teamName": "Sovereign",
-    "elo5v5": 70
   },
   {
     "rank": 11,
@@ -76,42 +76,42 @@
   },
   {
     "rank": 16,
-    "teamName": "Valhalla",
-    "elo5v5": 42
-  },
-  {
-    "rank": 17,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Visoreds",
     "elo5v5": 38
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 31
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Kiseki",
     "elo5v5": 30
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Squadra",
     "elo5v5": 28
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Glitch FC",
+    "elo5v5": 23
+  },
+  {
+    "rank": 23,
+    "teamName": "Valhalla",
     "elo5v5": 23
   },
   {
