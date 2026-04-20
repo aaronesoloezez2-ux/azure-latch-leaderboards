@@ -26,28 +26,28 @@
   },
   {
     "rank": 6,
+    "teamName": "Los Primos",
+    "elo5v5": 85
+  },
+  {
+    "rank": 7,
     "teamName": "Re Al",
     "elo5v5": 81
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Bear United",
     "elo5v5": 78
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Sovereign",
     "elo5v5": 70
-  },
-  {
-    "rank": 10,
-    "teamName": "Los Primos",
-    "elo5v5": 67
   },
   {
     "rank": 11,
@@ -121,23 +121,23 @@
   },
   {
     "rank": 25,
-    "teamName": "Vinland",
-    "elo5v5": 21
-  },
-  {
-    "rank": 26,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Night Garden",
     "elo5v5": 21
+  },
+  {
+    "rank": 28,
+    "teamName": "Vinland",
+    "elo5v5": 2
   },
   {
     "rank": 29,
