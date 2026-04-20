@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Furin High",
-    "elo5v5": 21
+    "teamName": "Tora",
+    "elo5v5": 22
   },
   {
     "rank": 2,
-    "teamName": "Valorant FC G",
+    "teamName": "Furin High",
     "elo5v5": 21
   },
   {
@@ -51,97 +51,97 @@
   },
   {
     "rank": 11,
-    "teamName": "Tora",
-    "elo5v5": 0
-  },
-  {
-    "rank": 12,
     "teamName": "Reflex",
     "elo5v5": 0
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Natus Vincere",
     "elo5v5": 0
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Lunaris",
     "elo5v5": 0
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Goo Goo Babies",
     "elo5v5": 0
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "barebones",
     "elo5v5": 0
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Wizards",
     "elo5v5": 0
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Aetherion",
     "elo5v5": 0
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Selfish Strikers",
     "elo5v5": 0
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Parxousia",
     "elo5v5": 0
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Ataraxia",
     "elo5v5": 0
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Aira",
     "elo5v5": 0
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Cryo",
     "elo5v5": 0
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "星野",
     "elo5v5": 0
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Dark Magics",
     "elo5v5": 0
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Cry",
     "elo5v5": 0
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Phyton",
     "elo5v5": 0
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Umbrella (傘)",
     "elo5v5": 0
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Re:Croc",
+    "elo5v5": 0
+  },
+  {
+    "rank": 29,
+    "teamName": "Valorant FC G",
     "elo5v5": 0
   },
   {
