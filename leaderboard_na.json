@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
+    "teamName": "Squadra",
+    "elo5v5": 47
+  },
+  {
+    "rank": 13,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Velvet Eclipse",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Visoreds",
     "elo5v5": 38
-  },
-  {
-    "rank": 17,
-    "teamName": "Squadra",
-    "elo5v5": 28
   },
   {
     "rank": 18,
