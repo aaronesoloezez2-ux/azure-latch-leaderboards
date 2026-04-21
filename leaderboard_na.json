@@ -41,8 +41,8 @@
   },
   {
     "rank": 9,
-    "teamName": "Velvet Eclipse",
-    "elo5v5": 61
+    "teamName": "G50",
+    "elo5v5": 73
   },
   {
     "rank": 10,
@@ -51,22 +51,22 @@
   },
   {
     "rank": 11,
-    "teamName": "G50",
-    "elo5v5": 53
-  },
-  {
-    "rank": 12,
     "teamName": "Re Al - Youth",
     "elo5v5": 51
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Precision XI",
+    "elo5v5": 41
+  },
+  {
+    "rank": 14,
+    "teamName": "Velvet Eclipse",
     "elo5v5": 41
   },
   {
