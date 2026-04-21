@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Viltrum EU",
+    "elo5v5": 64
+  },
+  {
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 60
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "gamesense",
     "elo5v5": 60
-  },
-  {
-    "rank": 10,
-    "teamName": "Viltrum EU",
-    "elo5v5": 46
   },
   {
     "rank": 11,
