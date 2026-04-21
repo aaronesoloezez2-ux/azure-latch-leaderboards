@@ -26,23 +26,23 @@
   },
   {
     "rank": 6,
+    "teamName": "SUFC",
+    "elo5v5": 69
+  },
+  {
+    "rank": 7,
     "teamName": "Abibas FC",
     "elo5v5": 68
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Kōchi FC",
     "elo5v5": 65
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 60
-  },
-  {
-    "rank": 9,
-    "teamName": "SUFC",
-    "elo5v5": 50
   },
   {
     "rank": 10,
@@ -66,33 +66,33 @@
   },
   {
     "rank": 14,
-    "teamName": "SIU",
-    "elo5v5": 21
-  },
-  {
-    "rank": 15,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 20
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "D7th",
     "elo5v5": 3
+  },
+  {
+    "rank": 19,
+    "teamName": "SIU",
+    "elo5v5": 2
   },
   {
     "rank": 20,
