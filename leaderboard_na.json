@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 105
+    "elo5v5": 121
   },
   {
     "rank": 7,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
-    "teamName": "Los Primos",
-    "elo5v5": 66
-  },
-  {
-    "rank": 10,
     "teamName": "Velvet Eclipse",
     "elo5v5": 61
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "G50",
     "elo5v5": 53
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Re Al - Youth",
     "elo5v5": 51
+  },
+  {
+    "rank": 13,
+    "teamName": "Los Primos",
+    "elo5v5": 48
   },
   {
     "rank": 14,
