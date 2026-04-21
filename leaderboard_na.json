@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
+    "teamName": "Re Al - Youth",
+    "elo5v5": 51
+  },
+  {
+    "rank": 14,
     "teamName": "Sees",
     "elo5v5": 44
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Visoreds",
     "elo5v5": 38
-  },
-  {
-    "rank": 17,
-    "teamName": "Re Al - Youth",
-    "elo5v5": 31
   },
   {
     "rank": 18,
@@ -131,27 +131,27 @@
   },
   {
     "rank": 27,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 8
-  },
-  {
-    "rank": 28,
     "teamName": "Vinland",
     "elo5v5": 2
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Waltz Company",
     "elo5v5": 1
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "7 deadly sins",
+    "elo5v5": 0
+  },
+  {
+    "rank": 31,
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
