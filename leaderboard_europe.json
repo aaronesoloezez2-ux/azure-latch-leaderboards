@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Chain Breakers",
-    "elo5v5": 135
+    "teamName": "Divine",
+    "elo5v5": 125
   },
   {
     "rank": 3,
-    "teamName": "Divine",
-    "elo5v5": 125
+    "teamName": "Chain Breakers",
+    "elo5v5": 116
   },
   {
     "rank": 4,
@@ -46,42 +46,42 @@
   },
   {
     "rank": 10,
+    "teamName": "Viltrum EU",
+    "elo5v5": 46
+  },
+  {
+    "rank": 11,
     "teamName": "Cute & Drunk",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Lunar Company",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "SIU",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 16,
-    "teamName": "Larp Society",
-    "elo5v5": 21
-  },
-  {
     "rank": 17,
-    "teamName": "Viltrum EU",
+    "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
