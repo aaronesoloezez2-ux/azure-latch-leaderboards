@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kyouki",
-    "elo5v5": 214
+    "elo5v5": 220
   },
   {
     "rank": 2,
@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Re Al - Youth",
-    "elo5v5": 51
-  },
-  {
-    "rank": 14,
     "teamName": "Precision XI",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Kurain",
     "elo5v5": 39
+  },
+  {
+    "rank": 15,
+    "teamName": "Re Al - Youth",
+    "elo5v5": 37
   },
   {
     "rank": 16,
