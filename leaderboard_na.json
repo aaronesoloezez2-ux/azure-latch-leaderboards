@@ -1046,32 +1046,32 @@
   },
   {
     "rank": 210,
-    "teamName": "LockX",
-    "elo5v5": 0
-  },
-  {
-    "rank": 211,
     "teamName": "Axonify Tech",
     "elo5v5": 0
   },
   {
-    "rank": 212,
+    "rank": 211,
     "teamName": "FC Vanity",
     "elo5v5": 0
   },
   {
-    "rank": 213,
+    "rank": 212,
     "teamName": "Seiwa",
     "elo5v5": 0
   },
   {
-    "rank": 214,
+    "rank": 213,
     "teamName": "Espada",
     "elo5v5": 0
   },
   {
-    "rank": 215,
+    "rank": 214,
     "teamName": "Masquerade",
+    "elo5v5": 0
+  },
+  {
+    "rank": 215,
+    "teamName": "Point Zero",
     "elo5v5": 0
   }
 ]
