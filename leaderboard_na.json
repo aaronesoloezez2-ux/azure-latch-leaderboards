@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Moonlight",
-    "elo5v5": 165
+    "elo5v5": 175
   },
   {
     "rank": 3,
@@ -66,27 +66,27 @@
   },
   {
     "rank": 14,
-    "teamName": "Velvet Eclipse",
-    "elo5v5": 41
-  },
-  {
-    "rank": 15,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 38
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Visoreds",
     "elo5v5": 38
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Squadra",
+    "elo5v5": 25
+  },
+  {
+    "rank": 18,
+    "teamName": "Velvet Eclipse",
     "elo5v5": 25
   },
   {
