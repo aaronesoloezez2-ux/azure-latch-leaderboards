@@ -26,28 +26,28 @@
   },
   {
     "rank": 6,
+    "teamName": "Kōchi FC",
+    "elo5v5": 85
+  },
+  {
+    "rank": 7,
     "teamName": "Abibas FC",
     "elo5v5": 72
   },
   {
-    "rank": 7,
-    "teamName": "Kōchi FC",
-    "elo5v5": 65
-  },
-  {
     "rank": 8,
-    "teamName": "Viltrum EU",
-    "elo5v5": 64
-  },
-  {
-    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 60
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "gamesense",
     "elo5v5": 60
+  },
+  {
+    "rank": 10,
+    "teamName": "Viltrum EU",
+    "elo5v5": 44
   },
   {
     "rank": 11,
