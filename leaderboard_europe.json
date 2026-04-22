@@ -31,42 +31,42 @@
   },
   {
     "rank": 7,
-    "teamName": "Abibas FC",
-    "elo5v5": 72
-  },
-  {
-    "rank": 8,
     "teamName": "Siege",
     "elo5v5": 60
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
+    "rank": 9,
+    "teamName": "Abibas FC",
+    "elo5v5": 51
+  },
+  {
     "rank": 10,
+    "teamName": "Istaroth",
+    "elo5v5": 46
+  },
+  {
+    "rank": 11,
     "teamName": "Viltrum EU",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Cute & Drunk",
     "elo5v5": 28
   },
   {
-    "rank": 13,
-    "teamName": "D7th",
-    "elo5v5": 24
-  },
-  {
     "rank": 14,
-    "teamName": "Istaroth",
+    "teamName": "D7th",
     "elo5v5": 24
   },
   {
