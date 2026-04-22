@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kyouki",
-    "elo5v5": 208
+    "elo5v5": 214
   },
   {
     "rank": 2,
@@ -116,18 +116,18 @@
   },
   {
     "rank": 24,
-    "teamName": "Lotus",
-    "elo5v5": 21
-  },
-  {
-    "rank": 25,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 26,
+    "teamName": "Lotus",
+    "elo5v5": 8
   },
   {
     "rank": 27,
