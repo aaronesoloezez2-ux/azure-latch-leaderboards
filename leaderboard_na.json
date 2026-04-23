@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "ALC",
-    "elo5v5": 60
+    "teamName": "Infernum",
+    "elo5v5": 57
   },
   {
     "rank": 13,
-    "teamName": "Infernum",
-    "elo5v5": 57
+    "teamName": "Velvet Eclipse",
+    "elo5v5": 47
   },
   {
     "rank": 14,
@@ -71,17 +71,17 @@
   },
   {
     "rank": 15,
+    "teamName": "ALC",
+    "elo5v5": 39
+  },
+  {
+    "rank": 16,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 16,
-    "teamName": "Squadra",
-    "elo5v5": 25
-  },
-  {
     "rank": 17,
-    "teamName": "Velvet Eclipse",
+    "teamName": "Squadra",
     "elo5v5": 25
   },
   {
