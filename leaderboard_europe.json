@@ -31,28 +31,28 @@
   },
   {
     "rank": 7,
+    "teamName": "Istaroth",
+    "elo5v5": 64
+  },
+  {
+    "rank": 8,
     "teamName": "Viltrum EU",
     "elo5v5": 62
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 60
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Abibas FC",
     "elo5v5": 51
-  },
-  {
-    "rank": 11,
-    "teamName": "Istaroth",
-    "elo5v5": 46
   },
   {
     "rank": 12,
