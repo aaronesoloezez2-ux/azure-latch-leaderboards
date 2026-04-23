@@ -27,27 +27,27 @@
   {
     "rank": 6,
     "teamName": "Sovereign",
-    "elo5v5": 121
+    "elo5v5": 103
   },
   {
     "rank": 7,
+    "teamName": "G50",
+    "elo5v5": 94
+  },
+  {
+    "rank": 8,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 92
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Bear United",
     "elo5v5": 78
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 10,
-    "teamName": "G50",
-    "elo5v5": 73
   },
   {
     "rank": 11,
