@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Sovereign",
-    "elo5v5": 103
-  },
-  {
-    "rank": 7,
     "teamName": "G50",
     "elo5v5": 94
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 92
+  },
+  {
+    "rank": 8,
+    "teamName": "Sovereign",
+    "elo5v5": 82
   },
   {
     "rank": 9,
@@ -61,38 +61,38 @@
   },
   {
     "rank": 13,
+    "teamName": "Squadra",
+    "elo5v5": 49
+  },
+  {
+    "rank": 14,
     "teamName": "Velvet Eclipse",
     "elo5v5": 47
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Espada",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "ALC",
     "elo5v5": 39
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Nyx",
     "elo5v5": 26
-  },
-  {
-    "rank": 19,
-    "teamName": "Squadra",
-    "elo5v5": 25
   },
   {
     "rank": 20,
