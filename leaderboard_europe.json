@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Kōchi FC",
-    "elo5v5": 141
+    "teamName": "Divine",
+    "elo5v5": 129
   },
   {
     "rank": 3,
-    "teamName": "Divine",
-    "elo5v5": 129
+    "teamName": "Kōchi FC",
+    "elo5v5": 123
   },
   {
     "rank": 4,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
+    "teamName": "Chain Breakers: New Hope",
+    "elo5v5": 66
+  },
+  {
+    "rank": 10,
     "teamName": "Viltrum EU",
     "elo5v5": 62
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Money Break",
     "elo5v5": 55
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Abibas FC",
     "elo5v5": 51
-  },
-  {
-    "rank": 13,
-    "teamName": "Chain Breakers: New Hope",
-    "elo5v5": 42
   },
   {
     "rank": 14,
