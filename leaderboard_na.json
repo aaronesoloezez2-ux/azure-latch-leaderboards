@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "ALC",
+    "elo5v5": 60
+  },
+  {
+    "rank": 12,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 57
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Infernum",
     "elo5v5": 57
-  },
-  {
-    "rank": 13,
-    "teamName": "ALC",
-    "elo5v5": 41
   },
   {
     "rank": 14,
