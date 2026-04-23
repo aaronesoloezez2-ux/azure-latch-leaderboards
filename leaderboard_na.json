@@ -96,32 +96,32 @@
   },
   {
     "rank": 20,
+    "teamName": "Seiwa",
+    "elo5v5": 22
+  },
+  {
+    "rank": 21,
     "teamName": "Moon Noobs",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Lotus",
     "elo5v5": 21
   },
   {
-    "rank": 24,
-    "teamName": "Night Garden",
-    "elo5v5": 21
-  },
-  {
     "rank": 25,
-    "teamName": "Clairvoyance",
+    "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
@@ -1051,17 +1051,17 @@
   },
   {
     "rank": 211,
-    "teamName": "Seiwa",
-    "elo5v5": 0
-  },
-  {
-    "rank": 212,
     "teamName": "Masquerade",
     "elo5v5": 0
   },
   {
-    "rank": 213,
+    "rank": 212,
     "teamName": "Point Zero",
+    "elo5v5": 0
+  },
+  {
+    "rank": 213,
+    "teamName": "Clairvoyance",
     "elo5v5": 0
   },
   {
