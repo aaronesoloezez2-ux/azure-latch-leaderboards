@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Ascella",
+    "elo5v5": 98
+  },
+  {
+    "rank": 8,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 92
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Sovereign",
     "elo5v5": 82
-  },
-  {
-    "rank": 9,
-    "teamName": "Ascella",
-    "elo5v5": 80
   },
   {
     "rank": 10,
@@ -76,28 +76,28 @@
   },
   {
     "rank": 16,
-    "teamName": "Espada",
-    "elo5v5": 48
-  },
-  {
-    "rank": 17,
     "teamName": "Velvet Eclipse",
     "elo5v5": 46
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "ALC",
     "elo5v5": 39
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 20,
+    "teamName": "Espada",
+    "elo5v5": 29
   },
   {
     "rank": 21,
