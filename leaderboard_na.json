@@ -51,22 +51,22 @@
   },
   {
     "rank": 11,
+    "teamName": "Seiwa",
+    "elo5v5": 67
+  },
+  {
+    "rank": 12,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 13,
-    "teamName": "Squadra",
-    "elo5v5": 49
-  },
-  {
     "rank": 14,
-    "teamName": "Seiwa",
+    "teamName": "Squadra",
     "elo5v5": 49
   },
   {
