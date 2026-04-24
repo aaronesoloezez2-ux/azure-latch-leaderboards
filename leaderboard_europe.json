@@ -51,23 +51,23 @@
   },
   {
     "rank": 11,
+    "teamName": "D7th",
+    "elo5v5": 62
+  },
+  {
+    "rank": 12,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Money Break",
     "elo5v5": 55
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Viltrum EU",
     "elo5v5": 45
-  },
-  {
-    "rank": 14,
-    "teamName": "D7th",
-    "elo5v5": 44
   },
   {
     "rank": 15,
