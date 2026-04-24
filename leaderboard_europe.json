@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Divine",
-    "elo5v5": 129
+    "elo5v5": 143
   },
   {
     "rank": 3,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Viltrum EU",
-    "elo5v5": 62
-  },
-  {
-    "rank": 11,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Money Break",
     "elo5v5": 55
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Abibas FC",
     "elo5v5": 51
+  },
+  {
+    "rank": 13,
+    "teamName": "Viltrum EU",
+    "elo5v5": 45
   },
   {
     "rank": 14,
