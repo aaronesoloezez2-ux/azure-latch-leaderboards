@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 112
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 122
   },
   {
     "rank": 6,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 107
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 112
   },
   {
     "rank": 7,
@@ -126,23 +126,23 @@
   },
   {
     "rank": 26,
-    "teamName": "Lotus",
-    "elo5v5": 21
-  },
-  {
-    "rank": 27,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Ascella",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 29,
+    "teamName": "Lotus",
+    "elo5v5": 4
   },
   {
     "rank": 30,
