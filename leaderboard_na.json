@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
+    "teamName": "Ascella",
+    "elo5v5": 63
+  },
+  {
+    "rank": 13,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Infernum",
     "elo5v5": 57
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Squadra",
     "elo5v5": 49
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Espada",
     "elo5v5": 48
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Velvet Eclipse",
     "elo5v5": 46
-  },
-  {
-    "rank": 17,
-    "teamName": "Ascella",
-    "elo5v5": 45
   },
   {
     "rank": 18,
