@@ -16,23 +16,23 @@
   },
   {
     "rank": 4,
+    "teamName": "Istaroth",
+    "elo5v5": 130
+  },
+  {
+    "rank": 5,
     "teamName": "Chain Breakers",
     "elo5v5": 116
   },
   {
-    "rank": 5,
-    "teamName": "Istaroth",
-    "elo5v5": 113
-  },
-  {
     "rank": 6,
-    "teamName": "Kōchi FC",
-    "elo5v5": 106
+    "teamName": "NOVA",
+    "elo5v5": 105
   },
   {
     "rank": 7,
-    "teamName": "NOVA",
-    "elo5v5": 105
+    "teamName": "Kōchi FC",
+    "elo5v5": 89
   },
   {
     "rank": 8,
