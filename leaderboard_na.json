@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Ascella",
+    "elo5v5": 80
+  },
+  {
+    "rank": 10,
     "teamName": "Bear United",
     "elo5v5": 78
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Seiwa",
     "elo5v5": 67
-  },
-  {
-    "rank": 12,
-    "teamName": "Ascella",
-    "elo5v5": 63
   },
   {
     "rank": 13,
