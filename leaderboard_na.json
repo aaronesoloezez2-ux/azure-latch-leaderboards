@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 112
-  },
-  {
-    "rank": 8,
     "teamName": "Bear United",
     "elo5v5": 110
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Ascella",
     "elo5v5": 104
+  },
+  {
+    "rank": 9,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 92
   },
   {
     "rank": 10,
@@ -71,28 +71,28 @@
   },
   {
     "rank": 15,
+    "teamName": "Istaroth NA",
+    "elo5v5": 46
+  },
+  {
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Fight Club",
     "elo5v5": 23
-  },
-  {
-    "rank": 19,
-    "teamName": "Istaroth NA",
-    "elo5v5": 22
   },
   {
     "rank": 20,
