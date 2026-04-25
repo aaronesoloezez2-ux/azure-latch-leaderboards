@@ -1251,62 +1251,62 @@
   },
   {
     "rank": 251,
-    "teamName": "Kasamatsu",
-    "elo5v5": 0
-  },
-  {
-    "rank": 252,
     "teamName": "Swag Minion FC",
     "elo5v5": 0
   },
   {
-    "rank": 253,
+    "rank": 252,
     "teamName": "Tung Tung lock",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "AZL ISLAND",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "o-42",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Overseers Contractors",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "The Mafia",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Capsoser",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Shakhtar",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "KFC company",
     "elo5v5": 0
   },
   {
-    "rank": 261,
+    "rank": 260,
     "teamName": "oblock",
     "elo5v5": 0
   },
   {
-    "rank": 262,
+    "rank": 261,
     "teamName": "Metavision FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 262,
+    "teamName": "Valourbound",
     "elo5v5": 0
   }
 ]
