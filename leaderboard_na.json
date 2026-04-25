@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 122
+    "teamName": "Ascella",
+    "elo5v5": 137
   },
   {
     "rank": 6,
-    "teamName": "Ascella",
-    "elo5v5": 121
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 122
   },
   {
     "rank": 7,
@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 92
-  },
-  {
-    "rank": 10,
     "teamName": "Squadra",
     "elo5v5": 92
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Shadow FC",
     "elo5v5": 84
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Kyzards",
     "elo5v5": 76
+  },
+  {
+    "rank": 12,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 75
   },
   {
     "rank": 13,
