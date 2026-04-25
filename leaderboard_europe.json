@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
-    "teamName": "ReThinK",
-    "elo5v5": 74
-  },
-  {
-    "rank": 11,
     "teamName": "Abibas FC",
     "elo5v5": 69
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 66
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Money Break",
     "elo5v5": 55
+  },
+  {
+    "rank": 14,
+    "teamName": "ReThinK",
+    "elo5v5": 51
   },
   {
     "rank": 15,
