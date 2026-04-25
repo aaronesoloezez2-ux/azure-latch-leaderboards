@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Ascella",
-    "elo5v5": 104
+    "teamName": "Bear United",
+    "elo5v5": 110
   },
   {
     "rank": 9,
-    "teamName": "Bear United",
-    "elo5v5": 94
+    "teamName": "Ascella",
+    "elo5v5": 104
   },
   {
     "rank": 10,
@@ -91,48 +91,48 @@
   },
   {
     "rank": 19,
-    "teamName": "Kiseki",
-    "elo5v5": 23
-  },
-  {
-    "rank": 20,
     "teamName": "Istaroth NA",
     "elo5v5": 22
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Moon Noobs",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Enlightened",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 27,
+    "teamName": "Kiseki",
+    "elo5v5": 5
   },
   {
     "rank": 28,
