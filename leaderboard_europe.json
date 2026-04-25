@@ -11,17 +11,17 @@
   },
   {
     "rank": 3,
-    "teamName": "SUFC",
-    "elo5v5": 134
-  },
-  {
-    "rank": 4,
     "teamName": "Istaroth",
     "elo5v5": 124
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Chain Breakers",
+    "elo5v5": 116
+  },
+  {
+    "rank": 5,
+    "teamName": "SUFC",
     "elo5v5": 116
   },
   {
@@ -46,28 +46,28 @@
   },
   {
     "rank": 10,
+    "teamName": "ReThinK",
+    "elo5v5": 74
+  },
+  {
+    "rank": 11,
     "teamName": "Abibas FC",
     "elo5v5": 69
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 66
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Money Break",
     "elo5v5": 55
-  },
-  {
-    "rank": 14,
-    "teamName": "ReThinK",
-    "elo5v5": 51
   },
   {
     "rank": 15,
