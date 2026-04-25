@@ -96,37 +96,37 @@
   },
   {
     "rank": 20,
+    "teamName": "Istaroth NA",
+    "elo5v5": 22
+  },
+  {
+    "rank": 21,
     "teamName": "Moon Noobs",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 25,
-    "teamName": "Enlightened",
-    "elo5v5": 21
-  },
-  {
     "rank": 26,
-    "teamName": "Instinct",
+    "teamName": "Enlightened",
     "elo5v5": 21
   },
   {
@@ -1011,42 +1011,42 @@
   },
   {
     "rank": 203,
-    "teamName": "Vanguard U20",
+    "teamName": "Instinct",
     "elo5v5": 0
   },
   {
     "rank": 204,
-    "teamName": "Axonify Tech",
+    "teamName": "Vanguard U20",
     "elo5v5": 0
   },
   {
     "rank": 205,
-    "teamName": "FC Vanity",
+    "teamName": "Axonify Tech",
     "elo5v5": 0
   },
   {
     "rank": 206,
-    "teamName": "Masquerade",
+    "teamName": "FC Vanity",
     "elo5v5": 0
   },
   {
     "rank": 207,
-    "teamName": "Point Zero",
+    "teamName": "Masquerade",
     "elo5v5": 0
   },
   {
     "rank": 208,
-    "teamName": "Clairvoyance",
+    "teamName": "Point Zero",
     "elo5v5": 0
   },
   {
     "rank": 209,
-    "teamName": "Nyx",
+    "teamName": "Clairvoyance",
     "elo5v5": 0
   },
   {
     "rank": 210,
-    "teamName": "Istaroth NA",
+    "teamName": "Nyx",
     "elo5v5": 0
   },
   {
