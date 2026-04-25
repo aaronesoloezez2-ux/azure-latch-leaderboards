@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
-    "teamName": "Squadra",
+    "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 92
   },
   {
     "rank": 10,
+    "teamName": "Squadra",
+    "elo5v5": 92
+  },
+  {
+    "rank": 11,
     "teamName": "Shadow FC",
     "elo5v5": 84
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 12,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 75
   },
   {
     "rank": 13,
