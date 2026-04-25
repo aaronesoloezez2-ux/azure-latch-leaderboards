@@ -11,17 +11,17 @@
   },
   {
     "rank": 3,
+    "teamName": "SUFC",
+    "elo5v5": 134
+  },
+  {
+    "rank": 4,
     "teamName": "Istaroth",
     "elo5v5": 124
   },
   {
-    "rank": 4,
-    "teamName": "Chain Breakers",
-    "elo5v5": 116
-  },
-  {
     "rank": 5,
-    "teamName": "SUFC",
+    "teamName": "Chain Breakers",
     "elo5v5": 116
   },
   {
