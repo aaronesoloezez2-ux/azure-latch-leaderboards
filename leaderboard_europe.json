@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "SUFC",
-    "elo5v5": 134
+    "teamName": "Chain Breakers",
+    "elo5v5": 144
   },
   {
     "rank": 4,
-    "teamName": "Chain Breakers",
-    "elo5v5": 132
+    "teamName": "SUFC",
+    "elo5v5": 134
   },
   {
     "rank": 5,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
-    "teamName": "Eternal FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 20,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Larp Society",
     "elo5v5": 21
+  },
+  {
+    "rank": 22,
+    "teamName": "Eternal FC",
+    "elo5v5": 5
   },
   {
     "rank": 23,
