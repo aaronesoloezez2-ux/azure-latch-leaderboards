@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "Shadow FC",
+    "elo5v5": 84
+  },
+  {
+    "rank": 12,
     "teamName": "Sovereign",
     "elo5v5": 82
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 13,
-    "teamName": "Shadow FC",
-    "elo5v5": 65
   },
   {
     "rank": 14,
@@ -71,32 +71,32 @@
   },
   {
     "rank": 15,
-    "teamName": "Kiseki",
-    "elo5v5": 42
-  },
-  {
-    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Espada",
     "elo5v5": 28
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Fight Club",
+    "elo5v5": 23
+  },
+  {
+    "rank": 20,
+    "teamName": "Kiseki",
     "elo5v5": 23
   },
   {
