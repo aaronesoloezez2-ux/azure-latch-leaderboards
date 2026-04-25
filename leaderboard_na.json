@@ -61,38 +61,38 @@
   },
   {
     "rank": 13,
+    "teamName": "Istaroth NA",
+    "elo5v5": 66
+  },
+  {
+    "rank": 14,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 14,
-    "teamName": "Espada",
-    "elo5v5": 54
-  },
-  {
     "rank": 15,
-    "teamName": "Istaroth NA",
-    "elo5v5": 46
-  },
-  {
-    "rank": 16,
     "teamName": "Enlightened",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 19,
+    "teamName": "Espada",
+    "elo5v5": 34
   },
   {
     "rank": 20,
