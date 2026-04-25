@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Squadra",
+    "elo5v5": 92
+  },
+  {
+    "rank": 11,
     "teamName": "Sovereign",
     "elo5v5": 82
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 12,
-    "teamName": "Squadra",
-    "elo5v5": 74
   },
   {
     "rank": 13,
