@@ -1036,32 +1036,32 @@
   },
   {
     "rank": 208,
-    "teamName": "Point Zero",
-    "elo5v5": 0
-  },
-  {
-    "rank": 209,
     "teamName": "Clairvoyance",
     "elo5v5": 0
   },
   {
-    "rank": 210,
+    "rank": 209,
     "teamName": "Nyx",
     "elo5v5": 0
   },
   {
-    "rank": 211,
+    "rank": 210,
     "teamName": "Vitality",
     "elo5v5": 0
   },
   {
-    "rank": 212,
+    "rank": 211,
     "teamName": "Sulk",
     "elo5v5": 0
   },
   {
-    "rank": 213,
+    "rank": 212,
     "teamName": "Reverence",
+    "elo5v5": 0
+  },
+  {
+    "rank": 213,
+    "teamName": "Berserkers|NA",
     "elo5v5": 0
   }
 ]
