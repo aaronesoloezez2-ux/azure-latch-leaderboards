@@ -71,83 +71,83 @@
   },
   {
     "rank": 15,
+    "teamName": "Shadow FC",
+    "elo5v5": 45
+  },
+  {
+    "rank": 16,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Istaroth NA",
     "elo5v5": 29
   },
   {
-    "rank": 19,
-    "teamName": "Nyx",
-    "elo5v5": 26
-  },
-  {
     "rank": 20,
-    "teamName": "Shadow FC",
-    "elo5v5": 24
-  },
-  {
-    "rank": 21,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Kiseki",
     "elo5v5": 22
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Moon Noobs",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Enlightened",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Espada",
     "elo5v5": 7
+  },
+  {
+    "rank": 30,
+    "teamName": "Nyx",
+    "elo5v5": 5
   },
   {
     "rank": 31,
