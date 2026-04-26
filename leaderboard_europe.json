@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
-    "teamName": "Viltrum EU",
+    "teamName": "Eternal FC",
     "elo5v5": 45
   },
   {
     "rank": 13,
+    "teamName": "Viltrum EU",
+    "elo5v5": 45
+  },
+  {
+    "rank": 14,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Money Break",
     "elo5v5": 37
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "ReThinK",
     "elo5v5": 34
-  },
-  {
-    "rank": 17,
-    "teamName": "Eternal FC",
-    "elo5v5": 25
   },
   {
     "rank": 18,
