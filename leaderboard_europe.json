@@ -21,33 +21,33 @@
   },
   {
     "rank": 5,
+    "teamName": "Kōchi FC",
+    "elo5v5": 108
+  },
+  {
+    "rank": 6,
     "teamName": "NOVA",
     "elo5v5": 105
   },
   {
-    "rank": 6,
-    "teamName": "D7th",
-    "elo5v5": 95
-  },
-  {
     "rank": 7,
-    "teamName": "Kōchi FC",
-    "elo5v5": 89
-  },
-  {
-    "rank": 8,
     "teamName": "Abibas FC",
     "elo5v5": 87
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 84
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 78
+  },
+  {
+    "rank": 10,
+    "teamName": "D7th",
+    "elo5v5": 76
   },
   {
     "rank": 11,
