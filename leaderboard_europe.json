@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Chain Breakers",
+    "elo5v5": 155
+  },
+  {
+    "rank": 3,
     "teamName": "SUFC",
     "elo5v5": 147
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Istaroth",
     "elo5v5": 146
-  },
-  {
-    "rank": 4,
-    "teamName": "Chain Breakers",
-    "elo5v5": 144
   },
   {
     "rank": 5,
@@ -76,48 +76,48 @@
   },
   {
     "rank": 16,
-    "teamName": "Eternal FC",
-    "elo5v5": 31
-  },
-  {
-    "rank": 17,
     "teamName": "Stick FC",
     "elo5v5": 23
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Espadas",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "S.E.E.S",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "POOMA",
     "elo5v5": 21
+  },
+  {
+    "rank": 24,
+    "teamName": "Eternal FC",
+    "elo5v5": 15
   },
   {
     "rank": 25,
