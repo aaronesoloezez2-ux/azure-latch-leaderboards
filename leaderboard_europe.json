@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Chain Breakers",
-    "elo5v5": 144
+    "teamName": "SUFC",
+    "elo5v5": 147
   },
   {
     "rank": 3,
-    "teamName": "SUFC",
-    "elo5v5": 134
+    "teamName": "Chain Breakers",
+    "elo5v5": 144
   },
   {
     "rank": 4,
@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
-    "teamName": "ReThinK",
-    "elo5v5": 51
-  },
-  {
-    "rank": 13,
     "teamName": "Viltrum EU",
     "elo5v5": 45
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Money Break",
     "elo5v5": 37
+  },
+  {
+    "rank": 16,
+    "teamName": "ReThinK",
+    "elo5v5": 34
   },
   {
     "rank": 17,
