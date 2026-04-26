@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Moonlight",
+    "elo5v5": 159
+  },
+  {
+    "rank": 3,
     "teamName": "Euclesis",
     "elo5v5": 157
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Vanguard",
     "elo5v5": 151
-  },
-  {
-    "rank": 4,
-    "teamName": "Moonlight",
-    "elo5v5": 148
   },
   {
     "rank": 5,
@@ -81,33 +81,33 @@
   },
   {
     "rank": 17,
-    "teamName": "Enlightened",
-    "elo5v5": 41
-  },
-  {
-    "rank": 18,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Masquerade",
     "elo5v5": 26
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Istaroth NA",
     "elo5v5": 26
+  },
+  {
+    "rank": 22,
+    "teamName": "Enlightened",
+    "elo5v5": 25
   },
   {
     "rank": 23,
