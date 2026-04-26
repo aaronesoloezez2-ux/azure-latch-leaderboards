@@ -76,28 +76,28 @@
   },
   {
     "rank": 16,
+    "teamName": "Reverence",
+    "elo5v5": 47
+  },
+  {
+    "rank": 17,
     "teamName": "Enlightened",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
-  },
-  {
-    "rank": 20,
-    "teamName": "Reverence",
-    "elo5v5": 27
   },
   {
     "rank": 21,
@@ -126,38 +126,38 @@
   },
   {
     "rank": 26,
-    "teamName": "Moon Noobs",
-    "elo5v5": 21
-  },
-  {
-    "rank": 27,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Amaryllis",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Vinland",
     "elo5v5": 2
+  },
+  {
+    "rank": 32,
+    "teamName": "Moon Noobs",
+    "elo5v5": 1
   },
   {
     "rank": 33,
