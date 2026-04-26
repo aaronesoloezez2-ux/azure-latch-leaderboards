@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "Moonlight",
-    "elo5v5": 159
-  },
-  {
-    "rank": 3,
     "teamName": "Euclesis",
     "elo5v5": 157
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Vanguard",
     "elo5v5": 151
+  },
+  {
+    "rank": 4,
+    "teamName": "Moonlight",
+    "elo5v5": 142
   },
   {
     "rank": 5,
@@ -81,67 +81,67 @@
   },
   {
     "rank": 17,
+    "teamName": "Amaryllis",
+    "elo5v5": 47
+  },
+  {
+    "rank": 18,
     "teamName": "Kurain",
     "elo5v5": 39
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Masquerade",
     "elo5v5": 26
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Istaroth NA",
     "elo5v5": 26
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Enlightened",
     "elo5v5": 25
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Vitality",
     "elo5v5": 25
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Crimson Authority",
     "elo5v5": 22
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 28,
-    "teamName": "Night Garden",
-    "elo5v5": 21
-  },
-  {
     "rank": 29,
-    "teamName": "Amaryllis",
+    "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
