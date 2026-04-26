@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Istaroth",
-    "elo5v5": 117
+    "elo5v5": 132
   },
   {
     "rank": 5,
@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
-    "teamName": "Eternal FC",
-    "elo5v5": 48
-  },
-  {
-    "rank": 13,
     "teamName": "Viltrum EU",
     "elo5v5": 45
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Money Break",
     "elo5v5": 37
+  },
+  {
+    "rank": 16,
+    "teamName": "Eternal FC",
+    "elo5v5": 31
   },
   {
     "rank": 17,
