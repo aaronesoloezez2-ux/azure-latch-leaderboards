@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Istaroth",
+    "elo5v5": 158
+  },
+  {
+    "rank": 3,
     "teamName": "Chain Breakers",
     "elo5v5": 155
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "SUFC",
     "elo5v5": 147
-  },
-  {
-    "rank": 4,
-    "teamName": "Istaroth",
-    "elo5v5": 146
   },
   {
     "rank": 5,
@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
-    "teamName": "D7th",
-    "elo5v5": 76
-  },
-  {
-    "rank": 10,
     "teamName": "Abibas FC",
     "elo5v5": 70
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "gamesense",
     "elo5v5": 60
+  },
+  {
+    "rank": 11,
+    "teamName": "D7th",
+    "elo5v5": 59
   },
   {
     "rank": 12,
