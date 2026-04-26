@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
+    "teamName": "Abibas FC",
+    "elo5v5": 87
+  },
+  {
+    "rank": 8,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 84
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "D7th",
     "elo5v5": 79
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Siege",
     "elo5v5": 78
-  },
-  {
-    "rank": 10,
-    "teamName": "Abibas FC",
-    "elo5v5": 69
   },
   {
     "rank": 11,
@@ -81,43 +81,43 @@
   },
   {
     "rank": 17,
-    "teamName": "ReThinK",
-    "elo5v5": 34
-  },
-  {
-    "rank": 18,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Espadas",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "S.E.E.S",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "POOMA",
     "elo5v5": 21
+  },
+  {
+    "rank": 24,
+    "teamName": "ReThinK",
+    "elo5v5": 15
   },
   {
     "rank": 25,
