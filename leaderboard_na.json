@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Ascella",
+    "elo5v5": 118
+  },
+  {
+    "rank": 7,
     "teamName": "G50",
     "elo5v5": 117
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Bear United",
     "elo5v5": 110
-  },
-  {
-    "rank": 8,
-    "teamName": "Ascella",
-    "elo5v5": 101
   },
   {
     "rank": 9,
@@ -61,13 +61,13 @@
   },
   {
     "rank": 13,
-    "teamName": "Istaroth NA",
-    "elo5v5": 66
+    "teamName": "Sees",
+    "elo5v5": 62
   },
   {
     "rank": 14,
-    "teamName": "Sees",
-    "elo5v5": 62
+    "teamName": "Istaroth NA",
+    "elo5v5": 48
   },
   {
     "rank": 15,
