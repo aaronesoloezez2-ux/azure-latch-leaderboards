@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Chain Breakers",
-    "elo5v5": 144
+    "teamName": "Istaroth",
+    "elo5v5": 146
   },
   {
     "rank": 4,
-    "teamName": "Istaroth",
-    "elo5v5": 132
+    "teamName": "Chain Breakers",
+    "elo5v5": 144
   },
   {
     "rank": 5,
@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
-    "teamName": "Abibas FC",
-    "elo5v5": 87
-  },
-  {
-    "rank": 8,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 84
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Siege",
     "elo5v5": 78
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "D7th",
     "elo5v5": 76
+  },
+  {
+    "rank": 10,
+    "teamName": "Abibas FC",
+    "elo5v5": 70
   },
   {
     "rank": 11,
