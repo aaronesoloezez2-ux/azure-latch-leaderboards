@@ -191,22 +191,22 @@
   },
   {
     "rank": 39,
-    "teamName": "Alicization Lycoris",
-    "elo5v5": 0
-  },
-  {
-    "rank": 40,
     "teamName": "freelance",
     "elo5v5": 0
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "JPU20",
     "elo5v5": 0
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Renketsuen",
+    "elo5v5": 0
+  },
+  {
+    "rank": 42,
+    "teamName": "Alicization",
     "elo5v5": 0
   }
 ]
