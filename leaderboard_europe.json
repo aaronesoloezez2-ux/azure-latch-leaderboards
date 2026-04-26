@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Istaroth",
-    "elo5v5": 108
+    "elo5v5": 123
   },
   {
     "rank": 6,
@@ -101,18 +101,18 @@
   },
   {
     "rank": 21,
-    "teamName": "Calamity",
-    "elo5v5": 21
-  },
-  {
-    "rank": 22,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Eternal FC",
     "elo5v5": 5
+  },
+  {
+    "rank": 23,
+    "teamName": "Calamity",
+    "elo5v5": 4
   },
   {
     "rank": 24,
