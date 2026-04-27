@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Euclesis",
-    "elo5v5": 157
+    "teamName": "Ascella",
+    "elo5v5": 165
   },
   {
     "rank": 3,
-    "teamName": "Ascella",
-    "elo5v5": 154
+    "teamName": "Euclesis",
+    "elo5v5": 157
   },
   {
     "rank": 4,
@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
-    "teamName": "Reverence",
-    "elo5v5": 44
-  },
-  {
-    "rank": 19,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 21,
+    "teamName": "Reverence",
+    "elo5v5": 28
   },
   {
     "rank": 22,
