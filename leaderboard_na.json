@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Espada",
-    "elo5v5": 88
-  },
-  {
-    "rank": 11,
     "teamName": "Nyx",
     "elo5v5": 88
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Kyzards",
     "elo5v5": 76
+  },
+  {
+    "rank": 12,
+    "teamName": "Espada",
+    "elo5v5": 67
   },
   {
     "rank": 13,
@@ -76,33 +76,33 @@
   },
   {
     "rank": 16,
+    "teamName": "Masquerade",
+    "elo5v5": 56
+  },
+  {
+    "rank": 17,
     "teamName": "Squadra",
     "elo5v5": 54
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Reverence",
     "elo5v5": 44
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
-  },
-  {
-    "rank": 21,
-    "teamName": "Masquerade",
-    "elo5v5": 33
   },
   {
     "rank": 22,
