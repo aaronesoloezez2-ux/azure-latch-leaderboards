@@ -51,22 +51,22 @@
   },
   {
     "rank": 11,
+    "teamName": "Vitality",
+    "elo5v5": 86
+  },
+  {
+    "rank": 12,
     "teamName": "Shadow FC",
     "elo5v5": 83
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 13,
-    "teamName": "Espada",
-    "elo5v5": 67
-  },
-  {
     "rank": 14,
-    "teamName": "Vitality",
+    "teamName": "Espada",
     "elo5v5": 67
   },
   {
@@ -76,27 +76,27 @@
   },
   {
     "rank": 16,
-    "teamName": "Masquerade",
-    "elo5v5": 56
-  },
-  {
-    "rank": 17,
     "teamName": "Squadra",
     "elo5v5": 54
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Re Al - Youth",
+    "elo5v5": 37
+  },
+  {
+    "rank": 20,
+    "teamName": "Masquerade",
     "elo5v5": 37
   },
   {
