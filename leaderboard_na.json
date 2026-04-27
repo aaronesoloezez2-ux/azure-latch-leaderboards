@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Nyx",
+    "teamName": "Espada",
     "elo5v5": 88
   },
   {
     "rank": 11,
-    "teamName": "Kyzards",
-    "elo5v5": 76
+    "teamName": "Nyx",
+    "elo5v5": 88
   },
   {
     "rank": 12,
-    "teamName": "Espada",
-    "elo5v5": 71
+    "teamName": "Kyzards",
+    "elo5v5": 76
   },
   {
     "rank": 13,
@@ -156,67 +156,67 @@
   },
   {
     "rank": 32,
-    "teamName": "Moon Noobs",
-    "elo5v5": 1
-  },
-  {
-    "rank": 33,
     "teamName": "Waltz Company",
     "elo5v5": 1
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "7 Deadly Sins",
     "elo5v5": 0
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "7 deadly sins",
     "elo5v5": 0
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "STARTING LINE",
     "elo5v5": 0
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Bst Munich",
     "elo5v5": 0
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "eleven ⌞NA⌝",
     "elo5v5": 0
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "The New Generation",
     "elo5v5": 0
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "TGB",
     "elo5v5": 0
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Neon Genesis",
     "elo5v5": 0
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Scarlet Crusade",
     "elo5v5": 0
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Seals FC",
     "elo5v5": 0
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Crescent Rose FC (CSR)",
+    "elo5v5": 0
+  },
+  {
+    "rank": 44,
+    "teamName": "Moon Noobs",
     "elo5v5": 0
   },
   {
