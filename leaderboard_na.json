@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Ascella",
+    "elo5v5": 129
+  },
+  {
+    "rank": 7,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 122
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "G50",
     "elo5v5": 117
-  },
-  {
-    "rank": 8,
-    "teamName": "Ascella",
-    "elo5v5": 113
   },
   {
     "rank": 9,
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
-    "teamName": "Espada",
-    "elo5v5": 89
-  },
-  {
-    "rank": 11,
     "teamName": "Shadow FC",
     "elo5v5": 84
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Squadra",
     "elo5v5": 74
+  },
+  {
+    "rank": 13,
+    "teamName": "Espada",
+    "elo5v5": 71
   },
   {
     "rank": 14,
