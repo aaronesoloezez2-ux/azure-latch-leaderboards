@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Bear United",
-    "elo5v5": 140
+    "teamName": "Ascella",
+    "elo5v5": 142
   },
   {
     "rank": 6,
-    "teamName": "Ascella",
-    "elo5v5": 129
+    "teamName": "Bear United",
+    "elo5v5": 140
   },
   {
     "rank": 7,
@@ -106,43 +106,43 @@
   },
   {
     "rank": 22,
-    "teamName": "Istaroth NA",
-    "elo5v5": 26
-  },
-  {
-    "rank": 23,
     "teamName": "Amaryllis",
     "elo5v5": 26
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Crimson Authority",
     "elo5v5": 22
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Lotus",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Night Garden",
     "elo5v5": 21
+  },
+  {
+    "rank": 29,
+    "teamName": "Istaroth NA",
+    "elo5v5": 10
   },
   {
     "rank": 30,
