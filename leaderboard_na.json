@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Moonlight",
+    "elo5v5": 166
+  },
+  {
+    "rank": 3,
     "teamName": "Ascella",
     "elo5v5": 165
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Euclesis",
     "elo5v5": 157
-  },
-  {
-    "rank": 4,
-    "teamName": "Moonlight",
-    "elo5v5": 153
   },
   {
     "rank": 5,
@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Bear United",
-    "elo5v5": 140
+    "elo5v5": 125
   },
   {
     "rank": 7,
