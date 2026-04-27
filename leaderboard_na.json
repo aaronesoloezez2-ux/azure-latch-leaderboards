@@ -51,23 +51,23 @@
   },
   {
     "rank": 11,
+    "teamName": "Shadow FC",
+    "elo5v5": 83
+  },
+  {
+    "rank": 12,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Espada",
     "elo5v5": 67
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Vitality",
     "elo5v5": 67
-  },
-  {
-    "rank": 14,
-    "teamName": "Shadow FC",
-    "elo5v5": 65
   },
   {
     "rank": 15,
@@ -116,48 +116,48 @@
   },
   {
     "rank": 24,
-    "teamName": "Crimson Authority",
-    "elo5v5": 22
-  },
-  {
-    "rank": 25,
     "teamName": "Vinland",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Lotus",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Istaroth NA",
     "elo5v5": 10
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Enlightened",
     "elo5v5": 5
+  },
+  {
+    "rank": 32,
+    "teamName": "Crimson Authority",
+    "elo5v5": 3
   },
   {
     "rank": 33,
