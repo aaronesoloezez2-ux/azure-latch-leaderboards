@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "Shadow FC",
+    "elo5v5": 99
+  },
+  {
+    "rank": 10,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 92
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Nyx",
     "elo5v5": 88
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Vitality",
     "elo5v5": 86
-  },
-  {
-    "rank": 12,
-    "teamName": "Shadow FC",
-    "elo5v5": 83
   },
   {
     "rank": 13,
