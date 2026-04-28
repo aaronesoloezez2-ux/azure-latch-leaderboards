@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "Nyx",
-    "elo5v5": 104
+    "teamName": "Shadow FC",
+    "elo5v5": 114
   },
   {
     "rank": 10,
-    "teamName": "Shadow FC",
-    "elo5v5": 99
+    "teamName": "Nyx",
+    "elo5v5": 104
   },
   {
     "rank": 11,
@@ -116,43 +116,43 @@
   },
   {
     "rank": 24,
-    "teamName": "Vought International",
-    "elo5v5": 22
-  },
-  {
-    "rank": 25,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Istaroth NA",
     "elo5v5": 10
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Lotus",
     "elo5v5": 6
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Enlightened",
     "elo5v5": 5
+  },
+  {
+    "rank": 31,
+    "teamName": "Vought International",
+    "elo5v5": 4
   },
   {
     "rank": 32,
