@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Moonlight",
-    "elo5v5": 166
+    "teamName": "Euclesis",
+    "elo5v5": 168
   },
   {
     "rank": 4,
-    "teamName": "Euclesis",
-    "elo5v5": 157
+    "teamName": "Moonlight",
+    "elo5v5": 166
   },
   {
     "rank": 5,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Espada",
-    "elo5v5": 67
-  },
-  {
-    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Squadra",
     "elo5v5": 54
+  },
+  {
+    "rank": 16,
+    "teamName": "Espada",
+    "elo5v5": 51
   },
   {
     "rank": 17,
