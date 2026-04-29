@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "G50",
-    "elo5v5": 117
+    "teamName": "Nyx",
+    "elo5v5": 120
   },
   {
     "rank": 9,
-    "teamName": "Nyx",
-    "elo5v5": 104
+    "teamName": "G50",
+    "elo5v5": 117
   },
   {
     "rank": 10,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Reverence",
-    "elo5v5": 65
-  },
-  {
-    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Espada",
     "elo5v5": 51
+  },
+  {
+    "rank": 17,
+    "teamName": "Reverence",
+    "elo5v5": 47
   },
   {
     "rank": 18,
