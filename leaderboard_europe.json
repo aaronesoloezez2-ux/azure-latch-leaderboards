@@ -46,22 +46,22 @@
   },
   {
     "rank": 10,
+    "teamName": "S.E.E.S",
+    "elo5v5": 60
+  },
+  {
+    "rank": 11,
     "teamName": "D7th",
     "elo5v5": 59
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Viltrum EU",
     "elo5v5": 45
   },
   {
-    "rank": 12,
-    "teamName": "Kurenai",
-    "elo5v5": 41
-  },
-  {
     "rank": 13,
-    "teamName": "S.E.E.S",
+    "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
