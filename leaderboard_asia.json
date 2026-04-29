@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Tora",
-    "elo5v5": 80
+    "elo5v5": 97
   },
   {
     "rank": 2,
@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Furin High",
+    "teamName": "Umbrella (傘)",
     "elo5v5": 22
   },
   {
     "rank": 5,
-    "teamName": "Umbrella (傘)",
-    "elo5v5": 22
+    "teamName": "Furin High",
+    "elo5v5": 4
   },
   {
     "rank": 6,
