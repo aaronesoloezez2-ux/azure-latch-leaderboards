@@ -1256,82 +1256,82 @@
   },
   {
     "rank": 252,
-    "teamName": "Metavision FC",
-    "elo5v5": 0
-  },
-  {
-    "rank": 253,
     "teamName": "Valourbound",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "Operation",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "Brawl Stars FC",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Sleepwalker",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Baboon Monsters",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Wild Comets",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Kings Path",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "Gracias por el pase Héroe de Japón",
     "elo5v5": 0
   },
   {
-    "rank": 261,
+    "rank": 260,
     "teamName": "Desperados",
     "elo5v5": 0
   },
   {
-    "rank": 262,
+    "rank": 261,
     "teamName": "Paradoxity",
     "elo5v5": 0
   },
   {
-    "rank": 263,
+    "rank": 262,
     "teamName": "Aurora's Order",
     "elo5v5": 0
   },
   {
-    "rank": 264,
+    "rank": 263,
     "teamName": "Divine",
     "elo5v5": 0
   },
   {
-    "rank": 265,
+    "rank": 264,
     "teamName": "KamchatkaFC",
     "elo5v5": 0
   },
   {
-    "rank": 266,
+    "rank": 265,
     "teamName": "Viltrum U-20",
     "elo5v5": 0
   },
   {
-    "rank": 267,
+    "rank": 266,
     "teamName": "Quashers",
+    "elo5v5": 0
+  },
+  {
+    "rank": 267,
+    "teamName": "Neo Hussaria",
     "elo5v5": 0
   }
 ]
