@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
+    "teamName": "ReThinK",
+    "elo5v5": 55
+  },
+  {
+    "rank": 13,
     "teamName": "Viltrum EU",
     "elo5v5": 45
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Money Break",
     "elo5v5": 37
-  },
-  {
-    "rank": 16,
-    "teamName": "ReThinK",
-    "elo5v5": 35
   },
   {
     "rank": 17,
@@ -86,38 +86,38 @@
   },
   {
     "rank": 18,
-    "teamName": "soul",
-    "elo5v5": 24
-  },
-  {
-    "rank": 19,
     "teamName": "Stick FC",
     "elo5v5": 23
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Manshine City",
     "elo5v5": 21
+  },
+  {
+    "rank": 24,
+    "teamName": "soul",
+    "elo5v5": 4
   },
   {
     "rank": 25,
