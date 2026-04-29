@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 92
-  },
-  {
-    "rank": 13,
     "teamName": "Squadra",
     "elo5v5": 90
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
+  },
+  {
+    "rank": 14,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 71
   },
   {
     "rank": 15,
@@ -86,52 +86,52 @@
   },
   {
     "rank": 18,
+    "teamName": "Metalogic",
+    "elo5v5": 44
+  },
+  {
+    "rank": 19,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Acers",
     "elo5v5": 27
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Amaryllis",
     "elo5v5": 26
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Chrysalis",
     "elo5v5": 22
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 26,
-    "teamName": "Civis Imperium",
-    "elo5v5": 21
-  },
-  {
     "rank": 27,
-    "teamName": "Metalogic",
+    "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
