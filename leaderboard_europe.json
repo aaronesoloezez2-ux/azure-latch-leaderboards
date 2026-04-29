@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
-    "teamName": "Magik",
-    "elo5v5": 168
-  },
-  {
-    "rank": 2,
     "teamName": "SUFC",
     "elo5v5": 166
   },
   {
-    "rank": 3,
+    "rank": 2,
     "teamName": "Chain Breakers",
     "elo5v5": 155
+  },
+  {
+    "rank": 3,
+    "teamName": "Magik",
+    "elo5v5": 154
   },
   {
     "rank": 4,
@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "NOVA",
-    "elo5v5": 105
+    "teamName": "Abibas FC",
+    "elo5v5": 110
   },
   {
     "rank": 6,
-    "teamName": "Abibas FC",
-    "elo5v5": 88
+    "teamName": "NOVA",
+    "elo5v5": 105
   },
   {
     "rank": 7,
