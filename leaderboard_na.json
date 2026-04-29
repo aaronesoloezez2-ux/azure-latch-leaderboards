@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
+    "teamName": "Reverence",
+    "elo5v5": 66
+  },
+  {
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Espada",
     "elo5v5": 51
-  },
-  {
-    "rank": 17,
-    "teamName": "Reverence",
-    "elo5v5": 47
   },
   {
     "rank": 18,
@@ -141,42 +141,42 @@
   },
   {
     "rank": 29,
-    "teamName": "Masquerade",
-    "elo5v5": 21
-  },
-  {
-    "rank": 30,
     "teamName": "kawaii",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Enlightened",
     "elo5v5": 5
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Lotus",
     "elo5v5": 4
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Vinland",
     "elo5v5": 3
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Crimson Authority",
     "elo5v5": 3
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Waltz Company",
+    "elo5v5": 1
+  },
+  {
+    "rank": 36,
+    "teamName": "Masquerade",
     "elo5v5": 1
   },
   {
