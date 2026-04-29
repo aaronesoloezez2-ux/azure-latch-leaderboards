@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Siege",
-    "elo5v5": 78
+    "teamName": "Abibas FC",
+    "elo5v5": 88
   },
   {
     "rank": 7,
-    "teamName": "Abibas FC",
-    "elo5v5": 70
+    "teamName": "Siege",
+    "elo5v5": 78
   },
   {
     "rank": 8,
@@ -81,38 +81,38 @@
   },
   {
     "rank": 17,
-    "teamName": "Espadas",
-    "elo5v5": 26
-  },
-  {
-    "rank": 18,
     "teamName": "Stick FC",
     "elo5v5": 23
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Manshine City",
     "elo5v5": 21
+  },
+  {
+    "rank": 23,
+    "teamName": "Espadas",
+    "elo5v5": 7
   },
   {
     "rank": 24,
