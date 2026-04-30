@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "G50",
+    "elo5v5": 147
+  },
+  {
+    "rank": 6,
     "teamName": "Nyx",
     "elo5v5": 145
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Bear United",
     "elo5v5": 137
-  },
-  {
-    "rank": 7,
-    "teamName": "G50",
-    "elo5v5": 133
   },
   {
     "rank": 8,
@@ -56,13 +56,13 @@
   },
   {
     "rank": 12,
-    "teamName": "Squadra",
-    "elo5v5": 89
+    "teamName": "Kyzards",
+    "elo5v5": 76
   },
   {
     "rank": 13,
-    "teamName": "Kyzards",
-    "elo5v5": 76
+    "teamName": "Squadra",
+    "elo5v5": 72
   },
   {
     "rank": 14,
