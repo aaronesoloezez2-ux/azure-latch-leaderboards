@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "G50",
+    "elo5v5": 133
+  },
+  {
+    "rank": 8,
     "teamName": "Moonlight",
     "elo5v5": 131
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 122
-  },
-  {
-    "rank": 9,
-    "teamName": "G50",
-    "elo5v5": 117
   },
   {
     "rank": 10,
@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
-    "teamName": "Reverence",
-    "elo5v5": 83
-  },
-  {
-    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 71
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "kawaii",
     "elo5v5": 66
+  },
+  {
+    "rank": 16,
+    "teamName": "Reverence",
+    "elo5v5": 65
   },
   {
     "rank": 17,
