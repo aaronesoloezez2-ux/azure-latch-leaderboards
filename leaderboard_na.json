@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Ascella",
-    "elo5v5": 206
+    "elo5v5": 212
   },
   {
     "rank": 2,
@@ -111,43 +111,43 @@
   },
   {
     "rank": 23,
-    "teamName": "Amaryllis",
-    "elo5v5": 26
-  },
-  {
-    "rank": 24,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Metalogic",
     "elo5v5": 23
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Chrysalis",
     "elo5v5": 22
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Night Garden",
     "elo5v5": 21
+  },
+  {
+    "rank": 30,
+    "teamName": "Amaryllis",
+    "elo5v5": 12
   },
   {
     "rank": 31,
