@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
-    "teamName": "Moonlight",
-    "elo5v5": 136
-  },
-  {
-    "rank": 7,
     "teamName": "Nyx",
     "elo5v5": 133
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 122
+  },
+  {
+    "rank": 8,
+    "teamName": "Moonlight",
+    "elo5v5": 118
   },
   {
     "rank": 9,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
+    "teamName": "kawaii",
+    "elo5v5": 66
+  },
+  {
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Espada",
     "elo5v5": 51
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Acers",
     "elo5v5": 46
-  },
-  {
-    "rank": 19,
-    "teamName": "kawaii",
-    "elo5v5": 42
   },
   {
     "rank": 20,
