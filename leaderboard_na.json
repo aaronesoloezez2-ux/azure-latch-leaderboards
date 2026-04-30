@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Moonlight",
+    "elo5v5": 143
+  },
+  {
+    "rank": 8,
     "teamName": "Bear United",
     "elo5v5": 137
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Vitality",
     "elo5v5": 133
-  },
-  {
-    "rank": 9,
-    "teamName": "Moonlight",
-    "elo5v5": 131
   },
   {
     "rank": 10,
