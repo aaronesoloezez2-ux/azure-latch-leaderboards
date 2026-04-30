@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Vitality",
+    "elo5v5": 116
+  },
+  {
+    "rank": 11,
     "teamName": "Shadow FC",
     "elo5v5": 110
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Squadra",
     "elo5v5": 106
-  },
-  {
-    "rank": 12,
-    "teamName": "Vitality",
-    "elo5v5": 102
   },
   {
     "rank": 13,
