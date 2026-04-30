@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Vitality",
-    "elo5v5": 102
+    "teamName": "Shadow FC",
+    "elo5v5": 110
   },
   {
     "rank": 11,
-    "teamName": "Shadow FC",
-    "elo5v5": 93
+    "teamName": "Vitality",
+    "elo5v5": 102
   },
   {
     "rank": 12,
@@ -91,23 +91,23 @@
   },
   {
     "rank": 19,
-    "teamName": "Acers",
-    "elo5v5": 46
-  },
-  {
-    "rank": 20,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 22,
+    "teamName": "Acers",
+    "elo5v5": 28
   },
   {
     "rank": 23,
