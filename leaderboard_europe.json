@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
+    "teamName": "Quashers",
+    "elo5v5": 61
+  },
+  {
+    "rank": 10,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "S.E.E.S",
     "elo5v5": 60
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "D7th",
     "elo5v5": 59
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Viltrum EU",
     "elo5v5": 45
-  },
-  {
-    "rank": 13,
-    "teamName": "Quashers",
-    "elo5v5": 42
   },
   {
     "rank": 14,
@@ -91,38 +91,38 @@
   },
   {
     "rank": 19,
-    "teamName": "Divine",
-    "elo5v5": 23
-  },
-  {
-    "rank": 20,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Manshine City",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "soul",
     "elo5v5": 4
+  },
+  {
+    "rank": 25,
+    "teamName": "Divine",
+    "elo5v5": 3
   },
   {
     "rank": 26,
