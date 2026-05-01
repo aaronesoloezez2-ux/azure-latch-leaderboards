@@ -86,33 +86,33 @@
   },
   {
     "rank": 18,
+    "teamName": "Vought International",
+    "elo5v5": 45
+  },
+  {
+    "rank": 19,
     "teamName": "kawaii",
     "elo5v5": 44
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Acers",
     "elo5v5": 28
-  },
-  {
-    "rank": 23,
-    "teamName": "Vought International",
-    "elo5v5": 26
   },
   {
     "rank": 24,
