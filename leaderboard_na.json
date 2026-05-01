@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Ascella",
-    "elo5v5": 201
+    "elo5v5": 208
   },
   {
     "rank": 2,
@@ -131,28 +131,28 @@
   },
   {
     "rank": 27,
-    "teamName": "Dreamers (NA)",
-    "elo5v5": 21
-  },
-  {
-    "rank": 28,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 31,
+    "teamName": "Dreamers (NA)",
+    "elo5v5": 7
   },
   {
     "rank": 32,
