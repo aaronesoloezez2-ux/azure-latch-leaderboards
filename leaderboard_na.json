@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
-    "teamName": "Vought International",
+    "teamName": "Enlightened",
     "elo5v5": 45
   },
   {
     "rank": 20,
+    "teamName": "Vought International",
+    "elo5v5": 45
+  },
+  {
+    "rank": 21,
     "teamName": "Metalogic",
     "elo5v5": 44
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
-  },
-  {
-    "rank": 24,
-    "teamName": "Enlightened",
-    "elo5v5": 26
   },
   {
     "rank": 25,
