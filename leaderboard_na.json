@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Nyx",
-    "elo5v5": 170
+    "teamName": "Kyouki FC",
+    "elo5v5": 159
   },
   {
     "rank": 4,
-    "teamName": "Kyouki FC",
-    "elo5v5": 159
+    "teamName": "Nyx",
+    "elo5v5": 156
   },
   {
     "rank": 5,
@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 109
+  },
+  {
+    "rank": 11,
     "teamName": "Shadow FC",
     "elo5v5": 104
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "kawaii",
     "elo5v5": 101
-  },
-  {
-    "rank": 12,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 87
   },
   {
     "rank": 13,
