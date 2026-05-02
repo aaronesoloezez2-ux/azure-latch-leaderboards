@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Moonlight",
-    "elo5v5": 195
+    "teamName": "Ascella",
+    "elo5v5": 204
   },
   {
     "rank": 2,
-    "teamName": "Ascella",
+    "teamName": "Moonlight",
     "elo5v5": 195
   },
   {
@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "Shadow FC",
-    "elo5v5": 121
+    "elo5v5": 107
   },
   {
     "rank": 11,
