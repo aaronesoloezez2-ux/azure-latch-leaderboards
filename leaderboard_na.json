@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Nyx",
-    "elo5v5": 170
+    "elo5v5": 180
   },
   {
     "rank": 4,
@@ -56,17 +56,17 @@
   },
   {
     "rank": 12,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 87
-  },
-  {
-    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 71
+  },
+  {
+    "rank": 14,
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 71
   },
   {
