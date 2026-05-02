@@ -76,48 +76,48 @@
   },
   {
     "rank": 16,
+    "teamName": "Kurain",
+    "elo5v5": 60
+  },
+  {
+    "rank": 17,
     "teamName": "Squadra",
     "elo5v5": 55
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 53
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Amaryllis",
     "elo5v5": 49
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Vought International",
     "elo5v5": 45
   },
   {
-    "rank": 20,
-    "teamName": "Metalogic",
-    "elo5v5": 44
-  },
-  {
     "rank": 21,
-    "teamName": "Kurain",
-    "elo5v5": 40
-  },
-  {
-    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Lotus",
     "elo5v5": 27
+  },
+  {
+    "rank": 24,
+    "teamName": "Metalogic",
+    "elo5v5": 24
   },
   {
     "rank": 25,
