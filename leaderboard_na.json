@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "Shadow FC",
-    "elo5v5": 107
+    "elo5v5": 123
   },
   {
     "rank": 11,
@@ -91,18 +91,18 @@
   },
   {
     "rank": 19,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 53
-  },
-  {
-    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 21,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 35
   },
   {
     "rank": 22,
