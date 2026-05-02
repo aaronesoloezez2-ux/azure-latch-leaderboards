@@ -52,7 +52,7 @@
   {
     "rank": 11,
     "teamName": "kawaii",
-    "elo5v5": 101
+    "elo5v5": 118
   },
   {
     "rank": 12,
@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
-    "teamName": "Kurain",
-    "elo5v5": 85
-  },
-  {
-    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 71
+  },
+  {
+    "rank": 15,
+    "teamName": "Kurain",
+    "elo5v5": 67
   },
   {
     "rank": 16,
