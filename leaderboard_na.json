@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Kyouki FC",
-    "elo5v5": 174
+    "teamName": "Nyx",
+    "elo5v5": 170
   },
   {
     "rank": 4,
-    "teamName": "Nyx",
-    "elo5v5": 170
+    "teamName": "Kyouki FC",
+    "elo5v5": 159
   },
   {
     "rank": 5,
@@ -86,47 +86,47 @@
   },
   {
     "rank": 18,
+    "teamName": "Amaryllis",
+    "elo5v5": 49
+  },
+  {
+    "rank": 19,
     "teamName": "Vought International",
     "elo5v5": 45
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Metalogic",
     "elo5v5": 44
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Kurain",
     "elo5v5": 40
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Lotus",
     "elo5v5": 27
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 25,
-    "teamName": "Enlightened",
-    "elo5v5": 23
-  },
-  {
     "rank": 26,
-    "teamName": "Amaryllis",
+    "teamName": "Enlightened",
     "elo5v5": 23
   },
   {
