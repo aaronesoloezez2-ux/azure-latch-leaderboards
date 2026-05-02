@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Ascella",
-    "elo5v5": 207
+    "teamName": "Moonlight",
+    "elo5v5": 195
   },
   {
     "rank": 2,
-    "teamName": "Moonlight",
+    "teamName": "Ascella",
     "elo5v5": 195
   },
   {
@@ -61,38 +61,38 @@
   },
   {
     "rank": 13,
+    "teamName": "Amaryllis",
+    "elo5v5": 75
+  },
+  {
+    "rank": 14,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 71
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Kurain",
     "elo5v5": 60
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Squadra",
     "elo5v5": 55
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 53
-  },
-  {
-    "rank": 19,
-    "teamName": "Amaryllis",
-    "elo5v5": 49
   },
   {
     "rank": 20,
