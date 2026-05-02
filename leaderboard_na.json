@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "Shadow FC",
-    "elo5v5": 104
+    "elo5v5": 121
   },
   {
     "rank": 11,
@@ -66,23 +66,23 @@
   },
   {
     "rank": 14,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 71
-  },
-  {
-    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Squadra",
     "elo5v5": 55
+  },
+  {
+    "rank": 17,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 53
   },
   {
     "rank": 18,
