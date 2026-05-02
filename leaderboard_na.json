@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "Vitality",
-    "elo5v5": 140
+    "teamName": "Bear United",
+    "elo5v5": 144
   },
   {
     "rank": 9,
-    "teamName": "Bear United",
-    "elo5v5": 131
+    "teamName": "Vitality",
+    "elo5v5": 140
   },
   {
     "rank": 10,
@@ -121,47 +121,47 @@
   },
   {
     "rank": 25,
-    "teamName": "Enlightened",
-    "elo5v5": 23
-  },
-  {
-    "rank": 26,
     "teamName": "Vought International",
     "elo5v5": 23
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Chrysalis",
     "elo5v5": 23
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Metalogic",
     "elo5v5": 9
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Dreamers (NA)",
+    "elo5v5": 7
+  },
+  {
+    "rank": 33,
+    "teamName": "Enlightened",
     "elo5v5": 7
   },
   {
