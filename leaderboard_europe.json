@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Magik",
-    "elo5v5": 220
+    "elo5v5": 208
   },
   {
     "rank": 2,
@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
+    "teamName": "Quashers",
+    "elo5v5": 87
+  },
+  {
+    "rank": 8,
     "teamName": "Siege",
     "elo5v5": 78
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Abibas FC",
     "elo5v5": 73
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Eternal FC",
     "elo5v5": 62
-  },
-  {
-    "rank": 10,
-    "teamName": "Quashers",
-    "elo5v5": 61
   },
   {
     "rank": 11,
