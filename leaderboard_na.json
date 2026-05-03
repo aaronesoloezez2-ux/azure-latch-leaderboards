@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Vitality",
+    "elo5v5": 155
+  },
+  {
+    "rank": 7,
     "teamName": "Vanguard",
     "elo5v5": 151
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "G50",
     "elo5v5": 149
-  },
-  {
-    "rank": 8,
-    "teamName": "kawaii",
-    "elo5v5": 148
   },
   {
     "rank": 9,
@@ -46,8 +46,8 @@
   },
   {
     "rank": 10,
-    "teamName": "Vitality",
-    "elo5v5": 140
+    "teamName": "kawaii",
+    "elo5v5": 134
   },
   {
     "rank": 11,
