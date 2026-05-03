@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Kōchi FC",
-    "elo5v5": 117
+    "elo5v5": 132
   },
   {
     "rank": 5,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
-    "teamName": "Abibas FC",
-    "elo5v5": 73
-  },
-  {
-    "rank": 10,
     "teamName": "Eternal FC",
     "elo5v5": 62
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "S.E.E.S",
     "elo5v5": 60
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "D7th",
     "elo5v5": 59
+  },
+  {
+    "rank": 13,
+    "teamName": "Abibas FC",
+    "elo5v5": 55
   },
   {
     "rank": 14,
