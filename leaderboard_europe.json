@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Magik",
-    "elo5v5": 195
+    "elo5v5": 203
   },
   {
     "rank": 2,
@@ -61,23 +61,23 @@
   },
   {
     "rank": 13,
-    "teamName": "Abibas FC",
-    "elo5v5": 55
-  },
-  {
-    "rank": 14,
     "teamName": "Viltrum EU",
     "elo5v5": 45
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Kurenai",
     "elo5v5": 41
+  },
+  {
+    "rank": 16,
+    "teamName": "Abibas FC",
+    "elo5v5": 40
   },
   {
     "rank": 17,
