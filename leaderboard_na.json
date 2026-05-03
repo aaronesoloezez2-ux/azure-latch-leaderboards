@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Amaryllis",
-    "elo5v5": 102
+    "teamName": "Kurain",
+    "elo5v5": 103
   },
   {
     "rank": 11,
-    "teamName": "Kurain",
-    "elo5v5": 85
+    "teamName": "Amaryllis",
+    "elo5v5": 102
   },
   {
     "rank": 12,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "kawaii",
-    "elo5v5": 53
-  },
-  {
-    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Squadra",
     "elo5v5": 36
+  },
+  {
+    "rank": 19,
+    "teamName": "kawaii",
+    "elo5v5": 34
   },
   {
     "rank": 20,
