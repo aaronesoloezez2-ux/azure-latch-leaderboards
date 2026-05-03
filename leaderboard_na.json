@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
-    "teamName": "Moonlight",
-    "elo5v5": 171
-  },
-  {
-    "rank": 5,
     "teamName": "Vitality",
     "elo5v5": 165
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Kyouki FC",
     "elo5v5": 158
+  },
+  {
+    "rank": 6,
+    "teamName": "Moonlight",
+    "elo5v5": 156
   },
   {
     "rank": 7,
@@ -76,28 +76,28 @@
   },
   {
     "rank": 16,
+    "teamName": "kawaii",
+    "elo5v5": 60
+  },
+  {
+    "rank": 17,
     "teamName": "G60",
     "elo5v5": 51
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Squadra",
     "elo5v5": 36
-  },
-  {
-    "rank": 20,
-    "teamName": "kawaii",
-    "elo5v5": 34
   },
   {
     "rank": 21,
