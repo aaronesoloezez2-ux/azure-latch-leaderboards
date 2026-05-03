@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "kawaii",
-    "elo5v5": 70
-  },
-  {
-    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 62
+  },
+  {
+    "rank": 16,
+    "teamName": "kawaii",
+    "elo5v5": 53
   },
   {
     "rank": 17,
