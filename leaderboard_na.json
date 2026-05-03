@@ -16,23 +16,23 @@
   },
   {
     "rank": 4,
+    "teamName": "Bear United",
+    "elo5v5": 166
+  },
+  {
+    "rank": 5,
     "teamName": "Vitality",
     "elo5v5": 165
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Kyouki FC",
     "elo5v5": 158
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Moonlight",
     "elo5v5": 156
-  },
-  {
-    "rank": 7,
-    "teamName": "Bear United",
-    "elo5v5": 155
   },
   {
     "rank": 8,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
-    "teamName": "G60",
-    "elo5v5": 51
-  },
-  {
-    "rank": 18,
     "teamName": "Chrysalis",
     "elo5v5": 43
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Squadra",
     "elo5v5": 36
+  },
+  {
+    "rank": 21,
+    "teamName": "G60",
+    "elo5v5": 35
   },
   {
     "rank": 22,
