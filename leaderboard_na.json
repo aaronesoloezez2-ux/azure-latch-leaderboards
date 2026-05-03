@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "kawaii",
-    "elo5v5": 134
-  },
-  {
-    "rank": 11,
     "teamName": "Shadow FC",
     "elo5v5": 123
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Amaryllis",
     "elo5v5": 102
+  },
+  {
+    "rank": 12,
+    "teamName": "kawaii",
+    "elo5v5": 86
   },
   {
     "rank": 13,
