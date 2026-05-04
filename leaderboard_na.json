@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Moonlight",
-    "elo5v5": 156
-  },
-  {
-    "rank": 8,
     "teamName": "Euclesis",
     "elo5v5": 155
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Vanguard",
     "elo5v5": 151
+  },
+  {
+    "rank": 9,
+    "teamName": "Moonlight",
+    "elo5v5": 139
   },
   {
     "rank": 10,
@@ -81,28 +81,28 @@
   },
   {
     "rank": 17,
+    "teamName": "G60",
+    "elo5v5": 60
+  },
+  {
+    "rank": 18,
     "teamName": "Chrysalis",
     "elo5v5": 43
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Squadra",
     "elo5v5": 36
-  },
-  {
-    "rank": 21,
-    "teamName": "G60",
-    "elo5v5": 35
   },
   {
     "rank": 22,
