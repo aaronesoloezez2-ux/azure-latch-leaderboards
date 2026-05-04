@@ -16,13 +16,13 @@
   },
   {
     "rank": 4,
-    "teamName": "Bear United",
-    "elo5v5": 166
+    "teamName": "Vitality",
+    "elo5v5": 174
   },
   {
     "rank": 5,
-    "teamName": "Vitality",
-    "elo5v5": 165
+    "teamName": "Bear United",
+    "elo5v5": 166
   },
   {
     "rank": 6,
@@ -121,33 +121,33 @@
   },
   {
     "rank": 25,
-    "teamName": "Vinland",
-    "elo5v5": 22
-  },
-  {
-    "rank": 26,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 30,
+    "teamName": "Vinland",
+    "elo5v5": 7
   },
   {
     "rank": 31,
