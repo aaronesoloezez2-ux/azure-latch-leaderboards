@@ -1318,5 +1318,10 @@
     "rank": 264,
     "teamName": "Chapter",
     "elo5v5": 0
+  },
+  {
+    "rank": 265,
+    "teamName": "balance",
+    "elo5v5": 0
   }
 ]
