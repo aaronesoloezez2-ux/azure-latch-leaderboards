@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Nyx",
-    "elo5v5": 204
+    "elo5v5": 193
   },
   {
     "rank": 2,
@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "Moonlight",
+    "elo5v5": 156
+  },
+  {
+    "rank": 8,
     "teamName": "Euclesis",
     "elo5v5": 155
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Vanguard",
     "elo5v5": 151
-  },
-  {
-    "rank": 9,
-    "teamName": "Moonlight",
-    "elo5v5": 139
   },
   {
     "rank": 10,
