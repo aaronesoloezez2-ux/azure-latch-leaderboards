@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Nyx",
-    "elo5v5": 193
+    "elo5v5": 200
   },
   {
     "rank": 2,
@@ -136,22 +136,22 @@
   },
   {
     "rank": 28,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 21
-  },
-  {
-    "rank": 29,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Vinland",
     "elo5v5": 7
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Acers",
+    "elo5v5": 7
+  },
+  {
+    "rank": 31,
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 7
   },
   {
