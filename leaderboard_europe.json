@@ -36,12 +36,12 @@
   },
   {
     "rank": 8,
-    "teamName": "gamesense",
-    "elo5v5": 60
+    "teamName": "Eternal FC",
+    "elo5v5": 77
   },
   {
     "rank": 9,
-    "teamName": "S.E.E.S",
+    "teamName": "gamesense",
     "elo5v5": 60
   },
   {
@@ -51,37 +51,37 @@
   },
   {
     "rank": 11,
-    "teamName": "Eternal FC",
-    "elo5v5": 57
-  },
-  {
-    "rank": 12,
     "teamName": "Taishō",
     "elo5v5": 47
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Calamity",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Abibas FC",
     "elo5v5": 40
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Acclamation",
+    "elo5v5": 40
+  },
+  {
+    "rank": 17,
+    "teamName": "S.E.E.S",
     "elo5v5": 40
   },
   {
