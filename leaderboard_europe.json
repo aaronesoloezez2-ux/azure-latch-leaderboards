@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Taishō",
+    "elo5v5": 47
+  },
+  {
+    "rank": 13,
     "teamName": "Calamity",
     "elo5v5": 41
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Kurenai",
     "elo5v5": 41
-  },
-  {
-    "rank": 15,
-    "teamName": "Abibas FC",
-    "elo5v5": 40
   },
   {
     "rank": 16,
@@ -91,48 +91,48 @@
   },
   {
     "rank": 19,
-    "teamName": "Taishō",
-    "elo5v5": 26
-  },
-  {
-    "rank": 20,
     "teamName": "Divine",
     "elo5v5": 24
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Outer Spades",
     "elo5v5": 24
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Stick FC",
     "elo5v5": 23
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Larp Society",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Nexus",
     "elo5v5": 21
+  },
+  {
+    "rank": 27,
+    "teamName": "Abibas FC",
+    "elo5v5": 19
   },
   {
     "rank": 28,
