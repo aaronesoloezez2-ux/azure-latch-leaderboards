@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Tora",
-    "elo5v5": 97
+    "elo5v5": 113
   },
   {
     "rank": 2,
@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Parxousia",
-    "elo5v5": 23
-  },
-  {
-    "rank": 4,
     "teamName": "Cult of miku",
     "elo5v5": 22
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Umbrella (傘)",
     "elo5v5": 22
+  },
+  {
+    "rank": 5,
+    "teamName": "Parxousia",
+    "elo5v5": 5
   },
   {
     "rank": 6,
