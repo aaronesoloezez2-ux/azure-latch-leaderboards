@@ -7,22 +7,22 @@
   {
     "rank": 2,
     "teamName": "Ascella",
-    "elo5v5": 190
+    "elo5v5": 179
   },
   {
     "rank": 3,
+    "teamName": "Vitality",
+    "elo5v5": 175
+  },
+  {
+    "rank": 4,
     "teamName": "G50",
     "elo5v5": 174
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Bear United",
     "elo5v5": 166
-  },
-  {
-    "rank": 5,
-    "teamName": "Vitality",
-    "elo5v5": 161
   },
   {
     "rank": 6,
