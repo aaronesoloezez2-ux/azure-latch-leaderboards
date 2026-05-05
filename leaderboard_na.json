@@ -56,28 +56,28 @@
   },
   {
     "rank": 12,
+    "teamName": "G60",
+    "elo5v5": 78
+  },
+  {
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 71
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 62
-  },
-  {
-    "rank": 16,
-    "teamName": "G60",
-    "elo5v5": 60
   },
   {
     "rank": 17,
