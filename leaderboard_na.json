@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "Amaryllis",
-    "elo5v5": 123
+    "teamName": "Kurain",
+    "elo5v5": 117
   },
   {
     "rank": 10,
-    "teamName": "Kurain",
-    "elo5v5": 117
+    "teamName": "Amaryllis",
+    "elo5v5": 104
   },
   {
     "rank": 11,
@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
+    "teamName": "Re Al",
+    "elo5v5": 70
+  },
+  {
+    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
-  },
-  {
-    "rank": 17,
-    "teamName": "Re Al",
-    "elo5v5": 47
   },
   {
     "rank": 18,
