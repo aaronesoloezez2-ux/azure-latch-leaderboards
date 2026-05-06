@@ -51,17 +51,17 @@
   },
   {
     "rank": 11,
+    "teamName": "G60",
+    "elo5v5": 103
+  },
+  {
+    "rank": 12,
     "teamName": "kawaii",
     "elo5v5": 94
   },
   {
-    "rank": 12,
-    "teamName": "Re Al",
-    "elo5v5": 87
-  },
-  {
     "rank": 13,
-    "teamName": "G60",
+    "teamName": "Re Al",
     "elo5v5": 87
   },
   {
@@ -121,47 +121,47 @@
   },
   {
     "rank": 25,
-    "teamName": "Monarchs Recrowned FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 26,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Chrysalis",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Octagram",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Vinland",
     "elo5v5": 7
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Acers",
     "elo5v5": 7
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Crimson Authority",
+    "elo5v5": 3
+  },
+  {
+    "rank": 33,
+    "teamName": "Monarchs Recrowned FC",
     "elo5v5": 3
   },
   {
