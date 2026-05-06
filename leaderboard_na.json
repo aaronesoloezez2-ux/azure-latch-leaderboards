@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Moonlight",
-    "elo5v5": 156
+    "elo5v5": 166
   },
   {
     "rank": 7,
@@ -136,28 +136,28 @@
   },
   {
     "rank": 28,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 21
-  },
-  {
-    "rank": 29,
     "teamName": "Octagram",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Vinland",
     "elo5v5": 7
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Acers",
     "elo5v5": 7
+  },
+  {
+    "rank": 32,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 6
   },
   {
     "rank": 33,
