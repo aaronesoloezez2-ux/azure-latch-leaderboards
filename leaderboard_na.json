@@ -16,17 +16,17 @@
   },
   {
     "rank": 4,
-    "teamName": "Ascella",
-    "elo5v5": 179
-  },
-  {
-    "rank": 5,
     "teamName": "Bear United",
     "elo5v5": 166
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Moonlight",
+    "elo5v5": 166
+  },
+  {
+    "rank": 6,
+    "teamName": "Ascella",
     "elo5v5": 166
   },
   {
@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Re Al",
+    "elo5v5": 109
+  },
+  {
+    "rank": 11,
     "teamName": "Amaryllis",
     "elo5v5": 104
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "G60",
     "elo5v5": 103
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "kawaii",
     "elo5v5": 94
-  },
-  {
-    "rank": 13,
-    "teamName": "Re Al",
-    "elo5v5": 87
   },
   {
     "rank": 14,
