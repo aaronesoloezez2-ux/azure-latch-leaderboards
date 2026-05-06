@@ -41,23 +41,23 @@
   },
   {
     "rank": 9,
+    "teamName": "G60",
+    "elo5v5": 118
+  },
+  {
+    "rank": 10,
     "teamName": "Kurain",
     "elo5v5": 117
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Re Al",
     "elo5v5": 109
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Amaryllis",
     "elo5v5": 104
-  },
-  {
-    "rank": 12,
-    "teamName": "G60",
-    "elo5v5": 103
   },
   {
     "rank": 13,
@@ -136,28 +136,28 @@
   },
   {
     "rank": 28,
-    "teamName": "Octagram",
-    "elo5v5": 21
-  },
-  {
-    "rank": 29,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Vinland",
     "elo5v5": 7
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Acers",
     "elo5v5": 7
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 6
+  },
+  {
+    "rank": 32,
+    "teamName": "Octagram",
+    "elo5v5": 4
   },
   {
     "rank": 33,
