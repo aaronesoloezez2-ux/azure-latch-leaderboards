@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
-    "teamName": "G60",
+    "teamName": "Re Al",
     "elo5v5": 87
   },
   {
     "rank": 13,
+    "teamName": "G60",
+    "elo5v5": 87
+  },
+  {
+    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 71
-  },
-  {
-    "rank": 15,
-    "teamName": "Re Al",
-    "elo5v5": 70
   },
   {
     "rank": 16,
