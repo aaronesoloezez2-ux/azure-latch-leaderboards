@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
+    "teamName": "Vitality",
+    "elo5v5": 183
+  },
+  {
+    "rank": 3,
     "teamName": "G50",
     "elo5v5": 182
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Ascella",
     "elo5v5": 179
-  },
-  {
-    "rank": 4,
-    "teamName": "Vitality",
-    "elo5v5": 175
   },
   {
     "rank": 5,
