@@ -61,38 +61,38 @@
   },
   {
     "rank": 13,
+    "teamName": "Divine",
+    "elo5v5": 44
+  },
+  {
+    "rank": 14,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 41
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Abibas FC",
     "elo5v5": 40
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "S.E.E.S",
     "elo5v5": 40
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Andromeda",
     "elo5v5": 28
-  },
-  {
-    "rank": 19,
-    "teamName": "Divine",
-    "elo5v5": 24
   },
   {
     "rank": 20,
@@ -121,18 +121,18 @@
   },
   {
     "rank": 25,
-    "teamName": ".308",
-    "elo5v5": 21
-  },
-  {
-    "rank": 26,
     "teamName": "Disband FC",
     "elo5v5": 8
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Outer Spades",
     "elo5v5": 8
+  },
+  {
+    "rank": 27,
+    "teamName": ".308",
+    "elo5v5": 1
   },
   {
     "rank": 28,
