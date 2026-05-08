@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Siege",
-    "elo5v5": 78
+    "teamName": "Eternal FC",
+    "elo5v5": 80
   },
   {
     "rank": 8,
-    "teamName": "Eternal FC",
-    "elo5v5": 62
+    "teamName": "Siege",
+    "elo5v5": 78
   },
   {
     "rank": 9,
@@ -121,18 +121,18 @@
   },
   {
     "rank": 25,
-    "teamName": "Balance",
-    "elo5v5": 21
-  },
-  {
-    "rank": 26,
     "teamName": "Disband FC",
     "elo5v5": 8
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Outer Spades",
     "elo5v5": 8
+  },
+  {
+    "rank": 27,
+    "teamName": "Balance",
+    "elo5v5": 2
   },
   {
     "rank": 28,
