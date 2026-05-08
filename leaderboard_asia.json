@@ -11,28 +11,28 @@
   },
   {
     "rank": 3,
+    "teamName": "Hongyuan",
+    "elo5v5": 25
+  },
+  {
+    "rank": 4,
     "teamName": "Cult of miku",
     "elo5v5": 22
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Umbrella (傘)",
     "elo5v5": 22
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "True Destiny",
     "elo5v5": 21
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Parxousia",
     "elo5v5": 5
-  },
-  {
-    "rank": 7,
-    "teamName": "Hongyuan",
-    "elo5v5": 4
   },
   {
     "rank": 8,
