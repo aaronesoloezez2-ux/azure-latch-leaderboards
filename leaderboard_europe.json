@@ -22,7 +22,7 @@
   {
     "rank": 5,
     "teamName": "Quashers",
-    "elo5v5": 123
+    "elo5v5": 137
   },
   {
     "rank": 6,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Abibas FC",
-    "elo5v5": 40
-  },
-  {
-    "rank": 17,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "S.E.E.S",
     "elo5v5": 40
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Andromeda",
     "elo5v5": 28
+  },
+  {
+    "rank": 19,
+    "teamName": "Abibas FC",
+    "elo5v5": 23
   },
   {
     "rank": 20,
