@@ -82,7 +82,7 @@
   {
     "rank": 17,
     "teamName": "Oshu Oshi NA",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   {
     "rank": 18,
@@ -111,57 +111,57 @@
   },
   {
     "rank": 23,
-    "teamName": "Masquerade",
-    "elo5v5": 23
-  },
-  {
-    "rank": 24,
     "teamName": "Moon Noobs",
     "elo5v5": 22
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Civis Imperium",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Chrysalis",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Vinland",
     "elo5v5": 7
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Crimson Authority",
     "elo5v5": 3
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Monarchs Recrowned FC",
+    "elo5v5": 3
+  },
+  {
+    "rank": 33,
+    "teamName": "Masquerade",
     "elo5v5": 3
   },
   {
