@@ -7,32 +7,32 @@
   {
     "rank": 2,
     "teamName": "God's gambit",
-    "elo5v5": 56
+    "elo5v5": 34
   },
   {
     "rank": 3,
+    "teamName": "Parxousia",
+    "elo5v5": 28
+  },
+  {
+    "rank": 4,
     "teamName": "Hongyuan",
     "elo5v5": 25
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Cult of miku",
     "elo5v5": 22
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Umbrella (傘)",
     "elo5v5": 22
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "True Destiny",
     "elo5v5": 21
-  },
-  {
-    "rank": 7,
-    "teamName": "Parxousia",
-    "elo5v5": 5
   },
   {
     "rank": 8,
