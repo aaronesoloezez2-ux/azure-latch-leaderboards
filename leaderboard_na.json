@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "Kurain",
-    "elo5v5": 143
+    "teamName": "G60",
+    "elo5v5": 144
   },
   {
     "rank": 10,
-    "teamName": "G60",
-    "elo5v5": 131
+    "teamName": "Kurain",
+    "elo5v5": 143
   },
   {
     "rank": 11,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 49
-  },
-  {
-    "rank": 17,
     "teamName": "Son",
     "elo5v5": 45
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 19,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 32
   },
   {
     "rank": 20,
