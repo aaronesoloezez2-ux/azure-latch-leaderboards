@@ -146,37 +146,37 @@
   },
   {
     "rank": 30,
+    "teamName": "CCG",
+    "elo5v5": 21
+  },
+  {
+    "rank": 31,
     "teamName": "arsenic",
     "elo5v5": 19
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "Vinland",
     "elo5v5": 7
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 34,
+    "rank": 35,
     "teamName": "Crimson Authority",
     "elo5v5": 3
   },
   {
-    "rank": 35,
-    "teamName": "Waltz Company",
-    "elo5v5": 1
-  },
-  {
     "rank": 36,
-    "teamName": "CCG",
+    "teamName": "Waltz Company",
     "elo5v5": 1
   },
   {
