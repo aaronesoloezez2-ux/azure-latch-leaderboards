@@ -76,32 +76,32 @@
   },
   {
     "rank": 16,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 46
-  },
-  {
-    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Euphoria",
     "elo5v5": 28
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Acers",
     "elo5v5": 27
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Son",
+    "elo5v5": 26
+  },
+  {
+    "rank": 21,
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 26
   },
   {
