@@ -11,17 +11,17 @@
   },
   {
     "rank": 3,
-    "teamName": "G50",
-    "elo5v5": 178
-  },
-  {
-    "rank": 4,
     "teamName": "Bear United",
     "elo5v5": 166
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Moonlight",
+    "elo5v5": 165
+  },
+  {
+    "rank": 5,
+    "teamName": "G50",
     "elo5v5": 165
   },
   {
@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "G60",
-    "elo5v5": 111
+    "elo5v5": 131
   },
   {
     "rank": 11,
