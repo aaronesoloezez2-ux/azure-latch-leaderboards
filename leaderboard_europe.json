@@ -1271,46 +1271,41 @@
   },
   {
     "rank": 255,
-    "teamName": "cielo",
-    "elo5v5": 0
-  },
-  {
-    "rank": 256,
     "teamName": "NeoFinity",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Dreamspace",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Outer Spades",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Chapter",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": ".308",
     "elo5v5": 0
   },
   {
-    "rank": 261,
+    "rank": 260,
     "teamName": "Instincts",
     "elo5v5": 0
   },
   {
-    "rank": 262,
+    "rank": 261,
     "teamName": "Spectral",
     "elo5v5": 0
   },
   {
-    "rank": 263,
+    "rank": 262,
     "teamName": "AfterBrick",
     "elo5v5": 0
   }
