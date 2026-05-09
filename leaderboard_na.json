@@ -71,27 +71,27 @@
   },
   {
     "rank": 15,
+    "teamName": "Euphoria",
+    "elo5v5": 48
+  },
+  {
+    "rank": 16,
     "teamName": "Son",
     "elo5v5": 45
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 18,
-    "teamName": "Vinland",
-    "elo5v5": 28
-  },
-  {
     "rank": 19,
-    "teamName": "Euphoria",
+    "teamName": "Vinland",
     "elo5v5": 28
   },
   {
@@ -111,63 +111,63 @@
   },
   {
     "rank": 23,
-    "teamName": "Solarius",
-    "elo5v5": 22
-  },
-  {
-    "rank": 24,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Chrysalis",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Thxrns",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "arsenic",
     "elo5v5": 19
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 10
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 5
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Crimson Authority",
     "elo5v5": 3
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Masquerade",
     "elo5v5": 3
+  },
+  {
+    "rank": 34,
+    "teamName": "Solarius",
+    "elo5v5": 2
   },
   {
     "rank": 35,
