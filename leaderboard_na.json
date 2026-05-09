@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "G60",
+    "elo5v5": 155
+  },
+  {
+    "rank": 7,
     "teamName": "Vanguard",
     "elo5v5": 151
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Re Al",
     "elo5v5": 149
-  },
-  {
-    "rank": 8,
-    "teamName": "G60",
-    "elo5v5": 144
   },
   {
     "rank": 9,
@@ -111,48 +111,48 @@
   },
   {
     "rank": 23,
-    "teamName": "Symphony",
-    "elo5v5": 22
-  },
-  {
-    "rank": 24,
     "teamName": "Solarius",
     "elo5v5": 22
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Chrysalis",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Thxrns",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "arsenic",
     "elo5v5": 19
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 10
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 31,
+    "teamName": "Symphony",
+    "elo5v5": 6
   },
   {
     "rank": 32,
