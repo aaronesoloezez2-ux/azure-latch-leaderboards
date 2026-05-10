@@ -16,23 +16,23 @@
   },
   {
     "rank": 4,
+    "teamName": "G50",
+    "elo5v5": 162
+  },
+  {
+    "rank": 5,
     "teamName": "Euclesis",
     "elo5v5": 155
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "G60",
     "elo5v5": 155
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Vanguard",
     "elo5v5": 151
-  },
-  {
-    "rank": 7,
-    "teamName": "G50",
-    "elo5v5": 150
   },
   {
     "rank": 8,
@@ -51,27 +51,27 @@
   },
   {
     "rank": 11,
-    "teamName": "CCG",
-    "elo5v5": 79
-  },
-  {
-    "rank": 12,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Euphoria",
     "elo5v5": 73
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Sees",
+    "elo5v5": 62
+  },
+  {
+    "rank": 15,
+    "teamName": "CCG",
     "elo5v5": 62
   },
   {
