@@ -6,18 +6,18 @@
   },
   {
     "rank": 2,
-    "teamName": "G60",
-    "elo5v5": 174
-  },
-  {
-    "rank": 3,
     "teamName": "Bear United",
     "elo5v5": 166
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "G50",
     "elo5v5": 162
+  },
+  {
+    "rank": 4,
+    "teamName": "G60",
+    "elo5v5": 160
   },
   {
     "rank": 5,
@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "Symphony",
+    "elo5v5": 87
+  },
+  {
+    "rank": 12,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Reverence",
     "elo5v5": 66
-  },
-  {
-    "rank": 13,
-    "teamName": "Symphony",
-    "elo5v5": 63
   },
   {
     "rank": 14,
