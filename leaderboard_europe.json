@@ -1261,42 +1261,42 @@
   },
   {
     "rank": 253,
-    "teamName": "NeoFinity",
-    "elo5v5": 0
-  },
-  {
-    "rank": 254,
     "teamName": "Dreamspace",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "Outer Spades",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": ".308",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Instincts",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Spectral",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "AfterBrick",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "Project//SSC-Naples",
+    "elo5v5": 0
+  },
+  {
+    "rank": 260,
+    "teamName": "AfterShrine",
     "elo5v5": 0
   }
 ]
