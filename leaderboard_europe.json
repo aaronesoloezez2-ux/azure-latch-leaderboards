@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Chain Breakers",
-    "elo5v5": 200
+    "elo5v5": 208
   },
   {
     "rank": 2,
@@ -31,23 +31,23 @@
   },
   {
     "rank": 7,
-    "teamName": "Eternal FC",
-    "elo5v5": 80
-  },
-  {
-    "rank": 8,
     "teamName": "Calamity",
     "elo5v5": 79
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Siege",
     "elo5v5": 78
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "S.E.E.S",
     "elo5v5": 77
+  },
+  {
+    "rank": 10,
+    "teamName": "Eternal FC",
+    "elo5v5": 65
   },
   {
     "rank": 11,
