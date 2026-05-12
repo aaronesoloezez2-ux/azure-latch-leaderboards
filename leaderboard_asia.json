@@ -11,22 +11,22 @@
   },
   {
     "rank": 3,
+    "teamName": "DuskDawn",
+    "elo5v5": 42
+  },
+  {
+    "rank": 4,
     "teamName": "Hongyuan",
     "elo5v5": 25
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Cult of miku",
     "elo5v5": 22
   },
   {
-    "rank": 5,
-    "teamName": "Umbrella (傘)",
-    "elo5v5": 22
-  },
-  {
     "rank": 6,
-    "teamName": "DuskDawn",
+    "teamName": "Umbrella (傘)",
     "elo5v5": 22
   },
   {
