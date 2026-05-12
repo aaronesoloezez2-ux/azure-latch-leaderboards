@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
-    "teamName": "Symphony",
-    "elo5v5": 73
-  },
-  {
-    "rank": 12,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 68
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Reverence",
     "elo5v5": 66
+  },
+  {
+    "rank": 13,
+    "teamName": "CCG",
+    "elo5v5": 63
   },
   {
     "rank": 14,
@@ -81,13 +81,13 @@
   },
   {
     "rank": 17,
-    "teamName": "Son",
-    "elo5v5": 45
+    "teamName": "Symphony",
+    "elo5v5": 52
   },
   {
     "rank": 18,
-    "teamName": "CCG",
-    "elo5v5": 42
+    "teamName": "Son",
+    "elo5v5": 45
   },
   {
     "rank": 19,
