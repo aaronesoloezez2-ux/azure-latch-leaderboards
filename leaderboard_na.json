@@ -76,33 +76,33 @@
   },
   {
     "rank": 16,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 50
+  },
+  {
+    "rank": 17,
     "teamName": "Son",
     "elo5v5": 45
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 42
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "CCG",
     "elo5v5": 42
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
-  },
-  {
-    "rank": 21,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 30
   },
   {
     "rank": 22,
@@ -126,43 +126,43 @@
   },
   {
     "rank": 26,
-    "teamName": "Ubers+",
-    "elo5v5": 21
-  },
-  {
-    "rank": 27,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Solarius",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "TSC",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Crimson Authority",
     "elo5v5": 3
+  },
+  {
+    "rank": 33,
+    "teamName": "Ubers+",
+    "elo5v5": 1
   },
   {
     "rank": 34,
