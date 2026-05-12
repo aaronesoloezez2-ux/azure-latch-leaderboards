@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
+    "teamName": "G60",
+    "elo5v5": 161
+  },
+  {
+    "rank": 6,
     "teamName": "Euclesis",
     "elo5v5": 155
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Vanguard",
     "elo5v5": 151
-  },
-  {
-    "rank": 7,
-    "teamName": "G60",
-    "elo5v5": 147
   },
   {
     "rank": 8,
