@@ -1241,62 +1241,62 @@
   },
   {
     "rank": 249,
-    "teamName": "Avalon",
-    "elo5v5": 0
-  },
-  {
-    "rank": 250,
     "teamName": "ZeniX (reborn)",
     "elo5v5": 0
   },
   {
-    "rank": 251,
+    "rank": 250,
     "teamName": "ZeniX",
     "elo5v5": 0
   },
   {
-    "rank": 252,
+    "rank": 251,
     "teamName": "Dreamspace",
     "elo5v5": 0
   },
   {
-    "rank": 253,
+    "rank": 252,
     "teamName": "Outer Spades",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "Balance",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": ".308",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Instincts",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Spectral",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "AfterBrick",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Project//SSC-Naples",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "AfterShrine",
+    "elo5v5": 0
+  },
+  {
+    "rank": 260,
+    "teamName": "Velora",
     "elo5v5": 0
   }
 ]
