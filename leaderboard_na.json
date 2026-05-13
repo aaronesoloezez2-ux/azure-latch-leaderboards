@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "kawaii",
-    "elo5v5": 110
+    "teamName": "Symphony",
+    "elo5v5": 120
   },
   {
     "rank": 10,
-    "teamName": "Symphony",
-    "elo5v5": 104
+    "teamName": "kawaii",
+    "elo5v5": 110
   },
   {
     "rank": 11,
@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
-    "teamName": "Son",
-    "elo5v5": 45
-  },
-  {
-    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Vinland",
     "elo5v5": 28
+  },
+  {
+    "rank": 21,
+    "teamName": "Son",
+    "elo5v5": 27
   },
   {
     "rank": 22,
