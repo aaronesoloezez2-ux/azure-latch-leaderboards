@@ -21,18 +21,18 @@
   },
   {
     "rank": 5,
-    "teamName": "Re Al",
-    "elo5v5": 162
-  },
-  {
-    "rank": 6,
     "teamName": "Euclesis",
     "elo5v5": 155
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Vanguard",
     "elo5v5": 151
+  },
+  {
+    "rank": 7,
+    "teamName": "Re Al",
+    "elo5v5": 147
   },
   {
     "rank": 8,
@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "Euphoria",
+    "elo5v5": 97
+  },
+  {
+    "rank": 12,
     "teamName": "CCG",
     "elo5v5": 80
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 13,
-    "teamName": "Euphoria",
-    "elo5v5": 75
   },
   {
     "rank": 14,
