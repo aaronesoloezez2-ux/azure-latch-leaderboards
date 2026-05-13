@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
-    "teamName": "Masquerade",
-    "elo5v5": 41
-  },
-  {
-    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Vinland",
     "elo5v5": 28
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 27
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Acers",
     "elo5v5": 27
+  },
+  {
+    "rank": 24,
+    "teamName": "Re Al U-20",
+    "elo5v5": 24
   },
   {
     "rank": 25,
@@ -146,23 +146,23 @@
   },
   {
     "rank": 30,
+    "teamName": "Masquerade",
+    "elo5v5": 19
+  },
+  {
+    "rank": 31,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "Crimson Authority",
     "elo5v5": 3
-  },
-  {
-    "rank": 33,
-    "teamName": "Re Al U-20",
-    "elo5v5": 2
   },
   {
     "rank": 34,
