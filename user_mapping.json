@@ -3668,12 +3668,6 @@
     "region": "Europe",
     "elo5v5": 65
   },
-  "1352044719089127425": {
-    "team": "Eternal FC",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 65
-  },
   "1384741801499295889": {
     "team": "Eternal FC",
     "isLeader": false,
@@ -22385,6 +22379,60 @@
     "team": "Paragon",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "904776925153738753": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1459277390764310720": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "760269575396261888": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1373376391218728981": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1004315754788823090": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1088124201937932379": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1352044719089127425": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1403492542024257588": {
+    "team": "Nobleza",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1296927816096550975": {
+    "team": "Nobleza",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1040715701708656650": {
