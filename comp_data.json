@@ -9907,7 +9907,8 @@
         "1121233797866848266",
         "944359913692495972",
         "1489664409268912128",
-        "1176338215666458720"
+        "1176338215666458720",
+        "1237110595191312507"
       ],
       "region": "NA",
       "achievements": []
@@ -14806,14 +14807,12 @@
     "944359913692495972": 1778973019318,
     "1494738930472456344": 1778973053792,
     "1489664409268912128": 1778973162235,
-    "1176338215666458720": 1778973833735
+    "1176338215666458720": 1778973833735,
+    "1237110595191312507": 1778974722335
   },
   "pendingInvites": {
     "invite_797116524045271102": {
-      "cooldownUntil": 1778801298869
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1778801398826
+      "cooldownUntil": 1778802072072
     }
   },
   "userNicknames": {
@@ -17167,26 +17166,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778800869430": {
-      "team1Id": "1249902035352948836",
-      "team2Id": "1335102355695468688",
-      "team1Name": "G60",
-      "team2Name": "Re Al U-20",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1778800869430
-    },
-    "1778800974455": {
-      "team1Id": "728385309666050149",
-      "team2Id": "597676720413343745",
-      "team1Name": "G60",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778800974455
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
