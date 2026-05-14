@@ -2081,7 +2081,7 @@
       "achievements": []
     },
     "Parxousia": {
-      "elo5v5": 6,
+      "elo5v5": 28,
       "elo11v11": 0,
       "leaders": [
         "1223118682767757343",
@@ -7710,7 +7710,7 @@
       "achievements": []
     },
     "DuskDawn": {
-      "elo5v5": 42,
+      "elo5v5": 20,
       "elo11v11": 0,
       "leaders": [
         "1015837874681290802",
@@ -14789,9 +14789,6 @@
       "playerId": "1498282411946152007",
       "inviterId": "817737982060527626",
       "timestamp": 1778762260384
-    },
-    "invite_1489954649032228865": {
-      "cooldownUntil": 1778765655050
     }
   },
   "userNicknames": {
