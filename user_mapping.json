@@ -17921,12 +17921,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1326905194537029653": {
-    "team": "Alicization",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1208577243471814766": {
     "team": "Alicization",
     "isLeader": false,
@@ -17934,12 +17928,6 @@
     "elo5v5": 0
   },
   "942299791919022140": {
-    "team": "Alicization",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "919555804451966976": {
     "team": "Alicization",
     "isLeader": false,
     "region": "Asia",
@@ -22347,6 +22335,42 @@
     "team": "Resonance",
     "isLeader": false,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "892318829013794817": {
+    "team": "Devil May Cry",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "890098272893550592": {
+    "team": "Devil May Cry",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "919555804451966976": {
+    "team": "Devil May Cry",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1002794305481609216": {
+    "team": "Devil May Cry",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1167003866026475582": {
+    "team": "Devil May Cry",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1326905194537029653": {
+    "team": "Devil May Cry",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   }
 }
