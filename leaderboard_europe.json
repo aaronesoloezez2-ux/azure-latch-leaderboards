@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Chem Brickers",
-    "elo5v5": 202
+    "teamName": "Magik",
+    "elo5v5": 190
   },
   {
     "rank": 2,
-    "teamName": "Magik",
+    "teamName": "Chem Brickers",
     "elo5v5": 190
   },
   {
@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "S.E.E.S",
+    "elo5v5": 101
+  },
+  {
+    "rank": 8,
     "teamName": "Calamity",
     "elo5v5": 79
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Siege",
     "elo5v5": 78
-  },
-  {
-    "rank": 9,
-    "teamName": "S.E.E.S",
-    "elo5v5": 77
   },
   {
     "rank": 10,
