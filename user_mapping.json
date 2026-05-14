@@ -22339,7 +22339,7 @@
   },
   "892318829013794817": {
     "team": "Devil May Cry",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
   },
