@@ -21495,12 +21495,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "944359913692495972": {
-    "team": "Disciples",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1140849324973101127": {
     "team": "Disciples",
     "isLeader": false,
@@ -21514,6 +21508,12 @@
     "elo5v5": 0
   },
   "1121233797866848266": {
+    "team": "Disciples",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "944359913692495972": {
     "team": "Disciples",
     "isLeader": false,
     "region": "NA",
