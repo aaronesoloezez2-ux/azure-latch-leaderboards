@@ -10252,7 +10252,22 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "728385309666050149": {
+      "teamName": "G60",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778797224898,
+      "lastOpponents": []
+    },
+    "1249902035352948836": {
+      "teamName": "G60",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778797317061,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17128,14 +17143,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778796748200": {
-      "team1Id": "1210078842362920991",
-      "team2Id": "1249902035352948836",
-      "team1Name": "CCG",
+    "1778797088261": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "728385309666050149",
+      "team1Name": "Ubers+",
       "team2Name": "G60",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1778796748200
+      "team2Vote": null,
+      "timestamp": 1778797088261
     }
   },
   "pendingVCRequests": {},
