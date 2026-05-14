@@ -9286,7 +9286,6 @@
         "1249903397297979392",
         "1094992884958240828",
         "1410827035575844904",
-        "1288131568652783688",
         "1461037110235631832"
       ],
       "region": "Europe",
@@ -10240,16 +10239,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "739220775395000443": {
-      "teamName": "CCG",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1778789520984,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
