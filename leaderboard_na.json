@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "G50",
-    "elo5v5": 204
+    "teamName": "Vitality",
+    "elo5v5": 210
   },
   {
     "rank": 2,
-    "teamName": "Vitality",
-    "elo5v5": 203
+    "teamName": "G50",
+    "elo5v5": 204
   },
   {
     "rank": 3,
@@ -66,28 +66,28 @@
   },
   {
     "rank": 14,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 68
-  },
-  {
-    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Moon Noobs",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Bear United U-20",
     "elo5v5": 60
+  },
+  {
+    "rank": 18,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 53
   },
   {
     "rank": 19,
