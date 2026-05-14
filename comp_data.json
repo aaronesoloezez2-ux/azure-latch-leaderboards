@@ -7418,7 +7418,6 @@
         "1430216544847265884"
       ],
       "players": [
-        "686219159914414283",
         "1430216544847265884",
         "889928490672066620",
         "1437005758599266314",
@@ -10241,7 +10240,16 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "739220775395000443": {
+      "teamName": "CCG",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1778789520984,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17116,17 +17124,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778788740675": {
-      "team1Id": "1200920802246262925",
-      "team2Id": "739220775395000443",
-      "team1Name": "Symphony",
-      "team2Name": "CCG",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778788740675
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
