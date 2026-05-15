@@ -5770,7 +5770,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 160,
+      "elo5v5": 169,
       "elo11v11": 0,
       "leaders": [
         "589932939391926467"
@@ -14813,9 +14813,6 @@
       "playerId": "756734290959794309",
       "inviterId": "1335102355695468688",
       "timestamp": 1778807194213
-    },
-    "invite_1469123991271899318": {
-      "cooldownUntil": 1778811292868
     }
   },
   "userNicknames": {
@@ -17179,17 +17176,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778810682117": {
-      "team1Id": "757056855175594004",
-      "team2Id": "728385309666050149",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "G60",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778810682117
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
