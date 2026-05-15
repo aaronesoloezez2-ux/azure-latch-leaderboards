@@ -18403,6 +18403,12 @@
     "region": "NA",
     "elo5v5": 80
   },
+  "1435327843289665596": {
+    "team": "kawaii",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 80
+  },
   "1458508855720939541": {
     "team": "PARIS.X.GEN",
     "isLeader": true,
@@ -20757,12 +20763,6 @@
     "elo5v5": 11
   },
   "689354062235303937": {
-    "team": "Re Al U-20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 11
-  },
-  "1435327843289665596": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
