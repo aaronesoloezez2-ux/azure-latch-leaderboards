@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "Euphoria",
-    "elo5v5": 97
+    "teamName": "CCG",
+    "elo5v5": 98
   },
   {
     "rank": 11,
-    "teamName": "CCG",
-    "elo5v5": 81
+    "teamName": "Euphoria",
+    "elo5v5": 97
   },
   {
     "rank": 12,
@@ -156,32 +156,32 @@
   },
   {
     "rank": 32,
-    "teamName": "comp top 1 na",
-    "elo5v5": 21
-  },
-  {
-    "rank": 33,
     "teamName": "Citizens-U3",
     "elo5v5": 19
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Crimson Authority",
     "elo5v5": 3
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Oshu Oshi NA",
+    "elo5v5": 3
+  },
+  {
+    "rank": 37,
+    "teamName": "comp top 1 na",
     "elo5v5": 3
   },
   {
