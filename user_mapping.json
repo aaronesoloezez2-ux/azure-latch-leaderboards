@@ -3235,6 +3235,24 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1475980454279774444": {
+    "team": "DARK CLUB",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1060616376143855686": {
+    "team": "DARK CLUB",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1273940854075166826": {
+    "team": "DARK CLUB",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "1096444775193911437": {
     "team": "Sinners FC EU",
     "isLeader": true,
@@ -12035,12 +12053,6 @@
     "elo5v5": 0
   },
   "1144060935569428511": {
-    "team": "MraX",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1273940854075166826": {
     "team": "MraX",
     "isLeader": false,
     "region": "Europe",
