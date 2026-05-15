@@ -18403,12 +18403,6 @@
     "region": "NA",
     "elo5v5": 80
   },
-  "1435327843289665596": {
-    "team": "kawaii",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 80
-  },
   "1458508855720939541": {
     "team": "PARIS.X.GEN",
     "isLeader": true,
@@ -21016,6 +21010,12 @@
     "elo5v5": 0
   },
   "347283418553253888": {
+    "team": "Solarius",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1435327843289665596": {
     "team": "Solarius",
     "isLeader": false,
     "region": "NA",
