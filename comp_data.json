@@ -6841,7 +6841,6 @@
         "1135307441609920585",
         "1243378634085896202",
         "985417406790914088",
-        "887818360589520936",
         "1457666493448720407",
         "1073020788447379538"
       ],
@@ -10259,7 +10258,22 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778808865552,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "G60",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778809012798,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
