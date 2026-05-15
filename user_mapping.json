@@ -20677,6 +20677,12 @@
     "elo5v5": 81,
     "isModerator": true
   },
+  "1432105698174439527": {
+    "team": "CCG",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 81
+  },
   "1210078842362920991": {
     "team": "CCG",
     "isLeader": true,
@@ -21022,12 +21028,6 @@
     "elo5v5": 0
   },
   "1435327843289665596": {
-    "team": "Solarius",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1432105698174439527": {
     "team": "Solarius",
     "isLeader": false,
     "region": "NA",
