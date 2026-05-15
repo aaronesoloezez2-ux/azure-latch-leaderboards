@@ -10132,7 +10132,6 @@
         "460090789272354817"
       ],
       "players": [
-        "965000459469348864",
         "553371454607982596",
         "747948371301499041",
         "950108450216607784",
@@ -17261,17 +17260,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778888573915": {
-      "team1Id": "804769804594053130",
-      "team2Id": "1249902035352948836",
-      "team1Name": "Symphony",
-      "team2Name": "G60",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1778888573915
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
