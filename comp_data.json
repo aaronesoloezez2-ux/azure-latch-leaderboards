@@ -9029,8 +9029,7 @@
         "1194255502931153050",
         "1500884815380222038",
         "597462929310220308",
-        "1501568903325810848",
-        "1461952919741137060"
+        "1501568903325810848"
       ],
       "region": "Europe",
       "achievements": []
@@ -10293,7 +10292,16 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "868243652416254034": {
+      "teamName": "Vitality",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 30,
+      "startTime": 1778871910344,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14850,11 +14858,7 @@
     "469809747605061632": 1779043495033,
     "1035593934665158706": 1779044281942
   },
-  "pendingInvites": {
-    "invite_1190338322824970281": {
-      "cooldownUntil": 1778871734090
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
