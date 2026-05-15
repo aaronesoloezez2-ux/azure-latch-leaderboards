@@ -7046,7 +7046,7 @@
       "achievements": []
     },
     "Gengar FC": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "1421534238301224970"
@@ -9379,7 +9379,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 41,
+      "elo5v5": 19,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494"
@@ -17176,7 +17176,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778812207510": {
+      "team1Id": "1469123991271899318",
+      "team2Id": "1335102355695468688",
+      "team1Name": "Solarius",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778812207510
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
