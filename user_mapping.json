@@ -2257,12 +2257,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1075077634138054807": {
-    "team": "Elite Firecrackers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "721314847077302324": {
     "team": "Elite Firecrackers",
     "isLeader": false,
@@ -22460,6 +22454,12 @@
     "elo5v5": 0
   },
   "1412503036089077901": {
+    "team": "Shalom FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1075077634138054807": {
     "team": "Shalom FC",
     "isLeader": false,
     "region": "Europe",
