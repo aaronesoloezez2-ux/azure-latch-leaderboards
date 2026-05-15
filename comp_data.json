@@ -9572,8 +9572,9 @@
       "leaders": [
         "1210078842362920991",
         "949878090341949522",
+        "611697342604902450",
         "216309723933310977",
-        "611697342604902450"
+        "739220775395000443"
       ],
       "players": [
         "216309723933310977",
@@ -10291,15 +10292,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "comp top 1 na",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778879359607,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14858,7 +14851,17 @@
     "635573531031109643": 1779047611373,
     "1309828754260099149": 1779051581439
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1778881359669": {
+      "teamName": "Oshu Oshi NA",
+      "playerId": "792524269736951840",
+      "inviterId": "1110317128952844339",
+      "timestamp": 1778881359669
+    },
+    "invite_1110317128952844339": {
+      "cooldownUntil": 1778881659669
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17250,7 +17253,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778881327500": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "949878090341949522",
+      "team1Name": "comp top 1 na",
+      "team2Name": "CCG",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778881327500
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
