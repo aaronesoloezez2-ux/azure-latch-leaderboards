@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "Divine",
+    "elo5v5": 81
+  },
+  {
+    "rank": 9,
     "teamName": "Calamity",
     "elo5v5": 79
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Siege",
     "elo5v5": 78
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Eternal FC",
     "elo5v5": 65
-  },
-  {
-    "rank": 11,
-    "teamName": "Divine",
-    "elo5v5": 63
   },
   {
     "rank": 12,
@@ -96,48 +96,48 @@
   },
   {
     "rank": 20,
-    "teamName": "Balance",
-    "elo5v5": 22
-  },
-  {
-    "rank": 21,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Nexus",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Nobleza",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Espadas",
     "elo5v5": 20
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Velora",
     "elo5v5": 15
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Disband FC",
     "elo5v5": 8
+  },
+  {
+    "rank": 28,
+    "teamName": "Balance",
+    "elo5v5": 3
   },
   {
     "rank": 29,
