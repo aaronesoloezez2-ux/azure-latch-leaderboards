@@ -4729,7 +4729,6 @@
         "1287479509586804806",
         "717822050701410324",
         "950149614361800774",
-        "954942845226197042",
         "1265561935332773951",
         "1356810146709372988",
         "1272339210212347985"
@@ -14818,9 +14817,6 @@
       "playerId": "941470408241184798",
       "inviterId": "710006040254480396",
       "timestamp": 1778803732962
-    },
-    "invite_710006040254480396": {
-      "cooldownUntil": 1778805543601
     }
   },
   "userNicknames": {
@@ -17182,17 +17178,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778804805446": {
-      "team1Id": "1200920802246262925",
-      "team2Id": "728385309666050149",
-      "team1Name": "Symphony",
-      "team2Name": "G60",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778804805446
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
