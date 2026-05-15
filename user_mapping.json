@@ -2287,12 +2287,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "715403311163113542": {
-    "team": "Elite Firecrackers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "300690387725582337": {
     "team": "Elite Firecrackers",
     "isLeader": false,
@@ -22472,8 +22466,32 @@
     "elo5v5": 0
   },
   "678627039460327425": {
-    "team": "Sovereigns",
+    "team": "Shalom FC",
     "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1067444100921569320": {
+    "team": "Shalom FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "850361937795612672": {
+    "team": "Shalom FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1412503036089077901": {
+    "team": "Shalom FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "715403311163113542": {
+    "team": "Shalom FC",
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
