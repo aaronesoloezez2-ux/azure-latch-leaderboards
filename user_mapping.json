@@ -16275,12 +16275,6 @@
     "region": "Asia",
     "elo5v5": 72
   },
-  "1278370009042911367": {
-    "team": "God's gambit",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 72
-  },
   "1152829324710395984": {
     "team": "God's gambit",
     "isLeader": false,
@@ -22477,13 +22471,6 @@
     "isModerator": true
   },
   "759536058567360522": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "870173027445399612": {
     "team": null,
     "isLeader": false,
     "region": null,
