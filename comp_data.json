@@ -7139,7 +7139,6 @@
         "1149688265331458209"
       ],
       "players": [
-        "946353192231378994",
         "387156726060810250",
         "451059106363736064",
         "1257362052146532403",
@@ -17244,17 +17243,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778881327500": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "949878090341949522",
-      "team1Name": "comp top 1 na",
-      "team2Name": "CCG",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778881327500
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
