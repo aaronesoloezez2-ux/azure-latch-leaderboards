@@ -10129,7 +10129,7 @@
       "achievements": []
     },
     "comp top 1 na": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1013576163488182343"
@@ -10146,7 +10146,7 @@
       "achievements": []
     },
     "Resonance": {
-      "elo5v5": 4,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864",
@@ -10258,22 +10258,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778808865552,
-      "lastOpponents": []
-    },
-    "728385309666050149": {
-      "teamName": "G60",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778809012798,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17190,7 +17175,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778809016710": {
+      "team1Id": "757056855175594004",
+      "team2Id": "728385309666050149",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "G60",
+      "team1Vote": false,
+      "team2Vote": null,
+      "timestamp": 1778809016710
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
