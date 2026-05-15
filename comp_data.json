@@ -9529,7 +9529,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "1237287086801817671",
@@ -10145,7 +10145,7 @@
       "achievements": []
     },
     "Resonance": {
-      "elo5v5": 26,
+      "elo5v5": 4,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864",
@@ -10256,15 +10256,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "comp top 1 na",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778802981551,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -15991,7 +15983,8 @@
     "1176338215666458720": "Sniper",
     "1237110595191312507": "shadripxb",
     "1386056826210095274": "holy",
-    "764262135596711997": "asuuunx"
+    "764262135596711997": "asuuunx",
+    "1489664409268912128": "Nanase"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17171,11 +17164,22 @@
     "1237110595191312507": 1778974971797,
     "1386056826210095274": 1778975982243,
     "764262135596711997": 1778976579071,
-    "1392166270799052913": 1778976592595
+    "1392166270799052913": 1778976592595,
+    "1489664409268912128": 1778977107087
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778804235356": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "1200920802246262925",
+      "team1Name": "comp top 1 na",
+      "team2Name": "Symphony",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778804235356
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
