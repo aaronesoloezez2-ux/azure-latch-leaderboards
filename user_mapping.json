@@ -22152,7 +22152,7 @@
   },
   "965000459469348864": {
     "team": "Resonance",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
