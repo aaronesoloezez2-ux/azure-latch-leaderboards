@@ -19429,91 +19429,91 @@
     "team": "G60",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "752617818742063228": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "821555165763993681": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "924360558596206662": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "1200907129373077545": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "1322341986149077095": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "1249902035352948836": {
     "team": "G60",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "926536409106485338": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "1334716502674374768": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "855831713024704522": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "782259246325694504": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "745720911235383406": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "1464534904917459169": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "1374154116351262892": {
     "team": "G60",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "785224985131614239": {
     "team": "G60",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 218
+    "elo5v5": 224
   },
   "875112502327926796": {
     "team": "Chapter",
@@ -20711,62 +20711,62 @@
     "team": "Re Al U-20",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "1321909888561057832": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "1478021734249795797": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "1091821692164247622": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "1280938486030930077": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24,
+    "elo5v5": 11,
     "isModerator": true
   },
   "1005947912565559356": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "792524269736951840": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "751932360697708586": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "689354062235303937": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "1435327843289665596": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 24
+    "elo5v5": 11
   },
   "636302097742299147": {
     "team": "Symphony",
@@ -22459,6 +22459,13 @@
     "isModerator": true
   },
   "759536058567360522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "870173027445399612": {
     "team": null,
     "isLeader": false,
     "region": null,
