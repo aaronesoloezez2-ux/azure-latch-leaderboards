@@ -9615,12 +9615,6 @@
     "region": "NA",
     "elo5v5": 9
   },
-  "954942845226197042": {
-    "team": "Serendipity",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 9
-  },
   "1265561935332773951": {
     "team": "Serendipity",
     "isLeader": false,
@@ -15405,7 +15399,8 @@
     "team": "Night Garden",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 21,
+    "isModerator": true
   },
   "702233248067223584": {
     "team": "Acclamation",
