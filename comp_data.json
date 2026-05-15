@@ -10129,7 +10129,6 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "965000459469348864",
         "460090789272354817"
       ],
       "players": [
@@ -10293,7 +10292,22 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "728385309666050149": {
+      "teamName": "G60",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778888754259,
+      "lastOpponents": []
+    },
+    "1249902035352948836": {
+      "teamName": "G60",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778889049819,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17248,15 +17262,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778888248838": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "804769804594053130",
-      "team1Name": "comp top 1 na",
-      "team2Name": "Symphony",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778888248838
-    },
     "1778888573915": {
       "team1Id": "804769804594053130",
       "team2Id": "1249902035352948836",
