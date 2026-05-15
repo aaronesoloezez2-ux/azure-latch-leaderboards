@@ -9608,7 +9608,6 @@
         "1056051928032882778",
         "829504713950101534",
         "1213349163190849609",
-        "949707465610645525",
         "835595066050740295",
         "1445551978120741016",
         "804116659983220746",
@@ -14814,9 +14813,6 @@
       "playerId": "756734290959794309",
       "inviterId": "1335102355695468688",
       "timestamp": 1778807194213
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1778812948820
     }
   },
   "userNicknames": {
@@ -17180,17 +17176,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778812207510": {
-      "team1Id": "1469123991271899318",
-      "team2Id": "1335102355695468688",
-      "team1Name": "Solarius",
-      "team2Name": "Re Al U-20",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778812207510
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
