@@ -9608,7 +9608,6 @@
         "751932360697708586",
         "689354062235303937",
         "887818360589520936",
-        "954942845226197042",
         "756734290959794309",
         "1435327843289665596",
         "857399142196052008"
@@ -10294,11 +10293,11 @@
     }
   },
   "matchmaking": {
-    "1138242374842187977": {
-      "teamName": "Oshu Oshi NA",
+    "804769804594053130": {
+      "teamName": "Symphony",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778885623943,
+      "startTime": 1778886065623,
       "lastOpponents": []
     }
   },
@@ -14860,11 +14859,7 @@
     "1132531466568466553": 1779058174231,
     "1464125504448626956": 1779058476564
   },
-  "pendingInvites": {
-    "invite_1013576163488182343": {
-      "cooldownUntil": 1778885974203
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17258,17 +17253,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778885513246": {
-      "team1Id": "1138242374842187977",
-      "team2Id": "938564876199145494",
-      "team1Name": "Oshu Oshi NA",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1778885513246
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
