@@ -8201,7 +8201,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 216,
+      "elo5v5": 223,
       "elo11v11": 0,
       "leaders": [
         "574668456859795457",
@@ -9568,7 +9568,7 @@
       "achievements": []
     },
     "Symphony": {
-      "elo5v5": 122,
+      "elo5v5": 108,
       "elo11v11": 0,
       "leaders": [
         "1200920802246262925",
@@ -14803,11 +14803,7 @@
     "1438985290596487241": 1779072165604,
     "747852467550552116": 1779072793842
   },
-  "pendingInvites": {
-    "invite_1426419421026455565": {
-      "cooldownUntil": 1778900224251
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17206,15 +17202,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778899632087": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "731225486818279457",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Dreamers (NA)",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778899632087
-    },
     "1778899787107": {
       "team1Id": "731225486818279457",
       "team2Id": "1426419421026455565",
