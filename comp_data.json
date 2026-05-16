@@ -6798,21 +6798,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Halal Company": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1259555943834976316"
-      ],
-      "players": [
-        "1146506782542405692",
-        "690871581517545473",
-        "807936042656727061",
-        "1259555943834976316"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "FC Babalona": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10260,15 +10245,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1249902035352948836": {
-      "teamName": "G60",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778889569247,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17225,14 +17202,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778889289213": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1013576163488182343",
+    "1778890324430": {
+      "team1Id": "1249902035352948836",
+      "team2Id": "1138242374842187977",
       "team1Name": "G60",
-      "team2Name": "comp top 1 na",
+      "team2Name": "Oshu Oshi NA",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1778889289213
+      "timestamp": 1778890324430
     }
   },
   "pendingVCRequests": {},
