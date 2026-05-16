@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
+    "teamName": "Balance",
+    "elo5v5": 44
+  },
+  {
+    "rank": 16,
     "teamName": "Kurenai",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Velora",
     "elo5v5": 35
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Abibas FC",
     "elo5v5": 29
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Andromeda",
     "elo5v5": 28
-  },
-  {
-    "rank": 20,
-    "teamName": "Balance",
-    "elo5v5": 24
   },
   {
     "rank": 21,
