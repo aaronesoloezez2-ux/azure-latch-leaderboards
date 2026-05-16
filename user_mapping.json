@@ -3662,96 +3662,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1162431558297342103": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "845347742493573160": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1384741801499295889": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "845677667277733971": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1004785523077951609": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1352960447455694848": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1429553042285531207": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1056659996202512505": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1253332719316893765": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1175144948887199874": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1466796811657281815": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1155845176791679099": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1023643008895291462": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1440800472964534495": {
-    "team": "Eternal FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 98
-  },
-  "1309828754260099149": {
-    "team": "Nobleza",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "682697563253637237": {
     "team": "Vinland",
     "isLeader": false,
@@ -22100,6 +22010,12 @@
     "elo5v5": 21
   },
   "635573531031109643": {
+    "team": "Nobleza",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 21
+  },
+  "1309828754260099149": {
     "team": "Nobleza",
     "isLeader": false,
     "region": "Europe",
