@@ -20175,7 +20175,7 @@
   },
   "611697342604902450": {
     "team": "CCG",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 82,
     "isModerator": true
@@ -20183,12 +20183,6 @@
   "767181637040734218": {
     "team": "CCG",
     "isLeader": false,
-    "region": "NA",
-    "elo5v5": 82
-  },
-  "1210078842362920991": {
-    "team": "CCG",
-    "isLeader": true,
     "region": "NA",
     "elo5v5": 82
   },
