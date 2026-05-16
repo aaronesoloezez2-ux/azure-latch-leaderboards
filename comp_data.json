@@ -10265,7 +10265,7 @@
       "teamName": "G60",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778889049819,
+      "startTime": 1778889569247,
       "lastOpponents": []
     }
   },
@@ -14831,9 +14831,6 @@
     "813556928034635807": 1779062246377
   },
   "pendingInvites": {
-    "invite_1353220534367682582": {
-      "cooldownUntil": 1778889498790
-    },
     "invite_938564876199145494": {
       "cooldownUntil": 1778889698737
     }
