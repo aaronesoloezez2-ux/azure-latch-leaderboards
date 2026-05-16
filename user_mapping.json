@@ -15625,12 +15625,6 @@
     "region": "Asia",
     "elo5v5": 20
   },
-  "780449912122900500": {
-    "team": "DuskDawn",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 20
-  },
   "1246933479808172154": {
     "team": "DuskDawn",
     "isLeader": false,
@@ -20652,6 +20646,12 @@
     "elo5v5": 0
   },
   "1301066867053563950": {
+    "team": "Japan 2034",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "780449912122900500": {
     "team": "Japan 2034",
     "isLeader": false,
     "region": "Asia",
