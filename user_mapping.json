@@ -17179,49 +17179,49 @@
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "823168893359095809": {
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "231946762280108032": {
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "836686577228316672": {
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "850869448356528148": {
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "969685436740026458": {
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "747852467550552116": {
     "team": "Sulk",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "1426419421026455565": {
     "team": "Sulk",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "1255228638849404940": {
     "team": "Reverence",
@@ -21979,6 +21979,13 @@
     "region": "NA",
     "elo5v5": 22
   },
+  "1280938486030930077": {
+    "team": "Generation Of Miracles",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 22,
+    "isModerator": true
+  },
   "1204496416203083787": {
     "team": "Generation Of Miracles",
     "isLeader": true,
@@ -22377,13 +22384,6 @@
     "isModerator": true
   },
   "1244400339243892806": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1280938486030930077": {
     "team": null,
     "isLeader": false,
     "region": null,
