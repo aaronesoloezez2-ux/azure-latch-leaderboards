@@ -2369,7 +2369,6 @@
         "1175620293977460788",
         "926524609958932533",
         "918996053162868776",
-        "1118604366388154509",
         "1201327066319167539"
       ],
       "region": "NA",
@@ -10240,11 +10239,11 @@
     }
   },
   "matchmaking": {
-    "847505723763195914": {
-      "teamName": "Oshu Oshi NA",
+    "728385309666050149": {
+      "teamName": "G60",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778905758967,
+      "startTime": 1778906791415,
       "lastOpponents": []
     }
   },
@@ -17205,7 +17204,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778906779174": {
+      "team1Id": "847505723763195914",
+      "team2Id": "728385309666050149",
+      "team1Name": "Oshu Oshi NA",
+      "team2Name": "G60",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778906779174
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
