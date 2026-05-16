@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Symphony",
-    "elo5v5": 108
+    "elo5v5": 123
   },
   {
     "rank": 10,
@@ -86,23 +86,23 @@
   },
   {
     "rank": 18,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 47
-  },
-  {
-    "rank": 19,
     "teamName": "Re Al U-20",
     "elo5v5": 47
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
+  },
+  {
+    "rank": 21,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 29
   },
   {
     "rank": 22,
