@@ -22346,7 +22346,7 @@
   },
   "1152430983493189673": {
     "team": "Vindictation",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
   },
