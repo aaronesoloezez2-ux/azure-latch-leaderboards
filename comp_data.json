@@ -9119,7 +9119,6 @@
         "1249902035352948836",
         "926536409106485338",
         "1334716502674374768",
-        "855831713024704522",
         "782259246325694504",
         "745720911235383406",
         "1464534904917459169",
@@ -17200,17 +17199,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778902037555": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "1204496416203083787",
-      "team1Name": "Ubers+",
-      "team2Name": "Generation Of Miracles",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778902037555
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
