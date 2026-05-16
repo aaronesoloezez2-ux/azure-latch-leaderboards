@@ -9904,8 +9904,7 @@
         "686589385273245758",
         "1484565860185149471",
         "1330095513126830172",
-        "1492171579944079440",
-        "1231680188186759268"
+        "1492171579944079440"
       ],
       "region": "Europe",
       "achievements": []
@@ -10236,7 +10235,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1013576163488182343": {
+      "teamName": "comp top 1 na",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778958810282,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17235,17 +17242,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778958404642": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "965000459469348864",
-      "team1Name": "comp top 1 na",
-      "team2Name": "Resonance",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778958404642
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
