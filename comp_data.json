@@ -9115,7 +9115,6 @@
         "821555165763993681",
         "924360558596206662",
         "1200907129373077545",
-        "1322341986149077095",
         "1249902035352948836",
         "926536409106485338",
         "1334716502674374768",
@@ -10242,15 +10241,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1076521298823495802": {
-      "teamName": "Monarchs Recrowned FC",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778893073275,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17210,7 +17201,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778894360534": {
+      "team1Id": "1076521298823495802",
+      "team2Id": "1249902035352948836",
+      "team1Name": "Monarchs Recrowned FC",
+      "team2Name": "G60",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1778894360534
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
