@@ -808,16 +808,6 @@
       "elo5v5": 0,
       "elo11v11": 0
     },
-    "Heavens Society": {
-      "leaders": [
-        "780679010480422951"
-      ],
-      "players": [],
-      "region": "Europe",
-      "achievements": [],
-      "elo5v5": 0,
-      "elo11v11": 0
-    },
     "Eznore": {
       "leaders": [
         "773134824873394196"
@@ -14840,8 +14830,11 @@
     "424854987689164810": 1779115748241
   },
   "pendingInvites": {
-    "invite_873147737753931797": {
-      "cooldownUntil": 1778943245739
+    "1778943766496": {
+      "teamName": "Shalom FC",
+      "playerId": "1206301978477596672",
+      "inviterId": "715403311163113542",
+      "timestamp": 1778943766496
     }
   },
   "userNicknames": {
