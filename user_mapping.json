@@ -19575,13 +19575,6 @@
     "region": "SA",
     "elo5v5": 0
   },
-  "896720760985497640": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "1403844188537098312": {
     "team": ".308",
     "isLeader": false,
@@ -22389,6 +22382,13 @@
     "isModerator": true
   },
   "1290679358528290868": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "896720760985497640": {
     "team": null,
     "isLeader": false,
     "region": null,
