@@ -3746,11 +3746,11 @@
     "region": "Europe",
     "elo5v5": 98
   },
-  "1038190438697406516": {
-    "team": "Eternal FC",
-    "isLeader": true,
+  "1309828754260099149": {
+    "team": "Nobleza",
+    "isLeader": false,
     "region": "Europe",
-    "elo5v5": 98
+    "elo5v5": 21
   },
   "682697563253637237": {
     "team": "Vinland",
@@ -22123,12 +22123,6 @@
     "elo5v5": 21
   },
   "635573531031109643": {
-    "team": "Nobleza",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
-  "1309828754260099149": {
     "team": "Nobleza",
     "isLeader": false,
     "region": "Europe",
