@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Re Al",
-    "elo5v5": 169
+    "elo5v5": 178
   },
   {
     "rank": 5,
@@ -136,33 +136,33 @@
   },
   {
     "rank": 28,
-    "teamName": "Seirin",
-    "elo5v5": 22
-  },
-  {
-    "rank": 29,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 33,
+    "teamName": "Seirin",
+    "elo5v5": 7
   },
   {
     "rank": 34,
