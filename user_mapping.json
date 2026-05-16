@@ -4874,6 +4874,12 @@
     "region": "NA",
     "elo5v5": 21
   },
+  "857399142196052008": {
+    "team": "Ubers+",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 21
+  },
   "611656948726890496": {
     "team": "Albania FC",
     "isLeader": false,
@@ -20488,12 +20494,6 @@
     "elo5v5": 47
   },
   "689354062235303937": {
-    "team": "Re Al U-20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 47
-  },
-  "857399142196052008": {
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
