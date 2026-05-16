@@ -8718,7 +8718,7 @@
       "achievements": []
     },
     "kawaii": {
-      "elo5v5": 96,
+      "elo5v5": 80,
       "elo11v11": 0,
       "leaders": [
         "952573404823818360",
@@ -10243,15 +10243,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1138242374842187977": {
-      "teamName": "Oshu Oshi NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778891009769,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17209,7 +17201,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778892795020": {
+      "team1Id": "1138242374842187977",
+      "team2Id": "1076521298823495802",
+      "team1Name": "Oshu Oshi NA",
+      "team2Name": "Monarchs Recrowned FC",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1778892795020
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
