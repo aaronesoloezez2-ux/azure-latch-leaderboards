@@ -96,48 +96,48 @@
   },
   {
     "rank": 20,
+    "teamName": "Balance",
+    "elo5v5": 24
+  },
+  {
+    "rank": 21,
     "teamName": "Stick FC",
     "elo5v5": 23
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Energy",
     "elo5v5": 21
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Oshu Oshi",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Shin 心",
     "elo5v5": 21
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Nexus",
     "elo5v5": 21
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Nobleza",
     "elo5v5": 21
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Espadas",
     "elo5v5": 20
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Disband FC",
     "elo5v5": 8
-  },
-  {
-    "rank": 28,
-    "teamName": "Balance",
-    "elo5v5": 3
   },
   {
     "rank": 29,
