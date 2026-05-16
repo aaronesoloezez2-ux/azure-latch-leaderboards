@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Vitality",
-    "elo5v5": 223
+    "teamName": "G60",
+    "elo5v5": 227
   },
   {
     "rank": 2,
-    "teamName": "G60",
-    "elo5v5": 220
+    "teamName": "Vitality",
+    "elo5v5": 223
   },
   {
     "rank": 3,
@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "CCG",
-    "elo5v5": 116
+    "elo5v5": 102
   },
   {
     "rank": 11,
