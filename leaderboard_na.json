@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "G60",
-    "elo5v5": 227
+    "elo5v5": 232
   },
   {
     "rank": 2,
@@ -151,23 +151,23 @@
   },
   {
     "rank": 31,
-    "teamName": "Sulk",
-    "elo5v5": 21
-  },
-  {
-    "rank": 32,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Citizens-U3",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Serendipity",
     "elo5v5": 9
+  },
+  {
+    "rank": 34,
+    "teamName": "Sulk",
+    "elo5v5": 8
   },
   {
     "rank": 35,
