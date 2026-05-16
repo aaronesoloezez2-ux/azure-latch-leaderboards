@@ -6776,7 +6776,7 @@
       "achievements": []
     },
     "Monarchs Recrowned FC": {
-      "elo5v5": 6,
+      "elo5v5": 31,
       "elo11v11": 0,
       "leaders": [
         "1076521298823495802",
@@ -9480,7 +9480,7 @@
       "achievements": []
     },
     "Symphony": {
-      "elo5v5": 123,
+      "elo5v5": 103,
       "elo11v11": 0,
       "leaders": [
         "1200920802246262925",
@@ -10208,11 +10208,11 @@
     }
   },
   "matchmaking": {
-    "938564876199145494": {
-      "teamName": "Citizens-U3",
+    "1143485438787596389": {
+      "teamName": "Masquerade",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778964687681,
+      "startTime": 1778967366602,
       "lastOpponents": []
     }
   },
@@ -17216,7 +17216,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778967116445": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "1143485438787596389",
+      "team1Name": "comp top 1 na",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778967116445
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
