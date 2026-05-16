@@ -9729,12 +9729,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1234690094758101037": {
-    "team": "Thxrns",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
   "623543265286946870": {
     "team": "Uberzitos Brickudo",
     "isLeader": false,
@@ -12979,12 +12973,6 @@
   "1483716052079607918": {
     "team": "Bibliomania",
     "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "959488373586813008": {
-    "team": "Bibliomania",
-    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
@@ -18827,6 +18815,12 @@
     "region": "NA",
     "elo5v5": 22
   },
+  "1234690094758101037": {
+    "team": "NekoPawa",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "663116530006884461": {
     "team": "Thxrns",
     "isLeader": false,
@@ -22370,6 +22364,36 @@
   },
   "1102682920092696640": {
     "team": "FC Barcha",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1386056826210095274": {
+    "team": "NekoPawa",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1392166270799052913": {
+    "team": "NekoPawa",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "868690670347509850": {
+    "team": "NekoPawa",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "959488373586813008": {
+    "team": "NekoPawa",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "942593369736114206": {
+    "team": "NekoPawa",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
