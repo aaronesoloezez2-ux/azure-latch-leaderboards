@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "G60",
-    "elo5v5": 220
+    "teamName": "G50",
+    "elo5v5": 224
   },
   {
     "rank": 2,
-    "teamName": "G50",
-    "elo5v5": 216
+    "teamName": "G60",
+    "elo5v5": 220
   },
   {
     "rank": 3,
@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Re Al",
-    "elo5v5": 178
+    "elo5v5": 167
   },
   {
     "rank": 5,
