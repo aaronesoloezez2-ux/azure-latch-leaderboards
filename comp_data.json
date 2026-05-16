@@ -5763,7 +5763,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 169,
+      "elo5v5": 178,
       "elo11v11": 0,
       "leaders": [
         "589932939391926467"
@@ -9467,7 +9467,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 22,
+      "elo5v5": 7,
       "elo11v11": 0,
       "leaders": [
         "1237287086801817671",
@@ -10243,11 +10243,11 @@
     }
   },
   "matchmaking": {
-    "1200920802246262925": {
-      "teamName": "Symphony",
+    "216309723933310977": {
+      "teamName": "CCG",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778894502768,
+      "startTime": 1778896195519,
       "lastOpponents": []
     }
   },
@@ -14812,11 +14812,7 @@
     "854385657257787392": 1779066158114,
     "1322341986149077095": 1779067314159
   },
-  "pendingInvites": {
-    "invite_1138242374842187977": {
-      "cooldownUntil": 1778894812647
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17215,14 +17211,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778894360534": {
-      "team1Id": "1076521298823495802",
-      "team2Id": "1249902035352948836",
-      "team1Name": "Monarchs Recrowned FC",
-      "team2Name": "G60",
+    "1778896056172": {
+      "team1Id": "1200920802246262925",
+      "team2Id": "216309723933310977",
+      "team1Name": "Symphony",
+      "team2Name": "CCG",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1778894360534
+      "team2Vote": null,
+      "timestamp": 1778896056172
     }
   },
   "pendingVCRequests": {},
