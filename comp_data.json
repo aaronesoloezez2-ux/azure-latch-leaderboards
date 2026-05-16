@@ -9972,7 +9972,7 @@
       "achievements": []
     },
     "comp top 1 na": {
-      "elo5v5": 21,
+      "elo5v5": 43,
       "elo11v11": 0,
       "leaders": [
         "1013576163488182343"
@@ -9994,7 +9994,7 @@
       "achievements": []
     },
     "Resonance": {
-      "elo5v5": 49,
+      "elo5v5": 28,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864",
@@ -14808,9 +14808,6 @@
       "playerId": "855831713024704522",
       "inviterId": "1249902035352948836",
       "timestamp": 1778964805253
-    },
-    "invite_1249902035352948836": {
-      "cooldownUntil": 1778965105253
     }
   },
   "userNicknames": {
