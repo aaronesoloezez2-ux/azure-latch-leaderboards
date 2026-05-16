@@ -8996,7 +8996,6 @@
         "1188160923211411557",
         "922937717048901635",
         "1448339072237047889",
-        "1076890527770882120",
         "833372036649844816"
       ],
       "region": "Europe",
@@ -10210,7 +10209,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778964687681,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14795,7 +14802,17 @@
     "484165206340009984": 1779135183151,
     "1081319797180088422": 1779135939286
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1778964805253": {
+      "teamName": "G60",
+      "playerId": "855831713024704522",
+      "inviterId": "1249902035352948836",
+      "timestamp": 1778964805253
+    },
+    "invite_1249902035352948836": {
+      "cooldownUntil": 1778965105253
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17204,17 +17221,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778963090614": {
-      "team1Id": "460090789272354817",
-      "team2Id": "1138242374842187977",
-      "team1Name": "Resonance",
-      "team2Name": "Oshu Oshi NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778963090614
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
