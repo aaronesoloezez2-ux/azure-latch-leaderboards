@@ -17199,7 +17199,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778904008120": {
+      "team1Id": "1426419421026455565",
+      "team2Id": "728385309666050149",
+      "team1Name": "Sulk",
+      "team2Name": "G60",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778904008120
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
