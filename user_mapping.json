@@ -20799,7 +20799,7 @@
   },
   "1453334847211962390": {
     "team": "Solarius",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
