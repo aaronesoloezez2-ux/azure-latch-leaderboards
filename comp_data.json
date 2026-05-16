@@ -6818,7 +6818,7 @@
       "achievements": []
     },
     "Monarchs Recrowned FC": {
-      "elo5v5": 27,
+      "elo5v5": 6,
       "elo11v11": 0,
       "leaders": [
         "1076521298823495802",
@@ -8922,7 +8922,7 @@
       "achievements": []
     },
     "Oshu Oshi NA": {
-      "elo5v5": 26,
+      "elo5v5": 47,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -10241,7 +10241,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778898298462,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17201,26 +17209,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778896676310": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "216309723933310977",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "CCG",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778896676310
-    },
-    "1778897081403": {
-      "team1Id": "1421534238301224970",
-      "team2Id": "216309723933310977",
-      "team1Name": "Gengar FC",
-      "team2Name": "CCG",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1778897081403
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
