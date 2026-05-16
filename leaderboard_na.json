@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
+    "teamName": "comp top 1 na",
+    "elo5v5": 63
+  },
+  {
+    "rank": 16,
     "teamName": "Moon Noobs",
     "elo5v5": 62
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Resonance",
     "elo5v5": 51
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Re Al U-20",
     "elo5v5": 47
-  },
-  {
-    "rank": 20,
-    "teamName": "comp top 1 na",
-    "elo5v5": 43
   },
   {
     "rank": 21,
@@ -111,53 +111,53 @@
   },
   {
     "rank": 23,
-    "teamName": "Monarchs Recrowned FC",
-    "elo5v5": 31
-  },
-  {
-    "rank": 24,
     "teamName": "Vinland",
     "elo5v5": 28
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Son",
     "elo5v5": 27
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Generation Of Miracles",
     "elo5v5": 22
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Honorary Knights",
     "elo5v5": 21
+  },
+  {
+    "rank": 32,
+    "teamName": "Monarchs Recrowned FC",
+    "elo5v5": 11
   },
   {
     "rank": 33,
