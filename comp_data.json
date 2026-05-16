@@ -9100,7 +9100,7 @@
       "achievements": []
     },
     "G60": {
-      "elo5v5": 220,
+      "elo5v5": 227,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9515,7 +9515,7 @@
       "achievements": []
     },
     "CCG": {
-      "elo5v5": 116,
+      "elo5v5": 102,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -17198,17 +17198,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1778908579854": {
-      "team1Id": "728385309666050149",
-      "team2Id": "611697342604902450",
-      "team1Name": "G60",
-      "team2Name": "CCG",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778908579854
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
