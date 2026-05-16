@@ -5985,8 +5985,7 @@
         "1198078813213573140",
         "554378151321665547",
         "534856529053220874",
-        "554037888740884480",
-        "747852467550552116"
+        "554037888740884480"
       ],
       "region": "NA",
       "elo5v5": 37,
@@ -10241,15 +10240,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1204496416203083787": {
-      "teamName": "Generation Of Miracles",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778898298462,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14811,14 +14802,7 @@
     "942231461644349471": 1779072044324,
     "1438985290596487241": 1779072165604
   },
-  "pendingInvites": {
-    "invite_1204496416203083787": {
-      "cooldownUntil": 1778899542415
-    },
-    "invite_728385309666050149": {
-      "cooldownUntil": 1778899658278
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17216,7 +17200,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778899632087": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "731225486818279457",
+      "team1Name": "Generation Of Miracles",
+      "team2Name": "Dreamers (NA)",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778899632087
+    },
+    "1778899787107": {
+      "team1Id": "731225486818279457",
+      "team2Id": "1426419421026455565",
+      "team1Name": "Dreamers (NA)",
+      "team2Name": "Sulk",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1778899787107
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
