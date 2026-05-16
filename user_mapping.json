@@ -20446,7 +20446,7 @@
   },
   "804769804594053130": {
     "team": "Symphony",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 123,
     "isModerator": true
