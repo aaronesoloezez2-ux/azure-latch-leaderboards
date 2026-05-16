@@ -8874,7 +8874,6 @@
         "1451004285482701003",
         "1477860177406460005",
         "717232453814583337",
-        "1482063866778357993",
         "722164644558667816",
         "1405385953899581480",
         "1025178336122650644",
@@ -10212,11 +10211,11 @@
     }
   },
   "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "comp top 1 na",
+    "1200920802246262925": {
+      "teamName": "Symphony",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778958810282,
+      "startTime": 1778961073167,
       "lastOpponents": []
     }
   },
@@ -14816,9 +14815,6 @@
       "playerId": "596845409150828563",
       "inviterId": "460090789272354817",
       "timestamp": 1778960838986
-    },
-    "invite_460090789272354817": {
-      "cooldownUntil": 1778961138986
     }
   },
   "userNicknames": {
@@ -17227,7 +17223,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778961040146": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "1076521298823495802",
+      "team1Name": "comp top 1 na",
+      "team2Name": "Monarchs Recrowned FC",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1778961040146
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
