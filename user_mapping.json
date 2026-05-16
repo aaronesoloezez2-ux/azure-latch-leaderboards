@@ -21844,13 +21844,6 @@
     "region": "NA",
     "elo5v5": 28
   },
-  "749678245863227462": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 28,
-    "isModerator": true
-  },
   "1482063866778357993": {
     "team": "Resonance",
     "isLeader": false,
@@ -22294,6 +22287,13 @@
     "isModerator": true
   },
   "959895242428002334": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "749678245863227462": {
     "team": null,
     "isLeader": false,
     "region": null,
