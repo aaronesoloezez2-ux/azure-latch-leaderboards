@@ -9178,7 +9178,8 @@
         "1223061840162983959",
         "900164799005085747",
         "1382561990110609479",
-        "484165206340009984"
+        "484165206340009984",
+        "587301011836764181"
       ],
       "region": "NA",
       "achievements": []
@@ -9374,7 +9375,6 @@
         "636302097742299147",
         "1261068909923270757",
         "945363515680641034",
-        "587301011836764181",
         "1065743018545660004",
         "878079798625308743",
         "804769804594053130",
@@ -10244,7 +10244,22 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779036920244,
+      "lastOpponents": []
+    },
+    "1013576163488182343": {
+      "teamName": "comp top 1 na",
+      "searchType": "unlimited",
+      "region": "Europe",
+      "startTime": 1779037061972,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14852,12 +14867,6 @@
       "playerId": "749678245863227462",
       "inviterId": "611697342604902450",
       "timestamp": 1779036496382
-    },
-    "invite_611697342604902450": {
-      "cooldownUntil": 1779036796382
-    },
-    "invite_715403311163113542": {
-      "cooldownUntil": 1779036870510
     }
   },
   "userNicknames": {
@@ -17286,17 +17295,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779036495916": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "938564876199145494",
-      "team1Name": "comp top 1 na",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779036495916
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
