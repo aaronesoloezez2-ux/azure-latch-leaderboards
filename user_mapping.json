@@ -20228,6 +20228,12 @@
     "elo5v5": 103,
     "isModerator": true
   },
+  "216309723933310977": {
+    "team": "Symphony",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 103
+  },
   "1200920802246262925": {
     "team": "Symphony",
     "isLeader": true,
