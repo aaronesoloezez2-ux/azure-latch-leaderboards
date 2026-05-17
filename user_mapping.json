@@ -18546,7 +18546,7 @@
   },
   "1110317128952844339": {
     "team": "Oshu Oshi NA",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
@@ -18570,7 +18570,7 @@
   },
   "1138242374842187977": {
     "team": "Oshu Oshi NA",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
@@ -18606,7 +18606,7 @@
   },
   "1025178336122650644": {
     "team": "Oshu Oshi NA",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
@@ -18619,12 +18619,6 @@
   "1322341986149077095": {
     "team": "Oshu Oshi NA",
     "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "847505723763195914": {
-    "team": "Oshu Oshi NA",
-    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
