@@ -9309,7 +9309,8 @@
         "530252705793310721",
         "931750651334119474",
         "1037267793395064843",
-        "854385657257787392"
+        "854385657257787392",
+        "747948371301499041"
       ],
       "region": "NA",
       "achievements": []
@@ -10247,15 +10248,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "883782190348001351": {
-      "teamName": "Symphony",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779040641362,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -16073,7 +16066,8 @@
     "758679760754180116": "Kirishiro",
     "1336359291472576558": "Iglesias",
     "1104437973656813620": "Mega I Gengar FC",
-    "858791791117205504": "saint jr"
+    "858791791117205504": "saint jr",
+    "1465986258668097713": "Soul"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17289,11 +17283,22 @@
     "1336359291472576558": 1779208247053,
     "730852205812383895": 1779208732780,
     "1104437973656813620": 1779211662684,
-    "858791791117205504": 1779213613661
+    "858791791117205504": 1779213613661,
+    "1465986258668097713": 1779213909377
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779041312837": {
+      "team1Id": "883782190348001351",
+      "team2Id": "1421534238301224970",
+      "team1Name": "Symphony",
+      "team2Name": "Gengar FC",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779041312837
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
