@@ -8496,18 +8496,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Magik": {
-      "elo5v5": 190,
-      "elo11v11": 0,
-      "leaders": [],
-      "players": [
-        "954893209543254016",
-        "957319823170367489",
-        "723577346258370601"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Paradoxity": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -14877,7 +14865,17 @@
     "862161114908590090": 1779218486240,
     "1143685690010382466": 1779219268863
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1779046765619": {
+      "teamName": "Metalogic",
+      "playerId": "792524269736951840",
+      "inviterId": "1381851488569004103",
+      "timestamp": 1779046765619
+    },
+    "invite_1381851488569004103": {
+      "cooldownUntil": 1779047065619
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
