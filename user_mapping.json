@@ -17126,12 +17126,6 @@
     "region": "Asia",
     "elo5v5": 21
   },
-  "829982108935127041": {
-    "team": "JPU20",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
   "1384518826993127477": {
     "team": "JPU20",
     "isLeader": false,
@@ -22040,6 +22034,18 @@
     "elo5v5": 0
   },
   "974893155033948170": {
+    "team": "Vindictation",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "829982108935127041": {
+    "team": "Vindictation",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "609704181678211091": {
     "team": "Vindictation",
     "isLeader": false,
     "region": "Asia",
