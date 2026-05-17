@@ -19257,49 +19257,6 @@
     "region": "SA",
     "elo5v5": 0
   },
-  "1403844188537098312": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "727426281821438014": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "751740180083245116": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1192621155148890215": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1446185271128490167": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1064806734570467370": {
-    "team": ".308",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1088341991122796554": {
-    "team": ".308",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "546582063760015370": {
     "team": "Taohu Thualueng",
     "isLeader": false,
@@ -22307,6 +22264,13 @@
     "isModerator": true
   },
   "759536058567360522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "751740180083245116": {
     "team": null,
     "isLeader": false,
     "region": null,
