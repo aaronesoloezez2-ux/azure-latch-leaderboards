@@ -9421,8 +9421,7 @@
         "768118677387477004",
         "347283418553253888",
         "1474149459595100170",
-        "1139569143897669743",
-        "862161114908590090"
+        "1139569143897669743"
       ],
       "region": "NA",
       "achievements": []
@@ -17301,17 +17300,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779048394504": {
-      "team1Id": "611697342604902450",
-      "team2Id": "1249902035352948836",
-      "team1Name": "Codependence",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779048394504
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
