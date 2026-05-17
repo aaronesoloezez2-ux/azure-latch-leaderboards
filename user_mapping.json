@@ -11043,6 +11043,13 @@
     "region": "NA",
     "elo5v5": 167
   },
+  "1081319797180088422": {
+    "team": "Re Al",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 167,
+    "isModerator": true
+  },
   "929107885835817101": {
     "team": "Clanker FC",
     "isLeader": true,
@@ -20270,6 +20277,12 @@
     "region": "Asia",
     "elo5v5": 23
   },
+  "782568811957190668": {
+    "team": "Japan 2034",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 23
+  },
   "817737982060527626": {
     "team": "Japan 2034",
     "isLeader": true,
@@ -22341,13 +22354,6 @@
     "isModerator": true
   },
   "959895242428002334": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1081319797180088422": {
     "team": null,
     "isLeader": false,
     "region": null,
