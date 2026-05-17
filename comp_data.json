@@ -9852,26 +9852,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Resonance": {
-      "elo5v5": 97,
-      "elo11v11": 0,
-      "leaders": [
-        "965000459469348864",
-        "460090789272354817"
-      ],
-      "players": [
-        "553371454607982596",
-        "1093388128527601695",
-        "460090789272354817",
-        "1038336171127873588",
-        "396111393058979840",
-        "1482063866778357993",
-        "596845409150828563",
-        "1040715701708656650"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Devil May Cry": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10239,11 +10219,11 @@
     }
   },
   "matchmaking": {
-    "728385309666050149": {
-      "teamName": "Kiseki",
+    "1013576163488182343": {
+      "teamName": "comp top 1 na",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779048476512,
+      "startTime": 1779049346131,
       "lastOpponents": []
     }
   },
@@ -17300,7 +17280,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779049224679": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1013576163488182343",
+      "team1Name": "Kiseki",
+      "team2Name": "comp top 1 na",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779049224679
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
