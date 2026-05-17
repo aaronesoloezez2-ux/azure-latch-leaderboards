@@ -3091,7 +3091,6 @@
         "792072165037441064",
         "1495162016539869306",
         "1319459981669699625",
-        "1277285681508519976",
         "908357932876447744"
       ],
       "region": "NA",
@@ -10218,15 +10217,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "comp top 1 na",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779049346131,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14842,9 +14833,6 @@
       "playerId": "1502806949513793618",
       "inviterId": "938564876199145494",
       "timestamp": 1779050585017
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1779050885017
     }
   },
   "userNicknames": {
@@ -16063,7 +16051,8 @@
     "1143685690010382466": "amen",
     "1139569143897669743": "Saints",
     "862161114908590090": "EU player trust me",
-    "1503597253292458085": "Calliee"
+    "1503597253292458085": "Calliee",
+    "1452268067479621697": "bonk"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17285,11 +17274,22 @@
     "1139569143897669743": 1779218229358,
     "862161114908590090": 1779218535319,
     "1355669102731202580": 1779218563095,
-    "1503597253292458085": 1779219656188
+    "1503597253292458085": 1779219656188,
+    "1452268067479621697": 1779224534562
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779052335196": {
+      "team1Id": "847505723763195914",
+      "team2Id": "868243652416254034",
+      "team1Name": "Vorpal Swords",
+      "team2Name": "Vitality",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779052335196
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
