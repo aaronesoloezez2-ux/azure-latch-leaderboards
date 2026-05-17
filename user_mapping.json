@@ -21461,6 +21461,12 @@
     "region": "NA",
     "elo5v5": 59
   },
+  "836064878660812861": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 59
+  },
   "1013576163488182343": {
     "team": "comp top 1 na",
     "isLeader": true,
@@ -21486,12 +21492,6 @@
     "elo5v5": 97
   },
   "1038336171127873588": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "836064878660812861": {
     "team": "Resonance",
     "isLeader": false,
     "region": "NA",
