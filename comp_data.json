@@ -5973,7 +5973,7 @@
       "achievements": []
     },
     "ⅩⅠⅠⅠ": {
-      "elo5v5": 73,
+      "elo5v5": 51,
       "elo11v11": 0,
       "leaders": [
         "495333407551782933",
@@ -6775,7 +6775,7 @@
       "achievements": []
     },
     "Monarchs Recrowned FC": {
-      "elo5v5": 11,
+      "elo5v5": 34,
       "elo11v11": 0,
       "leaders": [
         "1076521298823495802",
@@ -10211,12 +10211,11 @@
     }
   },
   "matchmaking": {
-    "835590854580240405": {
-      "teamName": "Bear United",
-      "searchType": "timed",
+    "995404195958108242": {
+      "teamName": "Attrition",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 10,
-      "startTime": 1778985107670,
+      "startTime": 1778985230246,
       "lastOpponents": []
     }
   },
@@ -14812,9 +14811,6 @@
       "inviterId": "1013576163488182343",
       "timestamp": 1778984972920
     },
-    "invite_1013576163488182343": {
-      "cooldownUntil": 1778985272920
-    },
     "invite_1335102355695468688": {
       "cooldownUntil": 1778985387557
     }
@@ -17242,6 +17238,15 @@
       "team1Vote": null,
       "team2Vote": true,
       "timestamp": 1778984870343
+    },
+    "1778985220399": {
+      "team1Id": "835590854580240405",
+      "team2Id": "1335102355695468688",
+      "team1Name": "Bear United",
+      "team2Name": "Re Al U-20",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1778985220399
     }
   },
   "pendingVCRequests": {},
