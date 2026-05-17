@@ -22290,6 +22290,13 @@
     "region": "NA",
     "elo5v5": 195
   },
+  "1502806949513793618": {
+    "team": "<:thosewhoknow:1459606904526475264>Mango Overlord",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1040715701708656650": {
     "team": null,
     "isLeader": false,
@@ -22312,13 +22319,6 @@
     "isModerator": true
   },
   "1280938486030930077": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1502806949513793618": {
     "team": null,
     "isLeader": false,
     "region": null,
