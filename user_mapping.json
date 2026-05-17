@@ -21601,12 +21601,6 @@
     "region": "Europe",
     "elo5v5": 21
   },
-  "1373376391218728981": {
-    "team": "Nobleza",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "1004315754788823090": {
     "team": "Nobleza",
     "isLeader": false,
@@ -22241,6 +22235,36 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 237
+  },
+  "1373376391218728981": {
+    "team": "Heavens Society",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1056659996202512505": {
+    "team": "Heavens Society",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1352044719089127425": {
+    "team": "Heavens Society",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1367514653244260524": {
+    "team": "Heavens Society",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1038190438697406516": {
+    "team": "Heavens Society",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
