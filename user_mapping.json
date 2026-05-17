@@ -18311,12 +18311,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "995404195958108242": {
-    "team": "Attrition",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1472628091875623135": {
     "team": "Attrition",
     "isLeader": false,
@@ -19009,12 +19003,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "674364195243819046": {
-    "team": "Divinity",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "762694923790974977": {
     "team": "Divinity",
     "isLeader": false,
@@ -19355,12 +19343,6 @@
     "elo5v5": 8
   },
   "484165206340009984": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 8
-  },
-  "587301011836764181": {
     "team": "Citizens-U3",
     "isLeader": false,
     "region": "NA",
@@ -22319,6 +22301,42 @@
     "team": "Heavens Society",
     "isLeader": true,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "587301011836764181": {
+    "team": "Tracen Academy URA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1253888524638490628": {
+    "team": "Tracen Academy URA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "681071366312689702": {
+    "team": "Tracen Academy URA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "995404195958108242": {
+    "team": "Tracen Academy URA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "674364195243819046": {
+    "team": "Tracen Academy URA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1373723364543303732": {
+    "team": "Tracen Academy URA",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "1290679358528290868": {
