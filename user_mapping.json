@@ -19227,12 +19227,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1416504934136025191": {
-    "team": "Instincts",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "801849524875689984": {
     "team": "Instincts",
     "isLeader": false,
@@ -21944,6 +21938,13 @@
     "region": "NA",
     "elo5v5": 44
   },
+  "749678245863227462": {
+    "team": "Codependence",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 44,
+    "isModerator": true
+  },
   "611697342604902450": {
     "team": "Codependence",
     "isLeader": true,
@@ -22378,13 +22379,6 @@
     "isModerator": true
   },
   "959895242428002334": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "749678245863227462": {
     "team": null,
     "isLeader": false,
     "region": null,
