@@ -1923,7 +1923,7 @@
       "achievements": []
     },
     "Generation of Miracles": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "717242801053761566"
@@ -17307,15 +17307,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779048149468": {
-      "team1Id": "1264992459704766566",
-      "team2Id": "611697342604902450",
-      "team1Name": "Black Shores",
-      "team2Name": "Codependence",
-      "team1Vote": false,
-      "team2Vote": null,
-      "timestamp": 1779048149468
-    },
     "1779048394504": {
       "team1Id": "611697342604902450",
       "team2Id": "1249902035352948836",
