@@ -10821,12 +10821,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1257716716285333604": {
-    "team": "Alucarda",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "987047479952429066": {
     "team": "Alucarda",
     "isLeader": false,
@@ -16767,12 +16761,6 @@
     "region": "Europe",
     "elo5v5": 20
   },
-  "1211699112911568988": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
   "1251496480318161002": {
     "team": "Espadas",
     "isLeader": false,
@@ -17837,12 +17825,6 @@
     "isModerator": true
   },
   "921733545720971286": {
-    "team": "Divine",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 97
-  },
-  "632600138736467988": {
     "team": "Divine",
     "isLeader": false,
     "region": "Europe",
@@ -19209,12 +19191,6 @@
     "elo5v5": 44
   },
   "1394112905473032326": {
-    "team": "Balance",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 44
-  },
-  "976149014586212392": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
@@ -22260,6 +22236,42 @@
   },
   "570249150038278146": {
     "team": "Spectre",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "976149014586212392": {
+    "team": "Resurrection",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1257716716285333604": {
+    "team": "Resurrection",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1211699112911568988": {
+    "team": "Resurrection",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1322753943159308348": {
+    "team": "Resurrection",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "840260072756215818": {
+    "team": "Resurrection",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "632600138736467988": {
+    "team": "Resurrection",
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
