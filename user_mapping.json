@@ -16567,19 +16567,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1494370627237318951": {
-    "team": "Kurenai",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 41
-  },
-  "503270227077758998": {
-    "team": "Kurenai",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 41,
-    "isModerator": true
-  },
   "1056610194286727218": {
     "team": "Valourbound",
     "isLeader": false,
@@ -22292,6 +22279,13 @@
     "isModerator": true
   },
   "1244400339243892806": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "503270227077758998": {
     "team": null,
     "isLeader": false,
     "region": null,
