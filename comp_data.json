@@ -9301,8 +9301,7 @@
         "1005947912565559356",
         "689354062235303937",
         "949707465610645525",
-        "857399142196052008",
-        "767181637040734218"
+        "857399142196052008"
       ],
       "region": "NA",
       "achievements": []
@@ -10236,15 +10235,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1204496416203083787": {
-      "teamName": "Generation Of Miracles",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779056255827,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17303,14 +17294,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779056161019": {
-      "team1Id": "759647905887289364",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Moon Noobs",
-      "team2Name": "Metalogic",
+    "1779056956129": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "859770190492860427",
+      "team1Name": "Generation Of Miracles",
+      "team2Name": "G50",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779056161019
+      "timestamp": 1779056956129
     }
   },
   "pendingVCRequests": {},
