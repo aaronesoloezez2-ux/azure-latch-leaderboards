@@ -8794,7 +8794,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "1025178336122650644"
+        "1451004285482701003"
       ],
       "players": [
         "1093982372178964581",
@@ -10221,11 +10221,11 @@
     }
   },
   "matchmaking": {
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779053244733,
+      "startTime": 1779053519429,
       "lastOpponents": []
     }
   },
@@ -14845,11 +14845,14 @@
       "inviterId": "938564876199145494",
       "timestamp": 1779050585017
     },
-    "invite_1353220534367682582": {
-      "cooldownUntil": 1779053534621
+    "1779053576103": {
+      "teamName": "Generation Of Miracles",
+      "playerId": "702710123260412004",
+      "inviterId": "1204496416203083787",
+      "timestamp": 1779053576103
     },
-    "invite_899073137742848022": {
-      "cooldownUntil": 1779053591123
+    "invite_1204496416203083787": {
+      "cooldownUntil": 1779053876103
     }
   },
   "userNicknames": {
@@ -17297,14 +17300,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779052810274": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "757056855175594004",
-      "team1Name": "Metalogic",
-      "team2Name": "ⅩⅠⅠⅠ",
+    "1779053365337": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "899073137742848022",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Psychomachy",
       "team1Vote": null,
       "team2Vote": true,
-      "timestamp": 1779052810274
+      "timestamp": 1779053365337
     }
   },
   "pendingVCRequests": {},
