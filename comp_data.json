@@ -10095,7 +10095,8 @@
         "730481794054357054",
         "1133939991052042310",
         "1114695036874018898",
-        "975381718418722836"
+        "975381718418722836",
+        "1504285397725876244"
       ],
       "region": "NA",
       "achievements": []
@@ -10209,9 +10210,26 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1200920802246262925": {
+      "teamName": "Symphony",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1778986281259,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
-  "awaitingReferee": {},
+  "awaitingReferee": {
+    "1778986422444": {
+      "team1Id": "1453334847211962390",
+      "team2Id": "835590854580240405",
+      "team1Name": "Solarius",
+      "team2Name": "Bear United",
+      "vcLink": null,
+      "timestamp": 1778986422444
+    }
+  },
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -14793,7 +14811,8 @@
     "1435327843289665596": 1779153960077,
     "1474149459595100170": 1779157560574,
     "767181637040734218": 1779157894180,
-    "1466504461504479349": 1779158572653
+    "1466504461504479349": 1779158572653,
+    "1504285397725876244": 1779160033688
   },
   "pendingInvites": {
     "1778984972920": {
@@ -14801,6 +14820,9 @@
       "playerId": "1235204230898384938",
       "inviterId": "1013576163488182343",
       "timestamp": 1778984972920
+    },
+    "invite_1102682920092696640": {
+      "cooldownUntil": 1778987531084
     }
   },
   "userNicknames": {
@@ -17220,16 +17242,7 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {},
-  "pendingVCRequests": {
-    "vc_1778985470441": {
-      "team1Id": "1453334847211962390",
-      "team2Id": "835590854580240405",
-      "team1Name": "Solarius",
-      "team2Name": "Bear United",
-      "vcLink": null,
-      "timestamp": 1778985801916
-    }
-  },
+  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
