@@ -17897,7 +17897,7 @@
   },
   "1459662581995143221": {
     "team": "Divine",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 97
   },
