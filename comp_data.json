@@ -9996,7 +9996,7 @@
       "achievements": []
     },
     "Paragon": {
-      "elo5v5": 24,
+      "elo5v5": 44,
       "elo11v11": 0,
       "leaders": [
         "662551566397472798"
@@ -10210,7 +10210,16 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "835590854580240405": {
+      "teamName": "Bear United",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1778985107670,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17225,15 +17234,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778984485275": {
-      "team1Id": "883782190348001351",
-      "team2Id": "1335102355695468688",
-      "team1Name": "Symphony",
-      "team2Name": "Re Al U-20",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778984485275
-    },
     "1778984870343": {
       "team1Id": "1335102355695468688",
       "team2Id": "995404195958108242",
