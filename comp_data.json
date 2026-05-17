@@ -9427,25 +9427,6 @@
       "region": "Asia",
       "achievements": []
     },
-    "CCG": {
-      "elo5v5": 82,
-      "elo11v11": 0,
-      "leaders": [
-        "949878090341949522",
-        "216309723933310977",
-        "739220775395000443"
-      ],
-      "players": [
-        "216309723933310977",
-        "949878090341949522",
-        "862970828299436044",
-        "1056051928032882778",
-        "835595066050740295",
-        "767181637040734218"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Re Al U-20": {
       "elo5v5": 47,
       "elo11v11": 0,
@@ -10214,15 +10195,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778977643661,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14820,6 +14793,9 @@
       "playerId": "1435327843289665596",
       "inviterId": "1351695098878103592",
       "timestamp": 1778974267739
+    },
+    "invite_460090789272354817": {
+      "cooldownUntil": 1778978017129
     }
   },
   "userNicknames": {
@@ -17235,31 +17211,13 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778977143552": {
-      "team1Id": "965000459469348864",
-      "team2Id": "757056855175594004",
-      "team1Name": "Resonance",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778977143552
-    },
-    "1778977273576": {
-      "team1Id": "965000459469348864",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Resonance",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1778977273576
-    },
     "1778977323583": {
       "team1Id": "965000459469348864",
       "team2Id": "757056855175594004",
       "team1Name": "Resonance",
       "team2Name": "ⅩⅠⅠⅠ",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": false,
       "timestamp": 1778977323583
     },
     "1778977498606": {
@@ -17270,6 +17228,24 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1778977498606
+    },
+    "1778977753648": {
+      "team1Id": "757056855175594004",
+      "team2Id": "611697342604902450",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Codependence",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778977753648
+    },
+    "1778977793655": {
+      "team1Id": "1351695098878103592",
+      "team2Id": "611697342604902450",
+      "team1Name": "kawaii",
+      "team2Name": "Codependence",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778977793655
     }
   },
   "pendingVCRequests": {},
