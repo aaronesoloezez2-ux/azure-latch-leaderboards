@@ -21424,61 +21424,6 @@
     "region": "NA",
     "elo5v5": 59
   },
-  "553371454607982596": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "1093388128527601695": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "460090789272354817": {
-    "team": "Resonance",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "1038336171127873588": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "396111393058979840": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "1482063866778357993": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "596845409150828563": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97
-  },
-  "1040715701708656650": {
-    "team": "Resonance",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 97,
-    "isModerator": true
-  },
-  "965000459469348864": {
-    "team": "Resonance",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 97
-  },
   "892318829013794817": {
     "team": "Devil May Cry",
     "isLeader": true,
@@ -22332,6 +22277,13 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
+  },
+  "1040715701708656650": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1290679358528290868": {
     "team": null,
