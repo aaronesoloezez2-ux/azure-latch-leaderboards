@@ -19354,6 +19354,12 @@
     "region": "NA",
     "elo5v5": 8
   },
+  "587301011836764181": {
+    "team": "Citizens-U3",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 8
+  },
   "675454999228055553": {
     "team": "Vision",
     "isLeader": false,
@@ -19908,12 +19914,6 @@
     "elo5v5": 121
   },
   "945363515680641034": {
-    "team": "Symphony",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 121
-  },
-  "587301011836764181": {
     "team": "Symphony",
     "isLeader": false,
     "region": "NA",
