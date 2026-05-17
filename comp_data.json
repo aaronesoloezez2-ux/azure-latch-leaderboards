@@ -9934,7 +9934,7 @@
       "achievements": []
     },
     "comp top 1 na": {
-      "elo5v5": 80,
+      "elo5v5": 59,
       "elo11v11": 0,
       "leaders": [
         "1013576163488182343"
@@ -10133,7 +10133,7 @@
       "achievements": []
     },
     "Codependence": {
-      "elo5v5": 21,
+      "elo5v5": 44,
       "elo11v11": 0,
       "leaders": [
         "611697342604902450",
@@ -10209,15 +10209,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778984602114,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -16009,7 +16001,8 @@
     "1081319797180088422": "comp top 1 na",
     "644671963054473216": "pan",
     "1396466222522175601": "Gojo",
-    "970455717792321567": "Creature"
+    "970455717792321567": "Creature",
+    "1110317128952844339": "M1les"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17216,7 +17209,8 @@
     "1364318290088034335": 1779153049011,
     "776225237481947217": 1779153180176,
     "1213349163190849609": 1779156296595,
-    "847505723763195914": 1779157507008
+    "847505723763195914": 1779157507008,
+    "1110317128952844339": 1779157748699
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
@@ -17229,6 +17223,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1778984485275
+    },
+    "1778984870343": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "995404195958108242",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Attrition",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1778984870343
     }
   },
   "pendingVCRequests": {},
