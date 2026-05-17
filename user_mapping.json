@@ -19739,6 +19739,13 @@
     "region": "NA",
     "elo5v5": 7
   },
+  "747948371301499041": {
+    "team": "Seirin",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 7,
+    "isModerator": true
+  },
   "1349306326274146366": {
     "team": "Hoshino (星野)",
     "isLeader": false,
@@ -22372,13 +22379,6 @@
     "isModerator": true
   },
   "749678245863227462": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "747948371301499041": {
     "team": null,
     "isLeader": false,
     "region": null,
