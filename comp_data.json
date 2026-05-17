@@ -583,7 +583,7 @@
         "909618541236482058"
       ],
       "region": "NA",
-      "elo5v5": 62,
+      "elo5v5": 42,
       "elo11v11": 0,
       "achievements": []
     },
@@ -9844,7 +9844,7 @@
       "achievements": []
     },
     "Paragon": {
-      "elo5v5": 44,
+      "elo5v5": 65,
       "elo11v11": 0,
       "leaders": [
         "662551566397472798"
@@ -17286,6 +17286,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779061212078
+    },
+    "1779061697197": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "662551566397472798",
+      "team1Name": "Ubers+",
+      "team2Name": "Paragon",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779061697197
     }
   },
   "pendingVCRequests": {},
