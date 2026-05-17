@@ -7653,7 +7653,6 @@
         "1161666861868519454",
         "1193097682571513981",
         "1359063036857421914",
-        "263994314990944268",
         "1329636569119719493"
       ],
       "region": "Asia",
@@ -10240,11 +10239,11 @@
     }
   },
   "matchmaking": {
-    "1264992459704766566": {
-      "teamName": "Black Shores",
+    "728385309666050149": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779046079571,
+      "startTime": 1779048476512,
       "lastOpponents": []
     }
   },
@@ -14863,9 +14862,6 @@
       "playerId": "1023643008895291462",
       "inviterId": "1309828754260099149",
       "timestamp": 1779046907992
-    },
-    "invite_1309828754260099149": {
-      "cooldownUntil": 1779047207992
     }
   },
   "userNicknames": {
@@ -17310,7 +17306,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779048149468": {
+      "team1Id": "1264992459704766566",
+      "team2Id": "611697342604902450",
+      "team1Name": "Black Shores",
+      "team2Name": "Codependence",
+      "team1Vote": false,
+      "team2Vote": null,
+      "timestamp": 1779048149468
+    },
+    "1779048394504": {
+      "team1Id": "611697342604902450",
+      "team2Id": "1249902035352948836",
+      "team1Name": "Codependence",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779048394504
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
