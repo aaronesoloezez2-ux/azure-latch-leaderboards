@@ -18532,18 +18532,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1110317128952844339": {
-    "team": "Oshu Oshi NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "572988547812950016": {
-    "team": "Oshu Oshi NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1093982372178964581": {
     "team": "Oshu Oshi NA",
     "isLeader": false,
@@ -18569,18 +18557,6 @@
     "elo5v5": 0
   },
   "1477860177406460005": {
-    "team": "Oshu Oshi NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "717232453814583337": {
-    "team": "Oshu Oshi NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "722164644558667816": {
     "team": "Oshu Oshi NA",
     "isLeader": false,
     "region": "NA",
@@ -22160,6 +22136,48 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 21
+  },
+  "668701011137003521": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1110317128952844339": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "717232453814583337": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1204510953484582953": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "572988547812950016": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "722164644558667816": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "111031712895284433": {
+    "team": "Vorpal Swords",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
   },
   "1040715701708656650": {
     "team": null,
