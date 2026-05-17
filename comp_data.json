@@ -10154,7 +10154,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -10210,11 +10210,11 @@
     }
   },
   "matchmaking": {
-    "1200920802246262925": {
-      "teamName": "Symphony",
+    "1469123991271899318": {
+      "teamName": "Solarius",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778986281259,
+      "startTime": 1778989492664,
       "lastOpponents": []
     }
   },
@@ -17239,7 +17239,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778989386384": {
+      "team1Id": "1200920802246262925",
+      "team2Id": "1469123991271899318",
+      "team1Name": "Symphony",
+      "team2Name": "Solarius",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778989386384
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
