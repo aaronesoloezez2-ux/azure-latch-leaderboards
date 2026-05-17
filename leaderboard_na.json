@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Symphony",
+    "elo5v5": 100
+  },
+  {
+    "rank": 10,
     "teamName": "Resonance",
     "elo5v5": 97
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "kawaii",
     "elo5v5": 96
-  },
-  {
-    "rank": 11,
-    "teamName": "Symphony",
-    "elo5v5": 83
   },
   {
     "rank": 12,
@@ -121,53 +121,53 @@
   },
   {
     "rank": 25,
-    "teamName": "Re Al U-20",
-    "elo5v5": 28
-  },
-  {
-    "rank": 26,
     "teamName": "Son",
     "elo5v5": 27
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Generation Of Miracles",
     "elo5v5": 22
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Vorpal Swords",
     "elo5v5": 21
+  },
+  {
+    "rank": 34,
+    "teamName": "Re Al U-20",
+    "elo5v5": 10
   },
   {
     "rank": 35,
