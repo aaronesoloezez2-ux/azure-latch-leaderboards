@@ -5736,7 +5736,6 @@
         "589932939391926467",
         "1437537784314331408",
         "1285988942877032593",
-        "1323379766098661437",
         "1364318290088034335",
         "1081319797180088422"
       ],
@@ -17281,17 +17280,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779049224679": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1013576163488182343",
-      "team1Name": "Kiseki",
-      "team2Name": "comp top 1 na",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779049224679
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
