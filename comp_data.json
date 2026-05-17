@@ -6482,7 +6482,8 @@
         "896498730113568839",
         "893549579377713213",
         "776173653888991232",
-        "1452750249494839452"
+        "1452750249494839452",
+        "1155277051595604068"
       ],
       "region": "Europe",
       "achievements": []
@@ -17280,14 +17281,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779052335196": {
-      "team1Id": "847505723763195914",
-      "team2Id": "868243652416254034",
-      "team1Name": "Vorpal Swords",
-      "team2Name": "Vitality",
+    "1779052810274": {
+      "team1Id": "1381851488569004103",
+      "team2Id": "757056855175594004",
+      "team1Name": "Metalogic",
+      "team2Name": "ⅩⅠⅠⅠ",
       "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779052335196
+      "team2Vote": true,
+      "timestamp": 1779052810274
     }
   },
   "pendingVCRequests": {},
