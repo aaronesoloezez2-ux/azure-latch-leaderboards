@@ -96,33 +96,33 @@
   },
   {
     "rank": 20,
-    "teamName": "Codependence",
+    "teamName": "Paragon",
     "elo5v5": 44
   },
   {
     "rank": 21,
+    "teamName": "Codependence",
+    "elo5v5": 44
+  },
+  {
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Vinland",
     "elo5v5": 28
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Son",
     "elo5v5": 27
-  },
-  {
-    "rank": 25,
-    "teamName": "Paragon",
-    "elo5v5": 24
   },
   {
     "rank": 26,
