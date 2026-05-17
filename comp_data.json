@@ -8872,8 +8872,7 @@
         "1405385953899581480",
         "1025178336122650644",
         "792524269736951840",
-        "1322341986149077095",
-        "1040715701708656650"
+        "1322341986149077095"
       ],
       "region": "NA",
       "achievements": []
@@ -10216,11 +10215,11 @@
     }
   },
   "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "comp top 1 na",
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778976318960,
+      "startTime": 1778977643661,
       "lastOpponents": []
     }
   },
@@ -17236,14 +17235,41 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778976048314": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "611697342604902450",
-      "team1Name": "comp top 1 na",
-      "team2Name": "Codependence",
+    "1778977143552": {
+      "team1Id": "965000459469348864",
+      "team2Id": "757056855175594004",
+      "team1Name": "Resonance",
+      "team2Name": "ⅩⅠⅠⅠ",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1778976048314
+      "timestamp": 1778977143552
+    },
+    "1778977273576": {
+      "team1Id": "965000459469348864",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Resonance",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778977273576
+    },
+    "1778977323583": {
+      "team1Id": "965000459469348864",
+      "team2Id": "757056855175594004",
+      "team1Name": "Resonance",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778977323583
+    },
+    "1778977498606": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "1143485438787596389",
+      "team1Name": "comp top 1 na",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778977498606
     }
   },
   "pendingVCRequests": {},
