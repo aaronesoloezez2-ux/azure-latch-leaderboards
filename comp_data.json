@@ -10179,23 +10179,6 @@
       ],
       "region": "NA",
       "achievements": []
-    },
-    "G50": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "859770190492860427"
-      ],
-      "players": [
-        "1040715701708656650",
-        "697195120361078835",
-        "1038336171127873588",
-        "553371454607982596",
-        "1502806949513793618",
-        "1224420632184225943"
-      ],
-      "region": "NA",
-      "achievements": []
     }
   },
   "leaderboards": {
@@ -10235,15 +10218,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1204496416203083787": {
-      "teamName": "Generation Of Miracles",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779058262293,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17294,7 +17269,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779058746605": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "728385309666050149",
+      "team1Name": "Generation Of Miracles",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779058746605
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
