@@ -1922,7 +1922,7 @@
       "achievements": []
     },
     "Generation of Miracles": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "717242801053761566"
@@ -10221,15 +10221,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779054660146,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14839,9 +14831,6 @@
       "playerId": "1502806949513793618",
       "inviterId": "938564876199145494",
       "timestamp": 1779050585017
-    },
-    "invite_728385309666050149": {
-      "cooldownUntil": 1779055012431
     }
   },
   "userNicknames": {
@@ -16061,7 +16050,8 @@
     "1139569143897669743": "Saints",
     "862161114908590090": "EU player trust me",
     "1503597253292458085": "Calliee",
-    "1452268067479621697": "bonk"
+    "1452268067479621697": "bonk",
+    "460090789272354817": "noc"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17284,19 +17274,38 @@
     "1452268067479621697": 1779224534562,
     "1441534629097111704": 1779226843975,
     "702710123260412004": 1779226854963,
-    "1005947912565559356": 1779227341617
+    "1005947912565559356": 1779227341617,
+    "460090789272354817": 1779227996769
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779054395689": {
-      "team1Id": "899073137742848022",
-      "team2Id": "597676720413343745",
-      "team1Name": "Psychomachy",
-      "team2Name": "Masquerade",
-      "team1Vote": true,
+    "1779055580914": {
+      "team1Id": "728385309666050149",
+      "team2Id": "757056855175594004",
+      "team1Name": "Kiseki",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779054395689
+      "timestamp": 1779055580914
+    },
+    "1779056061008": {
+      "team1Id": "1381851488569004103",
+      "team2Id": "1204496416203083787",
+      "team1Name": "Metalogic",
+      "team2Name": "Generation Of Miracles",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779056061008
+    },
+    "1779056161019": {
+      "team1Id": "759647905887289364",
+      "team2Id": "1381851488569004103",
+      "team1Name": "Moon Noobs",
+      "team2Name": "Metalogic",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779056161019
     }
   },
   "pendingVCRequests": {},
