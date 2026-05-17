@@ -18432,7 +18432,7 @@
   },
   "1451004285482701003": {
     "team": "Oshu Oshi NA",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
@@ -18450,7 +18450,7 @@
   },
   "1025178336122650644": {
     "team": "Oshu Oshi NA",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
