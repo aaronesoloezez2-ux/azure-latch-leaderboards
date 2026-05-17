@@ -10181,6 +10181,18 @@
       ],
       "region": "NA",
       "achievements": []
+    },
+    "<:thosewhoknow:1459606904526475264>Mango Overlord": {
+      "elo5v5": 0,
+      "elo11v11": 0,
+      "leaders": [
+        "1502806949513793618"
+      ],
+      "players": [
+        "1502806949513793618"
+      ],
+      "region": "Asia",
+      "achievements": []
     }
   },
   "leaderboards": {
@@ -17278,17 +17290,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779061697197": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "662551566397472798",
-      "team1Name": "Ubers+",
-      "team2Name": "Paragon",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779061697197
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
