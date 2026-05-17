@@ -10156,6 +10156,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
+        "847505723763195914",
         "111031712895284433"
       ],
       "players": [
@@ -10208,11 +10209,11 @@
     }
   },
   "matchmaking": {
-    "883782190348001351": {
-      "teamName": "Symphony",
+    "1335102355695468688": {
+      "teamName": "Re Al U-20",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1778982933379,
+      "startTime": 1778984602114,
       "lastOpponents": []
     }
   },
@@ -17214,7 +17215,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778984485275": {
+      "team1Id": "883782190348001351",
+      "team2Id": "1335102355695468688",
+      "team1Name": "Symphony",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778984485275
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
