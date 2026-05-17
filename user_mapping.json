@@ -16710,7 +16710,8 @@
     "team": "Espadas",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 20
+    "elo5v5": 20,
+    "isModerator": true
   },
   "740294285366395001": {
     "team": "Espadas",
@@ -18497,12 +18498,6 @@
     "elo5v5": 0
   },
   "968892954775269376": {
-    "team": "ZeniX",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "939903976122511394": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
