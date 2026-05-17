@@ -7556,7 +7556,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 188,
+      "elo5v5": 195,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -9259,7 +9259,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 7,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1237287086801817671",
@@ -10221,7 +10221,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779056255827,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17280,15 +17288,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779055580914": {
-      "team1Id": "728385309666050149",
-      "team2Id": "757056855175594004",
-      "team1Name": "Kiseki",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779055580914
-    },
     "1779056061008": {
       "team1Id": "1381851488569004103",
       "team2Id": "1204496416203083787",
