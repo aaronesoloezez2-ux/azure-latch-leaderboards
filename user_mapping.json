@@ -15305,85 +15305,6 @@
     "region": "NA",
     "elo5v5": 155
   },
-  "572170241820459042": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "1353220534367682582": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "578719398785974272": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "1306082210528624654": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "1426399544597545013": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "723963456549683270": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195,
-    "isModerator": true
-  },
-  "697195120361078835": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "705075370076143718": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "1070537758331895899": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "991147493385568357": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "396111393058979840": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "460090789272354817": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 195
-  },
-  "965000459469348864": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 195
-  },
   "1012900853537063112": {
     "team": "Paradox",
     "isLeader": false,
@@ -22296,6 +22217,85 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
+  },
+  "572170241820459042": {
+    "team": "G50:R",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "1353220534367682582": {
+    "team": "G50:R",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "578719398785974272": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "1306082210528624654": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "1426399544597545013": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "723963456549683270": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195,
+    "isModerator": true
+  },
+  "697195120361078835": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "705075370076143718": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "1070537758331895899": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "991147493385568357": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "396111393058979840": {
+    "team": "G50:R",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "460090789272354817": {
+    "team": "G50:R",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 195
+  },
+  "965000459469348864": {
+    "team": "G50:R",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 195
   },
   "1040715701708656650": {
     "team": null,
