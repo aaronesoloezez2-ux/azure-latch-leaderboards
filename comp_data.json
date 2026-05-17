@@ -9444,7 +9444,7 @@
       "achievements": []
     },
     "Symphony": {
-      "elo5v5": 103,
+      "elo5v5": 83,
       "elo11v11": 0,
       "leaders": [
         "1200920802246262925",
@@ -9960,7 +9960,7 @@
       "achievements": []
     },
     "Resonance": {
-      "elo5v5": 51,
+      "elo5v5": 73,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864",
@@ -10195,15 +10195,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1076521298823495802": {
-      "teamName": "Monarchs Recrowned FC",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778979945492,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14790,8 +14782,8 @@
     "1435327843289665596": 1779153960077
   },
   "pendingInvites": {
-    "invite_1204496416203083787": {
-      "cooldownUntil": 1778981456618
+    "invite_710006040254480396": {
+      "cooldownUntil": 1778982498970
     }
   },
   "userNicknames": {
@@ -17206,7 +17198,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1778982299641": {
+      "team1Id": "662551566397472798",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Paragon",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1778982299641
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
