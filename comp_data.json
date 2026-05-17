@@ -8068,7 +8068,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 223,
+      "elo5v5": 211,
       "elo11v11": 0,
       "leaders": [
         "574668456859795457",
@@ -10005,7 +10005,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 21,
+      "elo5v5": 49,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -17293,17 +17293,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779056956129": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "859770190492860427",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "G50",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779056956129
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
