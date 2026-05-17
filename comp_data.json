@@ -8929,8 +8929,7 @@
         "717987167611387926",
         "796193350922272829",
         "1172260646650384409",
-        "773720621200441354",
-        "1466504461504479349"
+        "773720621200441354"
       ],
       "region": "NA",
       "achievements": []
@@ -10210,15 +10209,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "995404195958108242": {
-      "teamName": "Attrition",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1778985230246,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14810,9 +14801,6 @@
       "playerId": "1235204230898384938",
       "inviterId": "1013576163488182343",
       "timestamp": 1778984972920
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1778985387557
     }
   },
   "userNicknames": {
@@ -16017,7 +16005,8 @@
     "644671963054473216": "pan",
     "1396466222522175601": "Gojo",
     "970455717792321567": "Creature",
-    "1110317128952844339": "M1les"
+    "1110317128952844339": "M1les",
+    "572988547812950016": "Vorpal Sword"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17225,20 +17214,12 @@
     "1213349163190849609": 1779156296595,
     "847505723763195914": 1779157507008,
     "1110317128952844339": 1779157748699,
-    "767181637040734218": 1779157838138
+    "767181637040734218": 1779157838138,
+    "572988547812950016": 1779158196168
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1778984870343": {
-      "team1Id": "1335102355695468688",
-      "team2Id": "995404195958108242",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Attrition",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1778984870343
-    },
     "1778985220399": {
       "team1Id": "835590854580240405",
       "team2Id": "1335102355695468688",
@@ -17247,6 +17228,24 @@
       "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1778985220399
+    },
+    "1778985375421": {
+      "team1Id": "995404195958108242",
+      "team2Id": "847505723763195914",
+      "team1Name": "Attrition",
+      "team2Name": "Vorpal Swords",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1778985375421
+    },
+    "1778985470441": {
+      "team1Id": "1453334847211962390",
+      "team2Id": "835590854580240405",
+      "team1Name": "Solarius",
+      "team2Name": "Bear United",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1778985470441
     }
   },
   "pendingVCRequests": {},
