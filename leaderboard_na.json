@@ -51,28 +51,28 @@
   },
   {
     "rank": 11,
+    "teamName": "Paragon",
+    "elo5v5": 83
+  },
+  {
+    "rank": 12,
     "teamName": "comp top 1 na",
     "elo5v5": 77
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 69
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
-  },
-  {
-    "rank": 15,
-    "teamName": "Paragon",
-    "elo5v5": 65
   },
   {
     "rank": 16,
@@ -146,58 +146,58 @@
   },
   {
     "rank": 30,
-    "teamName": "Ubers+",
-    "elo5v5": 21
-  },
-  {
-    "rank": 31,
     "teamName": "Yakuza",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Masquerade",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Serendipity",
     "elo5v5": 9
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Sulk",
     "elo5v5": 8
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Citizens-U3",
     "elo5v5": 8
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Crimson Authority",
     "elo5v5": 3
+  },
+  {
+    "rank": 40,
+    "teamName": "Ubers+",
+    "elo5v5": 2
   },
   {
     "rank": 41,
