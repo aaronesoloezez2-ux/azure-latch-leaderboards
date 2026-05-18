@@ -16489,7 +16489,7 @@
   },
   "1285337928989544468": {
     "team": "Vitality",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 198
   },
@@ -16547,18 +16547,18 @@
     "region": "NA",
     "elo5v5": 198
   },
-  "574668456859795457": {
-    "team": "Vitality",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 198
-  },
   "868243652416254034": {
     "team": "Vitality",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 198,
     "isModerator": true
+  },
+  "574668456859795457": {
+    "team": "Vitality",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 198
   },
   "1000368517150945340": {
     "team": "Espadas",
