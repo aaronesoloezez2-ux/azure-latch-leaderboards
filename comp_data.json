@@ -9365,26 +9365,6 @@
       "region": "Asia",
       "achievements": []
     },
-    "Solarius": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1469123991271899318",
-        "1453334847211962390"
-      ],
-      "players": [
-        "1390755048434307092",
-        "998769284513812501",
-        "1342931782273597582",
-        "1453334847211962390",
-        "768118677387477004",
-        "347283418553253888",
-        "1474149459595100170",
-        "1139569143897669743"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Project//SSC-Naples": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -14846,9 +14826,6 @@
       "playerId": "1023062575174406204",
       "inviterId": "1013576163488182343",
       "timestamp": 1779066509342
-    },
-    "invite_572170241820459042": {
-      "cooldownUntil": 1779067317562
     }
   },
   "userNicknames": {
@@ -17299,17 +17276,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779066503403": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "728385309666050149",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779066503403
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
