@@ -10142,7 +10142,8 @@
         "1124336686814470215",
         "1063643597418807377",
         "1038336171127873588",
-        "1280938486030930077"
+        "1280938486030930077",
+        "899073137742848022"
       ],
       "region": "NA",
       "elo5v5": 143,
@@ -10192,11 +10193,11 @@
     }
   },
   "matchmaking": {
-    "1204496416203083787": {
-      "teamName": "Generation Of Miracles",
+    "1200920802246262925": {
+      "teamName": "Symphony",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779071034442,
+      "startTime": 1779075920602,
       "lastOpponents": []
     }
   },
@@ -14811,8 +14812,14 @@
       "inviterId": "1013576163488182343",
       "timestamp": 1779069988905
     },
-    "invite_381953108760068106": {
-      "cooldownUntil": 1779075432853
+    "1779075633404": {
+      "teamName": "Re Al U-20",
+      "playerId": "1040715701708656650",
+      "inviterId": "1335102355695468688",
+      "timestamp": 1779075633404
+    },
+    "invite_1335102355695468688": {
+      "cooldownUntil": 1779075933404
     }
   },
   "userNicknames": {
@@ -17265,7 +17272,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779075626022": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "1200920802246262925",
+      "team1Name": "Generation Of Miracles",
+      "team2Name": "Symphony",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779075626022
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
