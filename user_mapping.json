@@ -41,85 +41,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "381953108760068106": {
-    "team": "Kurain",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "301482535836450816": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "540357438331682839": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "1102742505751068713": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "471410854613745665": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "394851984710172673": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "735409729001750638": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "670445460900806666": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "567761404669722644": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "1124336686814470215": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "1063643597418807377": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "1038336171127873588": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143
-  },
-  "1280938486030930077": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143,
-    "isModerator": true
-  },
   "456226577798135808": {
     "team": "7 deadly sins",
     "isLeader": false,
@@ -22272,6 +22193,85 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
+  },
+  "381953108760068106": {
+    "team": "G50:K",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "301482535836450816": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "540357438331682839": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "1102742505751068713": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "471410854613745665": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "394851984710172673": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "735409729001750638": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "670445460900806666": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "567761404669722644": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "1124336686814470215": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "1063643597418807377": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "1038336171127873588": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
+  "1280938486030930077": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143,
+    "isModerator": true
   },
   "1040715701708656650": {
     "team": null,
