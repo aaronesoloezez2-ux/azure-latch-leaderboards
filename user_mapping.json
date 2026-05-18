@@ -10978,6 +10978,12 @@
     "region": "NA",
     "elo5v5": 167
   },
+  "1115974502984196187": {
+    "team": "Re Al",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 167
+  },
   "509160088632819712": {
     "team": "Re Al",
     "isLeader": true,
@@ -19365,12 +19371,6 @@
     "elo5v5": 29
   },
   "959304778989584447": {
-    "team": "Seirin",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 29
-  },
-  "1115974502984196187": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
