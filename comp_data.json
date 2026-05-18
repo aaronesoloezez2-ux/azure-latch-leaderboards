@@ -9678,7 +9678,6 @@
         "1013576163488182343"
       ],
       "players": [
-        "478725373513695244",
         "967575388547055686",
         "815362774393552966",
         "1149656132378447894",
@@ -10178,7 +10177,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779144381674,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
