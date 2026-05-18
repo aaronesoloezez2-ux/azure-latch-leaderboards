@@ -18123,12 +18123,6 @@
     "region": "Europe",
     "elo5v5": 47
   },
-  "536220175582756865": {
-    "team": "Disband FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 8
-  },
   "1441680273552179272": {
     "team": "Disband FC",
     "isLeader": false,
@@ -18160,12 +18154,6 @@
     "elo5v5": 8
   },
   "1500884815380222038": {
-    "team": "Disband FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 8
-  },
-  "597462929310220308": {
     "team": "Disband FC",
     "isLeader": false,
     "region": "Europe",
@@ -22145,6 +22133,36 @@
   "344075580766945290": {
     "team": "Na'Vi",
     "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "541323334185385995": {
+    "team": "Mercenaries",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "597462929310220308": {
+    "team": "Mercenaries",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "536220175582756865": {
+    "team": "Mercenaries",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "603457703159005215": {
+    "team": "Mercenaries",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1248228231543521381": {
+    "team": "Mercenaries",
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
