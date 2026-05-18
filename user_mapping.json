@@ -673,6 +673,13 @@
     "region": "Europe",
     "elo5v5": 29
   },
+  "1029779932999594016": {
+    "team": "Abibas FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 29,
+    "isModerator": true
+  },
   "790479627478892574": {
     "team": "Abibas FC",
     "isLeader": true,
@@ -16427,13 +16434,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 20
-  },
-  "1029779932999594016": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20,
-    "isModerator": true
   },
   "740294285366395001": {
     "team": "Espadas",
