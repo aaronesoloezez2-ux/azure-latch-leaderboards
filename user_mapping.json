@@ -113,6 +113,13 @@
     "region": "NA",
     "elo5v5": 143
   },
+  "1280938486030930077": {
+    "team": "Kurain",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143,
+    "isModerator": true
+  },
   "456226577798135808": {
     "team": "7 deadly sins",
     "isLeader": false,
@@ -22281,13 +22288,6 @@
     "isModerator": true
   },
   "1244400339243892806": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1280938486030930077": {
     "team": null,
     "isLeader": false,
     "region": null,
