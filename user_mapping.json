@@ -3171,7 +3171,7 @@
   },
   "713044980343504989": {
     "team": "DARK CLUB",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -11814,7 +11814,7 @@
   },
   "1160159558765924423": {
     "team": "MraX",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
