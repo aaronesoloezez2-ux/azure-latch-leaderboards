@@ -7929,42 +7929,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1387896602446008532": {
-    "team": "Fallen Strikers",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1310822673856598087": {
-    "team": "Fallen Strikers",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1368296615105925232": {
-    "team": "Fallen Strikers",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "688160606603444307": {
-    "team": "Fallen Strikers",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "987885639787757588": {
-    "team": "Fallen Strikers",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "965648174494679101": {
-    "team": "Fallen Strikers",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1198370989696884910": {
     "team": "Drones.exe",
     "isLeader": true,
@@ -22289,6 +22253,42 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 195
+  },
+  "1387896602446008532": {
+    "team": "Spectral FC",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1310822673856598087": {
+    "team": "Spectral FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1368296615105925232": {
+    "team": "Spectral FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "688160606603444307": {
+    "team": "Spectral FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "987885639787757588": {
+    "team": "Spectral FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "965648174494679101": {
+    "team": "Spectral FC",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
   },
   "1040715701708656650": {
     "team": null,
