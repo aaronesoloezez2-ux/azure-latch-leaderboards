@@ -8052,7 +8052,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 211,
+      "elo5v5": 198,
       "elo11v11": 0,
       "leaders": [
         "574668456859795457",
@@ -9219,7 +9219,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 0,
+      "elo5v5": 29,
       "elo11v11": 0,
       "leaders": [
         "1237287086801817671",
@@ -17267,17 +17267,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779068363841": {
-      "team1Id": "1143485438787596389",
-      "team2Id": "1200920802246262925",
-      "team1Name": "Masquerade",
-      "team2Name": "Symphony",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779068363841
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
