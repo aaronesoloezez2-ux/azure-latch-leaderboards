@@ -8510,7 +8510,7 @@
       "achievements": []
     },
     "Quashers": {
-      "elo5v5": 168,
+      "elo5v5": 181,
       "elo11v11": 0,
       "leaders": [
         "1344456796923760668"
@@ -9510,7 +9510,7 @@
       "achievements": []
     },
     "Chem Brickers": {
-      "elo5v5": 208,
+      "elo5v5": 198,
       "elo11v11": 0,
       "leaders": [
         "902272222964625428",
@@ -14815,14 +14815,7 @@
     "780449912122900500": 1779374746768,
     "940678398399877181": 1779378050097
   },
-  "pendingInvites": {
-    "1779198101615": {
-      "teamName": "Devil May Cry",
-      "playerId": "885500704020631592",
-      "inviterId": "892318829013794817",
-      "timestamp": 1779198101615
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
