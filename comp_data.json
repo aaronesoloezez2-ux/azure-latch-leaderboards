@@ -9196,7 +9196,6 @@
         "1091821692164247622",
         "1005947912565559356",
         "689354062235303937",
-        "949707465610645525",
         "857399142196052008"
       ],
       "region": "NA",
@@ -10173,13 +10172,6 @@
       "searchType": "unlimited",
       "region": "NA",
       "startTime": 1779148741180,
-      "lastOpponents": []
-    },
-    "1320293329317134358": {
-      "teamName": "Son",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779149677251,
       "lastOpponents": []
     }
   },
