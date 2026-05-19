@@ -15025,12 +15025,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1426184281247715358": {
-    "team": "Pierce The Veil",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1152976069310304286": {
     "team": "Enlightened",
     "isLeader": false,
@@ -22132,6 +22126,12 @@
     "elo5v5": 0
   },
   "946766574545682443": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1426184281247715358": {
     "team": "Veil",
     "isLeader": false,
     "region": "Europe",
