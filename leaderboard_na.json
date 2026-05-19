@@ -47,7 +47,7 @@
   {
     "rank": 10,
     "teamName": "Symphony",
-    "elo5v5": 121
+    "elo5v5": 135
   },
   {
     "rank": 11,
@@ -86,43 +86,43 @@
   },
   {
     "rank": 18,
-    "teamName": "Vorpal Swords",
-    "elo5v5": 49
-  },
-  {
-    "rank": 19,
     "teamName": "Moon Noobs",
     "elo5v5": 42
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Generation of Miracles",
     "elo5v5": 41
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Masquerade",
     "elo5v5": 41
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Seirin",
     "elo5v5": 41
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
+  },
+  {
+    "rank": 25,
+    "teamName": "Vorpal Swords",
+    "elo5v5": 32
   },
   {
     "rank": 26,
