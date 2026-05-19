@@ -5693,7 +5693,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 167,
+      "elo5v5": 151,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -9129,7 +9129,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 15,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "1237287086801817671",
@@ -10179,7 +10179,16 @@
     }
   },
   "refereeQueue": [],
-  "awaitingReferee": {},
+  "awaitingReferee": {
+    "1779151219979": {
+      "team1Id": "1112150858562539561",
+      "team2Id": "995404195958108242",
+      "team1Name": "Son",
+      "team2Name": "Attrition",
+      "vcLink": null,
+      "timestamp": 1779151219979
+    }
+  },
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -14805,9 +14814,6 @@
       "inviterId": "995404195958108242",
       "timestamp": 1779150946383
     },
-    "invite_995404195958108242": {
-      "cooldownUntil": 1779151246383
-    },
     "invite_381953108760068106": {
       "cooldownUntil": 1779151385401
     }
@@ -17275,16 +17281,7 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {},
-  "pendingVCRequests": {
-    "vc_1779150238334": {
-      "team1Id": "1112150858562539561",
-      "team2Id": "995404195958108242",
-      "team1Name": "Son",
-      "team2Name": "Attrition",
-      "vcLink": null,
-      "timestamp": 1779150603907
-    }
-  },
+  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
