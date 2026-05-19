@@ -19533,12 +19533,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "761789721344868442": {
-    "team": "AfterBrick",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "828353861508005908": {
     "team": "AfterBrick",
     "isLeader": false,
@@ -19546,6 +19540,12 @@
     "elo5v5": 0
   },
   "940678398399877181": {
+    "team": "AfterBrick",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "761789721344868442": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
