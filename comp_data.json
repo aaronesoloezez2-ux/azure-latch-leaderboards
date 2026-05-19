@@ -7395,7 +7395,8 @@
         "1270476084143591485",
         "952253341696659536",
         "345710244787388426",
-        "558387914891984901"
+        "558387914891984901",
+        "1167834194093805578"
       ],
       "region": "NA",
       "achievements": []
@@ -10170,7 +10171,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779153057932,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {
     "1779151219979": {
@@ -14792,7 +14801,8 @@
     "756734290959794309": 1779323168307,
     "949707465610645525": 1779323365528,
     "1132531466568466553": 1779323898995,
-    "1481494653604856011": 1779325411388
+    "1481494653604856011": 1779325411388,
+    "1167834194093805578": 1779326229392
   },
   "pendingInvites": {
     "1779150343244": {
@@ -14807,8 +14817,8 @@
       "inviterId": "995404195958108242",
       "timestamp": 1779150946383
     },
-    "invite_1143485438787596389": {
-      "cooldownUntil": 1779152907353
+    "invite_1335373684726042777": {
+      "cooldownUntil": 1779153652177
     }
   },
   "userNicknames": {
@@ -17274,14 +17284,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779152798775": {
-      "team1Id": "1204496416203083787",
+    "1779153038808": {
+      "team1Id": "1143485438787596389",
       "team2Id": "1381851488569004103",
-      "team1Name": "Generation Of Miracles",
+      "team1Name": "Masquerade",
       "team2Name": "Metalogic",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779152798775
+      "timestamp": 1779153038808
     }
   },
   "pendingVCRequests": {},
