@@ -10057,7 +10057,6 @@
         "1038336171127873588",
         "1280938486030930077",
         "899073137742848022",
-        "1040715701708656650",
         "949707465610645525",
         "1132531466568466553"
       ],
@@ -10174,26 +10173,9 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779153057932,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
-  "awaitingReferee": {
-    "1779151219979": {
-      "team1Id": "1112150858562539561",
-      "team2Id": "995404195958108242",
-      "team1Name": "Son",
-      "team2Name": "Attrition",
-      "vcLink": null,
-      "timestamp": 1779151219979
-    }
-  },
+  "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -14808,11 +14790,7 @@
     "1123809252545400832": 1779326968282,
     "749785335420026950": 1779327139955
   },
-  "pendingInvites": {
-    "invite_995404195958108242": {
-      "cooldownUntil": 1779154633464
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17277,7 +17255,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779154689126": {
+      "team1Id": "757056855175594004",
+      "team2Id": "1204496416203083787",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Generation Of Miracles",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779154689126
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
