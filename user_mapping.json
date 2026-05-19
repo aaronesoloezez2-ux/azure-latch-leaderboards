@@ -16413,12 +16413,6 @@
     "region": "Europe",
     "elo5v5": 20
   },
-  "1187369424131473478": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
   "965349537646526474": {
     "team": "Espadas",
     "isLeader": false,
@@ -16437,19 +16431,7 @@
     "region": "Europe",
     "elo5v5": 20
   },
-  "618476725524758550": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
   "830030224368205834": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
-  "1420890018997604455": {
     "team": "Espadas",
     "isLeader": false,
     "region": "Europe",
@@ -16467,19 +16449,7 @@
     "region": "Europe",
     "elo5v5": 20
   },
-  "1499893392782524487": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
   "1012443336180781156": {
-    "team": "Espadas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
-  "946766574545682443": {
     "team": "Espadas",
     "isLeader": false,
     "region": "Europe",
@@ -22129,6 +22099,48 @@
     "team": "Zero",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1187369424131473478": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1420890018997604455": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1499893392782524487": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "618476725524758550": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "974974696921649172": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "946766574545682443": {
+    "team": "Veil",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1400431496866566164": {
+    "team": "Veil",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1040715701708656650": {
