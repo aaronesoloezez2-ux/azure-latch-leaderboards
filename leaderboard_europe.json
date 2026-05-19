@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Calamity",
+    "elo5v5": 76
+  },
+  {
+    "rank": 9,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "D7th",
     "elo5v5": 59
-  },
-  {
-    "rank": 10,
-    "teamName": "Calamity",
-    "elo5v5": 58
   },
   {
     "rank": 11,
