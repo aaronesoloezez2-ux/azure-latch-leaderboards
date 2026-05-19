@@ -10180,6 +10180,13 @@
       "region": "NA",
       "startTime": 1779155260881,
       "lastOpponents": []
+    },
+    "1320293329317134358": {
+      "teamName": "Son",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779155969200,
+      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -14810,9 +14817,6 @@
       "playerId": "518398036704100353",
       "inviterId": "849734106576191538",
       "timestamp": 1779155099689
-    },
-    "invite_1320293329317134358": {
-      "cooldownUntil": 1779156240809
     }
   },
   "userNicknames": {
