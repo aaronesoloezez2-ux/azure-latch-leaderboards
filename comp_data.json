@@ -9063,22 +9063,6 @@
       "region": "Asia",
       "achievements": []
     },
-    "Egoist Program": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "928477813294661712"
-      ],
-      "players": [
-        "928477813294661712",
-        "1277811969205731339",
-        "1073766975043539115",
-        "1047726973927030876",
-        "692839298780626964"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Hongyuan": {
       "leaders": [
         "836142936575180800",
@@ -10173,11 +10157,11 @@
     }
   },
   "matchmaking": {
-    "1320293329317134358": {
-      "teamName": "Son",
+    "883782190348001351": {
+      "teamName": "Symphony",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779155969200,
+      "startTime": 1779156659156,
       "lastOpponents": []
     }
   },
@@ -17284,6 +17268,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779156434471
+    },
+    "1779156579495": {
+      "team1Id": "1320293329317134358",
+      "team2Id": "883782190348001351",
+      "team1Name": "Son",
+      "team2Name": "Symphony",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779156579495
     }
   },
   "pendingVCRequests": {},
