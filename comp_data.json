@@ -9510,7 +9510,7 @@
       "achievements": []
     },
     "Chem Brickers": {
-      "elo5v5": 198,
+      "elo5v5": 204,
       "elo11v11": 0,
       "leaders": [
         "902272222964625428",
@@ -10165,7 +10165,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "896720760985497640": {
+      "teamName": "bnuuy",
+      "searchType": "unlimited",
+      "region": "Europe",
+      "startTime": 1779215033395,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
