@@ -9192,7 +9192,7 @@
       "achievements": []
     },
     "Symphony": {
-      "elo5v5": 107,
+      "elo5v5": 121,
       "elo11v11": 0,
       "leaders": [
         "1200920802246262925",
@@ -10157,11 +10157,11 @@
     }
   },
   "matchmaking": {
-    "1381851488569004103": {
-      "teamName": "Metalogic",
+    "1112150858562539561": {
+      "teamName": "Son",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779158158458,
+      "startTime": 1779159139805,
       "lastOpponents": []
     }
   },
@@ -14794,8 +14794,14 @@
       "inviterId": "849734106576191538",
       "timestamp": 1779155099689
     },
-    "invite_512382891666178051": {
-      "cooldownUntil": 1779158405979
+    "1779159005577": {
+      "teamName": "Rai Kanji XI.",
+      "playerId": "1465554717584134204",
+      "inviterId": "977392571879919677",
+      "timestamp": 1779159005577
+    },
+    "invite_977392571879919677": {
+      "cooldownUntil": 1779159305577
     }
   },
   "userNicknames": {
@@ -17262,53 +17268,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779157844851": {
-      "team1Id": "883782190348001351",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Symphony",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779157844851
-    },
-    "1779157999874": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Metalogic",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779157999874
-    },
-    "1779158040187": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Metalogic",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779158040187
-    },
-    "1779158060190": {
-      "team1Id": "1143485438787596389",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Masquerade",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779158060190
-    },
-    "1779158130199": {
-      "team1Id": "1143485438787596389",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Masquerade",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779158130199
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
