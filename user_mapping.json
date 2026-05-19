@@ -21973,13 +21973,6 @@
     "region": "NA",
     "elo5v5": 143
   },
-  "1040715701708656650": {
-    "team": "G50:K",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143,
-    "isModerator": true
-  },
   "949707465610645525": {
     "team": "G50:K",
     "isLeader": false,
@@ -22177,6 +22170,13 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "1040715701708656650": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1290679358528290868": {
     "team": null,
