@@ -9490,6 +9490,13 @@
     "region": "NA",
     "elo5v5": 9
   },
+  "868139633245057035": {
+    "team": "Serendipity",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 9,
+    "isModerator": true
+  },
   "849734106576191538": {
     "team": "Serendipity",
     "isLeader": true,
@@ -22138,13 +22145,6 @@
     "isModerator": true
   },
   "1244400339243892806": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "868139633245057035": {
     "team": null,
     "isLeader": false,
     "region": null,
