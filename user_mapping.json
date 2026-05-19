@@ -21924,13 +21924,6 @@
     "region": "NA",
     "elo5v5": 143
   },
-  "1280938486030930077": {
-    "team": "G50:K",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 143,
-    "isModerator": true
-  },
   "899073137742848022": {
     "team": "G50:K",
     "isLeader": false,
@@ -22134,6 +22127,55 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "709837574599868468": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "950108450216607784": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1469123991271899318": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "887818360589520936": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1023062575174406204": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "526676623827795998": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1149656132378447894": {
+    "team": "Tempest",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1280938486030930077": {
+    "team": "Tempest",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1040715701708656650": {
     "team": null,
