@@ -11916,12 +11916,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "974700242782007317": {
-    "team": "R.x.x FC",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "939256588462600202": {
     "team": "Itz goku f.c",
     "isLeader": true,
@@ -22129,6 +22123,42 @@
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
+  },
+  "1439658497909461155": {
+    "team": "Bastard Munchen",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "974700242782007317": {
+    "team": "Bastard Munchen",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "918918743134969927": {
+    "team": "Bastard Munchen",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1101560156849983512": {
+    "team": "Bastard Munchen",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1103727841541111921": {
+    "team": "Bastard Munchen",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1396466222522175601": {
+    "team": "Bastard Munchen",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
   },
   "1040715701708656650": {
     "team": null,
