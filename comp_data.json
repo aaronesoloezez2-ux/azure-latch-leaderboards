@@ -9193,7 +9193,7 @@
       "achievements": []
     },
     "Symphony": {
-      "elo5v5": 121,
+      "elo5v5": 135,
       "elo11v11": 0,
       "leaders": [
         "1200920802246262925",
@@ -9855,7 +9855,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 49,
+      "elo5v5": 32,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -14809,9 +14809,6 @@
       "playerId": "1465554717584134204",
       "inviterId": "977392571879919677",
       "timestamp": 1779159005577
-    },
-    "invite_849734106576191538": {
-      "cooldownUntil": 1779163956504
     }
   },
   "userNicknames": {
