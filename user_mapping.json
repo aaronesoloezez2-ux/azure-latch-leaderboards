@@ -13722,31 +13722,13 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1184656885895417922": {
-    "team": "Gengar FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1421534238301224970": {
     "team": "Gengar FC",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
-  "952667718363009074": {
-    "team": "Gengar FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1288239290719011001": {
-    "team": "Gengar FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1032513136441442344": {
     "team": "Gengar FC",
     "isLeader": false,
     "region": "NA",
@@ -13765,12 +13747,6 @@
     "elo5v5": 0
   },
   "1495984359373799504": {
-    "team": "Gengar FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1104437973656813620": {
     "team": "Gengar FC",
     "isLeader": false,
     "region": "NA",
@@ -22158,6 +22134,36 @@
     "team": "Bastard Munchen",
     "isLeader": true,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "1184656885895417922": {
+    "team": "Zero",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "750957467206418433": {
+    "team": "Zero",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1032513136441442344": {
+    "team": "Zero",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1104437973656813620": {
+    "team": "Zero",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "952667718363009074": {
+    "team": "Zero",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "1040715701708656650": {
