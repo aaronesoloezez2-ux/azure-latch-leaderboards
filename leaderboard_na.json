@@ -16,18 +16,18 @@
   },
   {
     "rank": 4,
-    "teamName": "Re Al",
-    "elo5v5": 167
-  },
-  {
-    "rank": 5,
     "teamName": "Bear United",
     "elo5v5": 166
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Euclesis",
     "elo5v5": 155
+  },
+  {
+    "rank": 6,
+    "teamName": "Re Al",
+    "elo5v5": 151
   },
   {
     "rank": 7,
@@ -101,73 +101,73 @@
   },
   {
     "rank": 21,
+    "teamName": "Seirin",
+    "elo5v5": 41
+  },
+  {
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Vinland",
     "elo5v5": 28
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Son",
     "elo5v5": 27
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Generation Of Miracles",
     "elo5v5": 22
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Yakuza",
     "elo5v5": 21
   },
   {
-    "rank": 30,
+    "rank": 31,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "Masquerade",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Honorary Knights",
     "elo5v5": 21
-  },
-  {
-    "rank": 34,
-    "teamName": "Seirin",
-    "elo5v5": 15
   },
   {
     "rank": 35,
