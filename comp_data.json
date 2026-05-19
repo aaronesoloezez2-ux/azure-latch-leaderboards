@@ -9682,23 +9682,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Nobleza": {
-      "elo5v5": 21,
-      "elo11v11": 0,
-      "leaders": [
-        "1296927816096550975"
-      ],
-      "players": [
-        "1459277390764310720",
-        "1004315754788823090",
-        "1088124201937932379",
-        "1193051509072597015",
-        "995997102301777970",
-        "1423069482724757786"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Divine: Chances": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10182,15 +10165,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "847505723763195914": {
-      "teamName": "Vorpal Swords",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779165803365,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14823,9 +14798,6 @@
       "playerId": "1224791630788165725",
       "inviterId": "1393264160921358419",
       "timestamp": 1779210719884
-    },
-    "invite_1396466222522175601": {
-      "cooldownUntil": 1779212412445
     }
   },
   "userNicknames": {
@@ -17302,7 +17274,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779214873858": {
+      "team1Id": "847505723763195914",
+      "team2Id": "574668456859795457",
+      "team1Name": "Vorpal Swords",
+      "team2Name": "Vitality",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779214873859
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
