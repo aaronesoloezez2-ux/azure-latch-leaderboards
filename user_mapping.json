@@ -21349,13 +21349,6 @@
     "elo5v5": 89,
     "isModerator": true
   },
-  "611697342604902450": {
-    "team": "Codependence",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 89,
-    "isModerator": true
-  },
   "1210078842362920991": {
     "team": "Codependence",
     "isLeader": true,
@@ -22212,6 +22205,13 @@
     "isModerator": true
   },
   "959895242428002334": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "611697342604902450": {
     "team": null,
     "isLeader": false,
     "region": null,
