@@ -12785,6 +12785,12 @@
     "region": "Europe",
     "elo5v5": 21
   },
+  "1152622487813759067": {
+    "team": "Oshu Oshi",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 21
+  },
   "1311412604446445570": {
     "team": "Panthera",
     "isLeader": false,
@@ -14887,6 +14893,12 @@
     "elo5v5": 0
   },
   "1278013961698021391": {
+    "team": "Stellarium",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1212301493043204158": {
     "team": "Stellarium",
     "isLeader": false,
     "region": "Asia",
