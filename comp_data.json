@@ -9985,7 +9985,6 @@
       ],
       "players": [
         "1387896602446008532",
-        "688160606603444307",
         "987885639787757588"
       ],
       "region": "NA",
@@ -10182,15 +10181,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1438985290596487241": {
-      "teamName": "Enlightened",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779233804891,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14826,9 +14817,6 @@
       "inviterId": "1438985290596487241",
       "timestamp": 1779233824373
     },
-    "invite_1456515493656789034": {
-      "cooldownUntil": 1779235085823
-    },
     "invite_1335102355695468688": {
       "cooldownUntil": 1779235191843
     }
@@ -17319,7 +17307,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779235068365": {
+      "team1Id": "1438985290596487241",
+      "team2Id": "952573404823818360",
+      "team1Name": "Enlightened",
+      "team2Name": "kawaii",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779235068365
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
