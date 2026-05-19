@@ -7813,7 +7813,8 @@
         "755564638741200917",
         "1185973866938519605",
         "708096114980683776",
-        "1228417089862369295"
+        "1228417089862369295",
+        "258351811969286146"
       ],
       "region": "NA",
       "achievements": []
@@ -10174,15 +10175,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "847505723763195914": {
-      "teamName": "Vorpal Swords",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779160771992,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14797,7 +14790,8 @@
     "1482063866778357993": 1779328753786,
     "1228417089862369295": 1779330979713,
     "1374154116351262892": 1779332322020,
-    "1322341986149077095": 1779333779979
+    "1322341986149077095": 1779333779979,
+    "258351811969286146": 1779334014327
   },
   "pendingInvites": {
     "1779154933005": {
@@ -14820,6 +14814,9 @@
     },
     "invite_847505723763195914": {
       "cooldownUntil": 1779161277946
+    },
+    "invite_512382891666178051": {
+      "cooldownUntil": 1779161491551
     }
   },
   "userNicknames": {
@@ -17286,7 +17283,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779160995725": {
+      "team1Id": "847505723763195914",
+      "team2Id": "1200920802246262925",
+      "team1Name": "Vorpal Swords",
+      "team2Name": "Symphony",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779160995725
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
