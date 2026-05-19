@@ -10174,13 +10174,6 @@
     }
   },
   "matchmaking": {
-    "1112150858562539561": {
-      "teamName": "Son",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779155260881,
-      "lastOpponents": []
-    },
     "1320293329317134358": {
       "teamName": "Son",
       "searchType": "unlimited",
@@ -17283,7 +17276,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779156434471": {
+      "team1Id": "1112150858562539561",
+      "team2Id": "883782190348001351",
+      "team1Name": "Son",
+      "team2Name": "Symphony",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779156434471
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
