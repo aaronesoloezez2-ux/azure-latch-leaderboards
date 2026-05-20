@@ -9370,12 +9370,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "933853751037538334": {
-    "team": "Serendipity",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1125553598684733481": {
     "team": "Serendipity",
     "isLeader": true,
@@ -20759,6 +20753,12 @@
     "elo5v5": 0
   },
   "1030437498104598589": {
+    "team": "Juventus FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1459277390764310720": {
     "team": "Juventus FC",
     "isLeader": false,
     "region": "Europe",
