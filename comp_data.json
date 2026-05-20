@@ -6037,7 +6037,7 @@
       "achievements": []
     },
     "Metalogic": {
-      "elo5v5": 21,
+      "elo5v5": 1,
       "elo11v11": 0,
       "leaders": [
         "1381851488569004103"
@@ -9815,7 +9815,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 32,
+      "elo5v5": 52,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -17304,23 +17304,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779235068365": {
-      "team1Id": "1438985290596487241",
-      "team2Id": "952573404823818360",
-      "team1Name": "Enlightened",
-      "team2Name": "kawaii",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779235068365
-    },
-    "1779235463411": {
+    "1779236588561": {
       "team1Id": "1438985290596487241",
       "team2Id": "952667718363009074",
       "team1Name": "Enlightened",
       "team2Name": "Zero",
       "team1Vote": null,
       "team2Vote": true,
-      "timestamp": 1779235463411
+      "timestamp": 1779236588561
     }
   },
   "pendingVCRequests": {},
