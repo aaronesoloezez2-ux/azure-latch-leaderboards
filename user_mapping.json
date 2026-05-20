@@ -17043,12 +17043,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "949077945929048104": {
-    "team": "Geniuses no sekai",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1493445528568987779": {
     "team": "Geniuses no sekai",
     "isLeader": false,
@@ -20025,6 +20019,36 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "559190978720825366": {
+    "team": "Retribution",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "949077945929048104": {
+    "team": "Retribution",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1408202495615963290": {
+    "team": "Retribution",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "528641513681321984": {
+    "team": "Retribution",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1399911250732912640": {
+    "team": "Retribution",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "412399874877816842": {
     "team": "Retribution",
     "isLeader": true,
@@ -20600,12 +20624,6 @@
     "team": "Terranova",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
-  },
-  "1408202495615963290": {
-    "team": "Mugen no kōun",
-    "isLeader": false,
-    "region": "NA",
     "elo5v5": 0
   },
   "939330227568525352": {
