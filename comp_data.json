@@ -9984,8 +9984,7 @@
         "965648174494679101"
       ],
       "players": [
-        "1387896602446008532",
-        "987885639787757588"
+        "1387896602446008532"
       ],
       "region": "NA",
       "achievements": []
@@ -14816,9 +14815,6 @@
       "playerId": "1300885787700756551",
       "inviterId": "1438985290596487241",
       "timestamp": 1779233824373
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1779235191843
     }
   },
   "userNicknames": {
@@ -17316,6 +17312,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779235068365
+    },
+    "1779235463411": {
+      "team1Id": "1438985290596487241",
+      "team2Id": "952667718363009074",
+      "team1Name": "Enlightened",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779235463411
     }
   },
   "pendingVCRequests": {},
