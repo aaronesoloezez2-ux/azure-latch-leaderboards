@@ -19504,7 +19504,7 @@
   },
   "216309723933310977": {
     "team": "Symphony",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 148
   },
