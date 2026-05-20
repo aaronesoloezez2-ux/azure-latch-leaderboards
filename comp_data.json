@@ -10112,7 +10112,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 22,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1464125504448626956",
@@ -10204,6 +10204,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
+      "lastOpponents": []
+    },
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779320727498,
       "lastOpponents": []
     }
   },
