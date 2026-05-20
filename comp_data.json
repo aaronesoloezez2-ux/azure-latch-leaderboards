@@ -4634,7 +4634,7 @@
       "sourceGuild": "1435983168535527508"
     },
     "Serendipity": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "836064878660812861",
@@ -10112,7 +10112,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "1464125504448626956",
@@ -10204,13 +10204,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
-      "lastOpponents": []
-    },
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779319793376,
       "lastOpponents": []
     }
   },
@@ -17365,7 +17358,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779320632981": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "381953108760068106",
+      "team1Name": "Re Al U-20",
+      "team2Name": "G50:K",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779320632981
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
