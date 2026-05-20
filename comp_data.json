@@ -6918,8 +6918,7 @@
         "1337403381559595011",
         "1125614015746408509",
         "1495984359373799504",
-        "733904577228963900",
-        "975774806920294451"
+        "733904577228963900"
       ],
       "region": "NA",
       "achievements": []
@@ -10119,7 +10118,8 @@
         "1184656885895417922",
         "750957467206418433",
         "1032513136441442344",
-        "1104437973656813620"
+        "1104437973656813620",
+        "975774806920294451"
       ],
       "region": "NA",
       "achievements": []
@@ -10181,24 +10181,16 @@
     }
   },
   "matchmaking": {
-    "1381851488569004103": {
-      "teamName": "Metalogic",
+    "883782190348001351": {
+      "teamName": "Symphony",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779241411351,
+      "startTime": 1779242594015,
       "lastOpponents": []
     }
   },
   "refereeQueue": [],
   "awaitingReferee": {
-    "1779238584218": {
-      "team1Id": "952667718363009074",
-      "team2Id": "1112150858562539561",
-      "team1Name": "Zero",
-      "team2Name": "Son",
-      "vcLink": null,
-      "timestamp": 1779238584218
-    },
     "1779240414244": {
       "team1Id": "995404195958108242",
       "team2Id": "1112150858562539561",
@@ -14827,7 +14819,8 @@
     "1115974502984196187": 1779407588503,
     "1149656132378447894": 1779407714422,
     "760652234513055745": 1779413498487,
-    "858791791117205504": 1779414390965
+    "858791791117205504": 1779414390965,
+    "975774806920294451": 1779415696313
   },
   "pendingInvites": {},
   "userNicknames": {
@@ -17318,17 +17311,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779241389062": {
-      "team1Id": "926536409106485338",
-      "team2Id": "1204496416203083787",
-      "team1Name": "Kiseki",
-      "team2Name": "Generation Of Miracles",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779241389062
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
