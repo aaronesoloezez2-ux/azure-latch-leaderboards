@@ -10145,8 +10145,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "1036333039845912677",
-        "708049948452585482"
+        "1036333039845912677"
       ],
       "players": [
         "999415573727420457",
@@ -17352,17 +17351,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779316046809": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "728385309666050149",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779316046809
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
