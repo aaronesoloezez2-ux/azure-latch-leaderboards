@@ -19363,12 +19363,6 @@
     "region": "NA",
     "elo5v5": 131
   },
-  "779547098000916480": {
-    "team": "Symphony",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 131
-  },
   "883782190348001351": {
     "team": "Symphony",
     "isLeader": true,
@@ -21728,6 +21722,12 @@
     "region": "NA",
     "elo5v5": 143
   },
+  "1224420632184225943": {
+    "team": "G50:K",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 143
+  },
   "864753158328287233": {
     "team": "Na'Vi",
     "isLeader": false,
@@ -22144,12 +22144,6 @@
     "elo5v5": 0
   },
   "999415573727420457": {
-    "team": "FXTE",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "671094028867207178": {
     "team": "FXTE",
     "isLeader": false,
     "region": "NA",
