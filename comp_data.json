@@ -9342,7 +9342,6 @@
         "412399874877816842"
       ],
       "players": [
-        "774467455421775902",
         "792898109294116874",
         "1220636382058516500",
         "559190978720825366",
@@ -10174,6 +10173,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
+      "lastOpponents": []
+    },
+    "849734106576191538": {
+      "teamName": "Serendipity",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779311450985,
       "lastOpponents": []
     }
   },
