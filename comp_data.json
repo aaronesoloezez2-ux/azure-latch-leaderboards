@@ -6037,7 +6037,7 @@
       "achievements": []
     },
     "Metalogic": {
-      "elo5v5": 39,
+      "elo5v5": 26,
       "elo11v11": 0,
       "leaders": [
         "1381851488569004103"
@@ -9887,7 +9887,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 233,
+      "elo5v5": 238,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -14809,17 +14809,7 @@
     "288683252581924864": 1779417779033,
     "1364318290088034335": 1779417883265
   },
-  "pendingInvites": {
-    "1779247124219": {
-      "teamName": "Kiseki",
-      "playerId": "1322341986149077095",
-      "inviterId": "728385309666050149",
-      "timestamp": 1779247124219
-    },
-    "invite_728385309666050149": {
-      "cooldownUntil": 1779247424219
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17309,14 +17299,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779246745292": {
+    "1779248200593": {
       "team1Id": "1204496416203083787",
-      "team2Id": "926536409106485338",
+      "team2Id": "512382891666178051",
       "team1Name": "Generation Of Miracles",
-      "team2Name": "Kiseki",
+      "team2Name": "Instinct",
       "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779246745292
+      "team2Vote": true,
+      "timestamp": 1779248200593
     }
   },
   "pendingVCRequests": {},
