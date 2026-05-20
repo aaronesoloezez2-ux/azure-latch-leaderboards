@@ -19811,7 +19811,7 @@
   },
   "1125171739102564432": {
     "team": "XIV",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
