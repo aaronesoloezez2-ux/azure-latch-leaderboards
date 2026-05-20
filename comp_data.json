@@ -6037,7 +6037,7 @@
       "achievements": []
     },
     "Metalogic": {
-      "elo5v5": 1,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1381851488569004103"
@@ -9815,7 +9815,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 52,
+      "elo5v5": 70,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -17312,6 +17312,15 @@
       "team1Vote": null,
       "team2Vote": true,
       "timestamp": 1779236588561
+    },
+    "1779237038613": {
+      "team1Id": "1210078842362920991",
+      "team2Id": "952573404823818360",
+      "team1Name": "Codependence",
+      "team2Name": "kawaii",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779237038613
     }
   },
   "pendingVCRequests": {},
