@@ -9829,7 +9829,6 @@
         "572988547812950016",
         "722164644558667816",
         "1138242374842187977",
-        "1322341986149077095",
         "1025178336122650644"
       ],
       "region": "NA",
@@ -10180,15 +10179,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1204496416203083787": {
-      "teamName": "Generation Of Miracles",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779244822061,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17307,7 +17298,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779246745292": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "926536409106485338",
+      "team1Name": "Generation Of Miracles",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779246745292
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
