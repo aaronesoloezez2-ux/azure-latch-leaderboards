@@ -7987,7 +7987,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 205,
+      "elo5v5": 214,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -9951,7 +9951,7 @@
       "achievements": []
     },
     "G50:R": {
-      "elo5v5": 181,
+      "elo5v5": 170,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -10181,15 +10181,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "883782190348001351": {
-      "teamName": "Symphony",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779242594015,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14818,7 +14810,17 @@
     "528641513681321984": 1779417222920,
     "1399911250732912640": 1779417222921
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1779244609445": {
+      "teamName": "Son",
+      "playerId": "288683252581924864",
+      "inviterId": "1112150858562539561",
+      "timestamp": 1779244609445
+    },
+    "invite_1112150858562539561": {
+      "cooldownUntil": 1779244909445
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17307,7 +17309,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779244754848": {
+      "team1Id": "883782190348001351",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Symphony",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779244754848
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
