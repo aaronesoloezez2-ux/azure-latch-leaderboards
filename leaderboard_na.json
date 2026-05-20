@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 233
+    "elo5v5": 238
   },
   {
     "rank": 2,
@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
-    "teamName": "Metalogic",
-    "elo5v5": 39
-  },
-  {
-    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Vinland",
     "elo5v5": 28
+  },
+  {
+    "rank": 25,
+    "teamName": "Metalogic",
+    "elo5v5": 26
   },
   {
     "rank": 26,
