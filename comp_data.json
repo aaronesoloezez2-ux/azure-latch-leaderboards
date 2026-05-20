@@ -9815,7 +9815,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 70,
+      "elo5v5": 52,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -10180,7 +10180,16 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1779237179183,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17304,15 +17313,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779236588561": {
-      "team1Id": "1438985290596487241",
-      "team2Id": "952667718363009074",
-      "team1Name": "Enlightened",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779236588561
-    },
     "1779237038613": {
       "team1Id": "1210078842362920991",
       "team2Id": "952573404823818360",
