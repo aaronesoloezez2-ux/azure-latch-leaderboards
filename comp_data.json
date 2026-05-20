@@ -2989,7 +2989,7 @@
       "achievements": []
     },
     "Son": {
-      "elo5v5": 27,
+      "elo5v5": 5,
       "elo11v11": 0,
       "leaders": [
         "1112150858562539561",
@@ -8589,7 +8589,7 @@
       "achievements": []
     },
     "Attrition": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "995404195958108242"
@@ -10181,7 +10181,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779244822061,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17318,6 +17326,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779244754848
+    },
+    "1779244799857": {
+      "team1Id": "1143485438787596389",
+      "team2Id": "1426419421026455565",
+      "team1Name": "Masquerade",
+      "team2Name": "Sulk",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779244799857
     }
   },
   "pendingVCRequests": {},
