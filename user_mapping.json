@@ -18006,12 +18006,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1405385953899581480": {
-    "team": "Oshu Oshi NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1177704122049384489": {
     "team": "Thxrns",
     "isLeader": false,
@@ -22103,6 +22097,36 @@
   },
   "749785335420026950": {
     "team": "sown fc",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1351613847383048292": {
+    "team": "Airborne FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1357140052697809010": {
+    "team": "Airborne FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1317604529520250901": {
+    "team": "Airborne FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1405385953899581480": {
+    "team": "Airborne FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1394545988856840254": {
+    "team": "Airborne FC",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
