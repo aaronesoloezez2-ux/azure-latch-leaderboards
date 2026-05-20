@@ -116,23 +116,23 @@
   },
   {
     "rank": 24,
+    "teamName": "Sulk",
+    "elo5v5": 29
+  },
+  {
+    "rank": 25,
     "teamName": "Vinland",
     "elo5v5": 28
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Metalogic",
     "elo5v5": 26
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Seirin",
     "elo5v5": 26
-  },
-  {
-    "rank": 27,
-    "teamName": "Masquerade",
-    "elo5v5": 24
   },
   {
     "rank": 28,
@@ -176,27 +176,27 @@
   },
   {
     "rank": 36,
-    "teamName": "Sulk",
-    "elo5v5": 8
-  },
-  {
-    "rank": 37,
     "teamName": "Citizens-U3",
     "elo5v5": 8
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Crimson Authority",
+    "elo5v5": 3
+  },
+  {
+    "rank": 40,
+    "teamName": "Masquerade",
     "elo5v5": 3
   },
   {
