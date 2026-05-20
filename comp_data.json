@@ -9342,7 +9342,6 @@
         "412399874877816842"
       ],
       "players": [
-        "958890982261260319",
         "774467455421775902",
         "792898109294116874",
         "1220636382058516500",
@@ -14815,11 +14814,7 @@
     "991147493385568357": 1779482805814,
     "618476725524758550": 1779483021583
   },
-  "pendingInvites": {
-    "invite_790479627478892574": {
-      "cooldownUntil": 1779310518498
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17318,17 +17313,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779310045848": {
-      "team1Id": "512382891666178051",
-      "team2Id": "849734106576191538",
-      "team1Name": "Instinct",
-      "team2Name": "Serendipity",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779310045848
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
