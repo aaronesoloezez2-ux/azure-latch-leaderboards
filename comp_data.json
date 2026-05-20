@@ -10071,7 +10071,8 @@
         "750957467206418433",
         "1032513136441442344",
         "1104437973656813620",
-        "975774806920294451"
+        "975774806920294451",
+        "1466271362514681992"
       ],
       "region": "NA",
       "achievements": []
@@ -10189,11 +10190,12 @@
       "startTime": 1779294179469,
       "lastOpponents": []
     },
-    "849734106576191538": {
-      "teamName": "Serendipity",
-      "searchType": "unlimited",
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
       "region": "NA",
-      "startTime": 1779312467449,
+      "duration": 5,
+      "startTime": 1779312876021,
       "lastOpponents": []
     }
   },
@@ -14834,22 +14836,10 @@
     "1357140052697809010": 1779484715097,
     "1317604529520250901": 1779484715097,
     "1405385953899581480": 1779484715097,
-    "666762995258359808": 1779485355766
+    "666762995258359808": 1779485355766,
+    "1466271362514681992": 1779485872081
   },
-  "pendingInvites": {
-    "1779312490895": {
-      "teamName": "Zero",
-      "playerId": "1466271362514681992",
-      "inviterId": "952667718363009074",
-      "timestamp": 1779312490895
-    },
-    "invite_952667718363009074": {
-      "cooldownUntil": 1779312790895
-    },
-    "invite_1464125504448626956": {
-      "cooldownUntil": 1779312818055
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17350,7 +17340,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779312701283": {
+      "team1Id": "849734106576191538",
+      "team2Id": "952667718363009074",
+      "team1Name": "Serendipity",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779312701283
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
