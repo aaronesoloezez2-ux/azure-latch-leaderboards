@@ -8466,7 +8466,6 @@
         "1378976238827212810",
         "1432105698174439527",
         "970405556579876905",
-        "858791791117205504",
         "1037140271101653052",
         "611697342604902450"
       ],
@@ -10180,18 +10179,18 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1779237179183,
-      "lastOpponents": []
+  "matchmaking": {},
+  "refereeQueue": [],
+  "awaitingReferee": {
+    "1779238584218": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1112150858562539561",
+      "team1Name": "Zero",
+      "team2Name": "Son",
+      "vcLink": null,
+      "timestamp": 1779238584218
     }
   },
-  "refereeQueue": [],
-  "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -17312,18 +17311,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779237038613": {
-      "team1Id": "1210078842362920991",
-      "team2Id": "952573404823818360",
-      "team1Name": "Codependence",
-      "team2Name": "kawaii",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779237038613
+  "pendingRefVotes": {},
+  "pendingVCRequests": {
+    "vc_1779239728898": {
+      "team1Id": "995404195958108242",
+      "team2Id": "1112150858562539561",
+      "team1Name": "Attrition",
+      "team2Name": "Son",
+      "vcLink": null,
+      "timestamp": 1779239796168
     }
   },
-  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
