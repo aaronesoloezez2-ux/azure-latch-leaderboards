@@ -9086,8 +9086,7 @@
         "854385657257787392",
         "747948371301499041",
         "1013576163488182343",
-        "1021931644116021289",
-        "1115974502984196187"
+        "1021931644116021289"
       ],
       "region": "NA",
       "achievements": []
@@ -10170,13 +10169,6 @@
     }
   },
   "matchmaking": {
-    "512382891666178051": {
-      "teamName": "Instinct",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779249617161,
-      "lastOpponents": []
-    },
     "896720760985497640": {
       "teamName": "bnuuy",
       "searchType": "unlimited",
@@ -17324,7 +17316,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779310045848": {
+      "team1Id": "512382891666178051",
+      "team2Id": "849734106576191538",
+      "team1Name": "Instinct",
+      "team2Name": "Serendipity",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779310045848
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
