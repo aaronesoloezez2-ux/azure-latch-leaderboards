@@ -10072,24 +10072,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Tempest": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1280938486030930077"
-      ],
-      "players": [
-        "709837574599868468",
-        "950108450216607784",
-        "887818360589520936",
-        "1023062575174406204",
-        "526676623827795998",
-        "1502806949513793618",
-        "1153499590855753728"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Bastard Munchen": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -17306,17 +17288,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779249496031": {
-      "team1Id": "926536409106485338",
-      "team2Id": "512382891666178051",
-      "team1Name": "Kiseki",
-      "team2Name": "Instinct",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779249496031
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
