@@ -10103,12 +10103,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "898989192820965389": {
-    "team": "Dreamers (NA)",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1253046189826506913": {
     "team": "Dreamers (NA)",
     "isLeader": false,
@@ -15037,12 +15031,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1176705152342823004": {
-    "team": "Enlightened",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1223061840162983959": {
     "team": "Enlightened",
     "isLeader": false,
@@ -19875,12 +19863,6 @@
     "region": "NA",
     "elo5v5": 60
   },
-  "926915038235734016": {
-    "team": "Bear United U-20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 60
-  },
   "859615820127928342": {
     "team": "Bear United U-20",
     "isLeader": false,
@@ -22130,6 +22112,55 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1499911296324337705": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "926915038235734016": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1176705152342823004": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "898989192820965389": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "870682297005932624": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1464125504448626956": {
+    "team": "sown fc",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "644671963054473216": {
+    "team": "sown fc",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "749785335420026950": {
+    "team": "sown fc",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1040715701708656650": {
     "team": null,
     "isLeader": false,
@@ -22180,13 +22211,6 @@
     "isModerator": true
   },
   "290405745458020353": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1464125504448626956": {
     "team": null,
     "isLeader": false,
     "region": null,
