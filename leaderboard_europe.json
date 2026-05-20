@@ -61,18 +61,18 @@
   },
   {
     "rank": 13,
+    "teamName": "Heavens Society",
+    "elo5v5": 42
+  },
+  {
+    "rank": 14,
     "teamName": "Acclamation",
     "elo5v5": 40
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Velora",
     "elo5v5": 35
-  },
-  {
-    "rank": 15,
-    "teamName": "Abibas FC",
-    "elo5v5": 32
   },
   {
     "rank": 16,
@@ -111,8 +111,8 @@
   },
   {
     "rank": 23,
-    "teamName": "Heavens Society",
-    "elo5v5": 21
+    "teamName": "Abibas FC",
+    "elo5v5": 11
   },
   {
     "rank": 24,
