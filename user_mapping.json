@@ -13278,12 +13278,6 @@
     "region": "NA",
     "elo5v5": 34
   },
-  "1036333039845912677": {
-    "team": "Monarchs Recrowned FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 34
-  },
   "838995804969631785": {
     "team": "Monarchs Recrowned FC",
     "isLeader": false,
@@ -13297,12 +13291,6 @@
     "elo5v5": 34
   },
   "1273041286798114846": {
-    "team": "Monarchs Recrowned FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 34
-  },
-  "671094028867207178": {
     "team": "Monarchs Recrowned FC",
     "isLeader": false,
     "region": "NA",
@@ -19731,12 +19719,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "708049948452585482": {
-    "team": "XIV",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1217494684943909045": {
     "team": "XIV",
     "isLeader": false,
@@ -22133,6 +22115,36 @@
   },
   "1394545988856840254": {
     "team": "Airborne FC",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "999415573727420457": {
+    "team": "FXTE",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "671094028867207178": {
+    "team": "FXTE",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1057589536386994206": {
+    "team": "FXTE",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "708049948452585482": {
+    "team": "FXTE",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1036333039845912677": {
+    "team": "FXTE",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
