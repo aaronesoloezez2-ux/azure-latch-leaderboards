@@ -9946,7 +9946,6 @@
         "540357438331682839",
         "1038336171127873588",
         "899073137742848022",
-        "949707465610645525",
         "1132531466568466553",
         "1341524326041780335",
         "1224420632184225943",
@@ -10202,13 +10201,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
-      "lastOpponents": []
-    },
-    "512382891666178051": {
-      "teamName": "Instinct",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779328332238,
       "lastOpponents": []
     }
   },
@@ -17372,15 +17364,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779327825044": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "1204496416203083787",
-      "team1Name": "Metalogic",
-      "team2Name": "Generation Of Miracles",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779327825044
-    },
     "1779328110101": {
       "team1Id": "813556928034635807",
       "team2Id": "1381851488569004103",
@@ -17398,6 +17381,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779328330174
+    },
+    "1779328445182": {
+      "team1Id": "512382891666178051",
+      "team2Id": "1320293329317134358",
+      "team1Name": "Instinct",
+      "team2Name": "Son",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779328445182
     }
   },
   "pendingVCRequests": {},
