@@ -4634,7 +4634,7 @@
       "sourceGuild": "1435983168535527508"
     },
     "Serendipity": {
-      "elo5v5": 6,
+      "elo5v5": 23,
       "elo11v11": 0,
       "leaders": [
         "836064878660812861",
@@ -10201,6 +10201,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
+      "lastOpponents": []
+    },
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779324054068,
       "lastOpponents": []
     }
   },
