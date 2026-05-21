@@ -21037,12 +21037,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1064806734570467370": {
-    "team": "bnuuy",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "896720760985497640": {
     "team": "bnuuy",
     "isLeader": true,
@@ -21478,6 +21472,12 @@
     "elo5v5": 0
   },
   "701124989385965599": {
+    "team": "Na'Vi",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1064806734570467370": {
     "team": "Na'Vi",
     "isLeader": false,
     "region": "Europe",
