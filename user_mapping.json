@@ -10968,6 +10968,12 @@
     "region": "NA",
     "elo5v5": 136
   },
+  "965000459469348864": {
+    "team": "Re Al",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 136
+  },
   "509160088632819712": {
     "team": "Re Al",
     "isLeader": true,
@@ -21316,12 +21322,6 @@
     "elo5v5": 189
   },
   "460090789272354817": {
-    "team": "G50:R",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 189
-  },
-  "965000459469348864": {
     "team": "G50:R",
     "isLeader": true,
     "region": "NA",
