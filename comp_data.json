@@ -10142,7 +10142,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779406275371,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17304,17 +17312,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779405768603": {
-      "team1Id": "952667718363009074",
-      "team2Id": "611697342604902450",
-      "team1Name": "Zero",
-      "team2Name": "Codependence",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1779405768603
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
