@@ -1897,7 +1897,7 @@
       "achievements": []
     },
     "Generation of Miracles": {
-      "elo5v5": 65,
+      "elo5v5": 88,
       "elo11v11": 0,
       "leaders": [
         "717242801053761566"
@@ -9973,7 +9973,7 @@
         "1063643597418807377"
       ],
       "region": "NA",
-      "elo5v5": 143,
+      "elo5v5": 126,
       "elo11v11": 0,
       "achievements": [
         "🥉 Third Place - Winter 2025-26 11v11 (NA)",
@@ -10203,13 +10203,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
-      "lastOpponents": []
-    },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779324460036,
       "lastOpponents": []
     }
   },
@@ -17373,6 +17366,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779324363996
+    },
+    "1779324584027": {
+      "team1Id": "757056855175594004",
+      "team2Id": "1335102355695468688",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779324584027
     }
   },
   "pendingVCRequests": {},
