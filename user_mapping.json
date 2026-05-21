@@ -21035,13 +21035,6 @@
     "region": "NA",
     "elo5v5": 120
   },
-  "749678245863227462": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120,
-    "isModerator": true
-  },
   "1390755048434307092": {
     "team": "Codependence",
     "isLeader": false,
@@ -22100,12 +22093,6 @@
     "elo5v5": 0,
     "isModerator": true
   },
-  "1030700635299000371": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1124196641893798008": {
     "team": "Spurs",
     "isLeader": false,
@@ -22124,6 +22111,56 @@
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
+  },
+  "1081319797180088422": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1230642798428950599": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "967575388547055686": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "749678245863227462": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "835595066050740295": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1030700635299000371": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1261068909923270757": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "567041024615120928": {
+    "team": "Abibas NA",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
@@ -22168,13 +22205,6 @@
     "isModerator": true
   },
   "959895242428002334": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1081319797180088422": {
     "team": null,
     "isLeader": false,
     "region": null,
