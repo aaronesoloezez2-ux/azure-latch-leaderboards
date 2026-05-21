@@ -4634,7 +4634,7 @@
       "sourceGuild": "1435983168535527508"
     },
     "Serendipity": {
-      "elo5v5": 23,
+      "elo5v5": 6,
       "elo11v11": 0,
       "leaders": [
         "836064878660812861",
@@ -9754,7 +9754,7 @@
       "achievements": []
     },
     "Codependence": {
-      "elo5v5": 106,
+      "elo5v5": 121,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991"
@@ -17351,17 +17351,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779323278790": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1320293329317134358",
-      "team1Name": "Kiseki",
-      "team2Name": "Son",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779323278790
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
