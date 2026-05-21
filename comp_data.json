@@ -2992,7 +2992,6 @@
         "1023027388239581214",
         "567861908951269386",
         "1154910400874291292",
-        "288683252581924864",
         "1040715701708656650"
       ],
       "region": "NA",
@@ -10142,7 +10141,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "836064878660812861": {
+      "teamName": "Serendipity",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779401641326,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -14785,8 +14792,14 @@
     "1125614015746408509": 1779574140517
   },
   "pendingInvites": {
+    "1779401346941": {
+      "teamName": "Citizens-U3",
+      "playerId": "1342931782273597582",
+      "inviterId": "938564876199145494",
+      "timestamp": 1779401346941
+    },
     "invite_836064878660812861": {
-      "cooldownUntil": 1779401630340
+      "cooldownUntil": 1779402411706
     }
   },
   "userNicknames": {
