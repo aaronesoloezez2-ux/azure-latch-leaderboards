@@ -9673,7 +9673,6 @@
       ],
       "players": [
         "1445551978120741016",
-        "802359779929489408",
         "733837796741087283",
         "804116659983220746",
         "1355669102731202580",
@@ -10148,7 +10147,15 @@
       "teamName": "Re Al U-20",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779406819521,
+      "startTime": 1779406914093,
+      "lastOpponents": []
+    },
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1779406930316,
       "lastOpponents": []
     }
   },
@@ -17318,6 +17325,24 @@
       "team1Vote": null,
       "team2Vote": true,
       "timestamp": 1779406503809
+    },
+    "1779406879246": {
+      "team1Id": "1005947912565559356",
+      "team2Id": "952667718363009074",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": false,
+      "timestamp": 1779406879246
+    },
+    "1779406899247": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1005947912565559356",
+      "team1Name": "Zero",
+      "team2Name": "Re Al U-20",
+      "team1Vote": false,
+      "team2Vote": null,
+      "timestamp": 1779406899247
     }
   },
   "pendingVCRequests": {},
