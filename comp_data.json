@@ -7982,24 +7982,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "S.E.E.S": {
-      "elo5v5": 93,
-      "elo11v11": 0,
-      "leaders": [
-        "741370381331464263"
-      ],
-      "players": [
-        "1172618186676518976",
-        "1230793017225510922",
-        "781150674469650482",
-        "1348461165151256616",
-        "863843139936190484",
-        "805814884231020584",
-        "1413239429593829467"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Sulk": {
       "elo5v5": 29,
       "elo11v11": 0,
@@ -10168,13 +10150,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
-      "lastOpponents": []
-    },
-    "1005947912565559356": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779333428306,
       "lastOpponents": []
     }
   },
@@ -14818,11 +14793,7 @@
     "1473025200814555226": 1779552405201,
     "1021931644116021289": 1779553946287
   },
-  "pendingInvites": {
-    "invite_662551566397472798": {
-      "cooldownUntil": 1779381444615
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
