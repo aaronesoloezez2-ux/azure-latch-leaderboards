@@ -10205,12 +10205,11 @@
       "startTime": 1779294179469,
       "lastOpponents": []
     },
-    "611697342604902450": {
-      "teamName": "Codependence",
-      "searchType": "timed",
+    "1381851488569004103": {
+      "teamName": "Metalogic",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 10,
-      "startTime": 1779325135588,
+      "startTime": 1779325759597,
       "lastOpponents": []
     }
   },
@@ -14856,11 +14855,7 @@
     "883782190348001351": 1779497435121,
     "1316486614439956594": 1779498232282
   },
-  "pendingInvites": {
-    "invite_728385309666050149": {
-      "cooldownUntil": 1779325728277
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17365,7 +17360,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779325469266": {
+      "team1Id": "611697342604902450",
+      "team2Id": "512382891666178051",
+      "team1Name": "Codependence",
+      "team2Name": "Instinct",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779325469266
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
