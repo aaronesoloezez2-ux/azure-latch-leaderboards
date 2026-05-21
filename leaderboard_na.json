@@ -41,13 +41,13 @@
   },
   {
     "rank": 9,
-    "teamName": "G50:K",
-    "elo5v5": 143
+    "teamName": "Symphony",
+    "elo5v5": 131
   },
   {
     "rank": 10,
-    "teamName": "Symphony",
-    "elo5v5": 131
+    "teamName": "G50:K",
+    "elo5v5": 126
   },
   {
     "rank": 11,
@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
+    "teamName": "Generation of Miracles",
+    "elo5v5": 88
+  },
+  {
+    "rank": 13,
     "teamName": "Paragon",
     "elo5v5": 83
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
-  },
-  {
-    "rank": 15,
-    "teamName": "Generation of Miracles",
-    "elo5v5": 65
   },
   {
     "rank": 16,
