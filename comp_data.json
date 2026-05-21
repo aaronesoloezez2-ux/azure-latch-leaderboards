@@ -6031,7 +6031,7 @@
       "achievements": []
     },
     "Metalogic": {
-      "elo5v5": 26,
+      "elo5v5": 4,
       "elo11v11": 0,
       "leaders": [
         "1381851488569004103"
@@ -10134,7 +10134,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "813556928034635807"
@@ -10214,6 +10214,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
+      "lastOpponents": []
+    },
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779331305952,
       "lastOpponents": []
     }
   },
