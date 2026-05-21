@@ -19369,13 +19369,6 @@
     "region": "NA",
     "elo5v5": 131
   },
-  "813556928034635807": {
-    "team": "Symphony",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 131,
-    "isModerator": true
-  },
   "58730101183676418": {
     "team": "Symphony",
     "isLeader": false,
@@ -22225,6 +22218,13 @@
     "isModerator": true
   },
   "883949215036870698": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "813556928034635807": {
     "team": null,
     "isLeader": false,
     "region": null,
