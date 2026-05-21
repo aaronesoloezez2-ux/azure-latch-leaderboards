@@ -52,7 +52,7 @@
   {
     "rank": 11,
     "teamName": "Codependence",
-    "elo5v5": 89
+    "elo5v5": 106
   },
   {
     "rank": 12,
@@ -96,52 +96,52 @@
   },
   {
     "rank": 20,
-    "teamName": "Serendipity",
-    "elo5v5": 41
-  },
-  {
-    "rank": 21,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 38
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Sulk",
     "elo5v5": 29
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Vinland",
     "elo5v5": 28
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Metalogic",
     "elo5v5": 26
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Seirin",
     "elo5v5": 26
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Fight Club",
+    "elo5v5": 23
+  },
+  {
+    "rank": 29,
+    "teamName": "Serendipity",
     "elo5v5": 23
   },
   {
