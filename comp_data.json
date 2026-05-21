@@ -9343,8 +9343,7 @@
         "559190978720825366",
         "949077945929048104",
         "1408202495615963290",
-        "528641513681321984",
-        "1399911250732912640"
+        "528641513681321984"
       ],
       "region": "NA",
       "achievements": []
@@ -10203,6 +10202,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779322137204,
       "lastOpponents": []
     }
   },
