@@ -291,7 +291,6 @@
         "991630235021881354",
         "1095817832752758905",
         "996738063797583922",
-        "1441534629097111704",
         "1029779932999594016",
         "963795392028344371",
         "618476725524758550",
@@ -10145,11 +10144,11 @@
     }
   },
   "matchmaking": {
-    "896720760985497640": {
-      "teamName": "bnuuy",
+    "1285337928989544468": {
+      "teamName": "Vitality",
       "searchType": "unlimited",
-      "region": "Europe",
-      "startTime": 1779294179469,
+      "region": "NA",
+      "startTime": 1779394112494,
       "lastOpponents": []
     }
   },
@@ -17309,7 +17308,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779394105000": {
+      "team1Id": "896720760985497640",
+      "team2Id": "1285337928989544468",
+      "team1Name": "bnuuy",
+      "team2Name": "Vitality",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779394105000
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
