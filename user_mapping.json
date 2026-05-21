@@ -21037,7 +21037,7 @@
   },
   "749678245863227462": {
     "team": "Codependence",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 120,
     "isModerator": true
