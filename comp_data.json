@@ -9129,7 +9129,6 @@
         "1478021734249795797",
         "1091821692164247622",
         "689354062235303937",
-        "1453334847211962390",
         "1005947912565559356",
         "1149656132378447894",
         "1023062575174406204",
@@ -10199,13 +10198,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
-      "lastOpponents": []
-    },
-    "512382891666178051": {
-      "teamName": "Instinct",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779328955035,
       "lastOpponents": []
     }
   },
@@ -14854,9 +14846,6 @@
       "playerId": "1502806949513793618",
       "inviterId": "1335102355695468688",
       "timestamp": 1779328209043
-    },
-    "invite_1320293329317134358": {
-      "cooldownUntil": 1779329386355
     }
   },
   "userNicknames": {
@@ -17368,14 +17357,23 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779328600214": {
-      "team1Id": "611697342604902450",
-      "team2Id": "512382891666178051",
-      "team1Name": "Codependence",
-      "team2Name": "Instinct",
+    "1779329335366": {
+      "team1Id": "512382891666178051",
+      "team2Id": "1320293329317134358",
+      "team1Name": "Instinct",
+      "team2Name": "Son",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779328600214
+      "timestamp": 1779329335366
+    },
+    "1779329650431": {
+      "team1Id": "512382891666178051",
+      "team2Id": "1320293329317134358",
+      "team1Name": "Instinct",
+      "team2Name": "Son",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779329650431
     }
   },
   "pendingVCRequests": {},
