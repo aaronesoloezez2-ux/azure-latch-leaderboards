@@ -22133,7 +22133,7 @@
   },
   "749678245863227462": {
     "team": "Abibas NA",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
