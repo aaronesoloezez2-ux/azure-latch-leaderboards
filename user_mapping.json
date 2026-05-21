@@ -10974,6 +10974,12 @@
     "region": "NA",
     "elo5v5": 136
   },
+  "1093388128527601695": {
+    "team": "Re Al",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 136
+  },
   "509160088632819712": {
     "team": "Re Al",
     "isLeader": true,
@@ -17839,7 +17845,7 @@
   },
   "1128740196221976648": {
     "team": "Honorary Knights",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 21
   },
