@@ -5704,7 +5704,6 @@
         "1437537784314331408",
         "1285988942877032593",
         "1081319797180088422",
-        "567041024615120928",
         "767181637040734218",
         "1176292038979895388",
         "1115974502984196187"
@@ -10201,6 +10200,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779294179469,
+      "lastOpponents": []
+    },
+    "512382891666178051": {
+      "teamName": "Instinct",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779328625607,
       "lastOpponents": []
     }
   },
@@ -14844,17 +14850,11 @@
     "795741168561815557": 1779501148823
   },
   "pendingInvites": {
-    "invite_847505723763195914": {
-      "cooldownUntil": 1779328440688
-    },
     "1779328209043": {
       "teamName": "Re Al U-20",
       "playerId": "1502806949513793618",
       "inviterId": "1335102355695468688",
       "timestamp": 1779328209043
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1779328509043
     }
   },
   "userNicknames": {
@@ -17387,9 +17387,18 @@
       "team2Id": "1320293329317134358",
       "team1Name": "Instinct",
       "team2Name": "Son",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1779328445182
+    },
+    "1779328600214": {
+      "team1Id": "611697342604902450",
+      "team2Id": "512382891666178051",
+      "team1Name": "Codependence",
+      "team2Name": "Instinct",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779328600214
     }
   },
   "pendingVCRequests": {},
