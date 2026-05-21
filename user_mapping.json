@@ -6754,6 +6754,13 @@
     "region": "NA",
     "elo5v5": 5
   },
+  "1040715701708656650": {
+    "team": "Son",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 5,
+    "isModerator": true
+  },
   "1320293329317134358": {
     "team": "Son",
     "isLeader": true,
@@ -15019,12 +15026,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1223061840162983959": {
-    "team": "Enlightened",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1300885787700756551": {
     "team": "Enlightened",
     "isLeader": false,
@@ -22140,13 +22141,6 @@
     "team": "Spurs",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1040715701708656650": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
     "elo5v5": 0,
     "isModerator": true
   },
