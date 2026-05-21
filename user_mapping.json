@@ -21041,13 +21041,6 @@
     "region": "NA",
     "elo5v5": 119
   },
-  "804769804594053130": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 119,
-    "isModerator": true
-  },
   "689672576670498883": {
     "team": "Codependence",
     "isLeader": false,
@@ -22111,6 +22104,19 @@
     "region": "NA",
     "elo5v5": 22,
     "isModerator": true
+  },
+  "804769804594053130": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 22,
+    "isModerator": true
+  },
+  "526676623827795998": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 22
   },
   "1081319797180088422": {
     "team": "Abibas NA",
