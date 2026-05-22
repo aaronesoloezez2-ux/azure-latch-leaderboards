@@ -19680,12 +19680,6 @@
     "region": "Europe",
     "elo5v5": 35
   },
-  "1386454451149340763": {
-    "team": "Velora",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 35
-  },
   "1495869830451167304": {
     "team": "Velora",
     "isLeader": false,
@@ -20028,12 +20022,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 204
-  },
-  "826569736426750035": {
-    "team": "Terranova",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
   },
   "1006991254535536691": {
     "team": "Terranova",
@@ -20541,12 +20529,6 @@
     "elo5v5": 44
   },
   "656538330967703565": {
-    "team": "Shalom FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 44
-  },
-  "1497004767921307678": {
     "team": "Shalom FC",
     "isLeader": false,
     "region": "Europe",
@@ -21997,6 +21979,54 @@
     "team": "Arknights FC",
     "isLeader": false,
     "region": "Asia",
+    "elo5v5": 0
+  },
+  "1497004767921307678": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "529356333716209686": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1507058852238200883": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "826569736426750035": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1229853050399883329": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "965349537646526474": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1193051509072597015": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1386454451149340763": {
+    "team": "Gooned Bamas",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
