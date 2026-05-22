@@ -2031,7 +2031,7 @@
       "achievements": []
     },
     "Ubers+": {
-      "elo5v5": 2,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1341570180551016541",
@@ -8831,7 +8831,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 8,
+      "elo5v5": 28,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494"
@@ -14987,9 +14987,6 @@
       "playerId": "611697342604902450",
       "inviterId": "1351695098878103592",
       "timestamp": 1779489244735
-    },
-    "invite_1351695098878103592": {
-      "cooldownUntil": 1779489544735
     }
   },
   "userNicknames": {
@@ -17528,17 +17525,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779489037029": {
-      "team1Id": "722164644558667816",
-      "team2Id": "757056855175594004",
-      "team1Name": "Vorpal Swords",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779489037029
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
