@@ -4615,7 +4615,7 @@
       "sourceGuild": "1435983168535527508"
     },
     "Serendipity": {
-      "elo5v5": 23,
+      "elo5v5": 6,
       "elo11v11": 0,
       "leaders": [
         "836064878660812861",
@@ -9664,7 +9664,7 @@
       "achievements": []
     },
     "Codependence": {
-      "elo5v5": 119,
+      "elo5v5": 133,
       "elo11v11": 0,
       "leaders": [
         "611697342604902450",
@@ -10142,15 +10142,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1143485438787596389": {
-      "teamName": "Masquerade",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779410717255,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -17309,14 +17301,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779410310182": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
+    "1779411345688": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "836064878660812861",
+      "team1Name": "Generation Of Miracles",
+      "team2Name": "Serendipity",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779410310182
+      "timestamp": 1779411345688
     }
   },
   "pendingVCRequests": {},
