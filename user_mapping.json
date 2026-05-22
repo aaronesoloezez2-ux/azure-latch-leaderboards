@@ -5277,13 +5277,6 @@
     "region": "Europe",
     "elo5v5": 150
   },
-  "1329326547525570571": {
-    "team": "Kōchi FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 150,
-    "isModerator": true
-  },
   "965876842173186080": {
     "team": "Kōchi FC",
     "isLeader": false,
@@ -21108,6 +21101,12 @@
     "region": "Europe",
     "elo5v5": 42
   },
+  "741370381331464263": {
+    "team": "Heavens Society",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 42
+  },
   "1309828754260099149": {
     "team": "Heavens Society",
     "isLeader": true,
@@ -22243,6 +22242,13 @@
     "isModerator": true
   },
   "883949215036870698": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1329326547525570571": {
     "team": null,
     "isLeader": false,
     "region": null,
