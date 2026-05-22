@@ -21144,67 +21144,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "572170241820459042": {
-    "team": "G50:R",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "1353220534367682582": {
-    "team": "G50:R",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "1426399544597545013": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "723963456549683270": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199,
-    "isModerator": true
-  },
-  "705075370076143718": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "1070537758331895899": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "396111393058979840": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "553371454607982596": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "1038336171127873588": {
-    "team": "G50:R",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 199
-  },
-  "460090789272354817": {
-    "team": "G50:R",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 199
-  },
   "1387896602446008532": {
     "team": "Spectral FC",
     "isLeader": true,
@@ -22280,6 +22219,67 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "572170241820459042": {
+    "team": "G50",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "1353220534367682582": {
+    "team": "G50",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "1426399544597545013": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "723963456549683270": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199,
+    "isModerator": true
+  },
+  "705075370076143718": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "1070537758331895899": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "396111393058979840": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "553371454607982596": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "1038336171127873588": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 199
+  },
+  "460090789272354817": {
+    "team": "G50",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 199
   },
   "1290679358528290868": {
     "team": null,
