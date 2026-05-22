@@ -9408,12 +9408,6 @@
     "elo5v5": 6,
     "isModerator": true
   },
-  "991147493385568357": {
-    "team": "Serendipity",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
   "1125614015746408509": {
     "team": "Serendipity",
     "isLeader": false,
@@ -20768,13 +20762,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1445551978120741016": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 133,
-    "isModerator": true
-  },
   "804116659983220746": {
     "team": "Codependence",
     "isLeader": false,
@@ -21794,18 +21781,6 @@
     "region": "NA",
     "elo5v5": 45
   },
-  "899782955248021534": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 45
-  },
-  "636302097742299147": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 45
-  },
   "1280938486030930077": {
     "team": "Spurs",
     "isLeader": false,
@@ -21934,6 +21909,37 @@
     "elo5v5": 0
   },
   "1200920802246262925": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1445551978120741016": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "991147493385568357": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "636302097742299147": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "210078842362920991": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "899782955248021534": {
     "team": "RB Leipzig",
     "isLeader": false,
     "region": "NA",
