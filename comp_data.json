@@ -292,7 +292,6 @@
         "1095817832752758905",
         "996738063797583922",
         "1029779932999594016",
-        "963795392028344371",
         "618476725524758550",
         "949878090341949522",
         "1473025200814555226",
@@ -8370,7 +8369,8 @@
         "543436138585522186",
         "1453113148331786390",
         "989936603696869427",
-        "834473464512380929"
+        "834473464512380929",
+        "963795392028344371"
       ],
       "region": "Europe",
       "achievements": []
@@ -10303,6 +10303,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
+      "lastOpponents": []
+    },
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779489450796,
       "lastOpponents": []
     }
   },
@@ -14975,8 +14982,14 @@
     "1487607458032779294": 1779659209820
   },
   "pendingInvites": {
-    "invite_1456515493656789034": {
-      "cooldownUntil": 1779487999547
+    "1779489244735": {
+      "teamName": "kawaii",
+      "playerId": "611697342604902450",
+      "inviterId": "1351695098878103592",
+      "timestamp": 1779489244735
+    },
+    "invite_1351695098878103592": {
+      "cooldownUntil": 1779489544735
     }
   },
   "userNicknames": {
@@ -17515,7 +17528,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779489037029": {
+      "team1Id": "722164644558667816",
+      "team2Id": "757056855175594004",
+      "team1Name": "Vorpal Swords",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779489037029
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
