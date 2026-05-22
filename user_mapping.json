@@ -15431,12 +15431,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1125625049957793863": {
-    "team": "Aeternus Noctiluna",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1318578611250397289": {
     "team": "Aeternus Noctiluna",
     "isLeader": false,
@@ -17958,12 +17952,6 @@
     "elo5v5": 0
   },
   "1001349502042656799": {
-    "team": "Nightingale",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "992381938411249704": {
     "team": "Nightingale",
     "isLeader": false,
     "region": "Asia",
@@ -22149,6 +22137,42 @@
     "team": "Llantines fc",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1246464066353102934": {
+    "team": "Noviluna Aeterna",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1504834030640697416": {
+    "team": "Noviluna Aeterna",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "992381938411249704": {
+    "team": "Noviluna Aeterna",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "789431988493746177": {
+    "team": "Noviluna Aeterna",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1125625049957793863": {
+    "team": "Noviluna Aeterna",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1350267195736981617": {
+    "team": "Noviluna Aeterna",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   }
 }
