@@ -22292,18 +22292,18 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1285337928989544468": {
-    "team": "Vitality",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "868243652416254034": {
     "team": "Vitality",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
+  },
+  "1285337928989544468": {
+    "team": "Vitality",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
