@@ -14671,114 +14671,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1145367377047998484": {
-    "team": "Stellarium",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1011257432346988655": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "981145425828524093": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "399448869399691284": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "904602708781178920": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "524172733123264529": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "541137008601595924": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1422529664638914560": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "834250291171688459": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "714513401967280220": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "645813714477645865": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "960115806891556876": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1110514204022153256": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1278013961698021391": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1212301493043204158": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "829982108935127041": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "549928073034727424": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "878983711759167499": {
-    "team": "Stellarium",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "766024675099672627": {
     "team": "Anomalies",
     "isLeader": false,
@@ -21979,6 +21871,114 @@
     "team": "RB Leipzig",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1145367377047998484": {
+    "team": "Arknights FC",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1011257432346988655": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "981145425828524093": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "399448869399691284": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "904602708781178920": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "524172733123264529": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "541137008601595924": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1422529664638914560": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "834250291171688459": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "714513401967280220": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "645813714477645865": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "960115806891556876": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1110514204022153256": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1278013961698021391": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1212301493043204158": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "829982108935127041": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "549928073034727424": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "878983711759167499": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
     "elo5v5": 0
   },
   "1290679358528290868": {
