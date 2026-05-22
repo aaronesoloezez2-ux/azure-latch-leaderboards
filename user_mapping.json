@@ -15009,7 +15009,7 @@
   },
   "780449912122900500": {
     "team": "DuskDawn",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Asia",
     "elo5v5": 20
   },
