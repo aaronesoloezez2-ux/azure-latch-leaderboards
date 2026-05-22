@@ -10170,7 +10170,8 @@
         "912439333993205830",
         "845402759623868466",
         "1421163014710628522",
-        "1104636086145257492"
+        "1104636086145257492",
+        "861090825681502259"
       ],
       "region": "NA",
       "achievements": []
@@ -10281,11 +10282,18 @@
     }
   },
   "matchmaking": {
-    "926536409106485338": {
-      "teamName": "Kiseki",
+    "896720760985497640": {
+      "teamName": "bnuuy",
+      "searchType": "unlimited",
+      "region": "Europe",
+      "startTime": 1779475413448,
+      "lastOpponents": []
+    },
+    "1381851488569004103": {
+      "teamName": "Metalogic",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779420840818,
+      "startTime": 1779475684952,
       "lastOpponents": []
     }
   },
@@ -14962,15 +14970,10 @@
     "1026823250719809566": 1779635742493,
     "1477392934029496522": 1779635985662,
     "812410239827050559": 1779640427187,
-    "1104636086145257492": 1779646667887
+    "1104636086145257492": 1779646667887,
+    "861090825681502259": 1779648682078
   },
   "pendingInvites": {
-    "1779469571481": {
-      "teamName": "Llantines fc",
-      "playerId": "861090825681502259",
-      "inviterId": "690007789325647948",
-      "timestamp": 1779469571481
-    },
     "1779474659430": {
       "teamName": "Divine: Chances",
       "playerId": "1483600616876933182",
@@ -17512,7 +17515,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779475463348": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1381851488569004103",
+      "team1Name": "Kiseki",
+      "team2Name": "Metalogic",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779475463348
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
