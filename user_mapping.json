@@ -22234,7 +22234,7 @@
   },
   "1285337928989544468": {
     "team": "Crescent",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 220
   },
@@ -22292,13 +22292,6 @@
     "region": "NA",
     "elo5v5": 220
   },
-  "868243652416254034": {
-    "team": "Crescent",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 220,
-    "isModerator": true
-  },
   "574668456859795457": {
     "team": "Crescent",
     "isLeader": true,
@@ -22348,6 +22341,13 @@
     "isModerator": true
   },
   "1467619174930186332": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "868243652416254034": {
     "team": null,
     "isLeader": false,
     "region": null,
