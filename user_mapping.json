@@ -21739,6 +21739,12 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "982789262300807198": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "216309723933310977": {
     "team": "RB Leipzig",
     "isLeader": true,
