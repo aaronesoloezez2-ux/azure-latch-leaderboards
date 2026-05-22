@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "God's gambit",
-    "elo5v5": 51
+    "teamName": "Parxousia",
+    "elo5v5": 69
   },
   {
     "rank": 3,
-    "teamName": "Parxousia",
-    "elo5v5": 50
+    "teamName": "God's gambit",
+    "elo5v5": 51
   },
   {
     "rank": 4,
@@ -21,38 +21,38 @@
   },
   {
     "rank": 5,
-    "teamName": "Hongyuan",
-    "elo5v5": 23
-  },
-  {
-    "rank": 6,
     "teamName": "Cult of miku",
     "elo5v5": 22
   },
   {
-    "rank": 7,
+    "rank": 6,
     "teamName": "Umbrella (傘)",
     "elo5v5": 22
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Bear Family",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "JPU20",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "True Destiny",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "DuskDawn",
     "elo5v5": 20
+  },
+  {
+    "rank": 11,
+    "teamName": "Hongyuan",
+    "elo5v5": 4
   },
   {
     "rank": 12,
