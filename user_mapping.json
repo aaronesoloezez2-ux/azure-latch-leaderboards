@@ -20856,7 +20856,7 @@
   },
   "1403844188537098312": {
     "team": "bnuuy",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -20871,13 +20871,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
-  },
-  "896720760985497640": {
-    "team": "bnuuy",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
   },
   "728385309666050149": {
     "team": "Kiseki",
@@ -22312,6 +22305,13 @@
     "elo5v5": 0
   },
   "1290679358528290868": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "896720760985497640": {
     "team": null,
     "isLeader": false,
     "region": null,
