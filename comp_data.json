@@ -10092,7 +10092,8 @@
         "1229853050399883329",
         "965349537646526474",
         "1193051509072597015",
-        "1134132438336020541"
+        "1134132438336020541",
+        "1423069482724757786"
       ],
       "region": "Europe",
       "achievements": []
@@ -17511,17 +17512,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779476763704": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "847505723763195914",
-      "team1Name": "Metalogic",
-      "team2Name": "Vorpal Swords",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779476763704
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
