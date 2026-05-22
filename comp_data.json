@@ -8269,7 +8269,7 @@
       "achievements": []
     },
     "Divine": {
-      "elo5v5": 114,
+      "elo5v5": 127,
       "elo11v11": 0,
       "leaders": [
         "1459662581995143221",
@@ -14970,6 +14970,12 @@
       "playerId": "861090825681502259",
       "inviterId": "690007789325647948",
       "timestamp": 1779469571481
+    },
+    "1779474659430": {
+      "teamName": "Divine: Chances",
+      "playerId": "1483600616876933182",
+      "inviterId": "670929087748898836",
+      "timestamp": 1779474659430
     }
   },
   "userNicknames": {
