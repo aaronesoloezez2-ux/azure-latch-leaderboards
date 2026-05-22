@@ -52,7 +52,7 @@
   {
     "rank": 11,
     "teamName": "Vorpal Swords",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   {
     "rank": 12,
@@ -66,23 +66,23 @@
   },
   {
     "rank": 14,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 75
-  },
-  {
-    "rank": 15,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Bear United U-20",
     "elo5v5": 60
+  },
+  {
+    "rank": 17,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 56
   },
   {
     "rank": 18,
