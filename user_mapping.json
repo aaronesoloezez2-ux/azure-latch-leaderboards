@@ -11426,85 +11426,85 @@
     "team": "ⅩⅠⅠⅠ",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "303354768561012747": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "580131778250014724": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "495333407551782933": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "707358456247484498": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "1460117311980568832": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "850549698619768832": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "1134298295099985981": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "1424924767215030334": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "1255330650286723106": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "468797467748597769": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "834581603840819220": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "637687483232026657": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "424354473842835458": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 75
+    "elo5v5": 56
   },
   "1355635488303747403": {
     "team": "Purest Humans",
@@ -17024,6 +17024,12 @@
     "elo5v5": 144,
     "isModerator": true
   },
+  "1193794594157117495": {
+    "team": "kawaii",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 144
+  },
   "1458508855720939541": {
     "team": "PARIS.X.GEN",
     "isLeader": true,
@@ -20694,74 +20700,74 @@
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "1110317128952844339": {
     "team": "Vorpal Swords",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "717232453814583337": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "1204510953484582953": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "572988547812950016": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "722164644558667816": {
     "team": "Vorpal Swords",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "1025178336122650644": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "795741168561815557": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "1438985290596487241": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "1324933162283040821": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "868139633245057035": {
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 87,
+    "elo5v5": 105,
     "isModerator": true
   },
   "847505723763195914": {
     "team": "Vorpal Swords",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 87
+    "elo5v5": 105
   },
   "397092438176563202": {
     "team": "Spectre",
