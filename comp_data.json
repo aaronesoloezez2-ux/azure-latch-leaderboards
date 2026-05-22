@@ -9631,7 +9631,6 @@
         "442428679209877504",
         "1390755048434307092",
         "689672576670498883",
-        "982789262300807198",
         "779547098000916480",
         "883782190348001351",
         "1065743018545660004"
@@ -10303,13 +10302,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "1456515493656789034": {
-      "teamName": "Seirin",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779484672067,
       "lastOpponents": []
     }
   },
@@ -17519,14 +17511,23 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779484615601": {
-      "team1Id": "216309723933310977",
-      "team2Id": "1335102355695468688",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Re Al U-20",
+    "1779484915666": {
+      "team1Id": "1456515493656789034",
+      "team2Id": "938564876199145494",
+      "team1Name": "Seirin",
+      "team2Name": "Citizens-U3",
       "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779484915666
+    },
+    "1779485130765": {
+      "team1Id": "938564876199145494",
+      "team2Id": "722164644558667816",
+      "team1Name": "Citizens-U3",
+      "team2Name": "Vorpal Swords",
+      "team1Vote": true,
       "team2Vote": null,
-      "timestamp": 1779484615601
+      "timestamp": 1779485130765
     }
   },
   "pendingVCRequests": {},
