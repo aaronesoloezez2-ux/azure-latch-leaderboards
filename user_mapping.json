@@ -10980,12 +10980,6 @@
     "region": "NA",
     "elo5v5": 136
   },
-  "1200920802246262925": {
-    "team": "Re Al",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 136
-  },
   "578719398785974272": {
     "team": "Re Al",
     "isLeader": false,
@@ -17206,12 +17200,6 @@
     "region": "NA",
     "elo5v5": 160
   },
-  "1193794594157117495": {
-    "team": "kawaii",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 160
-  },
   "1378976238827212810": {
     "team": "kawaii",
     "isLeader": false,
@@ -20787,12 +20775,6 @@
     "elo5v5": 133,
     "isModerator": true
   },
-  "733837796741087283": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 133
-  },
   "804116659983220746": {
     "team": "Codependence",
     "isLeader": false,
@@ -21747,13 +21729,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1464125504448626956": {
-    "team": "sown fc",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "644671963054473216": {
     "team": "sown fc",
     "isLeader": true,
@@ -21936,6 +21911,43 @@
   },
   "567041024615120928": {
     "team": "Abibas NA",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1193794594157117495": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1464125504448626956": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "862970828299436044": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "733837796741087283": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1200920802246262925": {
+    "team": "RB Leipzig",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "216309723933310977": {
+    "team": "RB Leipzig",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
