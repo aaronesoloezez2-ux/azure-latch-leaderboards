@@ -9509,7 +9509,6 @@
         "1404318852661383199",
         "792987797657092106",
         "915390251449585666",
-        "942231461644349471",
         "1435327843289665596",
         "1323379766098661437",
         "702710123260412004",
@@ -10157,18 +10156,11 @@
     }
   },
   "matchmaking": {
-    "854409388343951450": {
-      "teamName": "Ubers+",
+    "1381851488569004103": {
+      "teamName": "Metalogic",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779414554496,
-      "lastOpponents": []
-    },
-    "1437355351958749254": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779414567363,
+      "startTime": 1779414910723,
       "lastOpponents": []
     }
   },
@@ -14816,8 +14808,14 @@
     "1453334847211962390": 1779587502609
   },
   "pendingInvites": {
-    "invite_1204496416203083787": {
-      "cooldownUntil": 1779414906699
+    "1779415325497": {
+      "teamName": "Serendipity",
+      "playerId": "1034937186610581546",
+      "inviterId": "849734106576191538",
+      "timestamp": 1779415325497
+    },
+    "invite_849734106576191538": {
+      "cooldownUntil": 1779415625497
     }
   },
   "userNicknames": {
@@ -17341,26 +17339,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779414336341": {
-      "team1Id": "813556928034635807",
-      "team2Id": "722164644558667816",
-      "team1Name": "Spurs",
-      "team2Name": "Vorpal Swords",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779414336341
-    },
-    "1779414491364": {
-      "team1Id": "722164644558667816",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Vorpal Swords",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779414491364
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
