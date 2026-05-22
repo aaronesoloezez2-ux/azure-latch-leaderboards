@@ -15013,6 +15013,18 @@
     "region": "Asia",
     "elo5v5": 20
   },
+  "423000787900432404": {
+    "team": "DuskDawn",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 20
+  },
+  "543655926985392128": {
+    "team": "DuskDawn",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 20
+  },
   "1077765468091330611": {
     "team": "The Abyssal Stars",
     "isLeader": false,
@@ -22129,6 +22141,42 @@
     "team": "French Vanguard",
     "isLeader": true,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "622592356465770501": {
+    "team": "Llantines fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1023820720326856736": {
+    "team": "Llantines fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "912439333993205830": {
+    "team": "Llantines fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "845402759623868466": {
+    "team": "Llantines fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1421163014710628522": {
+    "team": "Llantines fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "690007789325647948": {
+    "team": "Llantines fc",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "1290679358528290868": {
