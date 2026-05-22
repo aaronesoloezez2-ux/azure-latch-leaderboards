@@ -22226,67 +22226,7 @@
     "region": "NA",
     "elo5v5": 199
   },
-  "1131031661694423120": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "1285337928989544468": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "653418974142267443": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "614848979594903562": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
   "363522002482626571": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "533328299720441857": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "475030450838962177": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "854424739589390338": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "1235204230898384938": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "1364318290088034335": {
-    "team": "Crescent",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 220
-  },
-  "624335854063714314": {
     "team": "Crescent",
     "isLeader": false,
     "region": "NA",
@@ -22297,6 +22237,73 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 220
+  },
+  "1131031661694423120": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "653418974142267443": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "475030450838962177": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "533328299720441857": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "614848979594903562": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1235204230898384938": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1364318290088034335": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "624335854063714314": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "854424739589390338": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1285337928989544468": {
+    "team": "Vitality",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "868243652416254034": {
+    "team": "Vitality",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1290679358528290868": {
     "team": null,
@@ -22341,13 +22348,6 @@
     "isModerator": true
   },
   "1467619174930186332": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "868243652416254034": {
     "team": null,
     "isLeader": false,
     "region": null,
