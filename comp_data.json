@@ -9697,7 +9697,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "896720760985497640"
+        "1403844188537098312"
       ],
       "players": [
         "751740180083245116",
@@ -10304,11 +10304,11 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "847505723763195914": {
-      "teamName": "Vorpal Swords",
+    "880865540518862918": {
+      "teamName": "Vinland",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779477240798,
+      "startTime": 1779482399631,
       "lastOpponents": []
     }
   },
