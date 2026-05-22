@@ -9622,7 +9622,6 @@
       "elo5v5": 133,
       "elo11v11": 0,
       "leaders": [
-        "883782190348001351",
         "1210078842362920991"
       ],
       "players": [
@@ -10302,6 +10301,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
+      "lastOpponents": []
+    },
+    "854409388343951450": {
+      "teamName": "Ubers+",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779491544297,
       "lastOpponents": []
     }
   },
@@ -17518,15 +17524,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779490947504": {
-      "team1Id": "757056855175594004",
-      "team2Id": "1204496416203083787",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Generation Of Miracles",
-      "team1Vote": false,
-      "team2Vote": null,
-      "timestamp": 1779490947504
-    },
     "1779491152548": {
       "team1Id": "854409388343951450",
       "team2Id": "1204496416203083787",
