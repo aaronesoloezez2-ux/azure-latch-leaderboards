@@ -21172,12 +21172,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "851498479930048534": {
-    "team": "Bastard Munchen",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1396466222522175601": {
     "team": "Bastard Munchen",
     "isLeader": true,
@@ -22046,6 +22040,18 @@
     "elo5v5": 0
   },
   "1477392934029496522": {
+    "team": "Apex Latch",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "851498479930048534": {
+    "team": "Apex Latch",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1413510174773215305": {
     "team": "Apex Latch",
     "isLeader": false,
     "region": "Europe",
