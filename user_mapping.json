@@ -932,12 +932,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "704578686036213820": {
-    "team": "Ruthless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "600201058626568202": {
     "team": "Ruthless",
     "isLeader": false,
@@ -963,6 +957,12 @@
     "elo5v5": 0
   },
   "1112214170151174256": {
+    "team": "Ruthless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "704578686036213820": {
     "team": "Ruthless",
     "isLeader": false,
     "region": "Asia",
