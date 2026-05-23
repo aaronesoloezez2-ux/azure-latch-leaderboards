@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Generation of Miracles",
+    "elo5v5": 98
+  },
+  {
+    "rank": 10,
     "teamName": "Vorpal Swords",
     "elo5v5": 86
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Paragon",
     "elo5v5": 83
-  },
-  {
-    "rank": 11,
-    "teamName": "Generation of Miracles",
-    "elo5v5": 77
   },
   {
     "rank": 12,
