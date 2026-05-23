@@ -19051,42 +19051,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "510202869723430912": {
-    "team": "XIV",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1351332059913785485": {
-    "team": "XIV",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1499873387021865015": {
-    "team": "XIV",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1032746410229112832": {
-    "team": "XIV",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1217494684943909045": {
-    "team": "XIV",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1368166758774472764": {
-    "team": "XIV",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "979170983506214934": {
     "team": "Bear United U-20",
     "isLeader": false,
@@ -22071,6 +22035,12 @@
     "elo5v5": 173
   },
   "779547098000916480": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 173
+  },
+  "991147493385568357": {
     "team": "G50",
     "isLeader": false,
     "region": "NA",
