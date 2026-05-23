@@ -6051,60 +6051,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1206441256050237500": {
-    "team": "Espada courtyard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1211511485877059614": {
-    "team": "Espada courtyard",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1225620952746954765": {
-    "team": "Espada courtyard",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1180419280274202644": {
-    "team": "Espada courtyard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1180403348676030484": {
-    "team": "Espada courtyard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1273413424084156426": {
-    "team": "Espada courtyard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1387185038256508998": {
-    "team": "Espada courtyard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1267756560667381816": {
-    "team": "Espada courtyard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1477154310499340289": {
-    "team": "Espada courtyard",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1259653746267525221": {
     "team": "Dark Magics",
     "isLeader": true,
@@ -22308,6 +22254,60 @@
     "team": "Crusaders",
     "isLeader": false,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "1206441256050237500": {
+    "team": "Berserker",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1211511485877059614": {
+    "team": "Berserker",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1225620952746954765": {
+    "team": "Berserker",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1180419280274202644": {
+    "team": "Berserker",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1180403348676030484": {
+    "team": "Berserker",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1273413424084156426": {
+    "team": "Berserker",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1387185038256508998": {
+    "team": "Berserker",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1267756560667381816": {
+    "team": "Berserker",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1477154310499340289": {
+    "team": "Berserker",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "1290679358528290868": {
