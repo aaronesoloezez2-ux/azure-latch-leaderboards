@@ -1998,7 +1998,7 @@
       "achievements": []
     },
     "Parxousia": {
-      "elo5v5": 69,
+      "elo5v5": 86,
       "elo11v11": 0,
       "leaders": [
         "1223118682767757343",
@@ -14972,8 +14972,14 @@
     "760201594540785725": 1779727816440
   },
   "pendingInvites": {
-    "invite_1492171579944079440": {
-      "cooldownUntil": 1779555314245
+    "1779555434572": {
+      "teamName": "Chem Brickers",
+      "playerId": "972896013478150164",
+      "inviterId": "902272222964625428",
+      "timestamp": 1779555434572
+    },
+    "invite_902272222964625428": {
+      "cooldownUntil": 1779555734572
     }
   },
   "userNicknames": {
