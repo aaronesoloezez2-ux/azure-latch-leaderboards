@@ -10010,8 +10010,7 @@
       "elo5v5": 46,
       "elo11v11": 0,
       "leaders": [
-        "567041024615120928",
-        "749678245863227462"
+        "1364318290088034335"
       ],
       "players": [
         "1081319797180088422",
@@ -10300,18 +10299,18 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
+    "728385309666050149": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779506200715,
+      "startTime": 1779508575799,
       "lastOpponents": []
     },
-    "495333407551782933": {
-      "teamName": "ⅩⅠⅠⅠ",
+    "926536409106485338": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779506207629,
+      "startTime": 1779508600631,
       "lastOpponents": []
     }
   },
@@ -17524,7 +17523,116 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779508092903": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508092903
+    },
+    "1779508177922": {
+      "team1Id": "1353220534367682582",
+      "team2Id": "926536409106485338",
+      "team1Name": "G50",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508177922
+    },
+    "1779508352947": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508352947
+    },
+    "1779508402955": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508402955
+    },
+    "1779508407954": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508407954
+    },
+    "1779508427958": {
+      "team1Id": "1353220534367682582",
+      "team2Id": "926536409106485338",
+      "team1Name": "G50",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508427958
+    },
+    "1779508437959": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508437959
+    },
+    "1779508447960": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508447960
+    },
+    "1779508452960": {
+      "team1Id": "1353220534367682582",
+      "team2Id": "728385309666050149",
+      "team1Name": "G50",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508452960
+    },
+    "1779508462962": {
+      "team1Id": "1353220534367682582",
+      "team2Id": "926536409106485338",
+      "team1Name": "G50",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508462962
+    },
+    "1779508522965": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508522965
+    },
+    "1779508537965": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kiseki",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779508537966
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
