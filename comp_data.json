@@ -10063,7 +10063,8 @@
         "1421163014710628522",
         "1104636086145257492",
         "861090825681502259",
-        "1114604790295576597"
+        "1114604790295576597",
+        "805870520598921257"
       ],
       "region": "NA",
       "achievements": []
@@ -10278,13 +10279,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "216309723933310977": {
-      "teamName": "RB Leipzig",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779565076577,
       "lastOpponents": []
     }
   },
@@ -14967,7 +14961,8 @@
     "1115974502984196187": 1779736272263,
     "1336359291472576558": 1779738387016,
     "1187369424131473478": 1779739477240,
-    "1420890018997604455": 1779740779141
+    "1420890018997604455": 1779740779141,
+    "805870520598921257": 1779741288787
   },
   "pendingInvites": {
     "1779567354769": {
@@ -14975,6 +14970,9 @@
       "playerId": "409638643754336277",
       "inviterId": "1280938486030930077",
       "timestamp": 1779567354769
+    },
+    "invite_690007789325647948": {
+      "cooldownUntil": 1779568590833
     }
   },
   "userNicknames": {
@@ -17524,7 +17522,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779568353089": {
+      "team1Id": "216309723933310977",
+      "team2Id": "847505723763195914",
+      "team1Name": "RB Leipzig",
+      "team2Name": "Vorpal Swords",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779568353089
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
