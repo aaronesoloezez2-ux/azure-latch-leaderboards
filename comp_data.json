@@ -9239,7 +9239,7 @@
       "achievements": []
     },
     "Chem Brickers": {
-      "elo5v5": 210,
+      "elo5v5": 217,
       "elo11v11": 0,
       "leaders": [
         "902272222964625428",
@@ -9635,7 +9635,7 @@
       "achievements": []
     },
     "Heavens Society": {
-      "elo5v5": 61,
+      "elo5v5": 47,
       "elo11v11": 0,
       "leaders": [
         "1309828754260099149",
@@ -14969,9 +14969,6 @@
       "playerId": "578719398785974272",
       "inviterId": "1353220534367682582",
       "timestamp": 1779572095992
-    },
-    "invite_1353220534367682582": {
-      "cooldownUntil": 1779572395992
     }
   },
   "userNicknames": {
@@ -17523,17 +17520,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779571663641": {
-      "team1Id": "880865540518862918",
-      "team2Id": "1353220534367682582",
-      "team1Name": "Vinland",
-      "team2Name": "G50",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779571663641
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
