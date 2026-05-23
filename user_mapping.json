@@ -14212,12 +14212,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "793866389331902474": {
-    "team": "Trollface FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "981918008903598100": {
     "team": "Trollface FC",
     "isLeader": false,
@@ -22241,6 +22235,42 @@
   "531170342471860244": {
     "team": "Vought International",
     "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1022320271169962024": {
+    "team": "rabbits",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1471277326380564644": {
+    "team": "rabbits",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "931634457797099520": {
+    "team": "rabbits",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "793866389331902474": {
+    "team": "rabbits",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "937044067517337600": {
+    "team": "rabbits",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "663796432452583444": {
+    "team": "rabbits",
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
