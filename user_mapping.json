@@ -16051,12 +16051,6 @@
     "region": "Asia",
     "elo5v5": 21
   },
-  "678224130885156874": {
-    "team": "JPU20",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
   "1360639881130409985": {
     "team": "JPU20",
     "isLeader": false,
@@ -20547,6 +20541,12 @@
     "elo5v5": 0
   },
   "621690625032716289": {
+    "team": "Vindictation",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "678224130885156874": {
     "team": "Vindictation",
     "isLeader": false,
     "region": "Asia",
