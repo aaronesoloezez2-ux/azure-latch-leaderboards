@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Chem Brickers",
-    "elo5v5": 210
+    "elo5v5": 217
   },
   {
     "rank": 2,
@@ -31,32 +31,32 @@
   },
   {
     "rank": 7,
-    "teamName": "Heavens Society",
-    "elo5v5": 61
-  },
-  {
-    "rank": 8,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "D7th",
     "elo5v5": 59
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Velora",
     "elo5v5": 57
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Calamity",
     "elo5v5": 55
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Taishō",
+    "elo5v5": 47
+  },
+  {
+    "rank": 12,
+    "teamName": "Heavens Society",
     "elo5v5": 47
   },
   {
