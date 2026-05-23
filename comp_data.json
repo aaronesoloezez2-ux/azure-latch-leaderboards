@@ -5667,7 +5667,6 @@
         "1093388128527601695",
         "1138242374842187977",
         "1306082210528624654",
-        "1154151895976398889",
         "1445551978120741016"
       ],
       "region": "NA",
@@ -10270,7 +10269,7 @@
       "searchType": "timed",
       "region": "NA",
       "duration": 5,
-      "startTime": 1779576063889,
+      "startTime": 1779577435360,
       "lastOpponents": []
     }
   },
@@ -14976,9 +14975,6 @@
       "playerId": "825813350608404510",
       "inviterId": "1426419421026455565",
       "timestamp": 1779576287866
-    },
-    "invite_1426419421026455565": {
-      "cooldownUntil": 1779576587866
     }
   },
   "userNicknames": {
@@ -17530,35 +17526,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779575855277": {
-      "team1Id": "952667718363009074",
-      "team2Id": "757056855175594004",
-      "team1Name": "Zero",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1779575855277
-    },
-    "1779576010310": {
-      "team1Id": "1280938486030930077",
-      "team2Id": "952667718363009074",
-      "team1Name": "Spurs",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779576010310
-    },
-    "1779576050315": {
-      "team1Id": "757056855175594004",
-      "team2Id": "952667718363009074",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779576050315
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
