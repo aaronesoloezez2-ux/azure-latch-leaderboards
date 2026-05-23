@@ -9625,7 +9625,6 @@
         "1210078842362920991"
       ],
       "players": [
-        "804116659983220746",
         "1355669102731202580",
         "829504713950101534",
         "1213349163190849609",
@@ -10302,13 +10301,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779496526680,
       "lastOpponents": []
     }
   },
@@ -17518,17 +17510,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779496484486": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "813556928034635807",
-      "team1Name": "Ubers+",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779496484486
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
