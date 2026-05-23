@@ -17842,31 +17842,13 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "531170342471860244": {
-    "team": "Outer Spades",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1401707804548661348": {
     "team": "Outer Spades",
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
-  "922937717048901635": {
-    "team": "Outer Spades",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1448339072237047889": {
-    "team": "Outer Spades",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "833372036649844816": {
     "team": "Outer Spades",
     "isLeader": false,
     "region": "Europe",
@@ -22339,6 +22321,36 @@
     "team": "Vitality",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "833372036649844816": {
+    "team": "Vought International",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "669685794423701558": {
+    "team": "Vought International",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "922937717048901635": {
+    "team": "Vought International",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "583651344884170781": {
+    "team": "Vought International",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "531170342471860244": {
+    "team": "Vought International",
+    "isLeader": false,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
