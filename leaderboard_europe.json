@@ -31,43 +31,43 @@
   },
   {
     "rank": 7,
-    "teamName": "Calamity",
-    "elo5v5": 76
-  },
-  {
-    "rank": 8,
     "teamName": "Heavens Society",
     "elo5v5": 61
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "gamesense",
     "elo5v5": 60
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "D7th",
     "elo5v5": 59
   },
   {
+    "rank": 10,
+    "teamName": "Velora",
+    "elo5v5": 57
+  },
+  {
     "rank": 11,
+    "teamName": "Calamity",
+    "elo5v5": 55
+  },
+  {
+    "rank": 12,
     "teamName": "Taishō",
     "elo5v5": 47
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Shalom FC",
     "elo5v5": 44
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Acclamation",
     "elo5v5": 40
-  },
-  {
-    "rank": 14,
-    "teamName": "Velora",
-    "elo5v5": 35
   },
   {
     "rank": 15,
