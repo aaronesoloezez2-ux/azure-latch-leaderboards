@@ -8592,20 +8592,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Outer Spades": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1220846412460458104",
-        "1401707804548661348"
-      ],
-      "players": [
-        "1401707804548661348",
-        "1448339072237047889"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Noctiluna OCE": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -14976,17 +14962,11 @@
       "inviterId": "232938037263204362",
       "timestamp": 1779531277412
     },
-    "invite_1015837874681290802": {
-      "cooldownUntil": 1779533316113
-    },
     "1779533229886": {
       "teamName": "Overseers",
       "playerId": "503270227077758998",
       "inviterId": "1165345544198160488",
       "timestamp": 1779533229886
-    },
-    "invite_1165345544198160488": {
-      "cooldownUntil": 1779533529886
     }
   },
   "userNicknames": {
