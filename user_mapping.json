@@ -9263,12 +9263,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1220990805947318302": {
-    "team": "Serendipity",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 28
-  },
   "1125553598684733481": {
     "team": "Serendipity",
     "isLeader": true,
@@ -18560,6 +18554,12 @@
     "elo5v5": 31
   },
   "740817093490114580": {
+    "team": "Seirin",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 31
+  },
+  "1115974502984196187": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
