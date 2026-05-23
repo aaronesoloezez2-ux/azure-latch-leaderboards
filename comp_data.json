@@ -8230,7 +8230,7 @@
       "achievements": []
     },
     "kawaii": {
-      "elo5v5": 144,
+      "elo5v5": 126,
       "elo11v11": 0,
       "leaders": [
         "952573404823818360",
@@ -10127,7 +10127,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 0,
+      "elo5v5": 26,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -10263,13 +10263,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "1426419421026455565": {
-      "teamName": "Sulk",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779579190724,
       "lastOpponents": []
     }
   },
