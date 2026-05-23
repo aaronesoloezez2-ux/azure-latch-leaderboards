@@ -96,18 +96,18 @@
   },
   {
     "rank": 20,
-    "teamName": "Seirin",
-    "elo5v5": 52
-  },
-  {
-    "rank": 21,
     "teamName": "Sulk",
     "elo5v5": 48
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "RB Leipzig",
     "elo5v5": 47
+  },
+  {
+    "rank": 22,
+    "teamName": "Abibas NA",
+    "elo5v5": 46
   },
   {
     "rank": 23,
@@ -126,13 +126,13 @@
   },
   {
     "rank": 26,
-    "teamName": "Serendipity",
-    "elo5v5": 28
+    "teamName": "Seirin",
+    "elo5v5": 31
   },
   {
     "rank": 27,
-    "teamName": "Abibas NA",
-    "elo5v5": 24
+    "teamName": "Serendipity",
+    "elo5v5": 28
   },
   {
     "rank": 28,
