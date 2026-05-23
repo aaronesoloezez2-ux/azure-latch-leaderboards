@@ -8000,7 +8000,7 @@
       "achievements": []
     },
     "Crimson Clavis": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "742794709541322792"
@@ -8749,7 +8749,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 6,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494"
@@ -10263,6 +10263,14 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
+      "lastOpponents": []
+    },
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 5,
+      "startTime": 1779576063889,
       "lastOpponents": []
     }
   },
@@ -14963,8 +14971,14 @@
       "inviterId": "1353220534367682582",
       "timestamp": 1779572095992
     },
-    "invite_1351695098878103592": {
-      "cooldownUntil": 1779575760049
+    "1779576287866": {
+      "teamName": "Sulk",
+      "playerId": "825813350608404510",
+      "inviterId": "1426419421026455565",
+      "timestamp": 1779576287866
+    },
+    "invite_1426419421026455565": {
+      "cooldownUntil": 1779576587866
     }
   },
   "userNicknames": {
@@ -17517,23 +17531,32 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779575330145": {
+    "1779575855277": {
       "team1Id": "952667718363009074",
-      "team2Id": "1280938486030930077",
+      "team2Id": "757056855175594004",
       "team1Name": "Zero",
-      "team2Name": "Spurs",
+      "team2Name": "ⅩⅠⅠⅠ",
       "team1Vote": true,
       "team2Vote": null,
-      "timestamp": 1779575330145
+      "timestamp": 1779575855277
     },
-    "1779575655216": {
+    "1779576010310": {
       "team1Id": "1280938486030930077",
       "team2Id": "952667718363009074",
       "team1Name": "Spurs",
       "team2Name": "Zero",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779575655216
+      "timestamp": 1779576010310
+    },
+    "1779576050315": {
+      "team1Id": "757056855175594004",
+      "team2Id": "952667718363009074",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779576050315
     }
   },
   "pendingVCRequests": {},
