@@ -5901,6 +5901,12 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "776173653888991232": {
+    "team": "Tentei",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "232938037263204362": {
     "team": "Tentei",
     "isLeader": true,
@@ -6273,6 +6279,12 @@
     "region": "Europe",
     "elo5v5": 0,
     "isModerator": true
+  },
+  "1237781963088072850": {
+    "team": "Overseers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
   },
   "1134796356620406926": {
     "team": "CoR3s World",
