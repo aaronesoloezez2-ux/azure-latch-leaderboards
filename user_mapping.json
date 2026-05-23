@@ -21624,7 +21624,7 @@
   },
   "749678245863227462": {
     "team": "Abibas NA",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 46,
     "isModerator": true
@@ -21647,11 +21647,11 @@
     "region": "NA",
     "elo5v5": 46
   },
-  "567041024615120928": {
-    "team": "Abibas NA",
-    "isLeader": true,
+  "1364318290088034335": {
+    "team": "Vitality",
+    "isLeader": false,
     "region": "NA",
-    "elo5v5": 46
+    "elo5v5": 0
   },
   "1464125504448626956": {
     "team": "RB Leipzig",
@@ -22264,12 +22264,6 @@
     "elo5v5": 0
   },
   "1235204230898384938": {
-    "team": "Vitality",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1364318290088034335": {
     "team": "Vitality",
     "isLeader": false,
     "region": "NA",
