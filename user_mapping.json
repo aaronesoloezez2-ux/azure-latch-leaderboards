@@ -20563,37 +20563,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1355669102731202580": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 133,
-    "isModerator": true
-  },
-  "829504713950101534": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 133
-  },
-  "1213349163190849609": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 133
-  },
-  "689672576670498883": {
-    "team": "Codependence",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 133
-  },
-  "1210078842362920991": {
-    "team": "Codependence",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 133
-  },
   "668701011137003521": {
     "team": "Vorpal Swords",
     "isLeader": false,
@@ -22290,6 +22259,13 @@
     "isModerator": true
   },
   "1244400339243892806": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1355669102731202580": {
     "team": null,
     "isLeader": false,
     "region": null,
