@@ -22144,7 +22144,7 @@
   },
   "624335854063714314": {
     "team": "Vitality",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
