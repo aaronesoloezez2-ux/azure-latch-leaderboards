@@ -298,7 +298,7 @@
         "1303458965304381440"
       ],
       "region": "Europe",
-      "elo5v5": 11,
+      "elo5v5": 0,
       "elo11v11": 0,
       "achievements": [
         "🥇 First Place - Winter 2025-26 5v5 (Europe)"
@@ -9672,7 +9672,7 @@
       "achievements": []
     },
     "Heavens Society": {
-      "elo5v5": 42,
+      "elo5v5": 61,
       "elo11v11": 0,
       "leaders": [
         "1309828754260099149",
@@ -14955,17 +14955,7 @@
     "1413510174773215305": 1779719521047,
     "804769804594053130": 1779722124343
   },
-  "pendingInvites": {
-    "1779542431467": {
-      "teamName": "Devil May Cry",
-      "playerId": "1456055875461579037",
-      "inviterId": "1326905194537029653",
-      "timestamp": 1779542431467
-    },
-    "invite_216309723933310977": {
-      "cooldownUntil": 1779549621089
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
