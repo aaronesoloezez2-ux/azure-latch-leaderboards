@@ -5652,7 +5652,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 124,
+      "elo5v5": 107,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -9533,7 +9533,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 86,
+      "elo5v5": 106,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -10263,6 +10263,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
+      "lastOpponents": []
+    },
+    "1335102355695468688": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779580543678,
       "lastOpponents": []
     }
   },
