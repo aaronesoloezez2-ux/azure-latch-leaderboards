@@ -20353,12 +20353,6 @@
     "region": "NA",
     "elo5v5": 83
   },
-  "883782190348001351": {
-    "team": "Paragon",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 83
-  },
   "662551566397472798": {
     "team": "Paragon",
     "isLeader": true,
@@ -21598,6 +21592,12 @@
     "isModerator": true
   },
   "852164591839870976": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 23
+  },
+  "883782190348001351": {
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
