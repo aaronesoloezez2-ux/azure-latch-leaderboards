@@ -21438,13 +21438,6 @@
     "elo5v5": 23,
     "isModerator": true
   },
-  "804769804594053130": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 23,
-    "isModerator": true
-  },
   "526676623827795998": {
     "team": "Spurs",
     "isLeader": false,
@@ -22307,6 +22300,13 @@
     "isModerator": true
   },
   "868243652416254034": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "804769804594053130": {
     "team": null,
     "isLeader": false,
     "region": null,
