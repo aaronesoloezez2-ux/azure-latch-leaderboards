@@ -8846,7 +8846,6 @@
         "9385648719915494",
         "1030990928191688704",
         "1226200259429007370",
-        "964297236529967194",
         "1355403974122930186",
         "589483383881465866",
         "1141899154084343909",
@@ -17522,26 +17521,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779493598488": {
-      "team1Id": "854409388343951450",
-      "team2Id": "813556928034635807",
-      "team1Name": "Ubers+",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779493598488
-    },
-    "1779493668500": {
-      "team1Id": "813556928034635807",
-      "team2Id": "757056855175594004",
-      "team1Name": "Spurs",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779493668500
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
