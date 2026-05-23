@@ -5385,12 +5385,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "599138961260019734": {
-    "team": "星野",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "811522400164380714": {
     "team": "星野",
     "isLeader": false,
@@ -18763,6 +18757,12 @@
     "elo5v5": 0
   },
   "126567249013125946": {
+    "team": "Hoshino (星野)",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "599138961260019734": {
     "team": "Hoshino (星野)",
     "isLeader": false,
     "region": "Asia",
