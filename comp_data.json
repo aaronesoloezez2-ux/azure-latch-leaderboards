@@ -9917,7 +9917,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 46,
+      "elo5v5": 71,
       "elo11v11": 0,
       "leaders": [
         "567041024615120928",
@@ -10122,7 +10122,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 187,
+      "elo5v5": 173,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -14972,9 +14972,6 @@
       "playerId": "409638643754336277",
       "inviterId": "1280938486030930077",
       "timestamp": 1779567354769
-    },
-    "invite_1076521298823495802": {
-      "cooldownUntil": 1779568987102
     }
   },
   "userNicknames": {
@@ -17524,17 +17521,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779568353089": {
-      "team1Id": "216309723933310977",
-      "team2Id": "847505723763195914",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Vorpal Swords",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779568353089
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
