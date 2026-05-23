@@ -1613,7 +1613,7 @@
       "achievements": []
     },
     "Vinland": {
-      "elo5v5": 28,
+      "elo5v5": 16,
       "elo11v11": 0,
       "leaders": [
         "880865540518862918"
@@ -9710,7 +9710,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 248,
+      "elo5v5": 253,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10298,13 +10298,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "849734106576191538": {
-      "teamName": "Serendipity",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779502325270,
       "lastOpponents": []
     }
   },
@@ -14977,11 +14970,7 @@
     "1124196641893798008": 1779675241971,
     "363522002482626571": 1779675260134
   },
-  "pendingInvites": {
-    "invite_836064878660812861": {
-      "cooldownUntil": 1779502676337
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17518,7 +17507,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779502681679": {
+      "team1Id": "849734106576191538",
+      "team2Id": "728385309666050149",
+      "team1Name": "Serendipity",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779502681679
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
