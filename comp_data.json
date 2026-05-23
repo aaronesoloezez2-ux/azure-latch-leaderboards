@@ -7791,8 +7791,7 @@
         "1496964363951800430",
         "1020421521598062693",
         "995434523468759044",
-        "861964219221278741",
-        "1481494653604856011"
+        "861964219221278741"
       ],
       "region": "NA",
       "achievements": []
@@ -10264,13 +10263,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "1280938486030930077": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779575406057,
       "lastOpponents": []
     }
   },
@@ -14971,9 +14963,6 @@
       "inviterId": "1353220534367682582",
       "timestamp": 1779572095992
     },
-    "invite_722164644558667816": {
-      "cooldownUntil": 1779575554985
-    },
     "invite_1351695098878103592": {
       "cooldownUntil": 1779575760049
     }
@@ -17536,6 +17525,15 @@
       "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1779575330145
+    },
+    "1779575655216": {
+      "team1Id": "1280938486030930077",
+      "team2Id": "952667718363009074",
+      "team1Name": "Spurs",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779575655216
     }
   },
   "pendingVCRequests": {},
