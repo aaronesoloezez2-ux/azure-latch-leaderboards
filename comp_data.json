@@ -8833,7 +8833,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 28,
+      "elo5v5": 47,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494"
@@ -10303,11 +10303,11 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "1426419421026455565": {
-      "teamName": "Sulk",
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779498682993,
+      "startTime": 1779499314373,
       "lastOpponents": []
     }
   },
@@ -14980,11 +14980,7 @@
     "804116659983220746": 1779671108691,
     "883782190348001351": 1779671622600
   },
-  "pendingInvites": {
-    "invite_662551566397472798": {
-      "cooldownUntil": 1779499120915
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17521,7 +17517,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779499185759": {
+      "team1Id": "880865540518862918",
+      "team2Id": "728385309666050149",
+      "team1Name": "Vinland",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779499185759
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
