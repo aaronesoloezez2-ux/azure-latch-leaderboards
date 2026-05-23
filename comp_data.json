@@ -5675,7 +5675,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 103,
+      "elo5v5": 124,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -10206,7 +10206,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 199,
+      "elo5v5": 187,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -17517,17 +17517,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779499185759": {
-      "team1Id": "880865540518862918",
-      "team2Id": "728385309666050149",
-      "team1Name": "Vinland",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779499185759
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
