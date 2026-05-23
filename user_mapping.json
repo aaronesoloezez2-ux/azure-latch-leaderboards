@@ -15245,12 +15245,6 @@
     "region": "Asia",
     "elo5v5": 51
   },
-  "1365364084383420446": {
-    "team": "God's gambit",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 51
-  },
   "983586805968437289": {
     "team": "God's gambit",
     "isLeader": false,
@@ -16093,6 +16087,12 @@
     "elo5v5": 21
   },
   "979721067524395039": {
+    "team": "JPU20",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "1365364084383420446": {
     "team": "JPU20",
     "isLeader": false,
     "region": "Asia",
