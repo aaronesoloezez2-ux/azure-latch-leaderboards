@@ -1,58 +1,58 @@
 [
   {
     "rank": 1,
+    "teamName": "Generation of Miracles",
+    "elo5v5": 288
+  },
+  {
+    "rank": 2,
     "teamName": "Kiseki",
     "elo5v5": 253
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "G50",
     "elo5v5": 173
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Bear United",
     "elo5v5": 166
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Euclesis",
     "elo5v5": 155
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Vanguard",
     "elo5v5": 151
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "kawaii",
     "elo5v5": 144
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "G50:K",
     "elo5v5": 126
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Re Al",
     "elo5v5": 124
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Vorpal Swords",
     "elo5v5": 86
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Paragon",
     "elo5v5": 83
-  },
-  {
-    "rank": 11,
-    "teamName": "Generation of Miracles",
-    "elo5v5": 77
   },
   {
     "rank": 12,
@@ -101,47 +101,47 @@
   },
   {
     "rank": 21,
-    "teamName": "Generation Of Miracles",
-    "elo5v5": 43
-  },
-  {
-    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Seirin",
     "elo5v5": 31
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Serendipity",
     "elo5v5": 28
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Attrition",
     "elo5v5": 22
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Thxrns",
+    "elo5v5": 22
+  },
+  {
+    "rank": 29,
+    "teamName": "Generation Of Miracles",
     "elo5v5": 22
   },
   {
