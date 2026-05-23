@@ -96,47 +96,47 @@
   },
   {
     "rank": 20,
-    "teamName": "Citizens-U3",
-    "elo5v5": 47
-  },
-  {
-    "rank": 21,
     "teamName": "RB Leipzig",
     "elo5v5": 47
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Spurs",
     "elo5v5": 45
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Moon Noobs",
     "elo5v5": 42
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Sulk",
     "elo5v5": 29
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Vinland",
+    "elo5v5": 28
+  },
+  {
+    "rank": 28,
+    "teamName": "Citizens-U3",
     "elo5v5": 28
   },
   {
