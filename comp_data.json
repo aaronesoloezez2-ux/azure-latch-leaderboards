@@ -9846,7 +9846,6 @@
         "666762995258359808",
         "815362774393552966",
         "1210078842362920991",
-        "1037140271101653052",
         "689672576670498883"
       ],
       "region": "NA",
@@ -10266,12 +10265,11 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
+    "1280938486030930077": {
+      "teamName": "Spurs",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 5,
-      "startTime": 1779575197156,
+      "startTime": 1779575406057,
       "lastOpponents": []
     }
   },
@@ -14971,6 +14969,9 @@
       "playerId": "578719398785974272",
       "inviterId": "1353220534367682582",
       "timestamp": 1779572095992
+    },
+    "invite_722164644558667816": {
+      "cooldownUntil": 1779575554985
     }
   },
   "userNicknames": {
@@ -17522,7 +17523,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779575330145": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1280938486030930077",
+      "team1Name": "Zero",
+      "team2Name": "Spurs",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1779575330145
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
