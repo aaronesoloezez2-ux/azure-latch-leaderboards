@@ -166,18 +166,18 @@
   },
   {
     "rank": 34,
-    "teamName": "Honorary Knights",
+    "teamName": "Crimson Clavis",
     "elo5v5": 21
   },
   {
     "rank": 35,
-    "teamName": "Vinland",
-    "elo5v5": 16
+    "teamName": "Honorary Knights",
+    "elo5v5": 21
   },
   {
     "rank": 36,
-    "teamName": "Citizens-U3",
-    "elo5v5": 6
+    "teamName": "Vinland",
+    "elo5v5": 16
   },
   {
     "rank": 37,
@@ -1031,67 +1031,67 @@
   },
   {
     "rank": 207,
-    "teamName": "Crimson Clavis",
-    "elo5v5": 0
-  },
-  {
-    "rank": 208,
     "teamName": "Era Of Darkness",
     "elo5v5": 0
   },
   {
-    "rank": 209,
+    "rank": 208,
     "teamName": "Geniuses no sekai",
     "elo5v5": 0
   },
   {
-    "rank": 210,
+    "rank": 209,
     "teamName": "LEGEND'S NA",
     "elo5v5": 0
   },
   {
-    "rank": 211,
+    "rank": 210,
     "teamName": "Soul Survivors Fc",
     "elo5v5": 0
   },
   {
-    "rank": 212,
+    "rank": 211,
     "teamName": "H.P. Academy",
     "elo5v5": 0
   },
   {
-    "rank": 213,
+    "rank": 212,
     "teamName": "PARIS.X.GEN",
     "elo5v5": 0
   },
   {
-    "rank": 214,
+    "rank": 213,
     "teamName": "Vanguard FC",
     "elo5v5": 0
   },
   {
-    "rank": 215,
+    "rank": 214,
     "teamName": "The Sin Archibishops",
     "elo5v5": 0
   },
   {
-    "rank": 216,
+    "rank": 215,
     "teamName": "FranXX",
     "elo5v5": 0
   },
   {
-    "rank": 217,
+    "rank": 216,
     "teamName": "Tismatics",
     "elo5v5": 0
   },
   {
-    "rank": 218,
+    "rank": 217,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
-    "rank": 219,
+    "rank": 218,
     "teamName": "Guild: Calabash Crusadors",
+    "elo5v5": 0
+  },
+  {
+    "rank": 219,
+    "teamName": "Citizens-U3",
     "elo5v5": 0
   },
   {
