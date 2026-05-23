@@ -10164,16 +10164,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Crescent": {
-      "elo5v5": 220,
-      "elo11v11": 0,
-      "leaders": [
-        "574668456859795457"
-      ],
-      "players": [],
-      "region": "NA",
-      "achievements": []
-    },
     "Vitality": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -14972,11 +14962,7 @@
     "1251496480318161002": 1779731051914,
     "896050388720058408": 1779731262715
   },
-  "pendingInvites": {
-    "invite_1280938486030930077": {
-      "cooldownUntil": 1779559878504
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
