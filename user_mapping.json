@@ -686,12 +686,6 @@
     "region": "Europe",
     "elo5v5": 11
   },
-  "548086400063635476": {
-    "team": "Abibas FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 11
-  },
   "790479627478892574": {
     "team": "Abibas FC",
     "isLeader": true,
@@ -18056,6 +18050,12 @@
     "region": "Europe",
     "elo5v5": 23
   },
+  "548086400063635476": {
+    "team": "Balance",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 23
+  },
   "990095740195987477": {
     "team": "Balance",
     "isLeader": true,
@@ -18382,6 +18382,12 @@
     "elo5v5": 1
   },
   "698041690526580796": {
+    "team": "Hyacinthia",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 1
+  },
+  "1383380743815958598": {
     "team": "Hyacinthia",
     "isLeader": false,
     "region": "Asia",
