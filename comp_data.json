@@ -9627,7 +9627,6 @@
         "1355669102731202580",
         "829504713950101534",
         "1213349163190849609",
-        "1390755048434307092",
         "689672576670498883"
       ],
       "region": "NA",
@@ -17508,17 +17507,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779501201393": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "722164644558667816",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Vorpal Swords",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779501201393
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
