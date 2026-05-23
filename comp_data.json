@@ -9361,7 +9361,7 @@
       "achievements": []
     },
     "Generation Of Miracles": {
-      "elo5v5": 22,
+      "elo5v5": 43,
       "elo11v11": 0,
       "leaders": [
         "1204496416203083787"
@@ -9883,7 +9883,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 23,
+      "elo5v5": 2,
       "elo11v11": 0,
       "leaders": [
         "813556928034635807",
@@ -14971,9 +14971,6 @@
       "playerId": "578719398785974272",
       "inviterId": "1353220534367682582",
       "timestamp": 1779572095992
-    },
-    "invite_1158500124016779384": {
-      "cooldownUntil": 1779573420072
     }
   },
   "userNicknames": {
