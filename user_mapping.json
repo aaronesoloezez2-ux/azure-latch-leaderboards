@@ -17997,12 +17997,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1490211985093165167": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "519585200355672074": {
     "team": "Citizens-U3",
     "isLeader": false,
@@ -20206,12 +20200,6 @@
   "1110317128952844339": {
     "team": "Vorpal Swords",
     "isLeader": true,
-    "region": "NA",
-    "elo5v5": 85
-  },
-  "717232453814583337": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
     "region": "NA",
     "elo5v5": 85
   },
