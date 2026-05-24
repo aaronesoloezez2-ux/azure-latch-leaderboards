@@ -298,7 +298,7 @@
         "1303458965304381440"
       ],
       "region": "Europe",
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "achievements": [
         "🥇 First Place - Winter 2025-26 5v5 (Europe)"
@@ -9578,7 +9578,7 @@
       "achievements": []
     },
     "Heavens Society": {
-      "elo5v5": 27,
+      "elo5v5": 5,
       "elo11v11": 0,
       "leaders": [
         "1309828754260099149",
@@ -10341,12 +10341,21 @@
       "teamName": "Moon Noobs",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779656491020,
+      "startTime": 1779657084705,
       "lastOpponents": []
     }
   },
   "refereeQueue": [],
-  "awaitingReferee": {},
+  "awaitingReferee": {
+    "1779656775726": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "759647905887289364",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Moon Noobs",
+      "vcLink": null,
+      "timestamp": 1779656775726
+    }
+  },
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -15059,9 +15068,6 @@
       "playerId": "611697342604902450",
       "inviterId": "1364318290088034335",
       "timestamp": 1779654747346
-    },
-    "invite_1235051975914295357": {
-      "cooldownUntil": 1779656803838
     }
   },
   "userNicknames": {
@@ -17654,16 +17660,7 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {},
-  "pendingVCRequests": {
-    "vc_1779656149643": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "759647905887289364",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Moon Noobs",
-      "vcLink": null,
-      "timestamp": 1779656170578
-    }
-  },
+  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
