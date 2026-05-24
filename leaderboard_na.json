@@ -51,53 +51,53 @@
   },
   {
     "rank": 11,
+    "teamName": "Vitality",
+    "elo5v5": 87
+  },
+  {
+    "rank": 12,
     "teamName": "Vorpal Swords",
     "elo5v5": 85
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Moon Noobs",
     "elo5v5": 79
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 14,
-    "teamName": "Abibas NA",
-    "elo5v5": 71
-  },
-  {
     "rank": 15,
-    "teamName": "Vitality",
-    "elo5v5": 67
-  },
-  {
-    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Shutokú",
     "elo5v5": 65
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "RB Leipzig",
     "elo5v5": 54
+  },
+  {
+    "rank": 20,
+    "teamName": "Abibas NA",
+    "elo5v5": 51
   },
   {
     "rank": 21,
