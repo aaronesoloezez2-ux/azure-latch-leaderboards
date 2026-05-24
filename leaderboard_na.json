@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "G50",
-    "elo5v5": 186
+    "elo5v5": 194
   },
   {
     "rank": 3,
@@ -151,43 +151,43 @@
   },
   {
     "rank": 31,
-    "teamName": "Re Al U-20",
-    "elo5v5": 22
-  },
-  {
-    "rank": 32,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Yakuza",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Vinland",
     "elo5v5": 16
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Seirin",
     "elo5v5": 14
+  },
+  {
+    "rank": 38,
+    "teamName": "Re Al U-20",
+    "elo5v5": 8
   },
   {
     "rank": 39,
