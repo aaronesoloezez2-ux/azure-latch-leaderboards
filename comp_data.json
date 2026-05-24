@@ -9810,7 +9810,8 @@
       "elo5v5": 25,
       "elo11v11": 0,
       "leaders": [
-        "813556928034635807"
+        "813556928034635807",
+        "1280938486030930077"
       ],
       "players": [
         "887818360589520936",
@@ -17634,17 +17635,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779663431165": {
-      "team1Id": "952667718363009074",
-      "team2Id": "852164591839870976",
-      "team1Name": "Zero",
-      "team2Name": "b0mb",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779663431165
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
