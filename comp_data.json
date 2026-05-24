@@ -7994,7 +7994,7 @@
       "achievements": []
     },
     "Crimson Clavis": {
-      "elo5v5": 21,
+      "elo5v5": 42,
       "elo11v11": 0,
       "leaders": [
         "742794709541322792"
@@ -10035,7 +10035,7 @@
       "achievements": []
     },
     "Llantines fc": {
-      "elo5v5": 22,
+      "elo5v5": 1,
       "elo11v11": 0,
       "leaders": [
         "690007789325647948"
@@ -10267,6 +10267,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
+      "lastOpponents": []
+    },
+    "1353220534367682582": {
+      "teamName": "G50",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779590261325,
       "lastOpponents": []
     }
   },
@@ -17534,7 +17541,7 @@
       "team2Id": "1353220534367682582",
       "team1Name": "Serendipity",
       "team2Name": "G50",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1779590233657
     }
