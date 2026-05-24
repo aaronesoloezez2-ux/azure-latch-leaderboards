@@ -6786,20 +6786,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Fate's Dominion": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1221800963430551562"
-      ],
-      "players": [
-        "1020644721762254919",
-        "610016244804091905",
-        "1221800963430551562"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Braciszku": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -15017,11 +15003,7 @@
     "529242823753465867": 1779791352016,
     "1327685103924805664": 1779794073431
   },
-  "pendingInvites": {
-    "invite_1337815894704787459": {
-      "cooldownUntil": 1779621538821
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
