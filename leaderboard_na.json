@@ -96,7 +96,7 @@
   },
   {
     "rank": 20,
-    "teamName": "Crimson Clavis",
+    "teamName": "Yakuza",
     "elo5v5": 42
   },
   {
@@ -151,17 +151,17 @@
   },
   {
     "rank": 31,
-    "teamName": "Yakuza",
-    "elo5v5": 21
-  },
-  {
-    "rank": 32,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Night Garden",
+    "elo5v5": 21
+  },
+  {
+    "rank": 33,
+    "teamName": "Crimson Clavis",
     "elo5v5": 21
   },
   {
