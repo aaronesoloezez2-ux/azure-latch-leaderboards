@@ -16,37 +16,37 @@
   },
   {
     "rank": 4,
+    "teamName": "Japan 2034",
+    "elo5v5": 41
+  },
+  {
+    "rank": 5,
     "teamName": "Hongyuan",
     "elo5v5": 26
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Cult of miku",
     "elo5v5": 22
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Umbrella (傘)",
     "elo5v5": 22
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Bear Family",
     "elo5v5": 21
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "JPU20",
     "elo5v5": 21
   },
   {
-    "rank": 9,
-    "teamName": "True Destiny",
-    "elo5v5": 21
-  },
-  {
     "rank": 10,
-    "teamName": "Japan 2034",
+    "teamName": "True Destiny",
     "elo5v5": 21
   },
   {
