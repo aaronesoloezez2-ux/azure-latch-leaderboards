@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "G50",
-    "elo5v5": 178
+    "elo5v5": 186
   },
   {
     "rank": 3,
@@ -181,22 +181,22 @@
   },
   {
     "rank": 37,
-    "teamName": "sown fc",
-    "elo5v5": 19
-  },
-  {
-    "rank": 38,
     "teamName": "Vinland",
     "elo5v5": 16
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Seirin",
     "elo5v5": 14
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Son",
+    "elo5v5": 5
+  },
+  {
+    "rank": 40,
+    "teamName": "sown fc",
     "elo5v5": 5
   },
   {
