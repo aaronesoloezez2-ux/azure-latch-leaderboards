@@ -6568,12 +6568,6 @@
     "region": "NA",
     "elo5v5": 5
   },
-  "769981677136642069": {
-    "team": "Son",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 5
-  },
   "755469869314474114": {
     "team": "Son",
     "isLeader": false,
@@ -6599,12 +6593,6 @@
     "elo5v5": 5
   },
   "676566677487353867": {
-    "team": "Son",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 5
-  },
-  "1359734965952057436": {
     "team": "Son",
     "isLeader": false,
     "region": "NA",
@@ -6638,18 +6626,6 @@
   "942231461644349471": {
     "team": "Son",
     "isLeader": false,
-    "region": "NA",
-    "elo5v5": 5
-  },
-  "952432261372973087": {
-    "team": "Son",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 5
-  },
-  "1320293329317134358": {
-    "team": "Son",
-    "isLeader": true,
     "region": "NA",
     "elo5v5": 5
   },
@@ -22360,6 +22336,42 @@
   },
   "1125171739102564432": {
     "team": "Yggdrasil",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "769981677136642069": {
+    "team": "Son 2",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1387290291186434090": {
+    "team": "Son 2",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "952432261372973087": {
+    "team": "Son 2",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1310476523035430993": {
+    "team": "Son 2",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1359734965952057436": {
+    "team": "Son 2",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1320293329317134358": {
+    "team": "Son 2",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
