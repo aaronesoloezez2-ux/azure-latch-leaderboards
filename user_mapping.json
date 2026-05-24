@@ -19530,6 +19530,12 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1251496480318161002": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "902272222964625428": {
     "team": "Chem Brickers",
     "isLeader": true,
@@ -21602,12 +21608,6 @@
     "elo5v5": 0
   },
   "487763770115096587": {
-    "team": "Gooned Bamas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1251496480318161002": {
     "team": "Gooned Bamas",
     "isLeader": false,
     "region": "Europe",
