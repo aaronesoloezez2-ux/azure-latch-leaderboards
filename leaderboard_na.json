@@ -36,13 +36,13 @@
   },
   {
     "rank": 8,
-    "teamName": "kawaii",
-    "elo5v5": 109
+    "teamName": "Paragon",
+    "elo5v5": 120
   },
   {
     "rank": 9,
-    "teamName": "Paragon",
-    "elo5v5": 104
+    "teamName": "kawaii",
+    "elo5v5": 109
   },
   {
     "rank": 10,
@@ -96,38 +96,38 @@
   },
   {
     "rank": 20,
-    "teamName": "Abibas NA",
-    "elo5v5": 51
-  },
-  {
-    "rank": 21,
     "teamName": "Sulk",
     "elo5v5": 48
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Yakuza",
     "elo5v5": 42
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 34
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
+  },
+  {
+    "rank": 26,
+    "teamName": "Abibas NA",
+    "elo5v5": 33
   },
   {
     "rank": 27,
