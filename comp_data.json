@@ -9030,7 +9030,6 @@
         "1239615056849801348",
         "1216962399391977564",
         "700775571826933802",
-        "1068696204092899338",
         "1109492569462804580",
         "708032503687938109",
         "859615820127928342",
@@ -17616,17 +17615,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779661730504": {
-      "team1Id": "1426419421026455565",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Sulk",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779661730504
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
