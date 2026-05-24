@@ -7663,7 +7663,7 @@
   },
   "566513027499950090": {
     "team": "Los Hermanos",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
