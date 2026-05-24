@@ -9544,7 +9544,6 @@
         "1088341991122796554",
         "1243245856929484843",
         "1403844188537098312",
-        "1416504934136025191",
         "1243629154180661380"
       ],
       "region": "Europe",
@@ -10337,13 +10336,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "216309723933310977": {
-      "teamName": "RB Leipzig",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779653162655,
       "lastOpponents": []
     }
   },
@@ -15055,11 +15047,11 @@
     "689672576670498883": 1779827340817
   },
   "pendingInvites": {
-    "1779647387097": {
-      "teamName": "Citizens-U3",
-      "playerId": "315854741072642048",
-      "inviterId": "938564876199145494",
-      "timestamp": 1779647387097
+    "1779654747346": {
+      "teamName": "Abibas NA",
+      "playerId": "611697342604902450",
+      "inviterId": "1364318290088034335",
+      "timestamp": 1779654747346
     }
   },
   "userNicknames": {
@@ -17651,7 +17643,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779655619456": {
+      "team1Id": "216309723933310977",
+      "team2Id": "1143485438787596389",
+      "team1Name": "RB Leipzig",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779655619456
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
