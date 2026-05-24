@@ -9596,7 +9596,6 @@
         "1411446837939802125",
         "1384741801499295889",
         "1175144948887199874",
-        "1273043624543784971",
         "1023643008895291462",
         "635573531031109643",
         "1155845176791679099",
@@ -10324,13 +10323,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "1204496416203083787": {
-      "teamName": "Shutokú",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779650981371,
       "lastOpponents": []
     }
   },
@@ -17647,7 +17639,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779651643429": {
+      "team1Id": "1204496416203083787",
+      "team2Id": "952667718363009074",
+      "team1Name": "Shutokú",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779651643429
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
