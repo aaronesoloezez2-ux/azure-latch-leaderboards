@@ -8867,7 +8867,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 52,
+      "elo5v5": 31,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -10128,7 +10128,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 26,
+      "elo5v5": 48,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -14959,20 +14959,20 @@
       "inviterId": "216309723933310977",
       "timestamp": 1779583726385
     },
-    "invite_690007789325647948": {
-      "cooldownUntil": 1779586474895
-    },
-    "invite_1464125504448626956": {
-      "cooldownUntil": 1779586590839
-    },
     "1779586404334": {
       "teamName": "G50",
       "playerId": "1322341986149077095",
       "inviterId": "572170241820459042",
       "timestamp": 1779586404334
     },
-    "invite_572170241820459042": {
-      "cooldownUntil": 1779586704334
+    "1779587130437": {
+      "teamName": "Re Al U-20",
+      "playerId": "767181637040734218",
+      "inviterId": "1335102355695468688",
+      "timestamp": 1779587130437
+    },
+    "invite_1335102355695468688": {
+      "cooldownUntil": 1779587430437
     }
   },
   "userNicknames": {
@@ -17527,14 +17527,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779586147891": {
-      "team1Id": "731225486818279457",
-      "team2Id": "1249902035352948836",
-      "team1Name": "Dreamers (NA)",
-      "team2Name": "Kiseki",
+    "1779587333112": {
+      "team1Id": "1353220534367682582",
+      "team2Id": "1143485438787596389",
+      "team1Name": "G50",
+      "team2Name": "Masquerade",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779586147891
+      "team2Vote": null,
+      "timestamp": 1779587333112
     }
   },
   "pendingVCRequests": {},
