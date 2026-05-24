@@ -9417,7 +9417,7 @@
       "achievements": []
     },
     "Shalom FC": {
-      "elo5v5": 44,
+      "elo5v5": 64,
       "elo11v11": 0,
       "leaders": [
         "715403311163113542"
@@ -9601,7 +9601,7 @@
       "achievements": []
     },
     "Heavens Society": {
-      "elo5v5": 47,
+      "elo5v5": 27,
       "elo11v11": 0,
       "leaders": [
         "1309828754260099149",
@@ -9891,7 +9891,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 31,
+      "elo5v5": 11,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -10107,7 +10107,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 48,
+      "elo5v5": 67,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -10328,7 +10328,7 @@
       "searchType": "timed",
       "region": "NA",
       "duration": 5,
-      "startTime": 1779646828108,
+      "startTime": 1779647547540,
       "lastOpponents": []
     }
   },
@@ -15049,11 +15049,11 @@
       "inviterId": "1364318290088034335",
       "timestamp": 1779646244820
     },
-    "invite_1190338322824970281": {
-      "cooldownUntil": 1779647254921
-    },
-    "invite_670929087748898836": {
-      "cooldownUntil": 1779647286480
+    "1779647387097": {
+      "teamName": "Citizens-U3",
+      "playerId": "315854741072642048",
+      "inviterId": "938564876199145494",
+      "timestamp": 1779647387097
     }
   },
   "userNicknames": {
