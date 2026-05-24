@@ -16201,6 +16201,13 @@
     "region": "NA",
     "elo5v5": 42
   },
+  "1429544356452499647": {
+    "team": "Crimson Clavis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 42,
+    "isModerator": true
+  },
   "742794709541322792": {
     "team": "Crimson Clavis",
     "isLeader": true,
@@ -22315,13 +22322,6 @@
     "isModerator": true
   },
   "759536058567360522": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1429544356452499647": {
     "team": null,
     "isLeader": false,
     "region": null,
