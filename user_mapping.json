@@ -17829,6 +17829,12 @@
     "region": "Europe",
     "elo5v5": 23
   },
+  "1236627933972402189": {
+    "team": "Balance",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 23
+  },
   "990095740195987477": {
     "team": "Balance",
     "isLeader": true,
@@ -19333,12 +19339,6 @@
     "elo5v5": 57
   },
   "621383268360519694": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "255322730340024321": {
     "team": "Toraless",
     "isLeader": false,
     "region": "Asia",
