@@ -22166,7 +22166,7 @@
   },
   "952432261372973087": {
     "team": "Son 2",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
@@ -22191,12 +22191,6 @@
   "945437289776042024": {
     "team": "Son 2",
     "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1474877249412137169": {
-    "team": "Son 2",
-    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
