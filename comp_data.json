@@ -2796,7 +2796,6 @@
         "1208007441757896705",
         "909311162724782191",
         "627508183031742464",
-        "928290124767322152",
         "1011875048719646760",
         "1474791708884471850",
         "1141029345285124157",
@@ -10116,7 +10115,6 @@
         "1364318290088034335",
         "624335854063714314",
         "854424739589390338",
-        "852164591839870976",
         "363522002482626571",
         "577233325018578964"
       ],
@@ -10315,13 +10313,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "1285337928989544468": {
-      "teamName": "Vitality",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779643591432,
       "lastOpponents": []
     }
   },
@@ -17609,14 +17600,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779643570522": {
-      "team1Id": "1200920802246262925",
-      "team2Id": "1285337928989544468",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Vitality",
+    "1779643975638": {
+      "team1Id": "1285337928989544468",
+      "team2Id": "1249902035352948836",
+      "team1Name": "Vitality",
+      "team2Name": "Kiseki",
       "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779643570522
+      "team2Vote": true,
+      "timestamp": 1779643975638
     }
   },
   "pendingVCRequests": {},
