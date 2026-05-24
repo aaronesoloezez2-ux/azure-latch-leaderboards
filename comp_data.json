@@ -9825,7 +9825,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 19,
+      "elo5v5": 5,
       "elo11v11": 0,
       "leaders": [
         "644671963054473216",
@@ -10106,7 +10106,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 178,
+      "elo5v5": 186,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -10269,11 +10269,11 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "1280938486030930077": {
-      "teamName": "Spurs",
+    "1353220534367682582": {
+      "teamName": "G50",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779594800859,
+      "startTime": 1779599994077,
       "lastOpponents": []
     }
   },
@@ -14962,11 +14962,7 @@
     "1321866351593132073": 1779768026199,
     "1382561990110609479": 1779769652923
   },
-  "pendingInvites": {
-    "invite_1464125504448626956": {
-      "cooldownUntil": 1779597470706
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
