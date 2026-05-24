@@ -8386,7 +8386,6 @@
         "1134911288334635180",
         "1472628091875623135",
         "1031285250850046103",
-        "1280702953371734136",
         "929195266668634212",
         "1187295546281578560",
         "1492741460674744371",
@@ -10265,14 +10264,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1779582649525,
       "lastOpponents": []
     }
   },
@@ -17529,6 +17520,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779582406556
+    },
+    "1779582881658": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1249902035352948836",
+      "team1Name": "Zero",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779582881658
     }
   },
   "pendingVCRequests": {},
