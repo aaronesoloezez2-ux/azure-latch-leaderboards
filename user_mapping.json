@@ -16803,13 +16803,6 @@
     "region": "NA",
     "elo5v5": 109
   },
-  "611697342604902450": {
-    "team": "kawaii",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 109,
-    "isModerator": true
-  },
   "1193794594157117495": {
     "team": "kawaii",
     "isLeader": false,
@@ -22374,6 +22367,13 @@
     "isModerator": true
   },
   "868243652416254034": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "611697342604902450": {
     "team": null,
     "isLeader": false,
     "region": null,
