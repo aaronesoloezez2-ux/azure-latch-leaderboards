@@ -10030,7 +10030,6 @@
         "836245678669430805"
       ],
       "players": [
-        "720999716007182340",
         "948757035569266738",
         "1412536559080833045",
         "1491325570653618198",
@@ -10335,13 +10334,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779656088100,
       "lastOpponents": []
     }
   },
@@ -17649,18 +17641,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779655619456": {
-      "team1Id": "216309723933310977",
-      "team2Id": "1143485438787596389",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779655619456
+  "pendingRefVotes": {},
+  "pendingVCRequests": {
+    "vc_1779656149643": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "759647905887289364",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Moon Noobs",
+      "vcLink": null,
+      "timestamp": 1779656170578
     }
   },
-  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
