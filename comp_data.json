@@ -558,7 +558,7 @@
         "909618541236482058"
       ],
       "region": "NA",
-      "elo5v5": 61,
+      "elo5v5": 79,
       "elo11v11": 0,
       "achievements": []
     },
@@ -1606,7 +1606,7 @@
       "achievements": []
     },
     "Vinland": {
-      "elo5v5": 16,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "880865540518862918"
@@ -17650,17 +17650,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779653153867": {
-      "team1Id": "216309723933310977",
-      "team2Id": "952667718363009074",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779653153867
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
