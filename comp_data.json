@@ -10193,7 +10193,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "1474877249412137169"
+        "952432261372973087"
       ],
       "players": [
         "769981677136642069",
@@ -10312,13 +10312,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "1426419421026455565": {
-      "teamName": "Sulk",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779661462457,
       "lastOpponents": []
     }
   },
@@ -17637,6 +17630,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779661455469
+    },
+    "1779661730504": {
+      "team1Id": "1426419421026455565",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Sulk",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779661730504
     }
   },
   "pendingVCRequests": {},
