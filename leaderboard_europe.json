@@ -71,18 +71,18 @@
   },
   {
     "rank": 15,
-    "teamName": "Heavens Society",
-    "elo5v5": 27
-  },
-  {
-    "rank": 16,
     "teamName": "Stick FC",
     "elo5v5": 23
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Balance",
     "elo5v5": 23
+  },
+  {
+    "rank": 17,
+    "teamName": "Abibas FC",
+    "elo5v5": 22
   },
   {
     "rank": 18,
@@ -126,42 +126,42 @@
   },
   {
     "rank": 26,
+    "teamName": "Heavens Society",
+    "elo5v5": 5
+  },
+  {
+    "rank": 27,
     "teamName": "Chain Breakers: New Hope",
     "elo5v5": 2
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Dyslexia Untied",
     "elo5v5": 0
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Emphatizers",
     "elo5v5": 0
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Elysium",
     "elo5v5": 0
   },
   {
-    "rank": 30,
+    "rank": 31,
     "teamName": "FC MGE",
     "elo5v5": 0
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Fang of Metsudo",
     "elo5v5": 0
   },
   {
-    "rank": 32,
-    "teamName": "Brickelona FC",
-    "elo5v5": 0
-  },
-  {
     "rank": 33,
-    "teamName": "Abibas FC",
+    "teamName": "Brickelona FC",
     "elo5v5": 0
   },
   {
