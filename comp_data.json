@@ -4610,7 +4610,6 @@
         "1303855599204827227",
         "945380402862911568",
         "478725373513695244",
-        "1056051928032882778",
         "756734290959794309",
         "518398036704100353",
         "1125614015746408509",
@@ -10265,13 +10264,6 @@
       "region": "Europe",
       "startTime": 1779475413448,
       "lastOpponents": []
-    },
-    "1249902035352948836": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779583193571,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -14958,14 +14950,7 @@
     "1138242374842187977": 1779754504707,
     "883949215036870698": 1779755617151
   },
-  "pendingInvites": {
-    "1779576287866": {
-      "teamName": "Sulk",
-      "playerId": "825813350608404510",
-      "inviterId": "1426419421026455565",
-      "timestamp": 1779576287866
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17516,14 +17501,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779582881658": {
-      "team1Id": "952667718363009074",
-      "team2Id": "1249902035352948836",
-      "team1Name": "Zero",
-      "team2Name": "Kiseki",
+    "1779583677216": {
+      "team1Id": "728385309666050149",
+      "team2Id": "880865540518862918",
+      "team1Name": "Kiseki",
+      "team2Name": "Vinland",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779582881658
+      "team2Vote": null,
+      "timestamp": 1779583677216
     }
   },
   "pendingVCRequests": {},
