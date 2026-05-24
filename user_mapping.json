@@ -13458,12 +13458,6 @@
     "region": "Asia",
     "elo5v5": 1
   },
-  "997136319417430087": {
-    "team": "Bloodborne",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 1
-  },
   "1394665056364400691": {
     "team": "Bloodborne",
     "isLeader": false,
@@ -19374,12 +19368,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "318303038471143424": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1492009572330639421": {
     "team": "Toraless",
     "isLeader": false,
@@ -22350,6 +22338,36 @@
     "team": "Son 2",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "759601752134909974": {
+    "team": "nocturnals",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "318303038471143424": {
+    "team": "nocturnals",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "997136319417430087": {
+    "team": "nocturnals",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "808627126894985246": {
+    "team": "nocturnals",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "255322730340024321": {
+    "team": "nocturnals",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   },
   "1290679358528290868": {
