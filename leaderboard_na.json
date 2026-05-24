@@ -96,43 +96,43 @@
   },
   {
     "rank": 20,
+    "teamName": "RB Leipzig",
+    "elo5v5": 46
+  },
+  {
+    "rank": 21,
     "teamName": "Crimson Clavis",
     "elo5v5": 42
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 34
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Seirin",
     "elo5v5": 31
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Serendipity",
     "elo5v5": 28
-  },
-  {
-    "rank": 27,
-    "teamName": "RB Leipzig",
-    "elo5v5": 26
   },
   {
     "rank": 28,
@@ -156,53 +156,53 @@
   },
   {
     "rank": 32,
-    "teamName": "Generation Of Miracles",
-    "elo5v5": 22
-  },
-  {
-    "rank": 33,
     "teamName": "Yakuza",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "sown fc",
     "elo5v5": 21
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Vinland",
     "elo5v5": 16
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Crimson Authority",
     "elo5v5": 3
+  },
+  {
+    "rank": 41,
+    "teamName": "Generation Of Miracles",
+    "elo5v5": 2
   },
   {
     "rank": 42,
