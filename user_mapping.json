@@ -18786,12 +18786,6 @@
     "region": "Asia",
     "elo5v5": 21
   },
-  "881879193477087243": {
-    "team": "Japan 2034",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
   "773881831891533835": {
     "team": "Japan 2034",
     "isLeader": false,
@@ -22306,7 +22300,7 @@
   },
   "740375608474992662": {
     "team": "Yggdrasil",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
@@ -22318,7 +22312,7 @@
   },
   "1111402256441548840": {
     "team": "Yggdrasil",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
