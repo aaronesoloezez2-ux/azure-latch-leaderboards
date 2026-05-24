@@ -86,12 +86,12 @@
   },
   {
     "rank": 18,
-    "teamName": "Seirin",
-    "elo5v5": 52
+    "teamName": "Sulk",
+    "elo5v5": 48
   },
   {
     "rank": 19,
-    "teamName": "Sulk",
+    "teamName": "Vitality",
     "elo5v5": 48
   },
   {
@@ -116,17 +116,17 @@
   },
   {
     "rank": 24,
+    "teamName": "Seirin",
+    "elo5v5": 31
+  },
+  {
+    "rank": 25,
     "teamName": "Serendipity",
     "elo5v5": 28
   },
   {
-    "rank": 25,
-    "teamName": "RB Leipzig",
-    "elo5v5": 26
-  },
-  {
     "rank": 26,
-    "teamName": "Vitality",
+    "teamName": "RB Leipzig",
     "elo5v5": 26
   },
   {
