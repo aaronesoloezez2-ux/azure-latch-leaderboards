@@ -5651,7 +5651,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 127,
+      "elo5v5": 140,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -8869,7 +8869,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 31,
+      "elo5v5": 14,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -10272,13 +10272,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779591856795,
       "lastOpponents": []
     }
   },
@@ -14967,11 +14960,7 @@
     "858791791117205504": 1779764599570,
     "767181637040734218": 1779764668664
   },
-  "pendingInvites": {
-    "invite_216309723933310977": {
-      "cooldownUntil": 1779592142068
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17525,7 +17514,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779592239024": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "1320293329317134358",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Son",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779592239024
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
