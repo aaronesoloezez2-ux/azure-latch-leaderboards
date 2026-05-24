@@ -21156,12 +21156,6 @@
     "region": "NA",
     "elo5v5": 25
   },
-  "1065743018545660004": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25
-  },
   "1091821692164247622": {
     "team": "Spurs",
     "isLeader": false,
@@ -22381,6 +22375,49 @@
     "region": "NA",
     "elo5v5": 65
   },
+  "1210078842362920991": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "950108450216607784": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1189274855208665131": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1315171990864269346": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1065743018545660004": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1502806949513793618": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "852164591839870976": {
+    "team": "b0mb",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22403,13 +22440,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1502806949513793618": {
     "team": null,
     "isLeader": false,
     "region": null,
