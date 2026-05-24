@@ -16358,12 +16358,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1119676033763913818": {
-    "team": "LEGEND'S NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1246490235760672854": {
     "team": "LEGEND'S NA",
     "isLeader": false,
@@ -21740,6 +21734,12 @@
     "elo5v5": 0
   },
   "902645026574729216": {
+    "team": "Llantines fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1119676033763913818": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
