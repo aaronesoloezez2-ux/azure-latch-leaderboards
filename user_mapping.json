@@ -4761,12 +4761,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "907319327571726346": {
-    "team": "Ataraxia",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1453774207594008759": {
     "team": "Ataraxia",
     "isLeader": false,
@@ -19375,6 +19369,12 @@
     "elo5v5": 0
   },
   "594134662947930132": {
+    "team": "Toraless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "907319327571726346": {
     "team": "Toraless",
     "isLeader": false,
     "region": "Asia",
