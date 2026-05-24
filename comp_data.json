@@ -9367,7 +9367,6 @@
         "1435327843289665596",
         "1323379766098661437",
         "702710123260412004",
-        "858791791117205504",
         "1453334847211962390"
       ],
       "region": "NA",
@@ -10266,13 +10265,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "1353220534367682582": {
-      "teamName": "G50",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779587420338,
       "lastOpponents": []
     }
   },
@@ -14973,9 +14965,6 @@
       "playerId": "767181637040734218",
       "inviterId": "1335102355695468688",
       "timestamp": 1779587130437
-    },
-    "invite_572170241820459042": {
-      "cooldownUntil": 1779587667644
     }
   },
   "userNicknames": {
@@ -17530,14 +17519,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779587333112": {
+    "1779588003231": {
       "team1Id": "1353220534367682582",
-      "team2Id": "1143485438787596389",
+      "team2Id": "1204496416203083787",
       "team1Name": "G50",
-      "team2Name": "Masquerade",
-      "team1Vote": true,
+      "team2Name": "Generation Of Miracles",
+      "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779587333112
+      "timestamp": 1779588003231
     }
   },
   "pendingVCRequests": {},
