@@ -2954,7 +2954,8 @@
       "elo5v5": 5,
       "elo11v11": 0,
       "leaders": [
-        "1112150858562539561"
+        "1112150858562539561",
+        "1320293329317134358"
       ],
       "players": [
         "669579253133738010",
@@ -10320,11 +10321,12 @@
       "startTime": 1779627111998,
       "lastOpponents": []
     },
-    "926536409106485338": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
       "region": "NA",
-      "startTime": 1779646187612,
+      "duration": 5,
+      "startTime": 1779646491346,
       "lastOpponents": []
     }
   },
@@ -15038,9 +15040,6 @@
       "inviterId": "1165345544198160488",
       "timestamp": 1779644901138
     },
-    "invite_1092820710281466016": {
-      "cooldownUntil": 1779646405544
-    },
     "1779646244820": {
       "teamName": "Abibas NA",
       "playerId": "611697342604902450",
@@ -17630,7 +17629,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779646376716": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1204496416203083787",
+      "team1Name": "Kiseki",
+      "team2Name": "Generation Of Miracles",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779646376716
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
