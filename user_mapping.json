@@ -16153,13 +16153,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "1429544356452499647": {
-    "team": "Crimson Clavis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
-  },
   "742794709541322792": {
     "team": "Crimson Clavis",
     "isLeader": true,
@@ -21175,13 +21168,6 @@
     "region": "NA",
     "elo5v5": 25
   },
-  "1502806949513793618": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25,
-    "isModerator": true
-  },
   "1065743018545660004": {
     "team": "Spurs",
     "isLeader": false,
@@ -21214,12 +21200,6 @@
     "elo5v5": 25
   },
   "689672576670498883": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25
-  },
-  "1210078842362920991": {
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
@@ -22441,7 +22421,21 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "1502806949513793618": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "759536058567360522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1429544356452499647": {
     "team": null,
     "isLeader": false,
     "region": null,
