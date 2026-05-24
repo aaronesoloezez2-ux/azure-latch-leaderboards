@@ -9480,7 +9480,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 106,
+      "elo5v5": 85,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -9873,7 +9873,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 11,
+      "elo5v5": 35,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -15058,9 +15058,6 @@
       "playerId": "315854741072642048",
       "inviterId": "938564876199145494",
       "timestamp": 1779647387097
-    },
-    "invite_1309828754260099149": {
-      "cooldownUntil": 1779651475455
     }
   },
   "userNicknames": {
@@ -17650,17 +17647,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779650753254": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "1235051975914295357",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Blue Lock",
-      "team1Vote": null,
-      "team2Vote": false,
-      "timestamp": 1779650753254
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
