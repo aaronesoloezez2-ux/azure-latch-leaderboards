@@ -10106,7 +10106,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 160,
+      "elo5v5": 169,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -10267,13 +10267,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1779475413448,
-      "lastOpponents": []
-    },
-    "836064878660812861": {
-      "teamName": "Serendipity",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779589713812,
       "lastOpponents": []
     }
   },
@@ -16252,7 +16245,8 @@
     "972896013478150164": "Griffith",
     "1237781963088072850": "rareno",
     "915390251449585666": "doblao",
-    "902645026574729216": "bot"
+    "902645026574729216": "bot",
+    "347283418553253888": "wisteria"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17529,11 +17523,22 @@
     "1280702953371734136": 1779755723694,
     "906486036685815829": 1779756903961,
     "902645026574729216": 1779759042082,
-    "1321866351593132073": 1779761707178
+    "1321866351593132073": 1779761707178,
+    "347283418553253888": 1779762734295
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779590233657": {
+      "team1Id": "836064878660812861",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Serendipity",
+      "team2Name": "G50",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779590233657
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
