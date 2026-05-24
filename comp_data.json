@@ -9428,7 +9428,8 @@
         "946353192231378994",
         "758679760754180116",
         "1014980719610695701",
-        "1088124201937932379"
+        "1088124201937932379",
+        "1492224414660694169"
       ],
       "region": "Europe",
       "achievements": []
@@ -17613,17 +17614,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779643975638": {
-      "team1Id": "1285337928989544468",
-      "team2Id": "1249902035352948836",
-      "team1Name": "Vitality",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779643975638
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
