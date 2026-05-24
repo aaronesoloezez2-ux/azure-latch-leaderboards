@@ -19855,67 +19855,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "749800680713224300": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "1404318852661383199": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "792987797657092106": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "915390251449585666": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "1435327843289665596": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "1323379766098661437": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "702710123260412004": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "1453334847211962390": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2
-  },
-  "1481494653604856011": {
-    "team": "Generation Of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 2,
-    "isModerator": true
-  },
-  "1204496416203083787": {
-    "team": "Generation Of Miracles",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 2
-  },
   "892318829013794817": {
     "team": "Devil May Cry",
     "isLeader": true,
@@ -22400,6 +22339,67 @@
     "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
+  },
+  "749800680713224300": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "1404318852661383199": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "792987797657092106": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "915390251449585666": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "1435327843289665596": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "1323379766098661437": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "702710123260412004": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "1453334847211962390": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2
+  },
+  "1481494653604856011": {
+    "team": "Shutokú",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 2,
+    "isModerator": true
+  },
+  "1204496416203083787": {
+    "team": "Shutokú",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 2
   },
   "1290679358528290868": {
     "team": null,
