@@ -9844,7 +9844,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 35,
+      "elo5v5": 54,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -10314,25 +10314,16 @@
       "startTime": 1779627111998,
       "lastOpponents": []
     },
-    "1235051975914295357": {
-      "teamName": "Blue Lock",
+    "1426419421026455565": {
+      "teamName": "Sulk",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779659950535,
+      "startTime": 1779661462457,
       "lastOpponents": []
     }
   },
   "refereeQueue": [],
-  "awaitingReferee": {
-    "1779656775726": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "759647905887289364",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Moon Noobs",
-      "vcLink": null,
-      "timestamp": 1779656775726
-    }
-  },
+  "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -15046,9 +15037,6 @@
       "playerId": "611697342604902450",
       "inviterId": "1364318290088034335",
       "timestamp": 1779654747346
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1779660235881
     }
   },
   "userNicknames": {
@@ -17640,7 +17628,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779661455469": {
+      "team1Id": "662551566397472798",
+      "team2Id": "567041024615120928",
+      "team1Name": "Paragon",
+      "team2Name": "Abibas NA",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779661455469
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
