@@ -7347,7 +7347,7 @@
       "elo5v5": 1,
       "elo11v11": 0,
       "leaders": [
-        "475452427860967435"
+        "894559744440815640"
       ],
       "players": [
         "1384234023919947786",
@@ -10314,6 +10314,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
+      "lastOpponents": []
+    },
+    "813556928034635807": {
+      "teamName": "Spurs",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 5,
+      "startTime": 1779662932639,
       "lastOpponents": []
     }
   },
