@@ -5664,7 +5664,6 @@
         "1285988942877032593",
         "965000459469348864",
         "1093388128527601695",
-        "1138242374842187977",
         "1306082210528624654",
         "1445551978120741016"
       ],
@@ -10265,11 +10264,11 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
+    "1437355351958749254": {
+      "teamName": "Ubers+",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779580543678,
+      "startTime": 1779581660719,
       "lastOpponents": []
     }
   },
@@ -17514,7 +17513,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779581541383": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "1437355351958749254",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Ubers+",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779581541383
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
