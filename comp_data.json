@@ -9923,7 +9923,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 46,
+      "elo5v5": 31,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977"
@@ -10110,7 +10110,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 169,
+      "elo5v5": 178,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -10277,7 +10277,7 @@
       "teamName": "Spurs",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779594233486,
+      "startTime": 1779594800859,
       "lastOpponents": []
     }
   },
@@ -17520,26 +17520,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779594009572": {
-      "team1Id": "1320293329317134358",
-      "team2Id": "1280938486030930077",
-      "team1Name": "Son",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779594009572
-    },
-    "1779594134602": {
-      "team1Id": "1112150858562539561",
-      "team2Id": "1280938486030930077",
-      "team1Name": "Son",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779594134602
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
