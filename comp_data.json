@@ -8226,7 +8226,7 @@
       "achievements": []
     },
     "kawaii": {
-      "elo5v5": 126,
+      "elo5v5": 109,
       "elo11v11": 0,
       "leaders": [
         "952573404823818360",
@@ -9394,7 +9394,7 @@
       "achievements": []
     },
     "Paragon": {
-      "elo5v5": 83,
+      "elo5v5": 104,
       "elo11v11": 0,
       "leaders": [
         "662551566397472798"
@@ -14961,6 +14961,18 @@
     },
     "invite_690007789325647948": {
       "cooldownUntil": 1779586474895
+    },
+    "invite_1464125504448626956": {
+      "cooldownUntil": 1779586590839
+    },
+    "1779586404334": {
+      "teamName": "G50",
+      "playerId": "1322341986149077095",
+      "inviterId": "572170241820459042",
+      "timestamp": 1779586404334
+    },
+    "invite_572170241820459042": {
+      "cooldownUntil": 1779586704334
     }
   },
   "userNicknames": {
@@ -17515,15 +17527,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779585687773": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "731225486818279457",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Dreamers (NA)",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779585687773
-    },
     "1779586147891": {
       "team1Id": "731225486818279457",
       "team2Id": "1249902035352948836",
