@@ -6045,6 +6045,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1234690094758101037": {
+    "team": "RedKey Strikers",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1143685690010382466": {
     "team": "RedKey Strikers",
     "isLeader": true,
@@ -17212,12 +17218,6 @@
     "elo5v5": 0
   },
   "1177704122049384489": {
-    "team": "Thxrns",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
-  "1234690094758101037": {
     "team": "Thxrns",
     "isLeader": false,
     "region": "NA",
