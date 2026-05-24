@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
-    "teamName": "Vorpal Swords",
-    "elo5v5": 106
-  },
-  {
-    "rank": 10,
     "teamName": "Paragon",
     "elo5v5": 104
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Generation of Miracles",
     "elo5v5": 98
+  },
+  {
+    "rank": 11,
+    "teamName": "Vorpal Swords",
+    "elo5v5": 85
   },
   {
     "rank": 12,
@@ -116,78 +116,78 @@
   },
   {
     "rank": 24,
+    "teamName": "RB Leipzig",
+    "elo5v5": 35
+  },
+  {
+    "rank": 25,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 34
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 26,
+    "rank": 27,
     "teamName": "Serendipity",
     "elo5v5": 28
   },
   {
-    "rank": 27,
+    "rank": 28,
     "teamName": "Spurs",
     "elo5v5": 25
   },
   {
-    "rank": 28,
+    "rank": 29,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 29,
+    "rank": 30,
     "teamName": "Attrition",
     "elo5v5": 22
   },
   {
-    "rank": 30,
+    "rank": 31,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 31,
+    "rank": 32,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 33,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 34,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 35,
     "teamName": "Crimson Clavis",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 36,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 37,
     "teamName": "Vinland",
     "elo5v5": 16
   },
   {
-    "rank": 37,
+    "rank": 38,
     "teamName": "Seirin",
     "elo5v5": 14
-  },
-  {
-    "rank": 38,
-    "teamName": "RB Leipzig",
-    "elo5v5": 11
   },
   {
     "rank": 39,
