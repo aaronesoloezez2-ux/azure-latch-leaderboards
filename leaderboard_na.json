@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "Re Al",
-    "elo5v5": 127
+    "elo5v5": 140
   },
   {
     "rank": 7,
@@ -126,63 +126,63 @@
   },
   {
     "rank": 26,
-    "teamName": "Seirin",
-    "elo5v5": 31
-  },
-  {
-    "rank": 27,
     "teamName": "Serendipity",
     "elo5v5": 28
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Spurs",
     "elo5v5": 25
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Attrition",
     "elo5v5": 22
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Yakuza",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "sown fc",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Vinland",
     "elo5v5": 16
+  },
+  {
+    "rank": 37,
+    "teamName": "Seirin",
+    "elo5v5": 14
   },
   {
     "rank": 38,
