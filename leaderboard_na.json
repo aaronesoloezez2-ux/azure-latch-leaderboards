@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "G50",
-    "elo5v5": 169
+    "elo5v5": 178
   },
   {
     "rank": 3,
@@ -96,38 +96,38 @@
   },
   {
     "rank": 20,
-    "teamName": "RB Leipzig",
-    "elo5v5": 46
-  },
-  {
-    "rank": 21,
     "teamName": "Crimson Clavis",
     "elo5v5": 42
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "sown fc",
     "elo5v5": 41
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 34
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
+  },
+  {
+    "rank": 26,
+    "teamName": "RB Leipzig",
+    "elo5v5": 31
   },
   {
     "rank": 27,
