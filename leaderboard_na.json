@@ -21,13 +21,13 @@
   },
   {
     "rank": 5,
-    "teamName": "Vanguard",
-    "elo5v5": 151
+    "teamName": "Re Al",
+    "elo5v5": 153
   },
   {
     "rank": 6,
-    "teamName": "Re Al",
-    "elo5v5": 140
+    "teamName": "Vanguard",
+    "elo5v5": 151
   },
   {
     "rank": 7,
@@ -56,18 +56,18 @@
   },
   {
     "rank": 12,
-    "teamName": "Vorpal Swords",
-    "elo5v5": 85
-  },
-  {
-    "rank": 13,
     "teamName": "Moon Noobs",
     "elo5v5": 79
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
+  },
+  {
+    "rank": 14,
+    "teamName": "Vorpal Swords",
+    "elo5v5": 68
   },
   {
     "rank": 15,
