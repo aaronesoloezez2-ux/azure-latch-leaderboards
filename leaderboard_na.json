@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "G50",
-    "elo5v5": 173
+    "teamName": "Bear United",
+    "elo5v5": 166
   },
   {
     "rank": 3,
-    "teamName": "Bear United",
-    "elo5v5": 166
+    "teamName": "G50",
+    "elo5v5": 160
   },
   {
     "rank": 4,
@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "Re Al",
+    "elo5v5": 127
+  },
+  {
+    "rank": 7,
     "teamName": "kawaii",
     "elo5v5": 126
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "G50:K",
     "elo5v5": 126
-  },
-  {
-    "rank": 8,
-    "teamName": "Re Al",
-    "elo5v5": 107
   },
   {
     "rank": 9,
