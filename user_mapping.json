@@ -11010,12 +11010,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "740375608474992662": {
-    "team": "Seraph FC",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1159466218894405672": {
     "team": "Seraph FC",
     "isLeader": false,
@@ -22318,6 +22312,54 @@
   },
   "1294480954613698633": {
     "team": "Blue Tech FC",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1471733321418539101": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1032746410229112832": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "740375608474992662": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1217494684943909045": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1111402256441548840": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "587728310944006164": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "728450543768305724": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1125171739102564432": {
+    "team": "Yggdrasil",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
