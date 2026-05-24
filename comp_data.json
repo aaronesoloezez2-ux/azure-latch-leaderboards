@@ -2100,7 +2100,8 @@
       "elo11v11": 0,
       "leaders": [
         "1232285405567778867",
-        "699201087202394123"
+        "699201087202394123",
+        "1092820710281466016"
       ],
       "players": [
         "699201087202394123",
@@ -10314,6 +10315,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779644550666,
       "lastOpponents": []
     }
   },
