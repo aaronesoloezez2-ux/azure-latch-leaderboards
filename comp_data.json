@@ -9355,7 +9355,7 @@
       "achievements": []
     },
     "Generation Of Miracles": {
-      "elo5v5": 22,
+      "elo5v5": 2,
       "elo11v11": 0,
       "leaders": [
         "1204496416203083787"
@@ -9923,7 +9923,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 26,
+      "elo5v5": 46,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977"
@@ -14959,26 +14959,11 @@
     "1432105698174439527": 1779764235076
   },
   "pendingInvites": {
-    "1779587130437": {
-      "teamName": "Re Al U-20",
-      "playerId": "767181637040734218",
-      "inviterId": "1335102355695468688",
-      "timestamp": 1779587130437
-    },
-    "invite_1320293329317134358": {
-      "cooldownUntil": 1779591501092
-    },
     "1779591289070": {
       "teamName": "Masquerade",
       "playerId": "858791791117205504",
       "inviterId": "1143485438787596389",
       "timestamp": 1779591289070
-    },
-    "invite_1143485438787596389": {
-      "cooldownUntil": 1779591589070
-    },
-    "invite_662551566397472798": {
-      "cooldownUntil": 1779591611773
     }
   },
   "userNicknames": {
