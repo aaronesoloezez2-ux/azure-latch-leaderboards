@@ -16689,12 +16689,6 @@
     "region": "NA",
     "elo5v5": 109
   },
-  "587301011836764181": {
-    "team": "kawaii",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 109
-  },
   "1193794594157117495": {
     "team": "kawaii",
     "isLeader": false,
@@ -21064,18 +21058,6 @@
     "region": "NA",
     "elo5v5": 5
   },
-  "1210078842362920991": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 5
-  },
-  "689672576670498883": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 5
-  },
   "1464125504448626956": {
     "team": "sown fc",
     "isLeader": true,
@@ -21224,6 +21206,24 @@
     "region": "NA",
     "elo5v5": 25,
     "isModerator": true
+  },
+  "587301011836764181": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 25
+  },
+  "689672576670498883": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 25
+  },
+  "1210078842362920991": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 25
   },
   "1081319797180088422": {
     "team": "Abibas NA",
