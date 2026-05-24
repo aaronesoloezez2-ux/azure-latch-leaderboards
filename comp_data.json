@@ -2009,7 +2009,6 @@
         "825714491874345001",
         "1185564705918554166",
         "827503010489565214",
-        "1292428215658217506",
         "586519823081799699",
         "1345748207094988830",
         "1063957766382813294",
@@ -10267,13 +10266,6 @@
       "region": "Europe",
       "startTime": 1779475413448,
       "lastOpponents": []
-    },
-    "1464125504448626956": {
-      "teamName": "sown fc",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779588792543,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -14979,6 +14971,15 @@
       "playerId": "729549901209403424",
       "inviterId": "835590854580240405",
       "timestamp": 1779588497948
+    },
+    "1779589370316": {
+      "teamName": "RB Leipzig",
+      "playerId": "347283418553253888",
+      "inviterId": "216309723933310977",
+      "timestamp": 1779589370316
+    },
+    "invite_216309723933310977": {
+      "cooldownUntil": 1779589670316
     }
   },
   "userNicknames": {
@@ -17533,23 +17534,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779588393331": {
-      "team1Id": "216309723933310977",
-      "team2Id": "1204496416203083787",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Generation Of Miracles",
+    "1779589043436": {
+      "team1Id": "1464125504448626956",
+      "team2Id": "1426419421026455565",
+      "team1Name": "sown fc",
+      "team2Name": "Sulk",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779588393331
-    },
-    "1779588703383": {
-      "team1Id": "1426419421026455565",
-      "team2Id": "1464125504448626956",
-      "team1Name": "Sulk",
-      "team2Name": "sown fc",
-      "team1Vote": null,
-      "team2Vote": false,
-      "timestamp": 1779588703383
+      "timestamp": 1779589043436
     }
   },
   "pendingVCRequests": {},
