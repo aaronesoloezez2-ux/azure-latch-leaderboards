@@ -8240,7 +8240,6 @@
         "1321866351593132073",
         "577233325018578964",
         "1378976238827212810",
-        "1432105698174439527",
         "970405556579876905",
         "587301011836764181",
         "611697342604902450",
@@ -17527,17 +17526,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779590613714": {
-      "team1Id": "1353220534367682582",
-      "team2Id": "1143485438787596389",
-      "team1Name": "G50",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779590613714
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
