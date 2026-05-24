@@ -9323,26 +9323,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Generation Of Miracles": {
-      "elo5v5": 2,
-      "elo11v11": 0,
-      "leaders": [
-        "1204496416203083787"
-      ],
-      "players": [
-        "749800680713224300",
-        "1404318852661383199",
-        "792987797657092106",
-        "915390251449585666",
-        "1435327843289665596",
-        "1323379766098661437",
-        "702710123260412004",
-        "1453334847211962390",
-        "1481494653604856011"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Devil May Cry": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10271,6 +10251,26 @@
       ],
       "region": "Asia",
       "achievements": []
+    },
+    "Shutokú": {
+      "elo5v5": 2,
+      "elo11v11": 0,
+      "leaders": [
+        "1204496416203083787"
+      ],
+      "players": [
+        "749800680713224300",
+        "1404318852661383199",
+        "792987797657092106",
+        "915390251449585666",
+        "1435327843289665596",
+        "1323379766098661437",
+        "702710123260412004",
+        "1453334847211962390",
+        "1481494653604856011"
+      ],
+      "region": "NA",
+      "achievements": []
     }
   },
   "leaderboards": {
@@ -10325,11 +10325,11 @@
       "startTime": 1779627111998,
       "lastOpponents": []
     },
-    "1235051975914295357": {
-      "teamName": "Blue Lock",
+    "1204496416203083787": {
+      "teamName": "Generation Of Miracles",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779649794323,
+      "startTime": 1779650383241,
       "lastOpponents": []
     }
   },
@@ -17644,14 +17644,23 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779649757655": {
-      "team1Id": "1285337928989544468",
+    "1779650097719": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1235051975914295357",
+      "team1Name": "Kiseki",
+      "team2Name": "Blue Lock",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779650097719
+    },
+    "1779650292777": {
+      "team1Id": "1204496416203083787",
       "team2Id": "952667718363009074",
-      "team1Name": "Vitality",
+      "team1Name": "Generation Of Miracles",
       "team2Name": "Zero",
       "team1Vote": null,
       "team2Vote": true,
-      "timestamp": 1779649757655
+      "timestamp": 1779650292777
     }
   },
   "pendingVCRequests": {},
