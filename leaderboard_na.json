@@ -96,28 +96,28 @@
   },
   {
     "rank": 20,
+    "teamName": "RB Leipzig",
+    "elo5v5": 54
+  },
+  {
+    "rank": 21,
     "teamName": "Sulk",
     "elo5v5": 48
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Yakuza",
     "elo5v5": 42
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
-  },
-  {
-    "rank": 24,
-    "teamName": "RB Leipzig",
-    "elo5v5": 35
   },
   {
     "rank": 25,
