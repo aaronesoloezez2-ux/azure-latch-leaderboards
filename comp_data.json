@@ -9434,27 +9434,6 @@
       "region": "NA",
       "achievements": []
     },
-    "NekoPawa": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "942593369736114206",
-        "1143685690010382466"
-      ],
-      "players": [
-        "1386056826210095274",
-        "1234690094758101037",
-        "1392166270799052913",
-        "868690670347509850",
-        "959488373586813008",
-        "1143685690010382466",
-        "887479190704758834",
-        "1103134220102140035",
-        "1217648516705550398"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Vindictation": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10336,13 +10315,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "852164591839870976": {
-      "teamName": "b0mb",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779657761768,
       "lastOpponents": []
     }
   },
@@ -17660,7 +17632,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779658860137": {
+      "team1Id": "852164591839870976",
+      "team2Id": "938564876199145494",
+      "team1Name": "b0mb",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779658860137
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
