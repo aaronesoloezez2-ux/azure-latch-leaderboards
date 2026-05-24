@@ -8244,7 +8244,6 @@
         "1378976238827212810",
         "970405556579876905",
         "587301011836764181",
-        "611697342604902450",
         "1193794594157117495",
         "1390755048434307092",
         "1037140271101653052"
@@ -10274,18 +10273,11 @@
       "startTime": 1779475413448,
       "lastOpponents": []
     },
-    "1320293329317134358": {
-      "teamName": "Son",
+    "1280938486030930077": {
+      "teamName": "Spurs",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779593417011,
-      "lastOpponents": []
-    },
-    "1112150858562539561": {
-      "teamName": "Son",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779593513185,
+      "startTime": 1779594233486,
       "lastOpponents": []
     }
   },
@@ -17528,7 +17520,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779594009572": {
+      "team1Id": "1320293329317134358",
+      "team2Id": "1280938486030930077",
+      "team1Name": "Son",
+      "team2Name": "Spurs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779594009572
+    },
+    "1779594134602": {
+      "team1Id": "1112150858562539561",
+      "team2Id": "1280938486030930077",
+      "team1Name": "Son",
+      "team2Name": "Spurs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779594134602
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
