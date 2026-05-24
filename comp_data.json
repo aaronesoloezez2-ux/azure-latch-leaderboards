@@ -9554,7 +9554,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 257,
+      "elo5v5": 246,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10253,7 +10253,7 @@
       "achievements": []
     },
     "Shutokú": {
-      "elo5v5": 2,
+      "elo5v5": 32,
       "elo11v11": 0,
       "leaders": [
         "1204496416203083787"
@@ -10326,10 +10326,10 @@
       "lastOpponents": []
     },
     "1204496416203083787": {
-      "teamName": "Generation Of Miracles",
+      "teamName": "Shutokú",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779650383241,
+      "startTime": 1779650981371,
       "lastOpponents": []
     }
   },
@@ -17644,23 +17644,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779650097719": {
-      "team1Id": "926536409106485338",
+    "1779650753254": {
+      "team1Id": "1204496416203083787",
       "team2Id": "1235051975914295357",
-      "team1Name": "Kiseki",
+      "team1Name": "Generation Of Miracles",
       "team2Name": "Blue Lock",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779650097719
-    },
-    "1779650292777": {
-      "team1Id": "1204496416203083787",
-      "team2Id": "952667718363009074",
-      "team1Name": "Generation Of Miracles",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779650292777
+      "team2Vote": false,
+      "timestamp": 1779650753254
     }
   },
   "pendingVCRequests": {},
