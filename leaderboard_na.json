@@ -61,28 +61,28 @@
   },
   {
     "rank": 13,
+    "teamName": "b0mb",
+    "elo5v5": 81
+  },
+  {
+    "rank": 14,
     "teamName": "Moon Noobs",
     "elo5v5": 79
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "RB Leipzig",
     "elo5v5": 72
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Vorpal Swords",
     "elo5v5": 68
-  },
-  {
-    "rank": 17,
-    "teamName": "Sulk",
-    "elo5v5": 66
   },
   {
     "rank": 18,
@@ -96,13 +96,13 @@
   },
   {
     "rank": 20,
-    "teamName": "b0mb",
-    "elo5v5": 61
+    "teamName": "Bear United U-20",
+    "elo5v5": 60
   },
   {
     "rank": 21,
-    "teamName": "Bear United U-20",
-    "elo5v5": 60
+    "teamName": "Sulk",
+    "elo5v5": 46
   },
   {
     "rank": 22,
