@@ -9339,7 +9339,6 @@
         "722229868707971072",
         "804856302458634240",
         "1267618584180428920",
-        "804116659983220746",
         "442428679209877504",
         "1432105698174439527",
         "1021931644116021289"
@@ -15042,17 +15041,17 @@
     "1404318852661383199": 1779901409856
   },
   "pendingInvites": {
-    "1779722182990": {
-      "teamName": "DFFE",
-      "playerId": "454203605369618432",
-      "inviterId": "739386655609454634",
-      "timestamp": 1779722182990
-    },
     "1779728759169": {
       "teamName": "Re Al U-20",
       "playerId": "1481494653604856011",
       "inviterId": "1005947912565559356",
       "timestamp": 1779728759169
+    },
+    "1779729207970": {
+      "teamName": "RB Leipzig",
+      "playerId": "427178331285487627",
+      "inviterId": "216309723933310977",
+      "timestamp": 1779729207970
     }
   },
   "userNicknames": {
@@ -17652,17 +17651,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779728687297": {
-      "team1Id": "644671963054473216",
-      "team2Id": "1335102355695468688",
-      "team1Name": "sown fc",
-      "team2Name": "Re Al U-20",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779728687297
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
