@@ -10248,7 +10248,7 @@
       "region": "NA",
       "achievements": []
     },
-    "b0mb": {
+    "B0MB": {
       "elo5v5": 81,
       "elo11v11": 0,
       "leaders": [
@@ -10320,13 +10320,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1381851488569004103": {
-      "teamName": "Metalogic",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779680718448,
       "lastOpponents": []
     }
   },
@@ -16339,7 +16332,8 @@
     "1503092929223196724": "dan",
     "1253332719316893765": "Blud",
     "815008017782145024": "Billy Butcher",
-    "1435327843289665596": "fatefuly"
+    "1435327843289665596": "fatefuly",
+    "1333563921776509002": "beau"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17635,11 +17629,22 @@
     "1266749972074991660": 1779845645210,
     "424371246655078410": 1779850649083,
     "1461952919741137060": 1779851400480,
-    "779083851166515270": 1779852015893
+    "779083851166515270": 1779852015893,
+    "1333563921776509002": 1779854116682
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779681330382": {
+      "team1Id": "1381851488569004103",
+      "team2Id": "1464125504448626956",
+      "team1Name": "Metalogic",
+      "team2Name": "sown fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779681330382
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
