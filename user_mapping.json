@@ -22322,6 +22322,36 @@
     "region": "NA",
     "elo5v5": 81
   },
+  "964931314337869885": {
+    "team": "DFFE",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1103524089454399508": {
+    "team": "DFFE",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "764830763199496252": {
+    "team": "DFFE",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "680799539573031061": {
+    "team": "DFFE",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "739386655609454634": {
+    "team": "DFFE",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
