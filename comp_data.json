@@ -10144,7 +10144,6 @@
       ],
       "players": [
         "1132931149275070474",
-        "1036332587154669588",
         "1273659588528308245",
         "771438389349842965"
       ],
@@ -10345,12 +10344,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 5,
-      "startTime": 1779747580292,
+      "startTime": 1779748414521,
       "lastOpponents": []
     }
   },
@@ -17679,17 +17677,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779747476094": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "952667718363009074",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779747476094
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
