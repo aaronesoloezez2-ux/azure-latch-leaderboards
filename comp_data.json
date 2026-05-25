@@ -9238,20 +9238,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Mugen no kōun": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "910974931712475137"
-      ],
-      "players": [
-        "939330227568525352",
-        "1297987045150691490",
-        "1358937693173710929"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Exoscape": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -15071,15 +15057,6 @@
       "playerId": "776225237481947217",
       "inviterId": "659879805440753718",
       "timestamp": 1779745703392
-    },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1779750972678
-    },
-    "invite_1143685690010382466": {
-      "cooldownUntil": 1779751025065
-    },
-    "invite_1280938486030930077": {
-      "cooldownUntil": 1779751214095
     }
   },
   "userNicknames": {
@@ -17683,17 +17660,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779750411589": {
-      "team1Id": "952667718363009074",
-      "team2Id": "847505723763195914",
-      "team1Name": "Zero",
-      "team2Name": "Vorpal Swords",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779750411589
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
