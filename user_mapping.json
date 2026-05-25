@@ -21078,12 +21078,6 @@
     "region": "NA",
     "elo5v5": 25
   },
-  "1091821692164247622": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25
-  },
   "409638643754336277": {
     "team": "Spurs",
     "isLeader": false,
@@ -21810,12 +21804,6 @@
     "region": "NA",
     "elo5v5": 194
   },
-  "991147493385568357": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 194
-  },
   "578719398785974272": {
     "team": "G50",
     "isLeader": false,
@@ -22341,6 +22329,24 @@
     "elo5v5": 21
   },
   "883782190348001351": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 21
+  },
+  "991147493385568357": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 21
+  },
+  "970405556579876905": {
+    "team": "b0mb",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 21
+  },
+  "1091821692164247622": {
     "team": "b0mb",
     "isLeader": false,
     "region": "NA",
