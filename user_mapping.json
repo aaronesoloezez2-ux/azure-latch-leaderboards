@@ -21511,7 +21511,7 @@
   },
   "851439532980961300": {
     "team": "French Vanguard",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
