@@ -10214,7 +10214,6 @@
         "1323379766098661437",
         "702710123260412004",
         "1453334847211962390",
-        "1481494653604856011",
         "942231461644349471"
       ],
       "region": "NA",
@@ -10326,13 +10325,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "644671963054473216": {
-      "teamName": "sown fc",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779686006990,
       "lastOpponents": []
     }
   },
@@ -15054,12 +15046,6 @@
       "playerId": "454203605369618432",
       "inviterId": "739386655609454634",
       "timestamp": 1779722182990
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1779728634373
-    },
-    "invite_1005947912565559356": {
-      "cooldownUntil": 1779728731116
     }
   },
   "userNicknames": {
@@ -17659,7 +17645,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779728687297": {
+      "team1Id": "644671963054473216",
+      "team2Id": "1335102355695468688",
+      "team1Name": "sown fc",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779728687297
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
