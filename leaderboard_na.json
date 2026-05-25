@@ -51,33 +51,33 @@
   },
   {
     "rank": 11,
+    "teamName": "RB Leipzig",
+    "elo5v5": 89
+  },
+  {
+    "rank": 12,
     "teamName": "Vitality",
     "elo5v5": 87
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Shutokú",
     "elo5v5": 83
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "B0MB",
     "elo5v5": 81
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Moon Noobs",
     "elo5v5": 79
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Kyzards",
     "elo5v5": 76
-  },
-  {
-    "rank": 16,
-    "teamName": "RB Leipzig",
-    "elo5v5": 72
   },
   {
     "rank": 17,
