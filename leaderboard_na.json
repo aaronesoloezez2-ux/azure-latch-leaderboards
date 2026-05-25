@@ -91,18 +91,18 @@
   },
   {
     "rank": 19,
+    "teamName": "b0mb",
+    "elo5v5": 61
+  },
+  {
+    "rank": 20,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "RB Leipzig",
     "elo5v5": 54
-  },
-  {
-    "rank": 21,
-    "teamName": "Spurs",
-    "elo5v5": 45
   },
   {
     "rank": 22,
@@ -111,42 +111,42 @@
   },
   {
     "rank": 23,
-    "teamName": "b0mb",
-    "elo5v5": 41
-  },
-  {
-    "rank": 24,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 34
   },
   {
-    "rank": 27,
+    "rank": 26,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Abibas NA",
     "elo5v5": 33
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Serendipity",
     "elo5v5": 28
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "sown fc",
+    "elo5v5": 25
+  },
+  {
+    "rank": 30,
+    "teamName": "Spurs",
     "elo5v5": 25
   },
   {
