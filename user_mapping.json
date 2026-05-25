@@ -16522,7 +16522,7 @@
   },
   "921733545720971286": {
     "team": "Divine",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 127
   },
@@ -16546,7 +16546,7 @@
   },
   "1459662581995143221": {
     "team": "Divine",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 127
   },
@@ -16571,12 +16571,6 @@
   "1141409266968825876": {
     "team": "Divine",
     "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 127
-  },
-  "520679292250619914": {
-    "team": "Divine",
-    "isLeader": true,
     "region": "Europe",
     "elo5v5": 127
   },
@@ -21071,7 +21065,8 @@
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 25
+    "elo5v5": 25,
+    "isModerator": true
   },
   "1081319797180088422": {
     "team": "Abibas NA",
