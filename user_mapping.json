@@ -19265,12 +19265,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "941707851003490405": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "681781213819568140": {
     "team": "Toraless",
     "isLeader": false,
@@ -21318,6 +21312,12 @@
     "elo5v5": 0
   },
   "1292428215658217506": {
+    "team": "Arknights FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1486899654657441923": {
     "team": "Arknights FC",
     "isLeader": false,
     "region": "Asia",
