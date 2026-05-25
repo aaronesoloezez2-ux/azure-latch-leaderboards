@@ -17738,12 +17738,6 @@
     "elo5v5": 23,
     "isModerator": true
   },
-  "935195304892989491": {
-    "team": "Balance",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 23
-  },
   "1497666605071728742": {
     "team": "Balance",
     "isLeader": false,
@@ -17757,6 +17751,12 @@
     "elo5v5": 23
   },
   "1236627933972402189": {
+    "team": "Balance",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 23
+  },
+  "935195304892989491": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
