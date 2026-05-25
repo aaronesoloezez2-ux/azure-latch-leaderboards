@@ -9804,7 +9804,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 25,
+      "elo5v5": 45,
       "elo11v11": 0,
       "leaders": [
         "813556928034635807",
@@ -10316,13 +10316,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779627111998,
-      "lastOpponents": []
-    },
-    "1426419421026455565": {
-      "teamName": "Sulk",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779667476884,
       "lastOpponents": []
     }
   },
@@ -17649,7 +17642,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779668962494": {
+      "team1Id": "662551566397472798",
+      "team2Id": "1426419421026455565",
+      "team1Name": "Paragon",
+      "team2Name": "Sulk",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779668962494
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
