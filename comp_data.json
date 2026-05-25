@@ -5957,7 +5957,8 @@
         "621114980393025537",
         "1203062346168275034",
         "1269763976158380035",
-        "991829328318976061"
+        "991829328318976061",
+        "1367129652493287466"
       ],
       "region": "NA",
       "achievements": []
@@ -10339,13 +10340,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1005947912565559356": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779742481611,
       "lastOpponents": []
     }
   },
@@ -15060,11 +15054,12 @@
     "840260072756215818": 1779913815527,
     "1025844116669595779": 1779913815527,
     "1058480681551929344": 1779914267860,
-    "792524269736951840": 1779915662873
+    "792524269736951840": 1779915662873,
+    "1367129652493287466": 1779916660401
   },
   "pendingInvites": {
-    "invite_847505723763195914": {
-      "cooldownUntil": 1779743104365
+    "invite_1235051975914295357": {
+      "cooldownUntil": 1779744079213
     }
   },
   "userNicknames": {
@@ -17664,17 +17659,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779742450299": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "938564876199145494",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779742450299
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
