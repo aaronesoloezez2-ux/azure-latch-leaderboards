@@ -10215,7 +10215,6 @@
         "792987797657092106",
         "1323379766098661437",
         "702710123260412004",
-        "1453334847211962390",
         "942231461644349471"
       ],
       "region": "NA",
@@ -10327,6 +10326,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779739573954,
       "lastOpponents": []
     }
   },
