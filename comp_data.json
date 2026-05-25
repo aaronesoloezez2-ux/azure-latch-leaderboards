@@ -10215,8 +10215,7 @@
         "749800680713224300",
         "792987797657092106",
         "1323379766098661437",
-        "702710123260412004",
-        "942231461644349471"
+        "702710123260412004"
       ],
       "region": "NA",
       "achievements": []
@@ -10344,13 +10343,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "852164591839870976": {
-      "teamName": "B0MB",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779745054909,
       "lastOpponents": []
     }
   },
@@ -15071,11 +15063,11 @@
     "1244436756242104341": 1779917870616
   },
   "pendingInvites": {
-    "invite_412399874877816842": {
-      "cooldownUntil": 1779745295795
-    },
-    "invite_852164591839870976": {
-      "cooldownUntil": 1779745253579
+    "1779745703392": {
+      "teamName": "Yakuza",
+      "playerId": "776225237481947217",
+      "inviterId": "659879805440753718",
+      "timestamp": 1779745703392
     }
   },
   "userNicknames": {
@@ -17679,7 +17671,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779745815899": {
+      "team1Id": "757056855175594004",
+      "team2Id": "1464125504448626956",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "sown fc",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779745815899
+    },
+    "1779745905912": {
+      "team1Id": "1353220534367682582",
+      "team2Id": "1464125504448626956",
+      "team1Name": "G50",
+      "team2Name": "sown fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779745905912
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
