@@ -4767,12 +4767,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "830030224368205834": {
-    "team": "Ataraxia",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "680025016514904130": {
     "team": "Ataraxia",
     "isLeader": false,
@@ -17714,6 +17708,12 @@
     "elo5v5": 21
   },
   "1243245856929484843": {
+    "team": "Nexus",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 21
+  },
+  "830030224368205834": {
     "team": "Nexus",
     "isLeader": false,
     "region": "Europe",
