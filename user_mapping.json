@@ -22358,55 +22358,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "679352121002557450": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "519585200355672074": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "988336456189747230": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1429544356452499647": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "815008017782145024": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1068696204092899338": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "767443634827952208": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1026589851300139018": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22436,6 +22387,13 @@
     "isModerator": true
   },
   "759536058567360522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1429544356452499647": {
     "team": null,
     "isLeader": false,
     "region": null,
