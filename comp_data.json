@@ -7833,7 +7833,7 @@
       "achievements": []
     },
     "Sulk": {
-      "elo5v5": 66,
+      "elo5v5": 46,
       "elo11v11": 0,
       "leaders": [
         "1426419421026455565"
@@ -10248,7 +10248,7 @@
       "achievements": []
     },
     "b0mb": {
-      "elo5v5": 61,
+      "elo5v5": 81,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976"
@@ -17634,17 +17634,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779680475192": {
-      "team1Id": "1285337928989544468",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Vitality",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779680475192
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
