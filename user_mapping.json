@@ -22248,13 +22248,6 @@
     "region": "NA",
     "elo5v5": 83
   },
-  "1481494653604856011": {
-    "team": "Shutokú",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 83,
-    "isModerator": true
-  },
   "942231461644349471": {
     "team": "Shutokú",
     "isLeader": false,
@@ -22449,6 +22442,13 @@
     "isModerator": true
   },
   "566360748888948766": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1481494653604856011": {
     "team": null,
     "isLeader": false,
     "region": null,
