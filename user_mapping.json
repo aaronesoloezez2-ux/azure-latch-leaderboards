@@ -15735,7 +15735,7 @@
   },
   "850869448356528148": {
     "team": "Sulk",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 46
   },
