@@ -10205,7 +10205,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 81,
+      "elo5v5": 97,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976"
@@ -17674,7 +17674,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779752867218": {
+      "team1Id": "1464125504448626956",
+      "team2Id": "1005947912565559356",
+      "team1Name": "sown fc",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779752867218
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
