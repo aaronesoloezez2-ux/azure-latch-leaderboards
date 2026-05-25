@@ -18611,6 +18611,12 @@
     "region": "NA",
     "elo5v5": 8
   },
+  "1237504880864661585": {
+    "team": "Re Al U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 8
+  },
   "1026865918556508200": {
     "team": "AfterBrick",
     "isLeader": false,
@@ -21074,8 +21080,7 @@
     "team": "Spurs",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 25,
-    "isModerator": true
+    "elo5v5": 25
   },
   "813556928034635807": {
     "team": "Spurs",
