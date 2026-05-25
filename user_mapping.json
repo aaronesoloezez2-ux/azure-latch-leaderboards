@@ -655,13 +655,6 @@
     "region": "Europe",
     "elo5v5": 22
   },
-  "1029779932999594016": {
-    "team": "Abibas FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22,
-    "isModerator": true
-  },
   "618476725524758550": {
     "team": "Abibas FC",
     "isLeader": false,
@@ -12522,12 +12515,6 @@
     "region": "Europe",
     "elo5v5": 21
   },
-  "1399055434538815528": {
-    "team": "Oshu Oshi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "1311412604446445570": {
     "team": "Panthera",
     "isLeader": false,
@@ -16532,18 +16519,6 @@
     "region": "Europe",
     "elo5v5": 127
   },
-  "1025844116669595779": {
-    "team": "Divine",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 127
-  },
-  "1144455673686536314": {
-    "team": "Divine",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 127
-  },
   "872526708270583838": {
     "team": "Divine",
     "isLeader": false,
@@ -20301,12 +20276,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "840260072756215818": {
-    "team": "Resurrection",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "632600138736467988": {
     "team": "Resurrection",
     "isLeader": true,
@@ -22418,6 +22387,43 @@
     "team": "Humble Mangoes 2: The Sequel",
     "isLeader": false,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1029779932999594016": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1399055434538815528": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1214918226795040772": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "840260072756215818": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1025844116669595779": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1144455673686536314": {
+    "team": "Verse",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
