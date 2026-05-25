@@ -17682,19 +17682,7 @@
     "region": "Europe",
     "elo5v5": 21
   },
-  "710453066436051009": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "760269575396261888": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
-  "1243245856929484843": {
     "team": "Nexus",
     "isLeader": false,
     "region": "Europe",
@@ -19950,12 +19938,6 @@
     "region": "Europe",
     "elo5v5": 21
   },
-  "1187369424131473478": {
-    "team": "Divine: Chances",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "1420890018997604455": {
     "team": "Divine: Chances",
     "isLeader": false,
@@ -20407,12 +20389,6 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 246
-  },
-  "1373376391218728981": {
-    "team": "Heavens Society",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 5
   },
   "1056659996202512505": {
     "team": "Heavens Society",
@@ -22434,6 +22410,42 @@
   "1144455673686536314": {
     "team": "Verse",
     "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1441534629097111704": {
+    "team": "Ryōdan",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1187369424131473478": {
+    "team": "Ryōdan",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1373376391218728981": {
+    "team": "Ryōdan",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "710453066436051009": {
+    "team": "Ryōdan",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1243245856929484843": {
+    "team": "Ryōdan",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "884488041954168882": {
+    "team": "Ryōdan",
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
