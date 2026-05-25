@@ -9753,7 +9753,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 5,
+      "elo5v5": 25,
       "elo11v11": 0,
       "leaders": [
         "644671963054473216",
@@ -10324,7 +10324,7 @@
       "teamName": "Sulk",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779669253892,
+      "startTime": 1779669774425,
       "lastOpponents": []
     }
   },
