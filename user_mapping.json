@@ -10914,6 +10914,12 @@
     "elo5v5": 153,
     "isModerator": true
   },
+  "950108450216607784": {
+    "team": "Re Al",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 153
+  },
   "509160088632819712": {
     "team": "Re Al",
     "isLeader": true,
@@ -22263,12 +22269,6 @@
     "elo5v5": 83
   },
   "1210078842362920991": {
-    "team": "B0MB",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 81
-  },
-  "950108450216607784": {
     "team": "B0MB",
     "isLeader": false,
     "region": "NA",
