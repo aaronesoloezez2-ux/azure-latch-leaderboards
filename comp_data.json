@@ -9784,7 +9784,8 @@
       "elo5v5": 25,
       "elo11v11": 0,
       "leaders": [
-        "813556928034635807"
+        "813556928034635807",
+        "1280938486030930077"
       ],
       "players": [
         "887818360589520936",
@@ -10342,13 +10343,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1005947912565559356": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779749028255,
       "lastOpponents": []
     }
   },
@@ -17678,23 +17672,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779748876343": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "952667718363009074",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Zero",
+    "1779750411589": {
+      "team1Id": "952667718363009074",
+      "team2Id": "847505723763195914",
+      "team1Name": "Zero",
+      "team2Name": "Vorpal Swords",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779748876343
-    },
-    "1779748986363": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "952667718363009074",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779748986363
+      "timestamp": 1779750411589
     }
   },
   "pendingVCRequests": {},
