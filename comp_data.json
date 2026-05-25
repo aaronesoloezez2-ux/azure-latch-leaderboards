@@ -7648,20 +7648,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "The Mafia": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1021244103675105420"
-      ],
-      "players": [
-        "957601573771558972",
-        "1048147488336515102",
-        "1021244103675105420"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Bear Family": {
       "elo5v5": 21,
       "elo11v11": 0,
@@ -15045,9 +15031,6 @@
       "playerId": "1368471320681123870",
       "inviterId": "670929087748898836",
       "timestamp": 1779707494680
-    },
-    "invite_836315892484669490": {
-      "cooldownUntil": 1779708663842
     }
   },
   "userNicknames": {
