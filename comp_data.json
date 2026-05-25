@@ -2975,7 +2975,6 @@
         "567861908951269386",
         "1154910400874291292",
         "1040715701708656650",
-        "942231461644349471",
         "857399142196052008"
       ],
       "region": "NA",
@@ -10320,6 +10319,13 @@
       "region": "Asia",
       "startTime": 1779627111998,
       "lastOpponents": []
+    },
+    "1426419421026455565": {
+      "teamName": "Sulk",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779675741791,
+      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15041,9 +15047,6 @@
       "playerId": "611697342604902450",
       "inviterId": "1364318290088034335",
       "timestamp": 1779669201776
-    },
-    "invite_1005947912565559356": {
-      "cooldownUntil": 1779674130225
     }
   },
   "userNicknames": {
@@ -17637,17 +17640,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779673873590": {
-      "team1Id": "216309723933310977",
-      "team2Id": "1335102355695468688",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Re Al U-20",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779673873590
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
