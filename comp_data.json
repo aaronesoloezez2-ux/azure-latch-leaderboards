@@ -8890,7 +8890,7 @@
       "achievements": []
     },
     "Re Al U-20": {
-      "elo5v5": 8,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1335102355695468688",
@@ -9848,7 +9848,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 54,
+      "elo5v5": 72,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -10322,11 +10322,11 @@
       "startTime": 1779627111998,
       "lastOpponents": []
     },
-    "1464125504448626956": {
-      "teamName": "sown fc",
+    "1143485438787596389": {
+      "teamName": "Masquerade",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779676476139,
+      "startTime": 1779677140588,
       "lastOpponents": []
     }
   },
@@ -17640,14 +17640,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779676479233": {
-      "team1Id": "1204496416203083787",
+    "1779677134377": {
+      "team1Id": "1464125504448626956",
       "team2Id": "1381851488569004103",
-      "team1Name": "Shutokú",
+      "team1Name": "sown fc",
       "team2Name": "Metalogic",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779676479233
+      "timestamp": 1779677134377
     }
   },
   "pendingVCRequests": {},
