@@ -9331,7 +9331,7 @@
       "achievements": []
     },
     "Paragon": {
-      "elo5v5": 120,
+      "elo5v5": 103,
       "elo11v11": 0,
       "leaders": [
         "662551566397472798"
@@ -9821,7 +9821,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 105,
+      "elo5v5": 123,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -10343,6 +10343,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 5,
+      "startTime": 1779746494733,
       "lastOpponents": []
     }
   },
@@ -17671,26 +17679,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779745815899": {
-      "team1Id": "757056855175594004",
-      "team2Id": "1464125504448626956",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "sown fc",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779745815899
-    },
-    "1779745905912": {
-      "team1Id": "1353220534367682582",
-      "team2Id": "1464125504448626956",
-      "team1Name": "G50",
-      "team2Name": "sown fc",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779745905912
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
