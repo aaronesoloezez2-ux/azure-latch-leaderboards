@@ -21012,7 +21012,7 @@
   },
   "1280938486030930077": {
     "team": "Spurs",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 66,
     "isModerator": true
