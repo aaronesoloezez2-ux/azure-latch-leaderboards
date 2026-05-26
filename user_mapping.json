@@ -21706,67 +21706,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "572170241820459042": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "1353220534367682582": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "723963456549683270": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176,
-    "isModerator": true
-  },
-  "705075370076143718": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "553371454607982596": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "1341524326041780335": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "1321866351593132073": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "991147493385568357": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "396111393058979840": {
-    "team": "G50",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 176
-  },
-  "460090789272354817": {
-    "team": "G50",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 176
-  },
   "1131031661694423120": {
     "team": "Vitality",
     "isLeader": false,
@@ -22519,6 +22458,13 @@
     "isModerator": true
   },
   "1329326547525570571": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "723963456549683270": {
     "team": null,
     "isLeader": false,
     "region": null,
