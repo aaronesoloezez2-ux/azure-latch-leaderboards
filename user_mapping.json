@@ -18345,13 +18345,6 @@
     "region": "NA",
     "elo5v5": 14
   },
-  "747948371301499041": {
-    "team": "Seirin",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 14,
-    "isModerator": true
-  },
   "1123099862439821413": {
     "team": "Seirin",
     "isLeader": false,
@@ -22506,6 +22499,13 @@
     "isModerator": true
   },
   "868243652416254034": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "747948371301499041": {
     "team": null,
     "isLeader": false,
     "region": null,
