@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 246
+    "elo5v5": 251
   },
   {
     "rank": 2,
@@ -171,23 +171,23 @@
   },
   {
     "rank": 35,
-    "teamName": "sown fc",
-    "elo5v5": 21
-  },
-  {
-    "rank": 36,
     "teamName": "Yakuza",
     "elo5v5": 20
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Seirin",
     "elo5v5": 14
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Serendipity",
     "elo5v5": 11
+  },
+  {
+    "rank": 38,
+    "teamName": "sown fc",
+    "elo5v5": 9
   },
   {
     "rank": 39,
