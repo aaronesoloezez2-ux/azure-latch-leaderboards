@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "RB Leipzig",
+    "elo5v5": 138
+  },
+  {
+    "rank": 8,
     "teamName": "G50:K",
     "elo5v5": 126
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Paragon",
     "elo5v5": 124
-  },
-  {
-    "rank": 9,
-    "teamName": "RB Leipzig",
-    "elo5v5": 123
   },
   {
     "rank": 10,
@@ -86,18 +86,18 @@
   },
   {
     "rank": 18,
-    "teamName": "Spurs",
-    "elo5v5": 66
-  },
-  {
-    "rank": 19,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Bear United U-20",
     "elo5v5": 60
+  },
+  {
+    "rank": 20,
+    "teamName": "Spurs",
+    "elo5v5": 49
   },
   {
     "rank": 21,
