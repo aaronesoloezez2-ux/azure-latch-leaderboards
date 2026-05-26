@@ -21086,6 +21086,13 @@
     "elo5v5": 33,
     "isModerator": true
   },
+  "747948371301499041": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 33,
+    "isModerator": true
+  },
   "567041024615120928": {
     "team": "Abibas NA",
     "isLeader": true,
@@ -22499,13 +22506,6 @@
     "isModerator": true
   },
   "868243652416254034": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "747948371301499041": {
     "team": null,
     "isLeader": false,
     "region": null,
