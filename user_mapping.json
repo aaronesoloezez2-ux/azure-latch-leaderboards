@@ -949,6 +949,12 @@
     "region": "Asia",
     "elo5v5": 0
   },
+  "1145367377047998484": {
+    "team": "Arknights FC",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 0
+  },
   "468723106488254474": {
     "team": "g t b s a t !",
     "isLeader": true,
@@ -20990,12 +20996,6 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 138
-  },
-  "1145367377047998484": {
-    "team": "Arknights FC",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 0
   },
   "1011257432346988655": {
     "team": "Arknights FC",
