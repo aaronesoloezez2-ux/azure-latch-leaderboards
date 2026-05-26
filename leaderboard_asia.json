@@ -216,32 +216,32 @@
   },
   {
     "rank": 44,
-    "teamName": "Toraless",
-    "elo5v5": 0
-  },
-  {
-    "rank": 45,
     "teamName": "Devil May Cry",
     "elo5v5": 0
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "Vindictation",
     "elo5v5": 0
   },
   {
-    "rank": 47,
+    "rank": 46,
     "teamName": "Arknights FC",
     "elo5v5": 0
   },
   {
-    "rank": 48,
+    "rank": 47,
     "teamName": "Noviluna Aeterna",
     "elo5v5": 0
   },
   {
-    "rank": 49,
+    "rank": 48,
     "teamName": "nocturnals",
+    "elo5v5": 0
+  },
+  {
+    "rank": 49,
+    "teamName": "Hopecore",
     "elo5v5": 0
   }
 ]
