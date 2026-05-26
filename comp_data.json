@@ -9478,8 +9478,7 @@
       ],
       "players": [
         "1253888524638490628",
-        "681071366312689702",
-        "1243378634085896202"
+        "681071366312689702"
       ],
       "region": "NA",
       "achievements": []
@@ -10334,6 +10333,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "567041024615120928": {
+      "teamName": "Abibas NA",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779832647256,
       "lastOpponents": []
     }
   },
@@ -17686,17 +17692,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779832146387": {
-      "team1Id": "757056855175594004",
-      "team2Id": "567041024615120928",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Abibas NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779832146387
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
