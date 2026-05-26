@@ -19227,114 +19227,6 @@
     "region": "Europe",
     "elo5v5": 57
   },
-  "621383268360519694": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "356381145145016332": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "852772790641098773": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "681781213819568140": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1055935058118180945": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "697266711132373081": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1492009572330639421": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "531842665495396373": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1002970631878496348": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1476485642857873408": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1148280228901306539": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1439432067472691384": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1114409489576243292": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "594134662947930132": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "907319327571726346": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1010412751564320799": {
-    "team": "Toraless",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "701390021898534912": {
-    "team": "Toraless",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "836315892484669490": {
-    "team": "Toraless",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1188187130111996035": {
     "team": "Metavision FC",
     "isLeader": true,
@@ -22409,6 +22301,114 @@
     "team": "Periastron",
     "isLeader": false,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "621383268360519694": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "356381145145016332": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "852772790641098773": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "681781213819568140": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1055935058118180945": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "697266711132373081": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1492009572330639421": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "531842665495396373": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1002970631878496348": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1476485642857873408": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1148280228901306539": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1439432067472691384": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1114409489576243292": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "594134662947930132": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "907319327571726346": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1010412751564320799": {
+    "team": "Hopecore",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "701390021898534912": {
+    "team": "Hopecore",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "836315892484669490": {
+    "team": "Hopecore",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   },
   "1290679358528290868": {
