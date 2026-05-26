@@ -1625,7 +1625,7 @@
       "achievements": []
     },
     "Rai Kanji XI.": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "459434234692501515",
@@ -10318,6 +10318,13 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
+    },
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779835911564,
+      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -17663,15 +17670,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779835112151": {
-      "team1Id": "952667718363009074",
-      "team2Id": "938564876199145494",
-      "team1Name": "Zero",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779835112151
-    },
     "1779835367191": {
       "team1Id": "728385309666050149",
       "team2Id": "952667718363009074",
@@ -17680,6 +17678,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779835367191
+    },
+    "1779835902279": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1005947912565559356",
+      "team1Name": "Zero",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779835902279
     }
   },
   "pendingVCRequests": {},
