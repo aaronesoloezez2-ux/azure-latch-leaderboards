@@ -17198,12 +17198,6 @@
     "region": "Europe",
     "elo5v5": 8
   },
-  "1233668956078997505": {
-    "team": "Disband FC",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 8
-  },
   "1128740196221976648": {
     "team": "Honorary Knights",
     "isLeader": true,
@@ -17320,12 +17314,6 @@
     "elo5v5": 0
   },
   "857271131580923914": {
-    "team": "Dreamspace",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "880447821755584563": {
     "team": "Dreamspace",
     "isLeader": false,
     "region": "Europe",
@@ -20082,26 +20070,7 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "751740180083245116": {
-    "team": "bnuuy",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "1088341991122796554": {
-    "team": "bnuuy",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1403844188537098312": {
-    "team": "bnuuy",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1243629154180661380": {
     "team": "bnuuy",
     "isLeader": false,
     "region": "Europe",
@@ -20413,12 +20382,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1418531709665935412": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1007349757578051653": {
     "team": "Na'Vi",
     "isLeader": false,
@@ -20438,12 +20401,6 @@
     "elo5v5": 0
   },
   "1475097040785510524": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1123602770646286387": {
     "team": "Na'Vi",
     "isLeader": false,
     "region": "Europe",
@@ -22411,14 +22368,63 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1290679358528290868": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
+  "896720760985497640": {
+    "team": "Creation",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0,
     "isModerator": true
   },
-  "896720760985497640": {
+  "1233668956078997505": {
+    "team": "Creation",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "751740180083245116": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1403844188537098312": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1123602770646286387": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1418531709665935412": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "880447821755584563": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1243629154180661380": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1498364294591680563": {
+    "team": "Creation",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1290679358528290868": {
     "team": null,
     "isLeader": false,
     "region": null,
