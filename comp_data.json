@@ -10001,7 +10001,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 189,
+      "elo5v5": 176,
       "elo11v11": 0,
       "leaders": [
         "572170241820459042",
@@ -10205,7 +10205,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 97,
+      "elo5v5": 118,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976"
@@ -10346,13 +10346,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1176759288019038219": {
-      "teamName": "Metalogic",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779760472833,
       "lastOpponents": []
     }
   },
@@ -15074,11 +15067,7 @@
     "965000459469348864": 1779933490920,
     "747948371301499041": 1779934311611
   },
-  "pendingInvites": {
-    "invite_567041024615120928": {
-      "cooldownUntil": 1779761759963
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
