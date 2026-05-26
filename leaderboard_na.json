@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
+    "teamName": "B0MB",
+    "elo5v5": 132
+  },
+  {
+    "rank": 8,
     "teamName": "G50:K",
     "elo5v5": 126
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Paragon",
     "elo5v5": 124
-  },
-  {
-    "rank": 9,
-    "teamName": "B0MB",
-    "elo5v5": 118
   },
   {
     "rank": 10,
@@ -126,68 +126,68 @@
   },
   {
     "rank": 26,
-    "teamName": "Serendipity",
-    "elo5v5": 28
-  },
-  {
-    "rank": 27,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Attrition",
     "elo5v5": 22
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Retribution",
     "elo5v5": 22
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Crimson Clavis",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "sown fc",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "Yakuza",
     "elo5v5": 20
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Seirin",
     "elo5v5": 14
+  },
+  {
+    "rank": 38,
+    "teamName": "Serendipity",
+    "elo5v5": 11
   },
   {
     "rank": 39,
