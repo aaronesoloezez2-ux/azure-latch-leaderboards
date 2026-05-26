@@ -9415,7 +9415,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 246,
+      "elo5v5": 251,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9638,7 +9638,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 21,
+      "elo5v5": 9,
       "elo11v11": 0,
       "leaders": [
         "644671963054473216",
@@ -15059,17 +15059,7 @@
     "1243378634085896202": 1780006272560,
     "1412184105604350023": 1780007699459
   },
-  "pendingInvites": {
-    "1779827741938": {
-      "teamName": "sown fc",
-      "playerId": "991147493385568357",
-      "inviterId": "1464125504448626956",
-      "timestamp": 1779827741938
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1779835170836
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17689,7 +17679,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779835112151": {
+      "team1Id": "952667718363009074",
+      "team2Id": "938564876199145494",
+      "team1Name": "Zero",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779835112151
+    },
+    "1779835367191": {
+      "team1Id": "728385309666050149",
+      "team2Id": "952667718363009074",
+      "team1Name": "Kiseki",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779835367191
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
