@@ -9713,7 +9713,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 33,
+      "elo5v5": 52,
       "elo11v11": 0,
       "leaders": [
         "567041024615120928",
@@ -10319,11 +10319,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "1005947912565559356": {
-      "teamName": "Re Al U-20",
+    "567041024615120928": {
+      "teamName": "Abibas NA",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779835911564,
+      "startTime": 1779836291769,
       "lastOpponents": []
     }
   },
@@ -17678,6 +17678,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779835902279
+    },
+    "1779836172322": {
+      "team1Id": "1005947912565559356",
+      "team2Id": "1249902035352948836",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779836172322
     }
   },
   "pendingVCRequests": {},
