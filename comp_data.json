@@ -7024,7 +7024,6 @@
       ],
       "players": [
         "1148288104818548839",
-        "1139590163689914449",
         "734161365224128542",
         "1437871605912043633",
         "1208271624734769164",
@@ -10334,14 +10333,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1779834233599,
       "lastOpponents": []
     }
   },
