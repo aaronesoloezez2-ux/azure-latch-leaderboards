@@ -10014,7 +10014,6 @@
         "553371454607982596",
         "1341524326041780335",
         "779547098000916480",
-        "578719398785974272",
         "1321866351593132073",
         "991147493385568357",
         "396111393058979840"
@@ -10360,11 +10359,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
+    "1464125504448626956": {
+      "teamName": "sown fc",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779762748780,
+      "startTime": 1779765692724,
       "lastOpponents": []
     }
   },
@@ -17690,7 +17689,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779765330489": {
+      "team1Id": "757056855175594004",
+      "team2Id": "1464125504448626956",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "sown fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779765330489
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
