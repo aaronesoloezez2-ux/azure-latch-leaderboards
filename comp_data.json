@@ -5997,7 +5997,8 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "1381851488569004103"
+        "1381851488569004103",
+        "1176759288019038219"
       ],
       "players": [
         "1381851488569004103",
@@ -10344,13 +10345,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779757113156,
       "lastOpponents": []
     }
   },
@@ -17676,23 +17670,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779756937971": {
-      "team1Id": "644671963054473216",
-      "team2Id": "1335102355695468688",
-      "team1Name": "sown fc",
-      "team2Name": "Re Al U-20",
+    "1779757338041": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "1280938486030930077",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Spurs",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779756937971
-    },
-    "1779757047992": {
-      "team1Id": "644671963054473216",
-      "team2Id": "938564876199145494",
-      "team1Name": "sown fc",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779757047992
+      "timestamp": 1779757338042
     }
   },
   "pendingVCRequests": {},
