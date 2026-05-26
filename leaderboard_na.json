@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "G50",
-    "elo5v5": 189
+    "elo5v5": 176
   },
   {
     "rank": 3,
@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
+    "teamName": "B0MB",
+    "elo5v5": 118
+  },
+  {
+    "rank": 11,
     "teamName": "kawaii",
     "elo5v5": 109
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Generation of Miracles",
     "elo5v5": 98
-  },
-  {
-    "rank": 12,
-    "teamName": "B0MB",
-    "elo5v5": 97
   },
   {
     "rank": 13,
