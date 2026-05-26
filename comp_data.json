@@ -7755,8 +7755,7 @@
         "1496964363951800430",
         "1020421521598062693",
         "995434523468759044",
-        "861964219221278741",
-        "858791791117205504"
+        "861964219221278741"
       ],
       "region": "NA",
       "achievements": []
@@ -17669,17 +17668,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779757338041": {
-      "team1Id": "1335102355695468688",
-      "team2Id": "1280938486030930077",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779757338042
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
