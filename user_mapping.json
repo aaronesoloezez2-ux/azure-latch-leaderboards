@@ -17539,7 +17539,7 @@
   },
   "1410827035575844904": {
     "team": "Nexus",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 21,
     "isModerator": true
