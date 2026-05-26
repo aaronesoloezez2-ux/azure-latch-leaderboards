@@ -71,28 +71,28 @@
   },
   {
     "rank": 15,
+    "teamName": "Abibas NA",
+    "elo5v5": 72
+  },
+  {
+    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 53
-  },
-  {
-    "rank": 19,
-    "teamName": "Abibas NA",
-    "elo5v5": 52
   },
   {
     "rank": 20,
@@ -101,28 +101,28 @@
   },
   {
     "rank": 21,
-    "teamName": "Vorpal Swords",
-    "elo5v5": 47
-  },
-  {
-    "rank": 22,
     "teamName": "Sulk",
     "elo5v5": 46
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
+  },
+  {
+    "rank": 25,
+    "teamName": "Vorpal Swords",
+    "elo5v5": 27
   },
   {
     "rank": 26,
