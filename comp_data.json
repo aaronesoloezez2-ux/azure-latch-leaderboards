@@ -5897,7 +5897,7 @@
       "achievements": []
     },
     "ⅩⅠⅠⅠ": {
-      "elo5v5": 34,
+      "elo5v5": 53,
       "elo11v11": 0,
       "leaders": [
         "495333407551782933",
@@ -17670,15 +17670,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779835367191": {
-      "team1Id": "728385309666050149",
-      "team2Id": "952667718363009074",
-      "team1Name": "Kiseki",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779835367191
-    },
     "1779835902279": {
       "team1Id": "952667718363009074",
       "team2Id": "1005947912565559356",
