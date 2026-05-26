@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "G50",
-    "elo5v5": 201
+    "elo5v5": 189
   },
   {
     "rank": 3,
@@ -36,18 +36,18 @@
   },
   {
     "rank": 8,
+    "teamName": "Paragon",
+    "elo5v5": 124
+  },
+  {
+    "rank": 9,
     "teamName": "RB Leipzig",
     "elo5v5": 123
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "kawaii",
     "elo5v5": 109
-  },
-  {
-    "rank": 10,
-    "teamName": "Paragon",
-    "elo5v5": 103
   },
   {
     "rank": 11,
