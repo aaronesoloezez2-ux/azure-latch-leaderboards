@@ -10864,12 +10864,6 @@
     "region": "NA",
     "elo5v5": 153
   },
-  "1437537784314331408": {
-    "team": "Re Al",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 153
-  },
   "1285988942877032593": {
     "team": "Re Al",
     "isLeader": false,
@@ -20733,13 +20727,6 @@
     "region": "NA",
     "elo5v5": 49
   },
-  "749678245863227462": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 49,
-    "isModerator": true
-  },
   "802359779929489408": {
     "team": "Spurs",
     "isLeader": false,
@@ -20772,12 +20759,6 @@
     "elo5v5": 72
   },
   "967575388547055686": {
-    "team": "Abibas NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 72
-  },
-  "835595066050740295": {
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
@@ -20857,25 +20838,11 @@
     "region": "NA",
     "elo5v5": 138
   },
-  "1467619174930186332": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 138,
-    "isModerator": true
-  },
   "982789262300807198": {
     "team": "RB Leipzig",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 138
-  },
-  "804769804594053130": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 138,
-    "isModerator": true
   },
   "1374154116351262892": {
     "team": "RB Leipzig",
@@ -20884,12 +20851,6 @@
     "elo5v5": 138
   },
   "829504713950101534": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 138
-  },
-  "1023062575174406204": {
     "team": "RB Leipzig",
     "isLeader": false,
     "region": "NA",
@@ -21909,12 +21870,6 @@
     "region": "NA",
     "elo5v5": 83
   },
-  "1210078842362920991": {
-    "team": "B0MB",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 132
-  },
   "1189274855208665131": {
     "team": "B0MB",
     "isLeader": false,
@@ -22346,6 +22301,70 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "991147493385568357": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "804769804594053130": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1023062575174406204": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "835595066050740295": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1467619174930186332": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1437537784314331408": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "723963456549683270": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1038336171127873588": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1210078842362920991": {
+    "team": "Luminous",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "749678245863227462": {
+    "team": "Luminous",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22410,13 +22429,6 @@
     "isModerator": true
   },
   "1329326547525570571": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "723963456549683270": {
     "team": null,
     "isLeader": false,
     "region": null,
