@@ -4594,7 +4594,7 @@
       "sourceGuild": "1435983168535527508"
     },
     "Serendipity": {
-      "elo5v5": 28,
+      "elo5v5": 11,
       "elo11v11": 0,
       "leaders": [
         "836064878660812861",
@@ -10123,7 +10123,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 118,
+      "elo5v5": 132,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976"
@@ -10336,11 +10336,12 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "567041024615120928": {
-      "teamName": "Abibas NA",
-      "searchType": "unlimited",
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
       "region": "NA",
-      "startTime": 1779832647256,
+      "duration": 5,
+      "startTime": 1779834233599,
       "lastOpponents": []
     }
   },
@@ -15072,9 +15073,6 @@
       "playerId": "991147493385568357",
       "inviterId": "1464125504448626956",
       "timestamp": 1779827741938
-    },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1779833770848
     }
   },
   "userNicknames": {
@@ -17696,7 +17694,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779834026772": {
+      "team1Id": "567041024615120928",
+      "team2Id": "952667718363009074",
+      "team1Name": "Abibas NA",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779834026772
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
