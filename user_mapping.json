@@ -609,7 +609,8 @@
     "team": "Abibas FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 22
+    "elo5v5": 22,
+    "isModerator": true
   },
   "1435640781343031408": {
     "team": "Abibas FC",
@@ -639,7 +640,8 @@
     "team": "Abibas FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 22
+    "elo5v5": 22,
+    "isModerator": true
   },
   "1095817832752758905": {
     "team": "Abibas FC",
@@ -3357,7 +3359,8 @@
     "team": "Ubers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1276990738722324595": {
     "team": "Ubers",
@@ -6225,7 +6228,8 @@
     "team": "Overseers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1237781963088072850": {
     "team": "Overseers",
@@ -6639,7 +6643,8 @@
     "team": "Son",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 5
+    "elo5v5": 5,
+    "isModerator": true
   },
   "857399142196052008": {
     "team": "Son",
@@ -10881,7 +10886,8 @@
     "team": "Re Al",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 153
+    "elo5v5": 153,
+    "isModerator": true
   },
   "950108450216607784": {
     "team": "Re Al",
@@ -14157,7 +14163,8 @@
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 165
+    "elo5v5": 165,
+    "isModerator": true
   },
   "1480875108435361815": {
     "team": "SUFC",
@@ -14205,7 +14212,8 @@
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 165
+    "elo5v5": 165,
+    "isModerator": true
   },
   "754702431404818473": {
     "team": "Paleideus",
@@ -16443,7 +16451,8 @@
     "team": "Divine",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 127
+    "elo5v5": 127,
+    "isModerator": true
   },
   "921733545720971286": {
     "team": "Divine",
@@ -16659,7 +16668,8 @@
     "team": "Quashers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 196
+    "elo5v5": 196,
+    "isModerator": true
   },
   "963795392028344371": {
     "team": "Quashers",
@@ -17199,7 +17209,8 @@
     "team": "Honorary Knights",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 21,
+    "isModerator": true
   },
   "1050946204395126815": {
     "team": "Guild: Calabash Crusadors",
@@ -17361,7 +17372,8 @@
     "team": "Chapter",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1209467928450174997": {
     "team": "Chapter",
@@ -17391,7 +17403,8 @@
     "team": "Chapter",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1395209603834314856": {
     "team": "Vision FC",
@@ -17547,7 +17560,8 @@
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 23,
+    "isModerator": true
   },
   "1497666605071728742": {
     "team": "Balance",
@@ -17739,7 +17753,8 @@
     "team": "Citizens-U3",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1355403974122930186": {
     "team": "Citizens-U3",
@@ -18177,7 +18192,8 @@
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 14
+    "elo5v5": 14,
+    "isModerator": true
   },
   "931750651334119474": {
     "team": "Seirin",
@@ -19203,7 +19219,8 @@
     "team": "Chem Brickers",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 217
+    "elo5v5": 217,
+    "isModerator": true
   },
   "396951562611720193": {
     "team": "Chem Brickers",
@@ -19581,7 +19598,8 @@
     "team": "Paragon",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 124
+    "elo5v5": 124,
+    "isModerator": true
   },
   "722229868707971072": {
     "team": "Paragon",
@@ -19769,12 +19787,6 @@
     "region": "Europe",
     "elo5v5": 64
   },
-  "1088124201937932379": {
-    "team": "Shalom FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 64
-  },
   "1492224414660694169": {
     "team": "Shalom FC",
     "isLeader": false,
@@ -19935,7 +19947,8 @@
     "team": "Vorpal Swords",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 47
+    "elo5v5": 47,
+    "isModerator": true
   },
   "1138242374842187977": {
     "team": "Vorpal Swords",
@@ -20577,7 +20590,8 @@
     "team": "sown fc",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 21,
+    "isModerator": true
   },
   "1132531466568466553": {
     "team": "sown fc",
@@ -20691,7 +20705,8 @@
     "team": "Spurs",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 49
+    "elo5v5": 49,
+    "isModerator": true
   },
   "526676623827795998": {
     "team": "Spurs",
@@ -20709,7 +20724,8 @@
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 49
+    "elo5v5": 49,
+    "isModerator": true
   },
   "587301011836764181": {
     "team": "Spurs",
@@ -20739,7 +20755,8 @@
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 49
+    "elo5v5": 49,
+    "isModerator": true
   },
   "802359779929489408": {
     "team": "Spurs",
@@ -20751,7 +20768,8 @@
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 33
+    "elo5v5": 33,
+    "isModerator": true
   },
   "1230642798428950599": {
     "team": "Abibas NA",
@@ -20787,13 +20805,15 @@
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 33
+    "elo5v5": 33,
+    "isModerator": true
   },
   "747948371301499041": {
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 33
+    "elo5v5": 33,
+    "isModerator": true
   },
   "578719398785974272": {
     "team": "Abibas NA",
@@ -20847,7 +20867,8 @@
     "team": "RB Leipzig",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 138
+    "elo5v5": 138,
+    "isModerator": true
   },
   "982789262300807198": {
     "team": "RB Leipzig",
@@ -20859,7 +20880,8 @@
     "team": "RB Leipzig",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 138
+    "elo5v5": 138,
+    "isModerator": true
   },
   "1374154116351262892": {
     "team": "RB Leipzig",
@@ -21096,6 +21118,12 @@
     "elo5v5": 0
   },
   "1016313051923877909": {
+    "team": "Gooned Bamas",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1088124201937932379": {
     "team": "Gooned Bamas",
     "isLeader": false,
     "region": "Europe",
@@ -21945,7 +21973,8 @@
     "team": "B0MB",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 118
+    "elo5v5": 118,
+    "isModerator": true
   },
   "1160446220272140368": {
     "team": "B0MB",
@@ -22047,7 +22076,8 @@
     "team": "Humble Mangoes 2: The Sequel",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1068696204092899338": {
     "team": "Humble Mangoes 2: The Sequel",
@@ -22077,7 +22107,8 @@
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1399055434538815528": {
     "team": "Verse",
@@ -22311,7 +22342,8 @@
     "team": "Creation",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1233668956078997505": {
     "team": "Creation",
@@ -22323,7 +22355,8 @@
     "team": "Creation",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1403844188537098312": {
     "team": "Creation",
@@ -22354,5 +22387,82 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "1290679358528290868": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1244400339243892806": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1355669102731202580": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1280938486030930077": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "759536058567360522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "566360748888948766": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1481494653604856011": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "290405745458020353": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "868243652416254034": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1329326547525570571": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "723963456549683270": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
   }
 }
