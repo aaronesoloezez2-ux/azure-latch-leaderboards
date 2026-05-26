@@ -8872,7 +8872,7 @@
       "achievements": []
     },
     "Re Al U-20": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1335102355695468688",
@@ -9708,7 +9708,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 12,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "644671963054473216",
@@ -10344,6 +10344,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1335102355695468688": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779757113156,
       "lastOpponents": []
     }
   },
@@ -15064,11 +15071,7 @@
     "1392166270799052913": 1779923553684,
     "749678245863227462": 1779923720528
   },
-  "pendingInvites": {
-    "invite_852164591839870976": {
-      "cooldownUntil": 1779756667911
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -16365,7 +16368,8 @@
     "1486899654657441923": "my goat",
     "680799539573031061": "Dr_Animo",
     "474808279558782978": "qol",
-    "1244436756242104341": "Lucky_teenfr"
+    "1244436756242104341": "Lucky_teenfr",
+    "1412184105604350023": "sleepyhead"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17666,19 +17670,29 @@
     "474808279558782978": 1779917392194,
     "1244436756242104341": 1779917882728,
     "1453334847211962390": 1779926886295,
-    "1481494653604856011": 1779927839510
+    "1481494653604856011": 1779927839510,
+    "1412184105604350023": 1779929394428
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779756372866": {
-      "team1Id": "1280938486030930077",
+    "1779756937971": {
+      "team1Id": "644671963054473216",
+      "team2Id": "1335102355695468688",
+      "team1Name": "sown fc",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779756937971
+    },
+    "1779757047992": {
+      "team1Id": "644671963054473216",
       "team2Id": "938564876199145494",
-      "team1Name": "Spurs",
+      "team1Name": "sown fc",
       "team2Name": "Citizens-U3",
       "team1Vote": null,
       "team2Vote": true,
-      "timestamp": 1779756372866
+      "timestamp": 1779757047992
     }
   },
   "pendingVCRequests": {},
