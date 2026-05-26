@@ -22032,12 +22032,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "771438389349842965": {
-    "team": "Blue Tech FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1294480954613698633": {
     "team": "Blue Tech FC",
     "isLeader": true,
@@ -22441,6 +22435,36 @@
     "team": "Ryōdan",
     "isLeader": false,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "1504285397725876244": {
+    "team": "Ascendant FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "771438389349842965": {
+    "team": "Ascendant FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1038469922306666618": {
+    "team": "Ascendant FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "896034800312410142": {
+    "team": "Ascendant FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1036332587154669588": {
+    "team": "Ascendant FC",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "1290679358528290868": {
