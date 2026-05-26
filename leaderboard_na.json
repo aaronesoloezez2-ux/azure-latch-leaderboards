@@ -186,13 +186,13 @@
   },
   {
     "rank": 38,
-    "teamName": "Seirin",
-    "elo5v5": 14
+    "teamName": "Re Al U-20",
+    "elo5v5": 21
   },
   {
     "rank": 39,
-    "teamName": "sown fc",
-    "elo5v5": 12
+    "teamName": "Seirin",
+    "elo5v5": 14
   },
   {
     "rank": 40,
@@ -1111,57 +1111,57 @@
   },
   {
     "rank": 223,
-    "teamName": "Re Al U-20",
-    "elo5v5": 0
-  },
-  {
-    "rank": 224,
     "teamName": "Majesty",
     "elo5v5": 0
   },
   {
-    "rank": 225,
+    "rank": 224,
     "teamName": "ODYSSEY",
     "elo5v5": 0
   },
   {
-    "rank": 226,
+    "rank": 225,
     "teamName": "Retribution",
     "elo5v5": 0
   },
   {
-    "rank": 227,
+    "rank": 226,
     "teamName": "The Hei",
     "elo5v5": 0
   },
   {
-    "rank": 228,
+    "rank": 227,
     "teamName": "Disciples",
     "elo5v5": 0
   },
   {
-    "rank": 229,
+    "rank": 228,
     "teamName": "Royal Court",
     "elo5v5": 0
   },
   {
-    "rank": 230,
+    "rank": 229,
     "teamName": "FC Barcha",
     "elo5v5": 0
   },
   {
-    "rank": 231,
+    "rank": 230,
     "teamName": "Tracen Academy URA",
     "elo5v5": 0
   },
   {
-    "rank": 232,
+    "rank": 231,
     "teamName": "Spectral FC",
     "elo5v5": 0
   },
   {
-    "rank": 233,
+    "rank": 232,
     "teamName": "Zero",
+    "elo5v5": 0
+  },
+  {
+    "rank": 233,
+    "teamName": "sown fc",
     "elo5v5": 0
   },
   {
