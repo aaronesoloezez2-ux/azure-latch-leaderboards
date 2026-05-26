@@ -10344,13 +10344,6 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
-    },
-    "1280938486030930077": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779754432093,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15070,7 +15063,11 @@
     "1392166270799052913": 1779923553684,
     "749678245863227462": 1779923720528
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "invite_852164591839870976": {
+      "cooldownUntil": 1779756667911
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17672,7 +17669,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779756372866": {
+      "team1Id": "1280938486030930077",
+      "team2Id": "938564876199145494",
+      "team1Name": "Spurs",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1779756372866
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
