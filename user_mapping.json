@@ -14202,6 +14202,13 @@
     "region": "Europe",
     "elo5v5": 165
   },
+  "1410827035575844904": {
+    "team": "SUFC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 165,
+    "isModerator": true
+  },
   "754702431404818473": {
     "team": "Paleideus",
     "isLeader": false,
@@ -17536,13 +17543,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 21
-  },
-  "1410827035575844904": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21,
-    "isModerator": true
   },
   "1461037110235631832": {
     "team": "Nexus",
