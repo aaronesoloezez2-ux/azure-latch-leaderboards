@@ -16640,6 +16640,12 @@
     "region": "Europe",
     "elo5v5": 196
   },
+  "835904211484016693": {
+    "team": "Quashers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 196
+  },
   "897967963666268190": {
     "team": "The Sin Archibishops",
     "isLeader": false,
@@ -21571,12 +21577,6 @@
     "elo5v5": 0
   },
   "937044067517337600": {
-    "team": "rabbits",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "835904211484016693": {
     "team": "rabbits",
     "isLeader": false,
     "region": "Europe",
