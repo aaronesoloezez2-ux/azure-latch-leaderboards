@@ -4612,7 +4612,6 @@
         "518398036704100353",
         "1125614015746408509",
         "1034937186610581546",
-        "949707465610645525",
         "288683252581924864"
       ],
       "region": "NA",
@@ -10313,13 +10312,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "216309723933310977": {
-      "teamName": "RB Leipzig",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779841386729,
       "lastOpponents": []
     }
   },
