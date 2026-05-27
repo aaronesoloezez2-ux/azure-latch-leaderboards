@@ -9376,7 +9376,6 @@
         "572988547812950016",
         "722164644558667816",
         "1025178336122650644",
-        "868139633245057035",
         "1138242374842187977",
         "1322341986149077095",
         "792524269736951840",
@@ -17683,17 +17682,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779924449867": {
-      "team1Id": "495333407551782933",
-      "team2Id": "749678245863227462",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Luminous",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779924449867
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
