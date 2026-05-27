@@ -9626,7 +9626,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 21,
+      "elo5v5": 2,
       "elo11v11": 0,
       "leaders": [
         "644671963054473216",
@@ -10236,7 +10236,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 60,
+      "elo5v5": 78,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -17683,7 +17683,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779924449867": {
+      "team1Id": "495333407551782933",
+      "team2Id": "749678245863227462",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Luminous",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779924449867
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
