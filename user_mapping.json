@@ -20894,7 +20894,7 @@
   },
   "949878090341949522": {
     "team": "RB Leipzig",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 103
   },
