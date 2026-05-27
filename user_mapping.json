@@ -17712,12 +17712,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1030990928191688704": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1226200259429007370": {
     "team": "Citizens-U3",
     "isLeader": false,
@@ -22359,6 +22353,36 @@
     "region": "NA",
     "elo5v5": 41,
     "isModerator": true
+  },
+  "1131464839777239040": {
+    "team": "Citizens - U3",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "863843139936190484": {
+    "team": "Citizens - U3",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1024297918917775360": {
+    "team": "Citizens - U3",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "606815314390286388": {
+    "team": "Citizens - U3",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1030990928191688704": {
+    "team": "Citizens - U3",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
