@@ -10251,7 +10251,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -10316,11 +10316,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "728385309666050149": {
-      "teamName": "Kiseki",
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779845419072,
+      "startTime": 1779848175408,
       "lastOpponents": []
     }
   },
@@ -15054,8 +15054,11 @@
       "inviterId": "815008017782145024",
       "timestamp": 1779845499694
     },
-    "invite_1464125504448626956": {
-      "cooldownUntil": 1779846165375
+    "1779847029409": {
+      "teamName": "Hopecore",
+      "playerId": "546341945757401118",
+      "inviterId": "701390021898534912",
+      "timestamp": 1779847029409
     }
   },
   "userNicknames": {
@@ -17674,14 +17677,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779845725367": {
-      "team1Id": "926536409106485338",
-      "team2Id": "731225486818279457",
+    "1779848020794": {
+      "team1Id": "728385309666050149",
+      "team2Id": "938564876199145494",
       "team1Name": "Kiseki",
-      "team2Name": "Dreamers (NA)",
+      "team2Name": "Citizens-U3",
       "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779845725367
+      "team2Vote": true,
+      "timestamp": 1779848020794
     }
   },
   "pendingVCRequests": {},
