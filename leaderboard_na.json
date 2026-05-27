@@ -96,13 +96,13 @@
   },
   {
     "rank": 20,
-    "teamName": "Sulk",
-    "elo5v5": 46
+    "teamName": "Luminous",
+    "elo5v5": 60
   },
   {
     "rank": 21,
-    "teamName": "Luminous",
-    "elo5v5": 41
+    "teamName": "Sulk",
+    "elo5v5": 46
   },
   {
     "rank": 22,
@@ -191,42 +191,42 @@
   },
   {
     "rank": 39,
-    "teamName": "Yggdrasil",
-    "elo5v5": 21
-  },
-  {
-    "rank": 40,
     "teamName": "Yakuza",
     "elo5v5": 20
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Seirin",
     "elo5v5": 14
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Serendipity",
     "elo5v5": 11
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 45,
+    "rank": 44,
     "teamName": "Crimson Authority",
     "elo5v5": 3
   },
   {
-    "rank": 46,
+    "rank": 45,
     "teamName": "Waltz Company",
+    "elo5v5": 1
+  },
+  {
+    "rank": 46,
+    "teamName": "Yggdrasil",
     "elo5v5": 1
   },
   {
