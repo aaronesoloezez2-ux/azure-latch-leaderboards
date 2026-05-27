@@ -21872,7 +21872,7 @@
   },
   "1065743018545660004": {
     "team": "B0MB",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 132
   },
