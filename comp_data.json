@@ -10134,7 +10134,8 @@
         "1026589851300139018",
         "925938772099620885",
         "949707465610645525",
-        "1139590163689914449"
+        "1139590163689914449",
+        "658509030548832261"
       ],
       "region": "NA",
       "achievements": []
@@ -15054,26 +15055,27 @@
     "606815314390286388": 1780088124362,
     "1030576335569027276": 1780088216289,
     "534097147252178946": 1780089668130,
-    "796193350922272829": 1780090370282
+    "796193350922272829": 1780090370282,
+    "658509030548832261": 1780090499463
   },
   "pendingInvites": {
-    "1779917102444": {
-      "teamName": "Humble Mangoes 2: The Sequel",
-      "playerId": "658509030548832261",
-      "inviterId": "815008017782145024",
-      "timestamp": 1779917102444
-    },
     "1779917274850": {
       "teamName": "Undying Spirits",
       "playerId": "1392166270799052913",
       "inviterId": "1209931713082433638",
       "timestamp": 1779917274850
     },
-    "invite_1209931713082433638": {
-      "cooldownUntil": 1779917574850
-    },
     "invite_1299722087723700256": {
       "cooldownUntil": 1779917868192
+    },
+    "1779917618820": {
+      "teamName": "Vinland",
+      "playerId": "1458274913004556442",
+      "inviterId": "880865540518862918",
+      "timestamp": 1779917618820
+    },
+    "invite_880865540518862918": {
+      "cooldownUntil": 1779917918820
     }
   },
   "userNicknames": {
@@ -17705,26 +17707,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779916992743": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Luminous",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779916992743
-    },
-    "1779917027750": {
-      "team1Id": "1210078842362920991",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Luminous",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779917027750
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
