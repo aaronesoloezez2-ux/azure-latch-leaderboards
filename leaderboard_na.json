@@ -26,23 +26,23 @@
   },
   {
     "rank": 6,
-    "teamName": "RB Leipzig",
-    "elo5v5": 138
-  },
-  {
-    "rank": 7,
     "teamName": "B0MB",
     "elo5v5": 132
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "G50:K",
     "elo5v5": 126
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Paragon",
-    "elo5v5": 104
+    "elo5v5": 123
+  },
+  {
+    "rank": 9,
+    "teamName": "RB Leipzig",
+    "elo5v5": 122
   },
   {
     "rank": 10,
