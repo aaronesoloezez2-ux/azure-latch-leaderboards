@@ -6627,7 +6627,7 @@
       "achievements": []
     },
     "Monarchs Recrowned FC": {
-      "elo5v5": 34,
+      "elo5v5": 53,
       "elo11v11": 0,
       "leaders": [
         "1076521298823495802",
@@ -10315,18 +10315,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "749678245863227462": {
-      "teamName": "Luminous",
+    "1125171739102564432": {
+      "teamName": "Yggdrasil",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779915238217,
-      "lastOpponents": []
-    },
-    "1210078842362920991": {
-      "teamName": "Luminous",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779916587654,
+      "startTime": 1779917090628,
       "lastOpponents": []
     }
   },
@@ -15064,8 +15057,23 @@
     "534097147252178946": 1780089668130
   },
   "pendingInvites": {
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1779917090290
+    "1779917102444": {
+      "teamName": "Humble Mangoes 2: The Sequel",
+      "playerId": "658509030548832261",
+      "inviterId": "815008017782145024",
+      "timestamp": 1779917102444
+    },
+    "invite_815008017782145024": {
+      "cooldownUntil": 1779917402444
+    },
+    "1779917274850": {
+      "teamName": "Undying Spirits",
+      "playerId": "1392166270799052913",
+      "inviterId": "1209931713082433638",
+      "timestamp": 1779917274850
+    },
+    "invite_1209931713082433638": {
+      "cooldownUntil": 1779917574850
     }
   },
   "userNicknames": {
@@ -16377,7 +16385,8 @@
     "1047039480844009472": "Zay",
     "1499873387021865015": "Disoriented",
     "1188241448387215381": "Tezz",
-    "931680934925844490": "Misori"
+    "931680934925844490": "Misori",
+    "534097147252178946": "Chase"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17691,11 +17700,31 @@
     "1499873387021865015": 1780085618816,
     "1188241448387215381": 1780086338045,
     "931680934925844490": 1780087143497,
-    "1400431496866566164": 1780089097270
+    "1400431496866566164": 1780089097270,
+    "534097147252178946": 1780089686334
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779916992743": {
+      "team1Id": "749678245863227462",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Luminous",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779916992743
+    },
+    "1779917027750": {
+      "team1Id": "1210078842362920991",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Luminous",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779917027750
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
