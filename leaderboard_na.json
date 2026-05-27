@@ -71,48 +71,48 @@
   },
   {
     "rank": 15,
+    "teamName": "Spurs",
+    "elo5v5": 69
+  },
+  {
+    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 18,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 53
-  },
-  {
     "rank": 19,
-    "teamName": "Spurs",
-    "elo5v5": 49
-  },
-  {
-    "rank": 20,
     "teamName": "Sulk",
     "elo5v5": 46
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
+  },
+  {
+    "rank": 23,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 33
   },
   {
     "rank": 24,
