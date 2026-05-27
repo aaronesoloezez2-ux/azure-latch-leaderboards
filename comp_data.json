@@ -10096,7 +10096,6 @@
         "1160446220272140368",
         "883782190348001351",
         "970405556579876905",
-        "1091821692164247622",
         "1013576163488182343",
         "1351695098878103592"
       ],
@@ -10314,6 +10313,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "216309723933310977": {
+      "teamName": "RB Leipzig",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779841386729,
       "lastOpponents": []
     }
   },
@@ -15040,11 +15046,7 @@
     "1040715701708656650": 1780012049597,
     "949878090341949522": 1780013076833
   },
-  "pendingInvites": {
-    "invite_216309723933310977": {
-      "cooldownUntil": 1779840574851
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17663,23 +17665,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779839843539": {
-      "team1Id": "965000459469348864",
-      "team2Id": "662551566397472798",
-      "team1Name": "Periastron",
-      "team2Name": "Paragon",
+    "1779841309043": {
+      "team1Id": "1464125504448626956",
+      "team2Id": "216309723933310977",
+      "team1Name": "sown fc",
+      "team2Name": "RB Leipzig",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1779839843539
-    },
-    "1779840068613": {
-      "team1Id": "1249902035352948836",
-      "team2Id": "749678245863227462",
-      "team1Name": "Kiseki",
-      "team2Name": "Luminous",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779840068613
+      "timestamp": 1779841309043
     }
   },
   "pendingVCRequests": {},
