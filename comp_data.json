@@ -9272,7 +9272,8 @@
         "1420890018997604455",
         "1225497601885995028",
         "442394580101627914",
-        "853252732214968330"
+        "853252732214968330",
+        "1187369424131473478"
       ],
       "region": "Europe",
       "achievements": []
@@ -10305,6 +10306,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "749678245863227462": {
+      "teamName": "Luminous",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779906762299,
       "lastOpponents": []
     }
   },
@@ -15034,11 +15042,7 @@
     "505415661149880350": 1780074906264,
     "1499873387021865015": 1780075769967
   },
-  "pendingInvites": {
-    "invite_670929087748898836": {
-      "cooldownUntil": 1779906821453
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
