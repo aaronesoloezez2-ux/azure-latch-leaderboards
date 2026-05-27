@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "RB Leipzig",
-    "elo5v5": 122
+    "elo5v5": 103
   },
   {
     "rank": 10,
@@ -66,33 +66,33 @@
   },
   {
     "rank": 14,
+    "teamName": "Periastron",
+    "elo5v5": 72
+  },
+  {
+    "rank": 15,
     "teamName": "Spurs",
     "elo5v5": 69
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Abibas NA",
     "elo5v5": 68
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Bear United U-20",
     "elo5v5": 60
-  },
-  {
-    "rank": 19,
-    "teamName": "Periastron",
-    "elo5v5": 49
   },
   {
     "rank": 20,
