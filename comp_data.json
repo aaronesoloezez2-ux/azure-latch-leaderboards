@@ -9372,7 +9372,6 @@
         "572988547812950016",
         "722164644558667816",
         "1025178336122650644",
-        "795741168561815557",
         "868139633245057035",
         "1138242374842187977",
         "1322341986149077095",
@@ -15047,8 +15046,8 @@
     "484165206340009984": 1780014655925
   },
   "pendingInvites": {
-    "invite_731225486818279457": {
-      "cooldownUntil": 1779842147193
+    "invite_1005947912565559356": {
+      "cooldownUntil": 1779842920452
     }
   },
   "userNicknames": {
@@ -17668,17 +17667,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779841309043": {
-      "team1Id": "1464125504448626956",
-      "team2Id": "216309723933310977",
-      "team1Name": "sown fc",
-      "team2Name": "RB Leipzig",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779841309043
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
