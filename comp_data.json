@@ -9728,7 +9728,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 122,
+      "elo5v5": 103,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977"
@@ -10189,7 +10189,7 @@
       "achievements": []
     },
     "Periastron": {
-      "elo5v5": 49,
+      "elo5v5": 72,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864"
@@ -10315,6 +10315,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "807792278650880062": {
+      "teamName": "Bear United",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779853820109,
       "lastOpponents": []
     }
   },
@@ -15042,17 +15049,7 @@
     "858791791117205504": 1780025041290,
     "1139590163689914449": 1780025604867
   },
-  "pendingInvites": {
-    "1779847029409": {
-      "teamName": "Hopecore",
-      "playerId": "546341945757401118",
-      "inviterId": "701390021898534912",
-      "timestamp": 1779847029409
-    },
-    "invite_815008017782145024": {
-      "cooldownUntil": 1779853100264
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17668,17 +17665,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779852721840": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1176759288019038219",
-      "team1Name": "Luminous",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779852721840
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
