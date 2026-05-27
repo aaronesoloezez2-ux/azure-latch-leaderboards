@@ -13530,7 +13530,7 @@
   },
   "951508961343975444": {
     "team": "Calamity",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 55
   },
