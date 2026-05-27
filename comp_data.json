@@ -9406,7 +9406,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 255,
+      "elo5v5": 259,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10313,6 +10313,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "749678245863227462": {
+      "teamName": "Luminous",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779844793346,
       "lastOpponents": []
     }
   },
