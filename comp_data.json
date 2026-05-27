@@ -9094,8 +9094,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "1188187130111996035",
-        "1251496480318161002"
+        "1188187130111996035"
       ],
       "players": [
         "1188187130111996035",
@@ -10314,6 +10313,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "216309723933310977": {
+      "teamName": "RB Leipzig",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779925317864,
       "lastOpponents": []
     }
   },
