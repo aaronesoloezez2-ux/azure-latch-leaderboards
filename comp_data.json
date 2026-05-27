@@ -9242,7 +9242,7 @@
       "achievements": []
     },
     "Paragon": {
-      "elo5v5": 104,
+      "elo5v5": 123,
       "elo11v11": 0,
       "leaders": [
         "662551566397472798"
@@ -9728,7 +9728,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 138,
+      "elo5v5": 122,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977"
@@ -10316,11 +10316,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "938564876199145494": {
-      "teamName": "Citizens-U3",
+    "749678245863227462": {
+      "teamName": "Luminous",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779848175408,
+      "startTime": 1779850324207,
       "lastOpponents": []
     }
   },
@@ -17676,17 +17676,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779848020794": {
-      "team1Id": "728385309666050149",
-      "team2Id": "938564876199145494",
-      "team1Name": "Kiseki",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779848020794
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
