@@ -56,23 +56,23 @@
   },
   {
     "rank": 12,
-    "teamName": "Abibas NA",
-    "elo5v5": 89
-  },
-  {
-    "rank": 13,
     "teamName": "Vitality",
     "elo5v5": 87
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Spurs",
     "elo5v5": 69
+  },
+  {
+    "rank": 15,
+    "teamName": "Abibas NA",
+    "elo5v5": 68
   },
   {
     "rank": 16,
@@ -91,38 +91,38 @@
   },
   {
     "rank": 19,
+    "teamName": "Periastron",
+    "elo5v5": 49
+  },
+  {
+    "rank": 20,
     "teamName": "Sulk",
     "elo5v5": 46
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 34
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 33
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Vorpal Swords",
     "elo5v5": 27
-  },
-  {
-    "rank": 25,
-    "teamName": "Periastron",
-    "elo5v5": 26
   },
   {
     "rank": 26,
