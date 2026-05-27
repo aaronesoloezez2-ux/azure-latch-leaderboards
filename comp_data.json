@@ -4607,7 +4607,6 @@
         "836064878660812861",
         "1303855599204827227",
         "945380402862911568",
-        "478725373513695244",
         "756734290959794309",
         "518398036704100353",
         "1125614015746408509",
@@ -10315,6 +10314,13 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779845419072,
+      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15041,8 +15047,11 @@
     "1204496416203083787": 1780018143387
   },
   "pendingInvites": {
-    "invite_728385309666050149": {
-      "cooldownUntil": 1779845626913
+    "1779845499694": {
+      "teamName": "Humble Mangoes 2: The Sequel",
+      "playerId": "1139590163689914449",
+      "inviterId": "815008017782145024",
+      "timestamp": 1779845499694
     }
   },
   "userNicknames": {
@@ -17661,14 +17670,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1779844850178": {
-      "team1Id": "749678245863227462",
-      "team2Id": "938564876199145494",
-      "team1Name": "Luminous",
-      "team2Name": "Citizens-U3",
+    "1779845725367": {
+      "team1Id": "926536409106485338",
+      "team2Id": "731225486818279457",
+      "team1Name": "Kiseki",
+      "team2Name": "Dreamers (NA)",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1779844850178
+      "team2Vote": null,
+      "timestamp": 1779845725367
     }
   },
   "pendingVCRequests": {},
