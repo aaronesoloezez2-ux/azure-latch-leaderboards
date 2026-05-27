@@ -7528,7 +7528,6 @@
       ],
       "players": [
         "1473451571152158906",
-        "983586805968437289",
         "897004320225116180",
         "995379944895033365",
         "1494738930472456344"
@@ -10315,13 +10314,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "807792278650880062": {
-      "teamName": "Bear United",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779853820109,
       "lastOpponents": []
     }
   },
