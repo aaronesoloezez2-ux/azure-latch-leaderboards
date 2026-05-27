@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "B0MB",
-    "elo5v5": 132
+    "elo5v5": 145
   },
   {
     "rank": 7,
@@ -126,68 +126,68 @@
   },
   {
     "rank": 26,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 33
-  },
-  {
-    "rank": 27,
     "teamName": "Fight Club",
     "elo5v5": 23
   },
   {
-    "rank": 28,
+    "rank": 27,
     "teamName": "Attrition",
     "elo5v5": 22
   },
   {
-    "rank": 29,
+    "rank": 28,
     "teamName": "Thxrns",
     "elo5v5": 22
   },
   {
-    "rank": 30,
+    "rank": 29,
     "teamName": "Retribution",
     "elo5v5": 22
   },
   {
-    "rank": 31,
+    "rank": 30,
     "teamName": "Rai Kanji XI.",
     "elo5v5": 21
   },
   {
-    "rank": 32,
+    "rank": 31,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 33,
+    "rank": 32,
     "teamName": "Nullscapes",
     "elo5v5": 21
   },
   {
-    "rank": 34,
+    "rank": 33,
     "teamName": "Night Garden",
     "elo5v5": 21
   },
   {
-    "rank": 35,
+    "rank": 34,
     "teamName": "Crimson Clavis",
     "elo5v5": 21
   },
   {
-    "rank": 36,
+    "rank": 35,
     "teamName": "Honorary Knights",
     "elo5v5": 21
   },
   {
-    "rank": 37,
+    "rank": 36,
     "teamName": "sown fc",
     "elo5v5": 21
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "Yakuza",
     "elo5v5": 20
+  },
+  {
+    "rank": 38,
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 16
   },
   {
     "rank": 39,
