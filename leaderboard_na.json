@@ -61,42 +61,42 @@
   },
   {
     "rank": 13,
+    "teamName": "Luminous",
+    "elo5v5": 78
+  },
+  {
+    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Periastron",
     "elo5v5": 72
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Spurs",
     "elo5v5": 69
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Abibas NA",
     "elo5v5": 68
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 19,
-    "teamName": "Bear United U-20",
-    "elo5v5": 60
-  },
-  {
     "rank": 20,
-    "teamName": "Luminous",
+    "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
@@ -176,48 +176,48 @@
   },
   {
     "rank": 36,
-    "teamName": "sown fc",
-    "elo5v5": 21
-  },
-  {
-    "rank": 37,
     "teamName": "Yakuza",
     "elo5v5": 20
   },
   {
-    "rank": 38,
+    "rank": 37,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 16
   },
   {
-    "rank": 39,
+    "rank": 38,
     "teamName": "Vorpal Swords",
     "elo5v5": 15
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "Seirin",
     "elo5v5": 14
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Serendipity",
     "elo5v5": 11
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Crimson Authority",
     "elo5v5": 3
+  },
+  {
+    "rank": 44,
+    "teamName": "sown fc",
+    "elo5v5": 2
   },
   {
     "rank": 45,
