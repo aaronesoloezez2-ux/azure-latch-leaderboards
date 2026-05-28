@@ -15708,12 +15708,6 @@
     "region": "NA",
     "elo5v5": 46
   },
-  "1469123991271899318": {
-    "team": "Sulk",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 46
-  },
   "475452427860967435": {
     "team": "Sulk",
     "isLeader": false,
@@ -22383,6 +22377,37 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1280938486030930077": {
+    "team": "illusionary",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1469123991271899318": {
+    "team": "illusionary",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "915390251449585666": {
+    "team": "illusionary",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "702710123260412004": {
+    "team": "illusionary",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1404318852661383199": {
+    "team": "illusionary",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22398,13 +22423,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1280938486030930077": {
     "team": null,
     "isLeader": false,
     "region": null,
