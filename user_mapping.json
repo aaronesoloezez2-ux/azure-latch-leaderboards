@@ -22262,12 +22262,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1030880601617735772": {
-    "team": "Magicians",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "550500010966646814": {
     "team": "Magicians",
     "isLeader": false,
@@ -22275,6 +22269,18 @@
     "elo5v5": 0
   },
   "1377017752354554028": {
+    "team": "Magicians",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1030880601617735772": {
+    "team": "Magicians",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1261057273107845275": {
     "team": "Magicians",
     "isLeader": false,
     "region": "NA",
