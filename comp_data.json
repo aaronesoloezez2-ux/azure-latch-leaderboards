@@ -1989,7 +1989,7 @@
       "achievements": []
     },
     "Parxousia": {
-      "elo5v5": 116,
+      "elo5v5": 131,
       "elo11v11": 0,
       "leaders": [
         "1223118682767757343",
@@ -8861,7 +8861,7 @@
       "achievements": []
     },
     "Japan 2034": {
-      "elo5v5": 41,
+      "elo5v5": 24,
       "elo11v11": 0,
       "leaders": [
         "817737982060527626",
@@ -10367,14 +10367,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1780002237706,
       "lastOpponents": []
     }
   },
@@ -15139,9 +15131,6 @@
       "playerId": "690165128582266913",
       "inviterId": "1386454451149340763",
       "timestamp": 1779999626014
-    },
-    "invite_690007789325647948": {
-      "cooldownUntil": 1780002361226
     }
   },
   "userNicknames": {
@@ -17801,17 +17790,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780001922167": {
-      "team1Id": "749678245863227462",
-      "team2Id": "952667718363009074",
-      "team1Name": "Luminous",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780001922167
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
