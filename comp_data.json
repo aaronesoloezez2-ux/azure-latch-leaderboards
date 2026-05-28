@@ -8850,7 +8850,6 @@
         "926915038235734016",
         "589497085477388289",
         "1237504880864661585",
-        "1435327843289665596",
         "813514867138887697",
         "858791791117205504"
       ],
@@ -10328,13 +10327,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Luminous",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779934056716,
       "lastOpponents": []
     }
   },
@@ -17730,6 +17722,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1779933893359
+    },
+    "1779934173400": {
+      "team1Id": "749678245863227462",
+      "team2Id": "567041024615120928",
+      "team1Name": "Luminous",
+      "team2Name": "Abibas NA",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779934173400
     }
   },
   "pendingVCRequests": {},
