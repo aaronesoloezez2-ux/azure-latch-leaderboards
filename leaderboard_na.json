@@ -111,23 +111,23 @@
   },
   {
     "rank": 23,
+    "teamName": "Seirin",
+    "elo5v5": 38
+  },
+  {
+    "rank": 24,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 26,
     "teamName": "Zero",
     "elo5v5": 29
-  },
-  {
-    "rank": 26,
-    "teamName": "Periastron",
-    "elo5v5": 24
   },
   {
     "rank": 27,
@@ -196,27 +196,27 @@
   },
   {
     "rank": 40,
-    "teamName": "Seirin",
-    "elo5v5": 17
-  },
-  {
-    "rank": 41,
     "teamName": "Serendipity",
     "elo5v5": 11
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 44,
+    "rank": 43,
     "teamName": "Crimson Authority",
+    "elo5v5": 3
+  },
+  {
+    "rank": 44,
+    "teamName": "Periastron",
     "elo5v5": 3
   },
   {
