@@ -22091,7 +22091,7 @@
   },
   "896720760985497640": {
     "team": "Creation",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0,
     "isModerator": true
