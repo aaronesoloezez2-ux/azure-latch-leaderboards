@@ -181,33 +181,33 @@
   },
   {
     "rank": 37,
+    "teamName": "illusionary",
+    "elo5v5": 21
+  },
+  {
+    "rank": 38,
     "teamName": "Seirin",
     "elo5v5": 17
   },
   {
-    "rank": 38,
+    "rank": 39,
     "teamName": "Serendipity",
     "elo5v5": 11
   },
   {
-    "rank": 39,
+    "rank": 40,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 40,
+    "rank": 41,
     "teamName": "Octagram",
     "elo5v5": 4
   },
   {
-    "rank": 41,
+    "rank": 42,
     "teamName": "Crimson Authority",
     "elo5v5": 3
-  },
-  {
-    "rank": 42,
-    "teamName": "sown fc",
-    "elo5v5": 2
   },
   {
     "rank": 43,
@@ -1161,57 +1161,57 @@
   },
   {
     "rank": 233,
-    "teamName": "Airborne FC",
+    "teamName": "sown fc",
     "elo5v5": 0
   },
   {
     "rank": 234,
-    "teamName": "FXTE",
+    "teamName": "Airborne FC",
     "elo5v5": 0
   },
   {
     "rank": 235,
-    "teamName": "Llantines fc",
+    "teamName": "FXTE",
     "elo5v5": 0
   },
   {
     "rank": 236,
-    "teamName": "Westbound Union",
+    "teamName": "Llantines fc",
     "elo5v5": 0
   },
   {
     "rank": 237,
-    "teamName": "Berserker Lineage",
+    "teamName": "Westbound Union",
     "elo5v5": 0
   },
   {
     "rank": 238,
-    "teamName": "Blue Tech FC",
+    "teamName": "Berserker Lineage",
     "elo5v5": 0
   },
   {
     "rank": 239,
-    "teamName": "Yggdrasil",
+    "teamName": "Blue Tech FC",
     "elo5v5": 0
   },
   {
     "rank": 240,
-    "teamName": "Son 2",
+    "teamName": "Yggdrasil",
     "elo5v5": 0
   },
   {
     "rank": 241,
-    "teamName": "Humble Mangoes 2: The Sequel",
+    "teamName": "Son 2",
     "elo5v5": 0
   },
   {
     "rank": 242,
-    "teamName": "Ascendant FC",
+    "teamName": "Humble Mangoes 2: The Sequel",
     "elo5v5": 0
   },
   {
     "rank": 243,
-    "teamName": "illusionary",
+    "teamName": "Ascendant FC",
     "elo5v5": 0
   }
 ]
