@@ -9361,7 +9361,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 15,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -10234,7 +10234,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 95,
+      "elo5v5": 111,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -10313,6 +10313,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779933077033,
       "lastOpponents": []
     }
   },
@@ -17690,17 +17697,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779932787760": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1437355351958749254",
-      "team1Name": "Kiseki",
-      "team2Name": "Ubers+",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779932787760
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
