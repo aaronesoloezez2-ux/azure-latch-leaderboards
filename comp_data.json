@@ -9695,7 +9695,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 89,
+      "elo5v5": 106,
       "elo11v11": 0,
       "leaders": [
         "567041024615120928",
@@ -10162,7 +10162,7 @@
       "achievements": []
     },
     "Periastron": {
-      "elo5v5": 42,
+      "elo5v5": 24,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864"
@@ -15083,6 +15083,9 @@
       "playerId": "1477233495096037419",
       "inviterId": "1350267195736981617",
       "timestamp": 1779937802596
+    },
+    "invite_728385309666050149": {
+      "cooldownUntil": 1779940149547
     }
   },
   "userNicknames": {
