@@ -13727,12 +13727,6 @@
     "region": "Europe",
     "elo5v5": 2
   },
-  "1141263284264255560": {
-    "team": "Chain Breakers: New Hope",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 2
-  },
   "985626010412265472": {
     "team": "Chain Breakers: New Hope",
     "isLeader": false,
@@ -19185,12 +19179,6 @@
     "region": "Europe",
     "elo5v5": 222
   },
-  "1058480681551929344": {
-    "team": "Chem Brickers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 222
-  },
   "1006991254535536691": {
     "team": "Terranova",
     "isLeader": false,
@@ -19553,12 +19541,6 @@
     "elo5v5": 0
   },
   "1149688265331458209": {
-    "team": "Sovereigns",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1185708136758255801": {
     "team": "Sovereigns",
     "isLeader": false,
     "region": "Europe",
@@ -22398,6 +22380,42 @@
     "team": "swegg",
     "isLeader": false,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1479091115251732480": {
+    "team": "Iced",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1052477573411651674": {
+    "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1141263284264255560": {
+    "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1206301978477596672": {
+    "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1185708136758255801": {
+    "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1058480681551929344": {
+    "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
