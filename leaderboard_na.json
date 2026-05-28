@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "RB Leipzig",
-    "elo5v5": 103
+    "elo5v5": 119
   },
   {
     "rank": 10,
@@ -96,18 +96,18 @@
   },
   {
     "rank": 20,
-    "teamName": "Periastron",
-    "elo5v5": 56
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 53
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sulk",
     "elo5v5": 46
+  },
+  {
+    "rank": 22,
+    "teamName": "Periastron",
+    "elo5v5": 38
   },
   {
     "rank": 23,
