@@ -5314,7 +5314,7 @@
       "achievements": []
     },
     "Undying Spirits": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "323606190615691265",
@@ -10368,6 +10368,14 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
+    },
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 5,
+      "startTime": 1780002237706,
+      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15132,9 +15140,6 @@
       "inviterId": "1386454451149340763",
       "timestamp": 1779999626014
     },
-    "invite_1456515493656789034": {
-      "cooldownUntil": 1780002193170
-    },
     "invite_690007789325647948": {
       "cooldownUntil": 1780002361226
     }
@@ -17797,15 +17802,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780001592067": {
-      "team1Id": "857399142196052008",
-      "team2Id": "1125171739102564432",
-      "team1Name": "swegg",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780001592067
-    },
     "1780001922167": {
       "team1Id": "749678245863227462",
       "team2Id": "952667718363009074",
