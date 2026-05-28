@@ -8766,7 +8766,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 17,
+      "elo5v5": 38,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -10131,7 +10131,7 @@
       "achievements": []
     },
     "Periastron": {
-      "elo5v5": 24,
+      "elo5v5": 3,
       "elo11v11": 0,
       "leaders": [
         "965000459469348864"
@@ -10369,6 +10369,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "749678245863227462": {
+      "teamName": "Luminous",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780009072434,
       "lastOpponents": []
     }
   },
@@ -17802,17 +17809,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780008708584": {
-      "team1Id": "1065743018545660004",
-      "team2Id": "567041024615120928",
-      "team1Name": "B0MB",
-      "team2Name": "Abibas NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780008708584
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
