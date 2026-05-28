@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 264
+    "elo5v5": 269
   },
   {
     "rank": 2,
@@ -111,23 +111,23 @@
   },
   {
     "rank": 23,
-    "teamName": "Zero",
-    "elo5v5": 41
-  },
-  {
-    "rank": 24,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Seirin",
     "elo5v5": 37
+  },
+  {
+    "rank": 26,
+    "teamName": "Zero",
+    "elo5v5": 29
   },
   {
     "rank": 27,
