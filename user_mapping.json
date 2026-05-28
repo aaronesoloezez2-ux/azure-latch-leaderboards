@@ -4503,6 +4503,12 @@
     "region": "Asia",
     "elo5v5": 116
   },
+  "859868046276165632": {
+    "team": "Parxousia",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 116
+  },
   "1341570180551016541": {
     "team": "Ubers+",
     "isLeader": true,
@@ -19787,6 +19793,12 @@
     "elo5v5": 22
   },
   "1507660761231790110": {
+    "team": "Vindictation",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 22
+  },
+  "1486899654657441923": {
     "team": "Vindictation",
     "isLeader": false,
     "region": "Asia",
