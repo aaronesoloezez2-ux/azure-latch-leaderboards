@@ -9619,7 +9619,7 @@
       "achievements": []
     },
     "sown fc": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "644671963054473216",
@@ -10333,6 +10333,13 @@
       "searchType": "unlimited",
       "region": "NA",
       "startTime": 1779939337983,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779941586587,
       "lastOpponents": []
     }
   },
@@ -15084,12 +15091,6 @@
       "playerId": "1477233495096037419",
       "inviterId": "1350267195736981617",
       "timestamp": 1779937802596
-    },
-    "invite_1464125504448626956": {
-      "cooldownUntil": 1779941560291
-    },
-    "invite_728385309666050149": {
-      "cooldownUntil": 1779941716119
     }
   },
   "userNicknames": {
