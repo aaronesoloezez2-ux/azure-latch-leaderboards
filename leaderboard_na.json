@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Bear United",
-    "elo5v5": 166
+    "teamName": "Re Al",
+    "elo5v5": 175
   },
   {
     "rank": 3,
-    "teamName": "Re Al",
-    "elo5v5": 165
+    "teamName": "Bear United",
+    "elo5v5": 166
   },
   {
     "rank": 4,
@@ -96,18 +96,18 @@
   },
   {
     "rank": 20,
-    "teamName": "Periastron",
-    "elo5v5": 58
-  },
-  {
-    "rank": 21,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 53
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Sulk",
     "elo5v5": 46
+  },
+  {
+    "rank": 22,
+    "teamName": "Periastron",
+    "elo5v5": 42
   },
   {
     "rank": 23,
