@@ -19787,6 +19787,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1333563921776509002": {
+    "team": "Vorpal Swords",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "847505723763195914": {
     "team": "Vorpal Swords",
     "isLeader": true,
@@ -22196,19 +22202,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1280938486030930077": {
-    "team": "illusionary",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
-  },
-  "1469123991271899318": {
-    "team": "illusionary",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
   "659484095096815626": {
     "team": "Magicians",
     "isLeader": false,
@@ -22464,6 +22457,13 @@
     "isModerator": true
   },
   "1355669102731202580": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1280938486030930077": {
     "team": null,
     "isLeader": false,
     "region": null,
