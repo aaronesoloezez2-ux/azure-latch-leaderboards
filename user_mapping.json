@@ -22407,6 +22407,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1280938486030930077": {
+    "team": "swegg",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1479091115251732480": {
     "team": "Iced",
     "isLeader": true,
@@ -22464,13 +22471,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1280938486030930077": {
     "team": null,
     "isLeader": false,
     "region": null,
