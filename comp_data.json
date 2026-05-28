@@ -10234,8 +10234,7 @@
       ],
       "players": [
         "1280938486030930077",
-        "1469123991271899318",
-        "942231461644349471"
+        "1469123991271899318"
       ],
       "region": "NA",
       "achievements": []
@@ -17794,26 +17793,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779995479574": {
-      "team1Id": "926536409106485338",
-      "team2Id": "749678245863227462",
-      "team1Name": "Kiseki",
-      "team2Name": "Luminous",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779995479574
-    },
-    "1779995494577": {
-      "team1Id": "728385309666050149",
-      "team2Id": "749678245863227462",
-      "team1Name": "Kiseki",
-      "team2Name": "Luminous",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779995494577
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
