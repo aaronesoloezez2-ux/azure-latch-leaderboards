@@ -20459,6 +20459,12 @@
     "region": "NA",
     "elo5v5": 21
   },
+  "1149656132378447894": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 21
+  },
   "644671963054473216": {
     "team": "sown fc",
     "isLeader": true,
@@ -22152,12 +22158,6 @@
     "region": "NA",
     "elo5v5": 92
   },
-  "1149656132378447894": {
-    "team": "Luminous",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 92
-  },
   "1210078842362920991": {
     "team": "Luminous",
     "isLeader": true,
@@ -22413,6 +22413,12 @@
     "elo5v5": 0
   },
   "1097607808435888248": {
+    "team": "swegg",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "702710123260412004": {
     "team": "swegg",
     "isLeader": false,
     "region": "NA",
