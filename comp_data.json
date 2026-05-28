@@ -7827,7 +7827,6 @@
         "969685436740026458",
         "747852467550552116",
         "760652234513055745",
-        "1469123991271899318",
         "475452427860967435"
       ],
       "region": "NA",
@@ -10268,6 +10267,22 @@
       ],
       "region": "Europe",
       "achievements": []
+    },
+    "illusionary": {
+      "elo5v5": 0,
+      "elo11v11": 0,
+      "leaders": [
+        "1280938486030930077"
+      ],
+      "players": [
+        "1280938486030930077",
+        "1469123991271899318",
+        "915390251449585666",
+        "702710123260412004",
+        "1404318852661383199"
+      ],
+      "region": "NA",
+      "achievements": []
     }
   },
   "leaderboards": {
@@ -10315,11 +10330,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "728385309666050149": {
-      "teamName": "Kiseki",
+    "749678245863227462": {
+      "teamName": "Luminous",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1779933077033,
+      "startTime": 1779934056716,
       "lastOpponents": []
     }
   },
@@ -17697,7 +17712,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779933643236": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1437355351958749254",
+      "team1Name": "Kiseki",
+      "team2Name": "Ubers+",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779933643236
+    },
+    "1779933893359": {
+      "team1Id": "728385309666050149",
+      "team2Id": "749678245863227462",
+      "team1Name": "Kiseki",
+      "team2Name": "Luminous",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779933893359
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
