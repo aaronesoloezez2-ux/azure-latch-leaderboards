@@ -9698,7 +9698,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 68,
+      "elo5v5": 89,
       "elo11v11": 0,
       "leaders": [
         "567041024615120928",
@@ -10230,7 +10230,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 111,
+      "elo5v5": 92,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -10328,13 +10328,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779935329520,
       "lastOpponents": []
     }
   },
@@ -17707,7 +17700,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779936754012": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "749678245863227462",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Luminous",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779936754012
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
