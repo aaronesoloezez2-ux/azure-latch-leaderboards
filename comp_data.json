@@ -2684,7 +2684,6 @@
         "807173156149657600",
         "1304498602051240012",
         "1137104491246784635",
-        "776173653888991232",
         "896050388720058408"
       ],
       "region": "Europe",
@@ -10367,13 +10366,6 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Luminous",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779995510645,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15134,15 +15126,6 @@
       "playerId": "690165128582266913",
       "inviterId": "1386454451149340763",
       "timestamp": 1779999626014
-    },
-    "invite_1386454451149340763": {
-      "cooldownUntil": 1779999926014
-    },
-    "invite_1209931713082433638": {
-      "cooldownUntil": 1779999955853
-    },
-    "invite_857399142196052008": {
-      "cooldownUntil": 1780000096799
     }
   },
   "userNicknames": {
@@ -17800,7 +17783,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780000616691": {
+      "team1Id": "749678245863227462",
+      "team2Id": "952667718363009074",
+      "team1Name": "Luminous",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780000616691
+    },
+    "1780000736723": {
+      "team1Id": "857399142196052008",
+      "team2Id": "952667718363009074",
+      "team1Name": "swegg",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780000736723
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
