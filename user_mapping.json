@@ -20801,12 +20801,6 @@
     "region": "NA",
     "elo5v5": 119
   },
-  "899782955248021534": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 119
-  },
   "982789262300807198": {
     "team": "RB Leipzig",
     "isLeader": false,
@@ -22304,6 +22298,12 @@
     "elo5v5": 92
   },
   "1138242374842187977": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 92
+  },
+  "899782955248021534": {
     "team": "Luminous",
     "isLeader": false,
     "region": "NA",
