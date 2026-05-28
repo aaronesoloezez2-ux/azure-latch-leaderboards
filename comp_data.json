@@ -10276,7 +10276,6 @@
         "1404318852661383199",
         "1435327843289665596",
         "1149656132378447894",
-        "813514867138887697",
         "942231461644349471"
       ],
       "region": "NA",
@@ -10326,6 +10325,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779939337983,
       "lastOpponents": []
     }
   },
@@ -17712,17 +17718,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779938909463": {
-      "team1Id": "1464125504448626956",
-      "team2Id": "926536409106485338",
-      "team1Name": "sown fc",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779938909463
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
