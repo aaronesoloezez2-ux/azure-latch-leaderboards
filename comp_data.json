@@ -10193,7 +10193,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 92,
+      "elo5v5": 107,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -10369,13 +10369,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1065743018545660004": {
-      "teamName": "B0MB",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780008536977,
       "lastOpponents": []
     }
   },
@@ -17809,7 +17802,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780008708584": {
+      "team1Id": "1065743018545660004",
+      "team2Id": "567041024615120928",
+      "team1Name": "B0MB",
+      "team2Name": "Abibas NA",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780008708584
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
