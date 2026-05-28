@@ -8229,7 +8229,7 @@
       "achievements": []
     },
     "True Destiny": {
-      "elo5v5": 42,
+      "elo5v5": 61,
       "elo11v11": 0,
       "leaders": [
         "1489954649032228865"
@@ -10369,13 +10369,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Luminous",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780009072434,
       "lastOpponents": []
     }
   },
@@ -17809,7 +17802,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780010858884": {
+      "team1Id": "749678245863227462",
+      "team2Id": "216309723933310977",
+      "team1Name": "Luminous",
+      "team2Name": "RB Leipzig",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780010858884
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
