@@ -10329,6 +10329,13 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
+    },
+    "1335102355695468688": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1779935329520,
+      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15066,17 +15073,7 @@
     "1149656132378447894": 1780107333804,
     "813514867138887697": 1780107665884
   },
-  "pendingInvites": {
-    "1779927666692": {
-      "teamName": "ODYSSEY",
-      "playerId": "1124429586193727549",
-      "inviterId": "1098105753388191847",
-      "timestamp": 1779927666692
-    },
-    "invite_1280938486030930077": {
-      "cooldownUntil": 1779935164024
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -16388,7 +16385,8 @@
     "1188241448387215381": "Tezz",
     "931680934925844490": "Misori",
     "534097147252178946": "Chase",
-    "1419716046708936786": "Astrix"
+    "1419716046708936786": "Astrix",
+    "813514867138887697": "Snoopy"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17704,21 +17702,12 @@
     "977972232452186223": 1780096081746,
     "982391814646530140": 1780101217843,
     "1392166270799052913": 1780103765708,
-    "1419716046708936786": 1780104812537
+    "1419716046708936786": 1780104812537,
+    "813514867138887697": 1780107677915
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779934753535": {
-      "team1Id": "1464125504448626956",
-      "team2Id": "1280938486030930077",
-      "team1Name": "sown fc",
-      "team2Name": "illusionary",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779934753535
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
