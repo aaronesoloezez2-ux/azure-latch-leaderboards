@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "Euclesis",
-    "elo5v5": 155
+    "teamName": "Re Al",
+    "elo5v5": 165
   },
   {
     "rank": 4,
-    "teamName": "Re Al",
-    "elo5v5": 153
+    "teamName": "Euclesis",
+    "elo5v5": 155
   },
   {
     "rank": 5,
@@ -66,38 +66,38 @@
   },
   {
     "rank": 14,
-    "teamName": "Periastron",
-    "elo5v5": 72
-  },
-  {
-    "rank": 15,
     "teamName": "Spurs",
     "elo5v5": 69
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Abibas NA",
     "elo5v5": 68
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Vitality",
     "elo5v5": 66
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Bear United U-20",
     "elo5v5": 60
+  },
+  {
+    "rank": 20,
+    "teamName": "Periastron",
+    "elo5v5": 56
   },
   {
     "rank": 21,
