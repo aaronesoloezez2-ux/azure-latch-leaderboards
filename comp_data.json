@@ -6322,7 +6322,7 @@
       "achievements": []
     },
     "Yakuza": {
-      "elo5v5": 20,
+      "elo5v5": 40,
       "elo11v11": 0,
       "leaders": [
         "659879805440753718"
@@ -10313,13 +10313,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779930456084,
       "lastOpponents": []
     }
   },
@@ -17697,7 +17690,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779932787760": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1437355351958749254",
+      "team1Name": "Kiseki",
+      "team2Name": "Ubers+",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779932787760
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
