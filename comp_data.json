@@ -9659,7 +9659,7 @@
     },
     "Abibas NA": {
       "elo5v5": 106,
-      "elo11v11": 21,
+      "elo11v11": 0,
       "leaders": [
         "967575388547055686",
         "1364318290088034335",
@@ -10367,13 +10367,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780012317870,
       "lastOpponents": []
     }
   },
@@ -15135,12 +15128,6 @@
     "868243652416254034": 1780181074671
   },
   "pendingInvites": {
-    "1780005240174": {
-      "teamName": "Kiseki",
-      "playerId": "813980407460397056",
-      "inviterId": "728385309666050149",
-      "timestamp": 1780005240174
-    },
     "1780005698967": {
       "teamName": "Ubers+",
       "playerId": "1343639426433159310",
@@ -17824,6 +17811,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780012284162
+    },
+    "1780012454186": {
+      "team1Id": "728385309666050149",
+      "team2Id": "813556928034635807",
+      "team1Name": "Kiseki",
+      "team2Name": "Spurs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780012454186
     }
   },
   "pendingVCRequests": {},
