@@ -10243,7 +10243,6 @@
         "835595066050740295",
         "1467619174930186332",
         "1437537784314331408",
-        "723963456549683270",
         "1038336171127873588",
         "636302097742299147"
       ],
@@ -15067,11 +15066,7 @@
     "813514867138887697": 1780107665884,
     "942231461644349471": 1780109945680
   },
-  "pendingInvites": {
-    "invite_1280938486030930077": {
-      "cooldownUntil": 1779937443400
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17705,26 +17700,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779936754012": {
-      "team1Id": "1335102355695468688",
-      "team2Id": "749678245863227462",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Luminous",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779936754012
-    },
-    "1779936959060": {
-      "team1Id": "749678245863227462",
-      "team2Id": "567041024615120928",
-      "team1Name": "Luminous",
-      "team2Name": "Abibas NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779936959060
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
