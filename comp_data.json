@@ -9976,7 +9976,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 42,
+      "elo5v5": 20,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -10281,7 +10281,7 @@
       "achievements": []
     },
     "swegg": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "857399142196052008"
@@ -10375,7 +10375,7 @@
       "teamName": "B0MB",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780007837723,
+      "startTime": 1780008536977,
       "lastOpponents": []
     }
   },
@@ -15148,9 +15148,6 @@
       "playerId": "1343639426433159310",
       "inviterId": "1437355351958749254",
       "timestamp": 1780005698967
-    },
-    "invite_967575388547055686": {
-      "cooldownUntil": 1780008425692
     }
   },
   "userNicknames": {
@@ -17812,17 +17809,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780007698371": {
-      "team1Id": "216309723933310977",
-      "team2Id": "1065743018545660004",
-      "team1Name": "RB Leipzig",
-      "team2Name": "B0MB",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780007698371
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
