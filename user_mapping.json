@@ -16434,13 +16434,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "598471758693269505": {
-    "team": "Divine",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 127,
-    "isModerator": true
-  },
   "921733545720971286": {
     "team": "Divine",
     "isLeader": true,
@@ -22366,6 +22359,13 @@
     "isModerator": true
   },
   "290405745458020353": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "598471758693269505": {
     "team": null,
     "isLeader": false,
     "region": null,
