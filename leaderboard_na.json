@@ -46,23 +46,23 @@
   },
   {
     "rank": 10,
+    "teamName": "Abibas NA",
+    "elo5v5": 106
+  },
+  {
+    "rank": 11,
     "teamName": "Generation of Miracles",
     "elo5v5": 98
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Moon Noobs",
     "elo5v5": 95
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Luminous",
     "elo5v5": 92
-  },
-  {
-    "rank": 13,
-    "teamName": "Abibas NA",
-    "elo5v5": 89
   },
   {
     "rank": 14,
@@ -106,28 +106,28 @@
   },
   {
     "rank": 22,
-    "teamName": "Periastron",
-    "elo5v5": 42
-  },
-  {
-    "rank": 23,
     "teamName": "Yakuza",
     "elo5v5": 40
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Zero",
     "elo5v5": 29
+  },
+  {
+    "rank": 26,
+    "teamName": "Periastron",
+    "elo5v5": 24
   },
   {
     "rank": 27,
