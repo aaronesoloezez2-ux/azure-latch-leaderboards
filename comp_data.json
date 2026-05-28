@@ -9407,7 +9407,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 264,
+      "elo5v5": 269,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9590,7 +9590,7 @@
       "achievements": []
     },
     "Zero": {
-      "elo5v5": 41,
+      "elo5v5": 29,
       "elo11v11": 0,
       "leaders": [
         "952667718363009074"
@@ -10312,13 +10312,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "216309723933310977": {
-      "teamName": "RB Leipzig",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1779925317864,
       "lastOpponents": []
     }
   },
@@ -17687,7 +17680,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1779927170775": {
+      "team1Id": "216309723933310977",
+      "team2Id": "926536409106485338",
+      "team1Name": "RB Leipzig",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1779927170775
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
