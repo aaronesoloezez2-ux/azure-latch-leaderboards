@@ -27,7 +27,7 @@
   {
     "rank": 6,
     "teamName": "B0MB",
-    "elo5v5": 145
+    "elo5v5": 129
   },
   {
     "rank": 7,
@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "Abibas NA",
+    "elo5v5": 125
+  },
+  {
+    "rank": 9,
     "teamName": "Paragon",
     "elo5v5": 123
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "RB Leipzig",
     "elo5v5": 119
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Luminous",
     "elo5v5": 107
-  },
-  {
-    "rank": 11,
-    "teamName": "Abibas NA",
-    "elo5v5": 106
   },
   {
     "rank": 12,
