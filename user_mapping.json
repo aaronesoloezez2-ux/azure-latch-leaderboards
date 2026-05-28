@@ -6256,6 +6256,13 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "896720760985497640": {
+    "team": "Overseers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1134796356620406926": {
     "team": "CoR3s World",
     "isLeader": false,
@@ -22455,13 +22462,6 @@
     "elo5v5": 0
   },
   "1290679358528290868": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "896720760985497640": {
     "team": null,
     "isLeader": false,
     "region": null,
