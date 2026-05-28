@@ -5891,7 +5891,7 @@
       "achievements": []
     },
     "ⅩⅠⅠⅠ": {
-      "elo5v5": 16,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "495333407551782933",
@@ -10233,7 +10233,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 78,
+      "elo5v5": 95,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -15050,7 +15050,17 @@
     "1281291001541169233": 1780095474003,
     "1487678022898290698": 1780099143290
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1779927666692": {
+      "teamName": "ODYSSEY",
+      "playerId": "1124429586193727549",
+      "inviterId": "1098105753388191847",
+      "timestamp": 1779927666692
+    },
+    "invite_1098105753388191847": {
+      "cooldownUntil": 1779927966692
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17680,17 +17690,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1779927170775": {
-      "team1Id": "216309723933310977",
-      "team2Id": "926536409106485338",
-      "team1Name": "RB Leipzig",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1779927170775
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
