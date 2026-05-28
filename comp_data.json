@@ -9408,7 +9408,8 @@
         "1341524326041780335",
         "1204496416203083787",
         "1281291001541169233",
-        "689672576670498883"
+        "689672576670498883",
+        "813514867138887697"
       ],
       "region": "NA",
       "achievements": []
@@ -17811,17 +17812,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780004022681": {
-      "team1Id": "938564876199145494",
-      "team2Id": "1464125504448626956",
-      "team1Name": "Citizens-U3",
-      "team2Name": "sown fc",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1780004022681
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
