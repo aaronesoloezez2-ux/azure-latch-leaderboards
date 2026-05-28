@@ -9921,12 +9921,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "1125593852129050745": {
-    "team": "Dreamers (NA)",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
   "759619258073481236": {
     "team": "Dreamers (NA)",
     "isLeader": false,
@@ -11357,6 +11351,12 @@
     "elo5v5": 0
   },
   "424354473842835458": {
+    "team": "ⅩⅠⅠⅠ",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1125593852129050745": {
     "team": "ⅩⅠⅠⅠ",
     "isLeader": false,
     "region": "NA",
