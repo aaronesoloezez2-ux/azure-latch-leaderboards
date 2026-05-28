@@ -46,33 +46,33 @@
   },
   {
     "rank": 10,
-    "teamName": "Luminous",
-    "elo5v5": 111
-  },
-  {
-    "rank": 11,
     "teamName": "Generation of Miracles",
     "elo5v5": 98
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Moon Noobs",
     "elo5v5": 95
   },
   {
+    "rank": 12,
+    "teamName": "Luminous",
+    "elo5v5": 92
+  },
+  {
     "rank": 13,
+    "teamName": "Abibas NA",
+    "elo5v5": 89
+  },
+  {
+    "rank": 14,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Spurs",
     "elo5v5": 69
-  },
-  {
-    "rank": 15,
-    "teamName": "Abibas NA",
-    "elo5v5": 68
   },
   {
     "rank": 16,
