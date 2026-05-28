@@ -19888,12 +19888,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1138242374842187977": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1322341986149077095": {
     "team": "Vorpal Swords",
     "isLeader": false,
@@ -22304,6 +22298,12 @@
     "elo5v5": 92
   },
   "636302097742299147": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 92
+  },
+  "1138242374842187977": {
     "team": "Luminous",
     "isLeader": false,
     "region": "NA",
