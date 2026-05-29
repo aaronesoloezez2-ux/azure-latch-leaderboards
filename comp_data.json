@@ -9331,7 +9331,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 0,
+      "elo5v5": 31,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -9378,7 +9378,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 273,
+      "elo5v5": 262,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10370,6 +10370,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780020569325,
       "lastOpponents": []
     }
   },
@@ -17814,7 +17821,7 @@
       "team1Name": "Spurs",
       "team2Name": "Citizens-U3",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1780020486663
     }
   },
