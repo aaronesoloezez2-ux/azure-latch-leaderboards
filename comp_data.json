@@ -2039,7 +2039,6 @@
         "1097264383878496408",
         "632011025549623307",
         "1493363159980048404",
-        "1356202863780696125",
         "709790779589001288",
         "1137247254554611792",
         "936076202786050088",
@@ -15143,9 +15142,6 @@
       "playerId": "1357501382793494568",
       "inviterId": "728385309666050149",
       "timestamp": 1780011834976
-    },
-    "invite_965000459469348864": {
-      "cooldownUntil": 1780018343563
     }
   },
   "userNicknames": {
@@ -17809,17 +17805,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780017840783": {
-      "team1Id": "857399142196052008",
-      "team2Id": "1464125504448626956",
-      "team1Name": "swegg",
-      "team2Name": "sown fc",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780017840783
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
