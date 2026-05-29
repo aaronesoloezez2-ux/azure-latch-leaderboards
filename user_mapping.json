@@ -680,6 +680,12 @@
     "region": "Europe",
     "elo5v5": 22
   },
+  "976149014586212392": {
+    "team": "Abibas FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 22
+  },
   "790479627478892574": {
     "team": "Abibas FC",
     "isLeader": true,
@@ -19786,12 +19792,6 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 31
-  },
-  "976149014586212392": {
-    "team": "Resurrection",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
   },
   "1257716716285333604": {
     "team": "Resurrection",
