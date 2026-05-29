@@ -9805,7 +9805,7 @@
   },
   "1142579690515726376": {
     "team": "Neo//:Re",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
