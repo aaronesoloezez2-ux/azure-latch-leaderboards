@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
+    "teamName": "Luminous",
+    "elo5v5": 105
+  },
+  {
+    "rank": 12,
     "teamName": "Generation of Miracles",
     "elo5v5": 98
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Moon Noobs",
     "elo5v5": 95
-  },
-  {
-    "rank": 13,
-    "teamName": "Luminous",
-    "elo5v5": 90
   },
   {
     "rank": 14,
