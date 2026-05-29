@@ -9632,8 +9632,7 @@
       ],
       "players": [
         "999415573727420457",
-        "1057589536386994206",
-        "708049948452585482"
+        "1057589536386994206"
       ],
       "region": "NA",
       "achievements": []
@@ -9682,7 +9681,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 119,
+      "elo5v5": 135,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -10192,7 +10191,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 107,
+      "elo5v5": 90,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -17797,7 +17796,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780016245334": {
+      "team1Id": "722164644558667816",
+      "team2Id": "749678245863227462",
+      "team1Name": "Vorpal Swords",
+      "team2Name": "Luminous",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780016245334
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
