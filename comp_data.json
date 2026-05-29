@@ -10194,7 +10194,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 90,
+      "elo5v5": 105,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -10370,14 +10370,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "813556928034635807": {
-      "teamName": "Spurs",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1780020301474,
       "lastOpponents": []
     }
   },
@@ -15142,11 +15134,7 @@
     "1422674515783061597": 1780190848485,
     "1217648516705550398": 1780192925872
   },
-  "pendingInvites": {
-    "invite_938564876199145494": {
-      "cooldownUntil": 1780020420058
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17819,6 +17807,15 @@
       "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1780020281606
+    },
+    "1780020486663": {
+      "team1Id": "813556928034635807",
+      "team2Id": "938564876199145494",
+      "team1Name": "Spurs",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780020486663
     }
   },
   "pendingVCRequests": {},
