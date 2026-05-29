@@ -20466,6 +20466,13 @@
     "region": "NA",
     "elo5v5": 10
   },
+  "883949215036870698": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 10,
+    "isModerator": true
+  },
   "644671963054473216": {
     "team": "sown fc",
     "isLeader": true,
@@ -22511,13 +22518,6 @@
     "isModerator": true
   },
   "290405745458020353": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "883949215036870698": {
     "team": null,
     "isLeader": false,
     "region": null,
