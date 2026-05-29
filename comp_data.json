@@ -10145,7 +10145,8 @@
         "1353220534367682582",
         "779547098000916480",
         "1200920802246262925",
-        "1481494653604856011"
+        "1481494653604856011",
+        "1422674515783061597"
       ],
       "region": "NA",
       "achievements": []
@@ -10372,13 +10373,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "967575388547055686": {
-      "teamName": "Abibas NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780016743275,
       "lastOpponents": []
     }
   },
@@ -15140,7 +15134,8 @@
     "998735828413055107": 1780189614782,
     "1468908246189211670": 1780189643120,
     "1483957616261599243": 1780190135291,
-    "574668456859795457": 1780190213728
+    "574668456859795457": 1780190213728,
+    "1422674515783061597": 1780190848485
   },
   "pendingInvites": {
     "1780011834976": {
@@ -15149,8 +15144,8 @@
       "inviterId": "728385309666050149",
       "timestamp": 1780011834976
     },
-    "invite_1210078842362920991": {
-      "cooldownUntil": 1780017525278
+    "invite_965000459469348864": {
+      "cooldownUntil": 1780018343563
     }
   },
   "userNicknames": {
@@ -17814,7 +17809,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780017840783": {
+      "team1Id": "857399142196052008",
+      "team2Id": "1464125504448626956",
+      "team1Name": "swegg",
+      "team2Name": "sown fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780017840783
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
