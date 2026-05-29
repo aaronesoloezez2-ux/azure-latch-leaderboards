@@ -9881,7 +9881,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 85,
+      "elo5v5": 68,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -10040,7 +10040,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 129,
+      "elo5v5": 144,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976",
@@ -17804,26 +17804,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780020281606": {
-      "team1Id": "938564876199145494",
-      "team2Id": "813556928034635807",
-      "team1Name": "Citizens-U3",
-      "team2Name": "Spurs",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1780020281606
-    },
-    "1780020486663": {
-      "team1Id": "813556928034635807",
-      "team2Id": "938564876199145494",
-      "team1Name": "Spurs",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780020486663
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
