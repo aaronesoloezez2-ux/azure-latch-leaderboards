@@ -9338,7 +9338,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 262,
+      "elo5v5": 253,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9615,7 +9615,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 138,
+      "elo5v5": 157,
       "elo11v11": 0,
       "leaders": [
         "967575388547055686",
@@ -15117,20 +15117,11 @@
     "1131600402274590960": 1780266059723
   },
   "pendingInvites": {
-    "1780087288214": {
-      "teamName": "Citizens - U3",
-      "playerId": "1331706483552817355",
-      "inviterId": "1030990928191688704",
-      "timestamp": 1780087288214
-    },
     "1780092595041": {
       "teamName": "FC Babalona",
       "playerId": "1474149459595100170",
       "inviterId": "918283879264169995",
       "timestamp": 1780092595041
-    },
-    "invite_1261330439637827635": {
-      "cooldownUntil": 1780093544281
     }
   },
   "userNicknames": {
