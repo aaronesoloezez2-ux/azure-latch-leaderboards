@@ -10827,7 +10827,8 @@
     "team": "Re Al",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 186
+    "elo5v5": 186,
+    "isModerator": true
   },
   "1285988942877032593": {
     "team": "Re Al",
@@ -13587,6 +13588,12 @@
     "elo5v5": 33
   },
   "914541167943778304": {
+    "team": "Calamity",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 33
+  },
+  "1441534629097111704": {
     "team": "Calamity",
     "isLeader": false,
     "region": "Europe",
