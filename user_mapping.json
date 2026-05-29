@@ -15110,6 +15110,12 @@
   },
   "1194547489106296886": {
     "team": "Repaired",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1509825623919431711": {
+    "team": "Repaired",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
