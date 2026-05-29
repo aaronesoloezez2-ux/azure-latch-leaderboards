@@ -20497,12 +20497,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "708049948452585482": {
-    "team": "FXTE",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1036333039845912677": {
     "team": "FXTE",
     "isLeader": true,
@@ -21579,6 +21573,12 @@
     "elo5v5": 20
   },
   "534097147252178946": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 20
+  },
+  "708049948452585482": {
     "team": "Yggdrasil",
     "isLeader": false,
     "region": "NA",
