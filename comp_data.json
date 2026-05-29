@@ -8623,7 +8623,8 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "938564876199145494"
+        "938564876199145494",
+        "1342931782273597582"
       ],
       "players": [
         "1323997990737809419",
@@ -10355,6 +10356,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "854409388343951450": {
+      "teamName": "Ubers+",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780024825614,
       "lastOpponents": []
     }
   },
@@ -17783,17 +17791,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780023487475": {
-      "team1Id": "938564876199145494",
-      "team2Id": "749678245863227462",
-      "team1Name": "Citizens-U3",
-      "team2Name": "Luminous",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780023487475
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
