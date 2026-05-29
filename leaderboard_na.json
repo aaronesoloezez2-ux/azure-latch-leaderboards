@@ -26,18 +26,18 @@
   },
   {
     "rank": 6,
+    "teamName": "B0MB",
+    "elo5v5": 144
+  },
+  {
+    "rank": 7,
     "teamName": "Abibas NA",
     "elo5v5": 137
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "RB Leipzig",
     "elo5v5": 135
-  },
-  {
-    "rank": 8,
-    "teamName": "B0MB",
-    "elo5v5": 129
   },
   {
     "rank": 9,
@@ -66,18 +66,18 @@
   },
   {
     "rank": 14,
-    "teamName": "Vitality",
-    "elo5v5": 85
-  },
-  {
-    "rank": 15,
     "teamName": "Kyzards",
     "elo5v5": 76
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Spurs",
     "elo5v5": 69
+  },
+  {
+    "rank": 16,
+    "teamName": "Vitality",
+    "elo5v5": 68
   },
   {
     "rank": 17,
