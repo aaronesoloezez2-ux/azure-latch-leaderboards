@@ -16280,12 +16280,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1116068034092744704": {
-    "team": "Paradoxity",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "785973552892346379": {
     "team": "Paradoxity",
     "isLeader": false,
@@ -22489,6 +22483,42 @@
   },
   "1126591567042465933": {
     "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1009054514210422815": {
+    "team": "New Gen 11",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1019984160179376280": {
+    "team": "New Gen 11",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1116068034092744704": {
+    "team": "New Gen 11",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1454016553128300567": {
+    "team": "New Gen 11",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1336482567905607757": {
+    "team": "New Gen 11",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1169016663878930563": {
+    "team": "New Gen 11",
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
