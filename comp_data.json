@@ -7577,6 +7577,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
+        "1261330439637827635",
         "922498099841232928"
       ],
       "players": [
@@ -10353,11 +10354,18 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "967575388547055686": {
-      "teamName": "Abibas NA",
+    "728385309666050149": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780086655448,
+      "startTime": 1780087605803,
+      "lastOpponents": []
+    },
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "Europe",
+      "startTime": 1780088298654,
       "lastOpponents": []
     }
   },
@@ -15131,7 +15139,14 @@
     "1499893392782524487": 1780254999174,
     "896050388720058408": 1780257447220
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780087288214": {
+      "teamName": "Citizens - U3",
+      "playerId": "1331706483552817355",
+      "inviterId": "1030990928191688704",
+      "timestamp": 1780087288214
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17807,7 +17822,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780087918592": {
+      "team1Id": "1030990928191688704",
+      "team2Id": "938564876199145494",
+      "team1Name": "Citizens - U3",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780087918592
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
