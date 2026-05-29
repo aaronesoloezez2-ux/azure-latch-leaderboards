@@ -15512,12 +15512,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1020421521598062693": {
-    "team": "Masquerade",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "995434523468759044": {
     "team": "Masquerade",
     "isLeader": false,
@@ -20565,6 +20559,19 @@
     "elo5v5": 69,
     "isModerator": true
   },
+  "1020421521598062693": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 69
+  },
+  "1280938486030930077": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 69,
+    "isModerator": true
+  },
   "1081319797180088422": {
     "team": "Abibas NA",
     "isLeader": false,
@@ -22443,13 +22450,6 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 22
-  },
-  "1280938486030930077": {
-    "team": "swegg",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22,
-    "isModerator": true
   },
   "942231461644349471": {
     "team": "swegg",
