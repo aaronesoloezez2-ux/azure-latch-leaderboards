@@ -9621,7 +9621,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 69,
+      "elo5v5": 51,
       "elo11v11": 0,
       "leaders": [
         "813556928034635807"
@@ -10179,7 +10179,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 105,
+      "elo5v5": 121,
       "elo11v11": 0,
       "leaders": [
         "1210078842362920991",
@@ -10355,13 +10355,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "938564876199145494": {
-      "teamName": "Citizens-U3",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780020569325,
       "lastOpponents": []
     }
   },
@@ -17790,7 +17783,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780023487475": {
+      "team1Id": "938564876199145494",
+      "team2Id": "749678245863227462",
+      "team1Name": "Citizens-U3",
+      "team2Name": "Luminous",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780023487475
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
