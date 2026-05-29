@@ -9753,7 +9753,7 @@
       "achievements": []
     },
     "Llantines fc": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "690007789325647948"
@@ -10351,6 +10351,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "967575388547055686": {
+      "teamName": "Abibas NA",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780086655448,
       "lastOpponents": []
     }
   },
