@@ -15230,7 +15230,7 @@
   },
   "1261330439637827635": {
     "team": "o-42",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
