@@ -16683,12 +16683,6 @@
     "region": "Asia",
     "elo5v5": 61
   },
-  "1138527393900937336": {
-    "team": "True Destiny",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 61
-  },
   "1162976059961127013": {
     "team": "True Destiny",
     "isLeader": false,
@@ -22533,6 +22527,36 @@
     "team": "New Gen 11",
     "isLeader": false,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "1003647453674885192": {
+    "team": "Reborn Egoists",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1354519960147333160": {
+    "team": "Reborn Egoists",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1247581160146472976": {
+    "team": "Reborn Egoists",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1138527393900937336": {
+    "team": "Reborn Egoists",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1318578611250397289": {
+    "team": "Reborn Egoists",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   },
   "1290679358528290868": {
