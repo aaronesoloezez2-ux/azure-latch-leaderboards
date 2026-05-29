@@ -31,22 +31,22 @@
   },
   {
     "rank": 7,
+    "teamName": "Abibas NA",
+    "elo5v5": 138
+  },
+  {
+    "rank": 8,
     "teamName": "RB Leipzig",
     "elo5v5": 135
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "G50:K",
     "elo5v5": 126
   },
   {
-    "rank": 9,
-    "teamName": "Paragon",
-    "elo5v5": 123
-  },
-  {
     "rank": 10,
-    "teamName": "Abibas NA",
+    "teamName": "Paragon",
     "elo5v5": 123
   },
   {
@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
-    "teamName": "sown fc",
-    "elo5v5": 69
-  },
-  {
-    "rank": 16,
     "teamName": "Vitality",
     "elo5v5": 68
   },
   {
-    "rank": 17,
+    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 53
+  },
+  {
+    "rank": 20,
+    "teamName": "sown fc",
+    "elo5v5": 51
   },
   {
     "rank": 21,
