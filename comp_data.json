@@ -10154,7 +10154,6 @@
         "1125614015746408509",
         "666762995258359808",
         "886071086217838642",
-        "979170983506214934",
         "377231494994853888",
         "1097607808435888248",
         "652996535176658954",
@@ -17793,6 +17792,24 @@
       "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1780183355801
+    },
+    "1780183455812": {
+      "team1Id": "1249902035352948836",
+      "team2Id": "938564876199145494",
+      "team1Name": "Kiseki",
+      "team2Name": "Citizens-U3",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780183455812
+    },
+    "1780183580823": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "1249902035352948836",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1780183580823
     }
   },
   "pendingVCRequests": {},
