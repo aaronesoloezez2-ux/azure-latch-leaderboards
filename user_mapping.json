@@ -12231,12 +12231,6 @@
     "region": "NA",
     "elo5v5": 40
   },
-  "736575147850465281": {
-    "team": "Yakuza",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 40
-  },
   "768261755909439499": {
     "team": "Yakuza",
     "isLeader": false,
@@ -18124,12 +18118,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "589497085477388289": {
-    "team": "Re Al U-20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1237504880864661585": {
     "team": "Re Al U-20",
     "isLeader": false,
@@ -20246,13 +20234,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "868139633245057035": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
-  },
   "749678245863227462": {
     "team": "Spurs",
     "isLeader": false,
@@ -22113,12 +22094,6 @@
     "region": "NA",
     "elo5v5": 1
   },
-  "1469123991271899318": {
-    "team": "swegg",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 1
-  },
   "1479091115251732480": {
     "team": "Iced",
     "isLeader": true,
@@ -22318,6 +22293,56 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "736575147850465281": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "915390251449585666": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1404318852661383199": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "589497085477388289": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "868139633245057035": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1469123991271899318": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1291380156564504623": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1481494653604856011": {
+    "team": "Kyoto",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22354,13 +22379,6 @@
     "isModerator": true
   },
   "566360748888948766": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1481494653604856011": {
     "team": null,
     "isLeader": false,
     "region": null,
