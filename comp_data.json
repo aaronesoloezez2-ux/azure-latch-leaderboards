@@ -9970,7 +9970,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 168,
+      "elo5v5": 177,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976",
@@ -10267,7 +10267,7 @@
       "achievements": []
     },
     "Luminous": {
-      "elo5v5": 29,
+      "elo5v5": 14,
       "elo11v11": 0,
       "leaders": [
         "749678245863227462",
@@ -10333,11 +10333,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
+    "728385309666050149": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780112641507,
+      "startTime": 1780116387318,
       "lastOpponents": []
     }
   },
