@@ -8985,7 +8985,6 @@
         "1332386646947139804",
         "1463622421440626699",
         "1200828694088917114",
-        "668382760662073344",
         "318773829922979851",
         "483569244852715542",
         "787697038426243182",
@@ -15078,26 +15077,11 @@
     "1336995079482769448": 1780341106655
   },
   "pendingInvites": {
-    "1780161196260": {
-      "teamName": "Gooned Bamas",
-      "playerId": "1490083990504472708",
-      "inviterId": "1386454451149340763",
-      "timestamp": 1780161196260
-    },
     "1780167908030": {
       "teamName": "Re Al",
       "playerId": "1115974502984196187",
       "inviterId": "509160088632819712",
       "timestamp": 1780167908030
-    },
-    "invite_1352044719089127425": {
-      "cooldownUntil": 1780168446247
-    },
-    "invite_1464125504448626956": {
-      "cooldownUntil": 1780168471568
-    },
-    "invite_1309828754260099149": {
-      "cooldownUntil": 1780168588041
     }
   },
   "userNicknames": {
@@ -17799,17 +17783,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780167736412": {
-      "team1Id": "1280938486030930077",
-      "team2Id": "1464125504448626956",
-      "team1Name": "Spurs",
-      "team2Name": "sown fc",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780167736412
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
