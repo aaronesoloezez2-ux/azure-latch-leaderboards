@@ -8202,26 +8202,6 @@
       "region": "Asia",
       "achievements": []
     },
-    "FranXX": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "432981566096932864",
-        "668969100399214602"
-      ],
-      "players": [
-        "1043703534752903198",
-        "1481427411190153398",
-        "625452607414075432",
-        "858858025213624350",
-        "903038208135299103",
-        "1182669327602831431",
-        "601811939005562896",
-        "812757450050371584"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Attrition": {
       "elo5v5": 22,
       "elo11v11": 0,
@@ -10307,6 +10287,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780166005175,
       "lastOpponents": []
     }
   },
@@ -15086,20 +15073,11 @@
     "1194824379956203762": 1780336558243
   },
   "pendingInvites": {
-    "1780157858420": {
-      "teamName": "Heavens Society",
-      "playerId": "1175144948887199874",
-      "inviterId": "1352044719089127425",
-      "timestamp": 1780157858420
-    },
     "1780161196260": {
       "teamName": "Gooned Bamas",
       "playerId": "1490083990504472708",
       "inviterId": "1386454451149340763",
       "timestamp": 1780161196260
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1780164045300
     }
   },
   "userNicknames": {
@@ -17799,7 +17777,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780165935751": {
+      "team1Id": "938564876199145494",
+      "team2Id": "728385309666050149",
+      "team1Name": "Citizens-U3",
+      "team2Name": "Kiseki",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780165935751
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
