@@ -65,12 +65,6 @@
     "region": "Asia",
     "elo5v5": 22
   },
-  "306400700097757184": {
-    "team": "Cult of miku",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 22
-  },
   "838278061727547392": {
     "team": "Cult of miku",
     "isLeader": false,
@@ -18155,6 +18149,12 @@
     "elo5v5": 0
   },
   "990429531166900274": {
+    "team": "Hoshino (星野)",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "306400700097757184": {
     "team": "Hoshino (星野)",
     "isLeader": false,
     "region": "Asia",
