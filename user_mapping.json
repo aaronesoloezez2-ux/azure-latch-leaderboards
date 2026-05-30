@@ -19693,12 +19693,6 @@
     "region": "NA",
     "elo5v5": 18
   },
-  "1138242374842187977": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 18
-  },
   "847505723763195914": {
     "team": "Vorpal Swords",
     "isLeader": true,
@@ -22381,6 +22375,64 @@
     "region": "Asia",
     "elo5v5": 0
   },
+  "1210078842362920991": {
+    "team": "Luminous",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1437537784314331408": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "636302097742299147": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1483957616261599243": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "804769804594053130": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1467619174930186332": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1404318852661383199": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1138242374842187977": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "749678245863227462": {
+    "team": "Luminous",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22423,21 +22475,7 @@
     "elo5v5": 0,
     "isModerator": true
   },
-  "1437537784314331408": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "290405745458020353": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1467619174930186332": {
     "team": null,
     "isLeader": false,
     "region": null,
@@ -22452,20 +22490,6 @@
     "isModerator": true
   },
   "885500704020631592": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "749678245863227462": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "804769804594053130": {
     "team": null,
     "isLeader": false,
     "region": null,
