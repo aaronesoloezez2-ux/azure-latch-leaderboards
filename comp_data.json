@@ -9104,7 +9104,7 @@
       "achievements": []
     },
     "Paragon": {
-      "elo5v5": 123,
+      "elo5v5": 111,
       "elo11v11": 0,
       "leaders": [
         "662551566397472798"
@@ -9268,7 +9268,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 259,
+      "elo5v5": 265,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10307,6 +10307,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780173369600,
       "lastOpponents": []
     }
   },
@@ -15101,8 +15108,14 @@
       "inviterId": "232938037263204362",
       "timestamp": 1780172214938
     },
-    "invite_1143485438787596389": {
-      "cooldownUntil": 1780173249231
+    "1780173456810": {
+      "teamName": "Citizens-U3",
+      "playerId": "957242675839500318",
+      "inviterId": "938564876199145494",
+      "timestamp": 1780173456810
+    },
+    "invite_938564876199145494": {
+      "cooldownUntil": 1780173756810
     }
   },
   "userNicknames": {
@@ -17806,17 +17819,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780172693371": {
-      "team1Id": "1280938486030930077",
-      "team2Id": "926536409106485338",
-      "team1Name": "Spurs",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780172693371
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
