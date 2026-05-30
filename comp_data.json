@@ -10276,6 +10276,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
+        "749678245863227462",
         "1210078842362920991"
       ],
       "players": [
@@ -10336,14 +10337,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "813556928034635807": {
-      "teamName": "Spurs",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1780102246742,
       "lastOpponents": []
     }
   },
@@ -17801,15 +17794,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780102007890": {
-      "team1Id": "952667718363009074",
-      "team2Id": "813556928034635807",
-      "team1Name": "Zero",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780102007890
-    },
     "1780102027891": {
       "team1Id": "813556928034635807",
       "team2Id": "216309723933310977",
