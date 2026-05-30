@@ -12927,12 +12927,6 @@
     "region": "NA",
     "elo5v5": 53
   },
-  "838995804969631785": {
-    "team": "Monarchs Recrowned FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 53
-  },
   "1135809471302602774": {
     "team": "Monarchs Recrowned FC",
     "isLeader": false,
@@ -20195,12 +20189,6 @@
     "region": "NA",
     "elo5v5": 30
   },
-  "999415573727420457": {
-    "team": "FXTE",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1057589536386994206": {
     "team": "FXTE",
     "isLeader": false,
@@ -22291,6 +22279,42 @@
     "team": "The Ashen Eleven",
     "isLeader": true,
     "region": "Asia",
+    "elo5v5": 0
+  },
+  "671094028867207178": {
+    "team": "Citizens U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "838995804969631785": {
+    "team": "Citizens U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "854089044363313162": {
+    "team": "Citizens U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1222617946963312712": {
+    "team": "Citizens U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1458274913004556442": {
+    "team": "Citizens U-20",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "999415573727420457": {
+    "team": "Citizens U-20",
+    "isLeader": false,
+    "region": "NA",
     "elo5v5": 0
   },
   "1290679358528290868": {
