@@ -11516,12 +11516,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1176759288019038219": {
-    "team": "Metalogic",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "779083851166515270": {
     "team": "Metalogic",
     "isLeader": false,
@@ -15432,6 +15426,12 @@
     "elo5v5": 0
   },
   "995434523468759044": {
+    "team": "Masquerade",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1176759288019038219": {
     "team": "Masquerade",
     "isLeader": false,
     "region": "NA",
