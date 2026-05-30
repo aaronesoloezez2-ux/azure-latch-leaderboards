@@ -2782,7 +2782,7 @@
       "achievements": []
     },
     "Overseers": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1165345544198160488",
@@ -15102,8 +15102,11 @@
     "1200794430559502489": 1780330011902
   },
   "pendingInvites": {
-    "invite_1352044719089127425": {
-      "cooldownUntil": 1780157399335
+    "1780157858420": {
+      "teamName": "Heavens Society",
+      "playerId": "1175144948887199874",
+      "inviterId": "1352044719089127425",
+      "timestamp": 1780157858420
     }
   },
   "userNicknames": {
