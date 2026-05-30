@@ -336,8 +336,7 @@
         "655598791918878730",
         "982128831827701810",
         "1495465032631455745",
-        "1500524228108226570",
-        "800823045958402058"
+        "1500524228108226570"
       ],
       "region": "NA",
       "elo5v5": 166,
@@ -10292,13 +10291,6 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
-    },
-    "1280938486030930077": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780171240108,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15090,8 +15082,8 @@
       "inviterId": "232938037263204362",
       "timestamp": 1780172214938
     },
-    "invite_232938037263204362": {
-      "cooldownUntil": 1780172514938
+    "invite_1280938486030930077": {
+      "cooldownUntil": 1780172776820
     }
   },
   "userNicknames": {
@@ -17793,7 +17785,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780172693371": {
+      "team1Id": "1280938486030930077",
+      "team2Id": "926536409106485338",
+      "team1Name": "Spurs",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780172693371
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
