@@ -9575,7 +9575,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 51,
+      "elo5v5": 34,
       "elo11v11": 0,
       "leaders": [
         "813556928034635807"
@@ -9621,7 +9621,7 @@
       "achievements": []
     },
     "RB Leipzig": {
-      "elo5v5": 135,
+      "elo5v5": 148,
       "elo11v11": 0,
       "leaders": [
         "216309723933310977",
@@ -10317,6 +10317,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1780101637521,
       "lastOpponents": []
     }
   },
