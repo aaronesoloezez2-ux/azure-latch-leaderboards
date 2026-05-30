@@ -5618,7 +5618,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 186,
+      "elo5v5": 171,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -8680,7 +8680,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 4,
+      "elo5v5": 32,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -10294,20 +10294,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780180092468,
-      "lastOpponents": []
-    },
-    "926536409106485338": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780180117526,
       "lastOpponents": []
     }
   },
@@ -15101,9 +15087,6 @@
       "playerId": "1426419421026455565",
       "inviterId": "1143485438787596389",
       "timestamp": 1780173854295
-    },
-    "invite_965000459469348864": {
-      "cooldownUntil": 1780180406535
     }
   },
   "userNicknames": {
@@ -15564,7 +15547,7 @@
     "474139850241605633": "Algreen",
     "962472525659504680": "Cross",
     "888879851619106866": "helpy",
-    "1467619174930186332": "Proquetic",
+    "1467619174930186332": "ploquetic",
     "1261307454721888343": "Egg",
     "788089537381400596": "Revelik",
     "818162843701739520": "Zack",
@@ -17654,7 +17637,6 @@
     "1481494653604856011": 1779927839510,
     "1412184105604350023": 1779929394428,
     "998769284513812501": 1779931779333,
-    "1467619174930186332": 1779932792702,
     "974974696921649172": 1779935416304,
     "1312934947643719700": 1779939403604,
     "1438985290596487241": 1779941472296,
@@ -17807,83 +17789,12 @@
     "1487511340011618324": 1780345743552,
     "864652479706824734": 1780349499883,
     "1460829570407202986": 1780349747731,
-    "1038336171127873588": 1780352607173
+    "1038336171127873588": 1780352607173,
+    "1467619174930186332": 1780353135388
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780179630071": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "728385309666050149",
-      "team1Name": "Ubers+",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179630071
-    },
-    "1780179805110": {
-      "team1Id": "1143485438787596389",
-      "team2Id": "728385309666050149",
-      "team1Name": "Masquerade",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179805110
-    },
-    "1780179850120": {
-      "team1Id": "1143485438787596389",
-      "team2Id": "728385309666050149",
-      "team1Name": "Masquerade",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179850120
-    },
-    "1780179875122": {
-      "team1Id": "1143485438787596389",
-      "team2Id": "728385309666050149",
-      "team1Name": "Masquerade",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179875122
-    },
-    "1780179890123": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179890123
-    },
-    "1780179910126": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179910126
-    },
-    "1780179945136": {
-      "team1Id": "728385309666050149",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179945136
-    },
-    "1780179970137": {
-      "team1Id": "926536409106485338",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780179970137
-    },
     "1780180040155": {
       "team1Id": "728385309666050149",
       "team2Id": "1143485438787596389",
@@ -17892,6 +17803,33 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780180040155
+    },
+    "1780180345210": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Kiseki",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780180345210
+    },
+    "1780180355211": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Kiseki",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780180355211
+    },
+    "1780180390216": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "1335102355695468688",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Re Al U-20",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780180390216
     }
   },
   "pendingVCRequests": {},
