@@ -91,33 +91,33 @@
   },
   {
     "rank": 19,
+    "teamName": "Zero",
+    "elo5v5": 48
+  },
+  {
+    "rank": 20,
     "teamName": "Sulk",
     "elo5v5": 46
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Undying Spirits",
     "elo5v5": 41
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Yakuza",
     "elo5v5": 40
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
-  },
-  {
-    "rank": 24,
-    "teamName": "Zero",
-    "elo5v5": 29
   },
   {
     "rank": 25,
