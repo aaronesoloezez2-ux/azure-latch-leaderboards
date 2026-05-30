@@ -7669,7 +7669,7 @@
       "achievements": []
     },
     "Masquerade": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "597676720413343745",
@@ -10287,13 +10287,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780166005175,
       "lastOpponents": []
     }
   },
@@ -15078,6 +15071,15 @@
       "playerId": "1490083990504472708",
       "inviterId": "1386454451149340763",
       "timestamp": 1780161196260
+    },
+    "1780166532443": {
+      "teamName": "Kiseki",
+      "playerId": "1363357082811764927",
+      "inviterId": "728385309666050149",
+      "timestamp": 1780166532443
+    },
+    "invite_728385309666050149": {
+      "cooldownUntil": 1780166832443
     }
   },
   "userNicknames": {
@@ -17786,6 +17788,15 @@
       "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1780165935751
+    },
+    "1780166440848": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Kiseki",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780166440848
     }
   },
   "pendingVCRequests": {},
