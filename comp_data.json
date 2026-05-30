@@ -8726,7 +8726,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 45,
+      "elo5v5": 19,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -10316,6 +10316,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "813556928034635807": {
+      "teamName": "Spurs",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 5,
+      "startTime": 1780102066781,
       "lastOpponents": []
     }
   },
