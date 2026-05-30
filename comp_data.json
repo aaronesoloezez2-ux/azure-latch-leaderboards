@@ -9595,7 +9595,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 192,
+      "elo5v5": 202,
       "elo11v11": 0,
       "leaders": [
         "967575388547055686",
@@ -17800,17 +17800,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780106943670": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Luminous",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780106943670
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
