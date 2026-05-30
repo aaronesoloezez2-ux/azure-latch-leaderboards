@@ -9660,7 +9660,8 @@
         "1510060221643624541",
         "817824074989961226",
         "968892954775269376",
-        "1330095513126830172"
+        "1330095513126830172",
+        "1490083990504472708"
       ],
       "region": "Europe",
       "achievements": []
@@ -15101,6 +15102,15 @@
       "playerId": "1222344505244782677",
       "inviterId": "1036332587154669588",
       "timestamp": 1780160622052
+    },
+    "1780161196260": {
+      "teamName": "Gooned Bamas",
+      "playerId": "1490083990504472708",
+      "inviterId": "1386454451149340763",
+      "timestamp": 1780161196260
+    },
+    "invite_1386454451149340763": {
+      "cooldownUntil": 1780161496260
     }
   },
   "userNicknames": {
@@ -17798,17 +17808,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780160479522": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "1280938486030930077",
-      "team1Name": "Ubers+",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780160479522
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
