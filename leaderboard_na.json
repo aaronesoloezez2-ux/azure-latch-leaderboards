@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
+    "teamName": "Moon Noobs",
+    "elo5v5": 124
+  },
+  {
+    "rank": 10,
     "teamName": "RB Leipzig",
     "elo5v5": 120
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Paragon",
     "elo5v5": 111
-  },
-  {
-    "rank": 11,
-    "teamName": "Moon Noobs",
-    "elo5v5": 110
   },
   {
     "rank": 12,
