@@ -8242,7 +8242,6 @@
         "1003802537280929923",
         "1134911288334635180",
         "1472628091875623135",
-        "1031285250850046103",
         "929195266668634212",
         "1492741460674744371",
         "970437745036132362",
@@ -10317,14 +10316,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1780101637521,
       "lastOpponents": []
     }
   },
@@ -17781,7 +17772,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780102007890": {
+      "team1Id": "952667718363009074",
+      "team2Id": "813556928034635807",
+      "team1Name": "Zero",
+      "team2Name": "Spurs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780102007890
+    },
+    "1780102027891": {
+      "team1Id": "813556928034635807",
+      "team2Id": "216309723933310977",
+      "team1Name": "Spurs",
+      "team2Name": "RB Leipzig",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780102027891
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
