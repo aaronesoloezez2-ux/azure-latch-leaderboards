@@ -8710,7 +8710,6 @@
         "854385657257787392",
         "1123099862439821413",
         "740817093490114580",
-        "1115974502984196187",
         "1237287086801817671",
         "1131031661694423120"
       ],
@@ -10289,13 +10288,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1280938486030930077": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780167136995,
       "lastOpponents": []
     }
   },
@@ -17782,7 +17774,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780167736412": {
+      "team1Id": "1280938486030930077",
+      "team2Id": "1464125504448626956",
+      "team1Name": "Spurs",
+      "team2Name": "sown fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780167736412
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
