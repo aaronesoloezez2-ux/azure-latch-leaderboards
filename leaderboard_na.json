@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Abibas NA",
-    "elo5v5": 173
+    "elo5v5": 182
   },
   {
     "rank": 4,
@@ -186,32 +186,32 @@
   },
   {
     "rank": 38,
-    "teamName": "Seirin",
-    "elo5v5": 19
-  },
-  {
-    "rank": 39,
     "teamName": "Serendipity",
     "elo5v5": 11
   },
   {
-    "rank": 40,
+    "rank": 39,
     "teamName": "sown fc",
     "elo5v5": 10
   },
   {
-    "rank": 41,
+    "rank": 40,
     "teamName": "Periastron",
     "elo5v5": 7
   },
   {
-    "rank": 42,
+    "rank": 41,
     "teamName": "Son",
     "elo5v5": 5
   },
   {
-    "rank": 43,
+    "rank": 42,
     "teamName": "Octagram",
+    "elo5v5": 4
+  },
+  {
+    "rank": 43,
+    "teamName": "Seirin",
     "elo5v5": 4
   },
   {
