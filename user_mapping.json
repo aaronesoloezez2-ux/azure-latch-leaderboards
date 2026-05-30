@@ -800,12 +800,6 @@
     "region": "NA",
     "elo5v5": 166
   },
-  "1194824379956203762": {
-    "team": "Bear United",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 166
-  },
   "1500524228108226570": {
     "team": "Bear United",
     "isLeader": false,
@@ -11531,7 +11525,7 @@
   },
   "1176759288019038219": {
     "team": "Metalogic",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
