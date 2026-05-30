@@ -13407,6 +13407,12 @@
     "region": "Asia",
     "elo5v5": 1
   },
+  "126567249013125946": {
+    "team": "Bloodborne",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 1
+  },
   "1247118076084748402": {
     "team": "Calamity",
     "isLeader": true,
@@ -18119,12 +18125,6 @@
     "elo5v5": 0
   },
   "802646047369330688": {
-    "team": "Hoshino (星野)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "126567249013125946": {
     "team": "Hoshino (星野)",
     "isLeader": false,
     "region": "Asia",
