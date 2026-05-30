@@ -9623,8 +9623,7 @@
       "elo5v5": 148,
       "elo11v11": 0,
       "leaders": [
-        "216309723933310977",
-        "949878090341949522"
+        "216309723933310977"
       ],
       "players": [
         "733837796741087283",
@@ -10337,6 +10336,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1125171739102564432": {
+      "teamName": "Yggdrasil",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780107159592,
       "lastOpponents": []
     }
   },
@@ -17796,14 +17802,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780104768302": {
+    "1780106943670": {
       "team1Id": "749678245863227462",
-      "team2Id": "644671963054473216",
+      "team2Id": "1125171739102564432",
       "team1Name": "Luminous",
-      "team2Name": "sown fc",
+      "team2Name": "Yggdrasil",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780104768302
+      "timestamp": 1780106943670
     }
   },
   "pendingVCRequests": {},
