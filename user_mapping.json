@@ -22258,7 +22258,7 @@
   },
   "1497199529584365809": {
     "team": "The Ashen Eleven",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
   },
