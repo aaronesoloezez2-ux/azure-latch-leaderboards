@@ -9207,7 +9207,7 @@
       "achievements": []
     },
     "Vorpal Swords": {
-      "elo5v5": 18,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
@@ -9505,7 +9505,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1280938486030930077",
@@ -10294,12 +10294,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
+    "1249902035352948836": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 5,
-      "startTime": 1780181547148,
+      "startTime": 1780182089721,
       "lastOpponents": []
     }
   },
@@ -17790,32 +17789,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780180970322": {
-      "team1Id": "567041024615120928",
+    "1780181950468": {
+      "team1Id": "952667718363009074",
       "team2Id": "1143485438787596389",
-      "team1Name": "Abibas NA",
+      "team1Name": "Zero",
       "team2Name": "Masquerade",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780180970322
-    },
-    "1780181215360": {
-      "team1Id": "662551566397472798",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Paragon",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780181215360
-    },
-    "1780181395388": {
-      "team1Id": "757056855175594004",
-      "team2Id": "662551566397472798",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Paragon",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780181395388
+      "timestamp": 1780181950468
     }
   },
   "pendingVCRequests": {},
