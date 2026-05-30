@@ -9562,7 +9562,6 @@
         "210078842362920991",
         "982789262300807198",
         "1374154116351262892",
-        "829504713950101534",
         "347283418553253888",
         "767181637040734218",
         "697195120361078835",
@@ -10291,18 +10290,18 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780173369600,
-      "lastOpponents": []
-    },
     "1249902035352948836": {
       "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
       "startTime": 1780173604564,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780174116635,
       "lastOpponents": []
     }
   },
@@ -15102,6 +15101,12 @@
       "playerId": "957242675839500318",
       "inviterId": "938564876199145494",
       "timestamp": 1780173456810
+    },
+    "1780173854295": {
+      "teamName": "Masquerade",
+      "playerId": "1426419421026455565",
+      "inviterId": "1143485438787596389",
+      "timestamp": 1780173854295
     }
   },
   "userNicknames": {
@@ -17805,7 +17810,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780174208960": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Kiseki",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780174208960
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
