@@ -2013,7 +2013,7 @@
       "achievements": []
     },
     "Ubers+": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1341570180551016541",
@@ -8549,7 +8549,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -15076,11 +15076,7 @@
     "1210078842362920991": 1780355273328,
     "1467619174930186332": 1780355644462
   },
-  "pendingInvites": {
-    "invite_1280938486030930077": {
-      "cooldownUntil": 1780183134692
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17789,32 +17785,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780182415528": {
+    "1780183355801": {
       "team1Id": "1249902035352948836",
-      "team2Id": "1280938486030930077",
+      "team2Id": "1437355351958749254",
       "team1Name": "Kiseki",
-      "team2Name": "Spurs",
+      "team2Name": "Ubers+",
       "team1Vote": true,
       "team2Vote": null,
-      "timestamp": 1780182415528
-    },
-    "1780182485700": {
-      "team1Id": "926536409106485338",
-      "team2Id": "1280938486030930077",
-      "team1Name": "Kiseki",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780182485700
-    },
-    "1780182645714": {
-      "team1Id": "1280938486030930077",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Spurs",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780182645714
+      "timestamp": 1780183355801
     }
   },
   "pendingVCRequests": {},
