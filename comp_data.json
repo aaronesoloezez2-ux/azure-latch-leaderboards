@@ -7669,7 +7669,7 @@
       "achievements": []
     },
     "Masquerade": {
-      "elo5v5": 21,
+      "elo5v5": 9,
       "elo11v11": 0,
       "leaders": [
         "597676720413343745",
@@ -9266,7 +9266,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 254,
+      "elo5v5": 259,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10290,13 +10290,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "662551566397472798": {
-      "teamName": "Paragon",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780167979418,
       "lastOpponents": []
     }
   },
@@ -17783,7 +17776,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780168851974": {
+      "team1Id": "662551566397472798",
+      "team2Id": "728385309666050149",
+      "team1Name": "Paragon",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780168851974
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
