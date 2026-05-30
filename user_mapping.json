@@ -13407,12 +13407,6 @@
     "region": "Asia",
     "elo5v5": 1
   },
-  "126567249013125946": {
-    "team": "Bloodborne",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 1
-  },
   "1247118076084748402": {
     "team": "Calamity",
     "isLeader": true,
@@ -22263,6 +22257,18 @@
   },
   "1318578611250397289": {
     "team": "Reborn Egoists",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "126567249013125946": {
+    "team": "Papachi",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1354519960147333160": {
+    "team": "Papachi",
     "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
