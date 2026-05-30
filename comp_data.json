@@ -9069,21 +9069,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Exoscape": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1490083990504472708"
-      ],
-      "players": [
-        "678165469168926720",
-        "957601723407532052",
-        "976889747958018168",
-        "1203296228821958676"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Juventus FC": {
       "elo5v5": 23,
       "elo11v11": 0,
@@ -10321,11 +10306,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "1437355351958749254": {
-      "teamName": "Ubers+",
+    "1280938486030930077": {
+      "teamName": "Spurs",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780122642401,
+      "startTime": 1780160645882,
       "lastOpponents": []
     }
   },
@@ -15111,8 +15096,11 @@
       "inviterId": "1352044719089127425",
       "timestamp": 1780157858420
     },
-    "invite_1261330439637827635": {
-      "cooldownUntil": 1780160733802
+    "1780160622052": {
+      "teamName": "Ascendant FC",
+      "playerId": "1222344505244782677",
+      "inviterId": "1036332587154669588",
+      "timestamp": 1780160622052
     }
   },
   "userNicknames": {
@@ -17810,7 +17798,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780160479522": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "1280938486030930077",
+      "team1Name": "Ubers+",
+      "team2Name": "Spurs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780160479522
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
