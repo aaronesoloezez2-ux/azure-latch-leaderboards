@@ -18160,12 +18160,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1136220892033204234": {
-    "team": "Hoshino (星野)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1124290783235809340": {
     "team": "Hoshino (星野)",
     "isLeader": true,
@@ -19225,12 +19219,6 @@
     "elo5v5": 0
   },
   "1002794305481609216": {
-    "team": "Devil May Cry",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1167003866026475582": {
     "team": "Devil May Cry",
     "isLeader": false,
     "region": "Asia",
@@ -22267,6 +22255,43 @@
     "region": "Asia",
     "elo5v5": 0
   },
+  "1497199529584365809": {
+    "team": "The Ashen Eleven",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1136220892033204234": {
+    "team": "The Ashen Eleven",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "885500704020631592": {
+    "team": "The Ashen Eleven",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1316975964625961023": {
+    "team": "The Ashen Eleven",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1167003866026475582": {
+    "team": "The Ashen Eleven",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "814912142100398162": {
+    "team": "The Ashen Eleven",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22331,13 +22356,6 @@
     "isModerator": true
   },
   "1168868176189198418": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "885500704020631592": {
     "team": null,
     "isLeader": false,
     "region": null,
