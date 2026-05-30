@@ -8742,7 +8742,6 @@
         "689354062235303937",
         "1005947912565559356",
         "1176292038979895388",
-        "1460829570407202986",
         "926915038235734016",
         "589497085477388289",
         "1237504880864661585",
@@ -10293,13 +10292,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1249902035352948836": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780173604564,
       "lastOpponents": []
     },
     "926536409106485338": {
@@ -17811,7 +17803,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780176739471": {
+      "team1Id": "1249902035352948836",
+      "team2Id": "952667718363009074",
+      "team1Name": "Kiseki",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780176739471
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
