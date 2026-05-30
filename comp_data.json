@@ -7749,23 +7749,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Sulk": {
-      "elo5v5": 46,
-      "elo11v11": 0,
-      "leaders": [
-        "1426419421026455565"
-      ],
-      "players": [
-        "718411292112584747",
-        "823168893359095809",
-        "969685436740026458",
-        "747852467550552116",
-        "760652234513055745",
-        "475452427860967435"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Reverence": {
       "elo5v5": 66,
       "elo11v11": 0,
@@ -10314,6 +10297,13 @@
       "searchType": "unlimited",
       "region": "NA",
       "startTime": 1780173369600,
+      "lastOpponents": []
+    },
+    "1249902035352948836": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780173604564,
       "lastOpponents": []
     }
   },
