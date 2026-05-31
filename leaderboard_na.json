@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 269
+    "elo5v5": 258
   },
   {
     "rank": 2,
@@ -71,47 +71,47 @@
   },
   {
     "rank": 15,
+    "teamName": "Yggdrasil",
+    "elo5v5": 69
+  },
+  {
+    "rank": 16,
     "teamName": "Reverence",
     "elo5v5": 66
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Sees",
     "elo5v5": 62
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Bear United U-20",
     "elo5v5": 60
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 53
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Llantines fc",
     "elo5v5": 42
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Undying Spirits",
     "elo5v5": 41
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Spurs",
     "elo5v5": 41
   },
   {
-    "rank": 22,
-    "teamName": "Yakuza",
-    "elo5v5": 40
-  },
-  {
     "rank": 23,
-    "teamName": "Yggdrasil",
+    "teamName": "Yakuza",
     "elo5v5": 40
   },
   {
