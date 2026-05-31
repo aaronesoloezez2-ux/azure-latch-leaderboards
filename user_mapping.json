@@ -21635,13 +21635,6 @@
     "region": "NA",
     "elo5v5": 7
   },
-  "460090789272354817": {
-    "team": "Periastron",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 7,
-    "isModerator": true
-  },
   "1353220534367682582": {
     "team": "Periastron",
     "isLeader": false,
@@ -22485,6 +22478,13 @@
     "isModerator": true
   },
   "1355669102731202580": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "460090789272354817": {
     "team": null,
     "isLeader": false,
     "region": null,
