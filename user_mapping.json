@@ -16332,12 +16332,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "958458428093788210": {
-    "team": "PARIS.X.GEN",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1495843811832762609": {
     "team": "PARIS.X.GEN",
     "isLeader": false,
@@ -22357,6 +22351,42 @@
   },
   "1435327843289665596": {
     "team": "Kyoto",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "958458428093788210": {
+    "team": "Baroueth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "606841799868153900": {
+    "team": "Baroueth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "797549669814763571": {
+    "team": "Baroueth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "534917088368918540": {
+    "team": "Baroueth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1323809399390601249": {
+    "team": "Baroueth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "949492010002313216": {
+    "team": "Baroueth",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
