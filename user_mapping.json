@@ -8056,12 +8056,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "935627001748918302": {
-    "team": "Cry",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1292158701070979074": {
     "team": "Cry",
     "isLeader": false,
@@ -22153,19 +22147,7 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1003647453674885192": {
-    "team": "Reborn Egoists",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "1449451991049830433": {
-    "team": "Reborn Egoists",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
-  "1247581160146472976": {
     "team": "Reborn Egoists",
     "isLeader": false,
     "region": "Asia",
@@ -22438,6 +22420,48 @@
     "team": "Bastard München",
     "isLeader": true,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "1446443012203745362": {
+    "team": "Vortex FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1463193917900984340": {
+    "team": "Vortex FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1247581160146472976": {
+    "team": "Vortex FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1027842904271630387": {
+    "team": "Vortex FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "935627001748918302": {
+    "team": "Vortex FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1003647453674885192": {
+    "team": "Vortex FC",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1354519960147333160": {
+    "team": "Vortex FC",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   },
   "1290679358528290868": {
