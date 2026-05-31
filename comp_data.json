@@ -5618,7 +5618,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 171,
+      "elo5v5": 159,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -9912,7 +9912,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 177,
+      "elo5v5": 188,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976",
@@ -10310,6 +10310,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "662551566397472798": {
+      "teamName": "Paragon",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780187564643,
       "lastOpponents": []
     }
   },
@@ -15097,8 +15104,14 @@
       "inviterId": "1435327843289665596",
       "timestamp": 1780187222112
     },
-    "invite_1435327843289665596": {
-      "cooldownUntil": 1780187522112
+    "1780187576440": {
+      "teamName": "B0MB",
+      "playerId": "970405556579876905",
+      "inviterId": "852164591839870976",
+      "timestamp": 1780187576440
+    },
+    "invite_852164591839870976": {
+      "cooldownUntil": 1780187876440
     }
   },
   "userNicknames": {
