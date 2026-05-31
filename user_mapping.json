@@ -22196,110 +22196,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "967575388547055686": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "954942845226197042": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1188626351549337750": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "858858025213624350": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "767181637040734218": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1390755048434307092": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "756734290959794309": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "478725373513695244": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "945380402862911568": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "815362774393552966": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1464125504448626956": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "950149614361800774": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "898989192820965389": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "804331211581030421": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "836064878660812861": {
-    "team": "comp top 1",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1507545013096153099": {
-    "team": "comp top 1",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1013576163488182343": {
-    "team": "comp top 1",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1442612783513337957": {
     "team": "Ultra Ego",
     "isLeader": false,
@@ -22439,6 +22335,110 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 126
+  },
+  "967575388547055686": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "954942845226197042": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1188626351549337750": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "858858025213624350": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "767181637040734218": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1390755048434307092": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "756734290959794309": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "478725373513695244": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "945380402862911568": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "815362774393552966": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1464125504448626956": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "950149614361800774": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "898989192820965389": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "804331211581030421": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "836064878660812861": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1507545013096153099": {
+    "team": "comp top 1 na",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1013576163488182343": {
+    "team": "comp top 1 na",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
