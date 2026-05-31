@@ -21841,13 +21841,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "751740180083245116": {
-    "team": "Creation",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "1418531709665935412": {
     "team": "Creation",
     "isLeader": false,
@@ -22391,14 +22384,39 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1290679358528290868": {
-    "team": null,
+  "992829913092599830": {
+    "team": "Quantum",
     "isLeader": false,
-    "region": null,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "708404484505731132": {
+    "team": "Quantum",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "896720760985497640": {
+    "team": "Quantum",
+    "isLeader": false,
+    "region": "Europe",
     "elo5v5": 0,
     "isModerator": true
   },
-  "896720760985497640": {
+  "751740180083245116": {
+    "team": "Quantum",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1464280064530186352": {
+    "team": "Quantum",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1290679358528290868": {
     "team": null,
     "isLeader": false,
     "region": null,
