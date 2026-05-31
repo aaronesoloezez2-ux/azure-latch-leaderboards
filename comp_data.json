@@ -9466,7 +9466,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 41,
+      "elo5v5": 20,
       "elo11v11": 0,
       "leaders": [
         "1280938486030930077",
@@ -10195,7 +10195,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 21,
+      "elo5v5": 42,
       "elo11v11": 0,
       "leaders": [
         "1481494653604856011",
@@ -10417,6 +10417,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780203005502,
       "lastOpponents": []
     }
   },
