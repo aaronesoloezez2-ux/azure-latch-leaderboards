@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 262
+    "elo5v5": 267
   },
   {
     "rank": 2,
@@ -101,32 +101,32 @@
   },
   {
     "rank": 21,
-    "teamName": "Kyoto",
-    "elo5v5": 42
-  },
-  {
-    "rank": 22,
     "teamName": "Undying Spirits",
     "elo5v5": 41
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Yakuza",
     "elo5v5": 40
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Infernum",
     "elo5v5": 37
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Re Al - Youth",
     "elo5v5": 37
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "sown fc",
+    "elo5v5": 30
+  },
+  {
+    "rank": 26,
+    "teamName": "Kyoto",
     "elo5v5": 30
   },
   {
