@@ -9883,7 +9883,6 @@
       ],
       "players": [
         "1189274855208665131",
-        "1315171990864269346",
         "1065743018545660004",
         "1502806949513793618",
         "1160446220272140368",
@@ -10395,11 +10394,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "1280938486030930077": {
-      "teamName": "Spurs",
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780197781575,
+      "startTime": 1780198413052,
       "lastOpponents": []
     }
   },
@@ -15193,9 +15192,6 @@
       "playerId": "834564942748450877",
       "inviterId": "1489954649032228865",
       "timestamp": 1780197899123
-    },
-    "invite_1489954649032228865": {
-      "cooldownUntil": 1780198199123
     }
   },
   "userNicknames": {
@@ -17911,7 +17907,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780198143977": {
+      "team1Id": "1280938486030930077",
+      "team2Id": "757056855175594004",
+      "team1Name": "Spurs",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780198143977
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
