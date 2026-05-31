@@ -22495,7 +22495,7 @@
   },
   "572170241820459042": {
     "team": "G50",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
