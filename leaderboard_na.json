@@ -1211,22 +1211,22 @@
   },
   {
     "rank": 243,
-    "teamName": "comp top 1",
-    "elo5v5": 0
-  },
-  {
-    "rank": 244,
     "teamName": "Ultra Ego",
     "elo5v5": 0
   },
   {
-    "rank": 245,
+    "rank": 244,
     "teamName": "G50",
     "elo5v5": 0
   },
   {
-    "rank": 246,
+    "rank": 245,
     "teamName": "Tensen",
+    "elo5v5": 0
+  },
+  {
+    "rank": 246,
+    "teamName": "comp top 1 na",
     "elo5v5": 0
   }
 ]
