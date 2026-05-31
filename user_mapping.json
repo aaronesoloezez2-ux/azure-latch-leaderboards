@@ -11090,12 +11090,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1251953074134847498": {
-    "team": "Olympus",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1355038967183179827": {
     "team": "Infernum",
     "isLeader": true,
@@ -21513,12 +21507,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "965000459469348864": {
-    "team": "Periastron",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 7
-  },
   "1200920802246262925": {
     "team": "Periastron",
     "isLeader": false,
@@ -22146,12 +22134,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "636302097742299147": {
-    "team": "Kyoto",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
   "1481494653604856011": {
     "team": "Kyoto",
     "isLeader": true,
@@ -22521,6 +22503,48 @@
   "779547098000916480": {
     "team": "G50",
     "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1510476168694857921": {
+    "team": "Tensen",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1037140271101653052": {
+    "team": "Tensen",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "553371454607982596": {
+    "team": "Tensen",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "636302097742299147": {
+    "team": "Tensen",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1251953074134847498": {
+    "team": "Tensen",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1344121131120070687": {
+    "team": "Tensen",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "965000459469348864": {
+    "team": "Tensen",
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
