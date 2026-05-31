@@ -16913,13 +16913,6 @@
     "elo5v5": 21,
     "isModerator": true
   },
-  "788089537381400596": {
-    "team": "Chapter",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21,
-    "isModerator": true
-  },
   "946766574545682443": {
     "team": "Chapter",
     "isLeader": false,
@@ -22526,6 +22519,13 @@
     "isModerator": true
   },
   "1355669102731202580": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "788089537381400596": {
     "team": null,
     "isLeader": false,
     "region": null,
