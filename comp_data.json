@@ -1984,7 +1984,7 @@
       "achievements": []
     },
     "Parxousia": {
-      "elo5v5": 131,
+      "elo5v5": 143,
       "elo11v11": 0,
       "leaders": [
         "1223118682767757343",
@@ -8582,7 +8582,7 @@
         "1307542829228363861"
       ],
       "region": "Asia",
-      "elo5v5": 4,
+      "elo5v5": 0,
       "elo11v11": 0,
       "achievements": []
     },
@@ -15189,14 +15189,7 @@
     "1166377738899312732": 1780391701857,
     "954439141179940875": 1780398969720
   },
-  "pendingInvites": {
-    "1780220588256": {
-      "teamName": "Noviluna Aeterna",
-      "playerId": "1475116259807985726",
-      "inviterId": "1350267195736981617",
-      "timestamp": 1780220588256
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
