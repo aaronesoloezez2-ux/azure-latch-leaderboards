@@ -21519,18 +21519,6 @@
     "region": "NA",
     "elo5v5": 7
   },
-  "1353220534367682582": {
-    "team": "Periastron",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 7
-  },
-  "779547098000916480": {
-    "team": "Periastron",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 7
-  },
   "1200920802246262925": {
     "team": "Periastron",
     "isLeader": false,
@@ -22505,6 +22493,37 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "572170241820459042": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "396111393058979840": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "460090789272354817": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1353220534367682582": {
+    "team": "G50",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "779547098000916480": {
+    "team": "G50",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22520,13 +22539,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "460090789272354817": {
     "team": null,
     "isLeader": false,
     "region": null,
