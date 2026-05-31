@@ -8650,7 +8650,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 32,
+      "elo5v5": 18,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -9498,7 +9498,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 199,
+      "elo5v5": 206,
       "elo11v11": 0,
       "leaders": [
         "1364318290088034335",
@@ -10393,13 +10393,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780198413052,
       "lastOpponents": []
     }
   },
@@ -15193,9 +15186,6 @@
       "playerId": "834564942748450877",
       "inviterId": "1489954649032228865",
       "timestamp": 1780197899123
-    },
-    "invite_1280938486030930077": {
-      "cooldownUntil": 1780198900225
     }
   },
   "userNicknames": {
@@ -17911,17 +17901,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780198143977": {
-      "team1Id": "1280938486030930077",
-      "team2Id": "757056855175594004",
-      "team1Name": "Spurs",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780198143977
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
