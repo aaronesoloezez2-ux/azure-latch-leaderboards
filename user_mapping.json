@@ -20141,6 +20141,12 @@
     "elo5v5": 30,
     "isModerator": true
   },
+  "729549901209403424": {
+    "team": "sown fc",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 30
+  },
   "644671963054473216": {
     "team": "sown fc",
     "isLeader": true,
@@ -20380,12 +20386,6 @@
     "region": "NA",
     "elo5v5": 120,
     "isModerator": true
-  },
-  "697195120361078835": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
   },
   "804116659983220746": {
     "team": "RB Leipzig",
