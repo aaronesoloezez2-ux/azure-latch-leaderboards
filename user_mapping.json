@@ -21633,12 +21633,6 @@
     "region": "NA",
     "elo5v5": 1
   },
-  "836064878660812861": {
-    "team": "swegg",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 1
-  },
   "857399142196052008": {
     "team": "swegg",
     "isLeader": true,
@@ -22295,6 +22289,12 @@
     "elo5v5": 0
   },
   "804331211581030421": {
+    "team": "comp top 1",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "836064878660812861": {
     "team": "comp top 1",
     "isLeader": false,
     "region": "NA",
