@@ -10178,7 +10178,6 @@
       ],
       "players": [
         "1497199529584365809",
-        "1136220892033204234",
         "885500704020631592",
         "1316975964625961023",
         "1167003866026475582",
@@ -10394,6 +10393,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1280938486030930077": {
+      "teamName": "Spurs",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780197781575,
       "lastOpponents": []
     }
   },
@@ -15182,8 +15188,14 @@
     "1305332535949262939": 1780366101014
   },
   "pendingInvites": {
-    "invite_852164591839870976": {
-      "cooldownUntil": 1780197113291
+    "1780197899123": {
+      "teamName": "True Destiny",
+      "playerId": "834564942748450877",
+      "inviterId": "1489954649032228865",
+      "timestamp": 1780197899123
+    },
+    "invite_1489954649032228865": {
+      "cooldownUntil": 1780198199123
     }
   },
   "userNicknames": {
