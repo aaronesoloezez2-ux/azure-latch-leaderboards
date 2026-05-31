@@ -13978,12 +13978,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "897864780616958022": {
-    "team": "Blue Execution",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1104875977189888040": {
     "team": "Blue Execution",
     "isLeader": false,
@@ -20551,12 +20545,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1016313051923877909": {
-    "team": "Gooned Bamas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1510060221643624541": {
     "team": "Gooned Bamas",
     "isLeader": false,
@@ -20570,12 +20558,6 @@
     "elo5v5": 0
   },
   "968892954775269376": {
-    "team": "Gooned Bamas",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1330095513126830172": {
     "team": "Gooned Bamas",
     "isLeader": false,
     "region": "Europe",
@@ -22232,6 +22214,12 @@
     "region": "Asia",
     "elo5v5": 0
   },
+  "1252605292613734403": {
+    "team": "The Ashen Eleven",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
   "814912142100398162": {
     "team": "The Ashen Eleven",
     "isLeader": true,
@@ -22400,6 +22388,54 @@
   },
   "1464280064530186352": {
     "team": "Quantum",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "814957796851449857": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "476478079527550987": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1112470235853901935": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1016313051923877909": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "897864780616958022": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1330095513126830172": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "773597347187261460": {
+    "team": "Bastard München",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "706327949414105138": {
+    "team": "Bastard München",
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
