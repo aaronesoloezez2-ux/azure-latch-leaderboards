@@ -20092,69 +20092,6 @@
     "region": "NA",
     "elo5v5": 206
   },
-  "733837796741087283": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "210078842362920991": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "982789262300807198": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "1374154116351262892": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120,
-    "isModerator": true
-  },
-  "347283418553253888": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "804116659983220746": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "1153499590855753728": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "949878090341949522": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120,
-    "isModerator": true
-  },
-  "723963456549683270": {
-    "team": "RB Leipzig",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120,
-    "isModerator": true
-  },
-  "216309723933310977": {
-    "team": "RB Leipzig",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 120
-  },
   "1011257432346988655": {
     "team": "Arknights FC",
     "isLeader": false,
@@ -22539,6 +22476,13 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "949878090341949522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1437537784314331408": {
     "team": null,
     "isLeader": false,
@@ -22554,6 +22498,13 @@
     "isModerator": true
   },
   "959895242428002334": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1374154116351262892": {
     "team": null,
     "isLeader": false,
     "region": null,
@@ -22582,6 +22533,13 @@
     "isModerator": true
   },
   "1329326547525570571": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "723963456549683270": {
     "team": null,
     "isLeader": false,
     "region": null,
