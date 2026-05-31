@@ -19657,30 +19657,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "381953108760068106": {
-    "team": "G50:K",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 126
-  },
-  "899073137742848022": {
-    "team": "G50:K",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 126
-  },
-  "1224420632184225943": {
-    "team": "G50:K",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 126
-  },
-  "1063643597418807377": {
-    "team": "G50:K",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 126
-  },
   "864753158328287233": {
     "team": "Na'Vi",
     "isLeader": false,
@@ -22535,6 +22511,30 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
+  },
+  "381953108760068106": {
+    "team": "Kurain",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 126
+  },
+  "899073137742848022": {
+    "team": "Kurain",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 126
+  },
+  "1224420632184225943": {
+    "team": "Kurain",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 126
+  },
+  "1063643597418807377": {
+    "team": "Kurain",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 126
   },
   "1290679358528290868": {
     "team": null,
