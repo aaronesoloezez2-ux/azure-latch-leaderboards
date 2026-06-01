@@ -5343,12 +5343,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1240936747236593665": {
-    "team": "Azure Lock Progra",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "695694599561150471": {
     "team": "Azure Lock Progra",
     "isLeader": true,
@@ -9342,6 +9336,12 @@
   },
   "572128198045990923": {
     "team": "New Eridu",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1240936747236593665": {
+    "team": "Azure Lock Progra",
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
