@@ -11439,6 +11439,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1487678022898290698": {
+    "team": "Metalogic",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "900561023759699968": {
     "team": "Rebirth Arena FC",
     "isLeader": true,
@@ -22443,13 +22449,6 @@
     "isModerator": true
   },
   "1290679358528290868": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1244400339243892806": {
     "team": null,
     "isLeader": false,
     "region": null,
