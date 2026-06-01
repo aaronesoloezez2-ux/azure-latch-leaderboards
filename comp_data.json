@@ -10283,7 +10283,7 @@
       ]
     },
     "comp top 1 na": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1507545013096153099",
@@ -10369,6 +10369,20 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1143485438787596389": {
+      "teamName": "Masquerade",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780355249316,
+      "lastOpponents": []
+    },
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780355654597,
       "lastOpponents": []
     }
   },
@@ -15170,7 +15184,14 @@
     "1445551978120741016": 1780525779564,
     "945363515680641034": 1780527182782
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780355310612": {
+      "teamName": "Metalogic",
+      "playerId": "1487678022898290698",
+      "inviterId": "1381851488569004103",
+      "timestamp": 1780355310612
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "bbq bacon burger",
