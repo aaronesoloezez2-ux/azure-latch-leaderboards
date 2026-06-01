@@ -10729,6 +10729,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1445551978120741016": {
+    "team": "Re Al",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "509160088632819712": {
     "team": "Re Al",
     "isLeader": true,
@@ -22268,13 +22275,6 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
-  },
-  "1445551978120741016": {
-    "team": "Tensen",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
   },
   "965000459469348864": {
     "team": "Tensen",
