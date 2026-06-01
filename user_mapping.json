@@ -5799,12 +5799,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1149075387452764252": {
-    "team": "Tentei",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1488435842945908867": {
     "team": "Tentei",
     "isLeader": false,
@@ -18153,12 +18147,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1022574676817498252": {
-    "team": "AfterShrine",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1351294778196889706": {
     "team": "AfterShrine",
     "isLeader": false,
@@ -19396,12 +19384,6 @@
     "team": "Kiseki",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
-  },
-  "1056659996202512505": {
-    "team": "Heavens Society",
-    "isLeader": false,
-    "region": "Europe",
     "elo5v5": 0
   },
   "1352044719089127425": {
@@ -22411,6 +22393,37 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1022574676817498252": {
+    "team": "Theory",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1149075387452764252": {
+    "team": "Theory",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "933825413011079210": {
+    "team": "Theory",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1056659996202512505": {
+    "team": "Theory",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "788089537381400596": {
+    "team": "Theory",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22426,13 +22439,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "788089537381400596": {
     "team": null,
     "isLeader": false,
     "region": null,
