@@ -21904,13 +21904,6 @@
     "region": "NA",
     "elo5v5": 30
   },
-  "868139633245057035": {
-    "team": "Kyoto",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 30,
-    "isModerator": true
-  },
   "1469123991271899318": {
     "team": "Kyoto",
     "isLeader": false,
@@ -22433,6 +22426,13 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
+  },
+  "868139633245057035": {
+    "team": "comp top 1 na",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1507545013096153099": {
     "team": "comp top 1 na",
