@@ -19932,6 +19932,12 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "1200920802246262925": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1081319797180088422": {
     "team": "Abibas NA",
     "isLeader": false,
@@ -21240,12 +21246,6 @@
   "1036332587154669588": {
     "team": "Ascendant FC",
     "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1200920802246262925": {
-    "team": "Periastron",
-    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
