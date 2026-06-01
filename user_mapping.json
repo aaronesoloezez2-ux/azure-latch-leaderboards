@@ -19398,12 +19398,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1124196641893798008": {
-    "team": "Kiseki",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1352044719089127425": {
     "team": "Heavens Society",
     "isLeader": true,
@@ -19939,6 +19933,12 @@
     "isModerator": true
   },
   "1200920802246262925": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1124196641893798008": {
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
