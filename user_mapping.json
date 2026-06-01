@@ -19398,12 +19398,6 @@
     "region": "NA",
     "elo5v5": 267
   },
-  "1204496416203083787": {
-    "team": "Kiseki",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 267
-  },
   "1124196641893798008": {
     "team": "Kiseki",
     "isLeader": false,
@@ -21900,6 +21894,12 @@
     "elo5v5": 30
   },
   "1323379766098661437": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 30
+  },
+  "1204496416203083787": {
     "team": "Kyoto",
     "isLeader": false,
     "region": "NA",
