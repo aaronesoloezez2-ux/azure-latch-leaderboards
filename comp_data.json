@@ -9718,7 +9718,6 @@
         "1217494684943909045",
         "587728310944006164",
         "728450543768305724",
-        "1396775140095819867",
         "1489615012304785568",
         "882985151968198716",
         "887479190704758834",
@@ -10371,13 +10370,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780346578295,
       "lastOpponents": []
     }
   },
@@ -15179,11 +15171,7 @@
     "1215310388514521120": 1780523703017,
     "1285988942877032593": 1780523757986
   },
-  "pendingInvites": {
-    "invite_509160088632819712": {
-      "cooldownUntil": 1780351237724
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "bbq bacon burger",
@@ -17910,7 +17898,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780351952455": {
+      "team1Id": "1507545013096153099",
+      "team2Id": "757056855175594004",
+      "team1Name": "comp top 1 na",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780351952455
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
