@@ -7631,7 +7631,6 @@
         "800823045958402058",
         "829504713950101534",
         "1193794594157117495",
-        "945363515680641034",
         "216309723933310977",
         "792524269736951840",
         "1153499590855753728"
@@ -17898,7 +17897,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780353857977": {
+      "team1Id": "740375608474992662",
+      "team2Id": "749678245863227462",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Spurs",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780353857977
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
