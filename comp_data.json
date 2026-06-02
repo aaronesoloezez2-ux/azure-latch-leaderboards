@@ -8174,7 +8174,8 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "847505723763195914"
+        "847505723763195914",
+        "1110317128952844339"
       ],
       "players": [
         "1093982372178964581",
@@ -18005,6 +18006,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780438632631
+    },
+    "1780438802765": {
+      "team1Id": "757056855175594004",
+      "team2Id": "567041024615120928",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Abibas NA",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780438802765
     }
   },
   "pendingVCRequests": {},
