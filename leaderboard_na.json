@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Spurs",
+    "elo5v5": 43
+  },
+  {
+    "rank": 4,
     "teamName": "Kiseki",
     "elo5v5": 42
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Citizens-U3",
     "elo5v5": 41
-  },
-  {
-    "rank": 5,
-    "teamName": "Spurs",
-    "elo5v5": 23
   },
   {
     "rank": 6,
