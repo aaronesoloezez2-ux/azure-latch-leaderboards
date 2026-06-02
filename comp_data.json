@@ -4561,8 +4561,7 @@
         "1265561935332773951",
         "1303855599204827227",
         "518398036704100353",
-        "1034937186610581546",
-        "288683252581924864"
+        "1034937186610581546"
       ],
       "region": "NA",
       "achievements": [],
@@ -10389,13 +10388,6 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
-    },
-    "1143485438787596389": {
-      "teamName": "Masquerade",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780431791478,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15227,11 +15219,14 @@
     "1474149459595100170": 1780604865844
   },
   "pendingInvites": {
-    "invite_938564876199145494": {
-      "cooldownUntil": 1780432041314
+    "1780432800991": {
+      "teamName": "Avernus: Order",
+      "playerId": "1170004256036761672",
+      "inviterId": "818162843701739520",
+      "timestamp": 1780432800991
     },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1780432362052
+    "invite_818162843701739520": {
+      "cooldownUntil": 1780433100991
     }
   },
   "userNicknames": {
@@ -17994,7 +17989,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780432866650": {
+      "team1Id": "1143485438787596389",
+      "team2Id": "938564876199145494",
+      "team1Name": "Masquerade",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1780432866650
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
