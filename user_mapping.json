@@ -14933,12 +14933,6 @@
     "region": "Europe",
     "elo5v5": 21
   },
-  "1394238496398508133": {
-    "team": "o-42",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "855808017248288780": {
     "team": "o-42",
     "isLeader": false,
@@ -22474,6 +22468,36 @@
     "team": "MC FC",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1394238496398508133": {
+    "team": "Zenin FC",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1001450456184275045": {
+    "team": "Zenin FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1506016232246349918": {
+    "team": "Zenin FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1388543992903372914": {
+    "team": "Zenin FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "426470187039064094": {
+    "team": "Zenin FC",
+    "isLeader": false,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
