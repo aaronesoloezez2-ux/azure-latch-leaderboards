@@ -9072,24 +9072,6 @@
       "region": "Asia",
       "achievements": []
     },
-    "Vorpal Swords": {
-      "elo5v5": 21,
-      "elo11v11": 0,
-      "leaders": [
-        "722164644558667816"
-      ],
-      "players": [
-        "1110317128952844339",
-        "572988547812950016",
-        "722164644558667816",
-        "1025178336122650644",
-        "1322341986149077095",
-        "1482063866778357993",
-        "1333563921776509002"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Resurrection": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10389,6 +10371,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "597676720413343745": {
+      "teamName": "Masquerade",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 15,
+      "startTime": 1780438965918,
       "lastOpponents": []
     }
   },
@@ -17993,15 +17983,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780438632631": {
-      "team1Id": "938564876199145494",
-      "team2Id": "757056855175594004",
-      "team1Name": "Citizens-U3",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780438632631
-    },
     "1780438802765": {
       "team1Id": "757056855175594004",
       "team2Id": "567041024615120928",
