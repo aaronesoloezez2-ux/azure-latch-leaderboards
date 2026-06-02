@@ -8803,7 +8803,7 @@
       "achievements": []
     },
     "Retribution": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "412399874877816842"
@@ -15165,6 +15165,15 @@
       "playerId": "1174838664644276227",
       "inviterId": "1065743018545660004",
       "timestamp": 1780362382820
+    },
+    "1780366299143": {
+      "teamName": "Citizens-U3",
+      "playerId": "589483383881465866",
+      "inviterId": "938564876199145494",
+      "timestamp": 1780366299143
+    },
+    "invite_938564876199145494": {
+      "cooldownUntil": 1780366599143
     }
   },
   "userNicknames": {
