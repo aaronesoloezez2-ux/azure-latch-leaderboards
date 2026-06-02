@@ -8175,7 +8175,8 @@
       "elo11v11": 0,
       "leaders": [
         "847505723763195914",
-        "1110317128952844339"
+        "1110317128952844339",
+        "722164644558667816"
       ],
       "players": [
         "1093982372178964581",
@@ -17982,17 +17983,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780438802765": {
-      "team1Id": "757056855175594004",
-      "team2Id": "567041024615120928",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Abibas NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780438802765
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
