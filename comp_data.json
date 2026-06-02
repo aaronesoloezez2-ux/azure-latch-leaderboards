@@ -9971,7 +9971,6 @@
         "1454016553128300567",
         "1336482567905607757",
         "1169016663878930563",
-        "1492171579944079440",
         "1235126157318295552",
         "1138359925416939621"
       ],
@@ -10388,6 +10387,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1143485438787596389": {
+      "teamName": "Masquerade",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780431791478,
       "lastOpponents": []
     }
   },
@@ -16598,7 +16604,8 @@
     "709685490974064711": "Bear",
     "795991077961465878": "@Benkro_31",
     "1194255502931153050": "Rival Requiem",
-    "1493363159980048404": "Dextrellar (Ubers+)"
+    "1493363159980048404": "Dextrellar (Ubers+)",
+    "838995804969631785": "seas"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -17978,21 +17985,12 @@
     "1194255502931153050": 1780592497512,
     "1493363159980048404": 1780596879652,
     "841945606519128074": 1780599680253,
-    "847505723763195914": 1780601923508
+    "847505723763195914": 1780601923508,
+    "838995804969631785": 1780604573180
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780431246389": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Spurs",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780431246389
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
