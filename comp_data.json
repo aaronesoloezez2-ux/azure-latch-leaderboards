@@ -5916,7 +5916,7 @@
       "achievements": []
     },
     "Metalogic": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1381851488569004103"
@@ -10356,6 +10356,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1381851488569004103": {
+      "teamName": "Metalogic",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780374562135,
       "lastOpponents": []
     }
   },
