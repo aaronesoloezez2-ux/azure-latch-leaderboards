@@ -9663,7 +9663,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -15177,6 +15177,15 @@
       "playerId": "589483383881465866",
       "inviterId": "938564876199145494",
       "timestamp": 1780366299143
+    },
+    "1780373216445": {
+      "teamName": "Ubers+",
+      "playerId": "1272362523496288272",
+      "inviterId": "1437355351958749254",
+      "timestamp": 1780373216445
+    },
+    "invite_1437355351958749254": {
+      "cooldownUntil": 1780373516445
     }
   },
   "userNicknames": {
