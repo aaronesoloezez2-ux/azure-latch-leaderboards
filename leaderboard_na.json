@@ -1,23 +1,23 @@
 [
   {
     "rank": 1,
+    "teamName": "Spurs",
+    "elo5v5": 62
+  },
+  {
+    "rank": 2,
     "teamName": "Kiseki",
     "elo5v5": 61
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Abibas NA",
     "elo5v5": 61
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 60
-  },
-  {
-    "rank": 4,
-    "teamName": "Spurs",
-    "elo5v5": 43
   },
   {
     "rank": 5,
@@ -51,12 +51,12 @@
   },
   {
     "rank": 11,
-    "teamName": "comp top 1 na",
-    "elo5v5": 21
+    "teamName": "Metalogic",
+    "elo5v5": 1
   },
   {
     "rank": 12,
-    "teamName": "Metalogic",
+    "teamName": "comp top 1 na",
     "elo5v5": 1
   },
   {
