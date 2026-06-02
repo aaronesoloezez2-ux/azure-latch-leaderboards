@@ -4593,6 +4593,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1272362523496288272": {
+    "team": "Ubers+",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "611656948726890496": {
     "team": "Albania FC",
     "isLeader": false,
@@ -19847,12 +19853,6 @@
     "region": "NA",
     "elo5v5": 23,
     "isModerator": true
-  },
-  "1023062575174406204": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 23
   },
   "1467619174930186332": {
     "team": "Spurs",
