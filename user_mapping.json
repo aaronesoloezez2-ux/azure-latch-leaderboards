@@ -22312,13 +22312,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "1464125504448626956": {
-    "team": "comp top 1 na",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
-  },
   "950149614361800774": {
     "team": "comp top 1 na",
     "isLeader": false,
@@ -22485,6 +22478,13 @@
     "isModerator": true
   },
   "290405745458020353": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1464125504448626956": {
     "team": null,
     "isLeader": false,
     "region": null,
