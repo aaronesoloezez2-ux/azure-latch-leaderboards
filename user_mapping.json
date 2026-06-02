@@ -17909,6 +17909,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "767181637040734218": {
+    "team": "Re Al U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1026865918556508200": {
     "team": "AfterBrick",
     "isLeader": false,
@@ -22539,13 +22546,6 @@
     "isModerator": true
   },
   "1168868176189198418": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "767181637040734218": {
     "team": null,
     "isLeader": false,
     "region": null,
