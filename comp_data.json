@@ -10021,7 +10021,6 @@
       ],
       "players": [
         "671094028867207178",
-        "838995804969631785",
         "854089044363313162",
         "1222617946963312712",
         "1458274913004556442",
@@ -10388,13 +10387,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780377966440,
       "lastOpponents": []
     }
   },
@@ -15226,11 +15218,7 @@
     "1204510953484582953": 1780601912103,
     "754336294347210842": 1780603756065
   },
-  "pendingInvites": {
-    "invite_1261330439637827635": {
-      "cooldownUntil": 1780431251695
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -17989,7 +17977,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780431246389": {
+      "team1Id": "749678245863227462",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Spurs",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780431246389
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
