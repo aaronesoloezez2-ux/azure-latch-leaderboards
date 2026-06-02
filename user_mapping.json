@@ -20004,6 +20004,12 @@
     "region": "NA",
     "elo5v5": 42
   },
+  "967575388547055686": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 42
+  },
   "1364318290088034335": {
     "team": "Vitality",
     "isLeader": false,
@@ -22281,12 +22287,6 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
-  },
-  "967575388547055686": {
-    "team": "comp top 1 na",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
   },
   "954942845226197042": {
     "team": "comp top 1 na",
