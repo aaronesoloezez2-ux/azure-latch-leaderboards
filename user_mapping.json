@@ -13564,12 +13564,6 @@
     "region": "SA",
     "elo5v5": 0
   },
-  "798628258866135081": {
-    "team": "AxisEleven",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "734123394068512890": {
     "team": "AxisEleven",
     "isLeader": false,
@@ -22418,6 +22412,48 @@
   },
   "1123491378249334814": {
     "team": "Fc White Rose",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "622947407633580042": {
+    "team": "MC FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "798628258866135081": {
+    "team": "MC FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "860227468183076865": {
+    "team": "MC FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1363384977860989079": {
+    "team": "MC FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1308770165227520093": {
+    "team": "MC FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1430326683189383210": {
+    "team": "MC FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1099842832929402880": {
+    "team": "MC FC",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
