@@ -10193,8 +10193,7 @@
       "elo5v5": 1,
       "elo11v11": 0,
       "leaders": [
-        "1507545013096153099",
-        "1013576163488182343"
+        "1507545013096153099"
       ],
       "players": [
         "954942845226197042",
@@ -15221,6 +15220,15 @@
     },
     "invite_1191437078932758582": {
       "cooldownUntil": 1780441882981
+    },
+    "1780441747450": {
+      "teamName": "Citizens-U3",
+      "playerId": "785224985131614239",
+      "inviterId": "938564876199145494",
+      "timestamp": 1780441747450
+    },
+    "invite_938564876199145494": {
+      "cooldownUntil": 1780442047450
     }
   },
   "userNicknames": {
@@ -17987,17 +17995,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780441032934": {
-      "team1Id": "597676720413343745",
-      "team2Id": "731225486818279457",
-      "team1Name": "Masquerade",
-      "team2Name": "Dreamers (NA)",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780441032934
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
