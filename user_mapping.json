@@ -16607,7 +16607,7 @@
   },
   "1110317128952844339": {
     "team": "Vorpal Swords",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 21
   },
