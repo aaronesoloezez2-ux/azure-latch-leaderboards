@@ -3339,20 +3339,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Los Hermanos": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1104591473086824529"
-      ],
-      "players": [
-        "709421749976039497",
-        "1104591473086824529",
-        "1226272859249311786"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "The True Larpers F.C.": {
       "leaders": [
         "820222055827505172"
@@ -10373,13 +10359,6 @@
       "region": "Asia",
       "startTime": 1779677876775,
       "lastOpponents": []
-    },
-    "1426419421026455565": {
-      "teamName": "Movement",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780365690357,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15187,6 +15166,15 @@
       "playerId": "1174838664644276227",
       "inviterId": "1065743018545660004",
       "timestamp": 1780362382820
+    },
+    "1780365936706": {
+      "teamName": "Yggdrasil",
+      "playerId": "1200920802246262925",
+      "inviterId": "1125171739102564432",
+      "timestamp": 1780365936706
+    },
+    "invite_1125171739102564432": {
+      "cooldownUntil": 1780366236706
     }
   },
   "userNicknames": {
@@ -17937,6 +17925,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780365465638
+    },
+    "1780365950694": {
+      "team1Id": "1426419421026455565",
+      "team2Id": "1435327843289665596",
+      "team1Name": "Movement",
+      "team2Name": "Kyoto",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780365950694
     }
   },
   "pendingVCRequests": {},
