@@ -16606,10 +16606,10 @@
     "isModerator": true
   },
   "1110317128952844339": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
+    "team": "Oshu Oshi NA",
+    "isLeader": true,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 0
   },
   "1335645103351533646": {
     "team": "Taishō",
@@ -19141,42 +19141,6 @@
     "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
-  },
-  "572988547812950016": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
-  "722164644558667816": {
-    "team": "Vorpal Swords",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 21
-  },
-  "1025178336122650644": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
-  "1322341986149077095": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
-  "1482063866778357993": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
-  "1333563921776509002": {
-    "team": "Vorpal Swords",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
   },
   "1257716716285333604": {
     "team": "Resurrection",
