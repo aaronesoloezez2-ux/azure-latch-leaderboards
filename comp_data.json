@@ -9140,7 +9140,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 21,
+      "elo5v5": 42,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9663,7 +9663,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -10357,13 +10357,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1381851488569004103": {
-      "teamName": "Metalogic",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780374562135,
       "lastOpponents": []
     }
   },
@@ -17903,7 +17896,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780376578047": {
+      "team1Id": "1381851488569004103",
+      "team2Id": "926536409106485338",
+      "team1Name": "Metalogic",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780376578047
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
