@@ -9138,7 +9138,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10356,6 +10356,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780369640080,
       "lastOpponents": []
     }
   },
@@ -15159,20 +15166,11 @@
     "1038336171127873588": 1780534812908
   },
   "pendingInvites": {
-    "1780362382820": {
-      "teamName": "B0MB",
-      "playerId": "1174838664644276227",
-      "inviterId": "1065743018545660004",
-      "timestamp": 1780362382820
-    },
     "1780366299143": {
       "teamName": "Citizens-U3",
       "playerId": "589483383881465866",
       "inviterId": "938564876199145494",
       "timestamp": 1780366299143
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1780366599143
     }
   },
   "userNicknames": {
@@ -17906,14 +17904,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780365950694": {
-      "team1Id": "1426419421026455565",
-      "team2Id": "1435327843289665596",
-      "team1Name": "Movement",
-      "team2Name": "Kyoto",
+    "1780369381242": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "1426419421026455565",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Movement",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780365950694
+      "timestamp": 1780369381242
     }
   },
   "pendingVCRequests": {},
