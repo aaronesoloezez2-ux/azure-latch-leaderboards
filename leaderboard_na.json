@@ -26,27 +26,27 @@
   },
   {
     "rank": 6,
+    "teamName": "B0MB",
+    "elo5v5": 22
+  },
+  {
+    "rank": 7,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Retribution",
     "elo5v5": 21
   },
   {
-    "rank": 9,
-    "teamName": "Vitality",
-    "elo5v5": 21
-  },
-  {
     "rank": 10,
-    "teamName": "Yggdrasil",
+    "teamName": "Vitality",
     "elo5v5": 21
   },
   {
@@ -1126,12 +1126,12 @@
   },
   {
     "rank": 226,
-    "teamName": "Son 2",
+    "teamName": "Yggdrasil",
     "elo5v5": 0
   },
   {
     "rank": 227,
-    "teamName": "B0MB",
+    "teamName": "Son 2",
     "elo5v5": 0
   },
   {
