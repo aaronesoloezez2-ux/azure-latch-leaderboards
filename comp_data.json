@@ -4808,8 +4808,7 @@
         "1404689163059466270",
         "1470047647573213317",
         "875765852752994375",
-        "1439259468717101188",
-        "900710005358096484"
+        "1439259468717101188"
       ],
       "region": "Europe",
       "achievements": [],
@@ -10358,6 +10357,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1435327843289665596": {
+      "teamName": "Kyoto",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780366015353,
       "lastOpponents": []
     }
   },
@@ -17902,24 +17908,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780365380620": {
-      "team1Id": "757056855175594004",
-      "team2Id": "926536409106485338",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780365380620
-    },
-    "1780365465638": {
-      "team1Id": "926536409106485338",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780365465638
-    },
     "1780365950694": {
       "team1Id": "1426419421026455565",
       "team2Id": "1435327843289665596",
