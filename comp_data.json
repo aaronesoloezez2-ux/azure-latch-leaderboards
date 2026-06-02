@@ -9373,7 +9373,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 42,
+      "elo5v5": 61,
       "elo11v11": 0,
       "leaders": [
         "1364318290088034335",
@@ -10358,11 +10358,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "728385309666050149": {
-      "teamName": "Kiseki",
+    "1437355351958749254": {
+      "teamName": "Ubers+",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780370153634,
+      "startTime": 1780373159344,
       "lastOpponents": []
     }
   },
@@ -17918,6 +17918,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780372777095
+    },
+    "1780373147280": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Kiseki",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780373147280
     }
   },
   "pendingVCRequests": {},
