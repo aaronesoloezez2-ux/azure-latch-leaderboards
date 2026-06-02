@@ -19202,12 +19202,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1211699112911568988": {
-    "team": "Resurrection",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1322753943159308348": {
     "team": "Resurrection",
     "isLeader": false,
@@ -21106,6 +21100,12 @@
     "elo5v5": 0
   },
   "1025844116669595779": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1211699112911568988": {
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
