@@ -1,23 +1,23 @@
 [
   {
     "rank": 1,
-    "teamName": "Abibas NA",
+    "teamName": "Kiseki",
     "elo5v5": 61
   },
   {
     "rank": 2,
+    "teamName": "Abibas NA",
+    "elo5v5": 61
+  },
+  {
+    "rank": 3,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 60
   },
   {
-    "rank": 3,
+    "rank": 4,
     "teamName": "Spurs",
     "elo5v5": 43
-  },
-  {
-    "rank": 4,
-    "teamName": "Kiseki",
-    "elo5v5": 42
   },
   {
     "rank": 5,
@@ -31,28 +31,28 @@
   },
   {
     "rank": 7,
-    "teamName": "Metalogic",
-    "elo5v5": 21
-  },
-  {
-    "rank": 8,
     "teamName": "Retribution",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Vorpal Swords",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Vitality",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "comp top 1 na",
     "elo5v5": 21
+  },
+  {
+    "rank": 11,
+    "teamName": "Metalogic",
+    "elo5v5": 1
   },
   {
     "rank": 12,
