@@ -9420,7 +9420,8 @@
         "578719398785974272",
         "1093388128527601695",
         "868243652416254034",
-        "862970828299436044"
+        "862970828299436044",
+        "967575388547055686"
       ],
       "region": "NA",
       "achievements": []
@@ -10277,7 +10278,6 @@
         "1013576163488182343"
       ],
       "players": [
-        "967575388547055686",
         "954942845226197042",
         "1188626351549337750",
         "858858025213624350",
@@ -10375,11 +10375,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "926536409106485338": {
-      "teamName": "Kiseki",
+    "1426419421026455565": {
+      "teamName": "Movement",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780364771292,
+      "startTime": 1780365690357,
       "lastOpponents": []
     }
   },
@@ -17920,7 +17920,35 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780365150602": {
+      "team1Id": "926536409106485338",
+      "team2Id": "757056855175594004",
+      "team1Name": "Kiseki",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780365150602
+    },
+    "1780365380620": {
+      "team1Id": "757056855175594004",
+      "team2Id": "926536409106485338",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780365380620
+    },
+    "1780365465638": {
+      "team1Id": "926536409106485338",
+      "team2Id": "1143485438787596389",
+      "team1Name": "Kiseki",
+      "team2Name": "Masquerade",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780365465638
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
