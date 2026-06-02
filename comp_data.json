@@ -8641,7 +8641,7 @@
       "achievements": []
     },
     "AfterBrick": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "950295974151090186"
@@ -15225,9 +15225,6 @@
       "playerId": "1309248006498943037",
       "inviterId": "818162843701739520",
       "timestamp": 1780413703641
-    },
-    "invite_825714491874345001": {
-      "cooldownUntil": 1780414970354
     }
   },
   "userNicknames": {
