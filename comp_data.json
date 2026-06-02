@@ -9359,7 +9359,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 1,
+      "elo5v5": 23,
       "elo11v11": 0,
       "leaders": [
         "749678245863227462",
@@ -10068,7 +10068,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1481494653604856011",
@@ -10357,13 +10357,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1435327843289665596": {
-      "teamName": "Kyoto",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780366015353,
       "lastOpponents": []
     }
   },
@@ -15172,9 +15165,6 @@
       "playerId": "1174838664644276227",
       "inviterId": "1065743018545660004",
       "timestamp": 1780362382820
-    },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1780366236706
     }
   },
   "userNicknames": {
