@@ -7616,7 +7616,7 @@
       "achievements": []
     },
     "Masquerade": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "597676720413343745",
@@ -17909,23 +17909,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780358829037": {
+    "1780359584157": {
       "team1Id": "1125171739102564432",
-      "team2Id": "1435327843289665596",
+      "team2Id": "757056855175594004",
       "team1Name": "Yggdrasil",
-      "team2Name": "Kyoto",
+      "team2Name": "ⅩⅠⅠⅠ",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780358829037
-    },
-    "1780358984060": {
-      "team1Id": "852164591839870976",
-      "team2Id": "1435327843289665596",
-      "team1Name": "B0MB",
-      "team2Name": "Kyoto",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780358984060
+      "timestamp": 1780359584157
     }
   },
   "pendingVCRequests": {},
