@@ -8213,24 +8213,6 @@
       "region": "NA",
       "achievements": []
     },
-    "Thxrns": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "492826744454250510"
-      ],
-      "players": [
-        "1177704122049384489",
-        "663116530006884461",
-        "735605966091059292",
-        "888879851619106866",
-        "1010375590001528852",
-        "858156531908083713",
-        "1171570033139396628"
-      ],
-      "region": "NA",
-      "achievements": []
-    },
     "Taishō": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10388,6 +10370,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "722164644558667816": {
+      "teamName": "Vorpal Swords",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780360146676,
       "lastOpponents": []
     }
   },
@@ -17925,17 +17914,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780359584157": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "757056855175594004",
-      "team1Name": "Yggdrasil",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780359584157
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
