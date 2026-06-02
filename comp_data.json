@@ -7834,7 +7834,8 @@
         "605165255953481768",
         "1233537905197191341",
         "818702443541561365",
-        "944638739563548753"
+        "944638739563548753",
+        "1383342064103718932"
       ],
       "region": "NA",
       "achievements": []
@@ -10372,11 +10373,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "722164644558667816": {
-      "teamName": "Vorpal Swords",
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780360146676,
+      "startTime": 1780360377498,
       "lastOpponents": []
     }
   },
@@ -15176,7 +15177,8 @@
     "823168893359095809": 1780532429556,
     "760652234513055745": 1780532429556,
     "747852467550552116": 1780532429556,
-    "969685436740026458": 1780532429556
+    "969685436740026458": 1780532429556,
+    "1383342064103718932": 1780533451854
   },
   "pendingInvites": {
     "1780358105506": {
@@ -17914,7 +17916,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780360339313": {
+      "team1Id": "722164644558667816",
+      "team2Id": "1335102355695468688",
+      "team1Name": "Vorpal Swords",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780360339313
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
