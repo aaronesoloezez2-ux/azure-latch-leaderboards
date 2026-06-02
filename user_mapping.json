@@ -13371,12 +13371,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1441534629097111704": {
-    "team": "Calamity",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "896050388720058408": {
     "team": "Calamity",
     "isLeader": false,
@@ -18593,12 +18587,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1201396634588807301": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1287779661316624406": {
     "team": "Metavision FC",
     "isLeader": false,
@@ -21926,12 +21914,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1016313051923877909": {
-    "team": "Bastard München",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "897864780616958022": {
     "team": "Bastard München",
     "isLeader": false,
@@ -22497,6 +22479,36 @@
   "426470187039064094": {
     "team": "Zenin FC",
     "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1016313051923877909": {
+    "team": "Counter FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1251496480318161002": {
+    "team": "Counter FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1201396634588807301": {
+    "team": "Counter FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1415382264577265715": {
+    "team": "Counter FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1441534629097111704": {
+    "team": "Counter FC",
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
