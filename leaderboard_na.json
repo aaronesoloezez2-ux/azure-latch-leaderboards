@@ -1,12 +1,12 @@
 [
   {
     "rank": 1,
-    "teamName": "Citizens-U3",
-    "elo5v5": 21
+    "teamName": "Spurs",
+    "elo5v5": 22
   },
   {
     "rank": 2,
-    "teamName": "Yggdrasil",
+    "teamName": "Citizens-U3",
     "elo5v5": 21
   },
   {
@@ -1116,37 +1116,37 @@
   },
   {
     "rank": 224,
-    "teamName": "Spurs",
-    "elo5v5": 0
-  },
-  {
-    "rank": 225,
     "teamName": "Abibas NA",
     "elo5v5": 0
   },
   {
-    "rank": 226,
+    "rank": 225,
     "teamName": "Llantines fc",
     "elo5v5": 0
   },
   {
-    "rank": 227,
+    "rank": 226,
     "teamName": "Westbound Union",
     "elo5v5": 0
   },
   {
-    "rank": 228,
+    "rank": 227,
     "teamName": "Vitality",
     "elo5v5": 0
   },
   {
-    "rank": 229,
+    "rank": 228,
     "teamName": "Berserker Lineage",
     "elo5v5": 0
   },
   {
-    "rank": 230,
+    "rank": 229,
     "teamName": "Blue Tech FC",
+    "elo5v5": 0
+  },
+  {
+    "rank": 230,
+    "teamName": "Yggdrasil",
     "elo5v5": 0
   },
   {
