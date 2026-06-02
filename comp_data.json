@@ -5836,7 +5836,7 @@
       "achievements": []
     },
     "ⅩⅠⅠⅠ": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "495333407551782933",
@@ -10373,6 +10373,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780364771292,
       "lastOpponents": []
     }
   },
