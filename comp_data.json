@@ -8040,7 +8040,7 @@
       "achievements": []
     },
     "Quashers": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "1344456796923760668"
@@ -8286,7 +8286,7 @@
       "achievements": []
     },
     "Chapter": {
-      "elo5v5": 22,
+      "elo5v5": 1,
       "elo11v11": 0,
       "leaders": [
         "875112502327926796",
@@ -15240,14 +15240,7 @@
     "1194255502931153050": 1780592329129,
     "988429780238073936": 1780592329129
   },
-  "pendingInvites": {
-    "1780413703641": {
-      "teamName": "Avernus: Order",
-      "playerId": "1309248006498943037",
-      "inviterId": "818162843701739520",
-      "timestamp": 1780413703641
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "bbq bacon burger",
