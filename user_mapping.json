@@ -16605,6 +16605,12 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "1110317128952844339": {
+    "team": "Vorpal Swords",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 21
+  },
   "1335645103351533646": {
     "team": "Taishō",
     "isLeader": true,
@@ -19135,12 +19141,6 @@
     "isLeader": true,
     "region": "Asia",
     "elo5v5": 0
-  },
-  "1110317128952844339": {
-    "team": "Vorpal Swords",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 21
   },
   "572988547812950016": {
     "team": "Vorpal Swords",
