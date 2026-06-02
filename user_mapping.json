@@ -19772,43 +19772,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1438985290596487241": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1149656132378447894": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "883949215036870698": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1220990805947318302": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "729549901209403424": {
-    "team": "sown fc",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "749785335420026950": {
-    "team": "sown fc",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1057589536386994206": {
     "team": "FXTE",
     "isLeader": false,
@@ -22512,6 +22475,13 @@
     "isModerator": true
   },
   "804769804594053130": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "883949215036870698": {
     "team": null,
     "isLeader": false,
     "region": null,
