@@ -15281,6 +15281,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1464125504448626956": {
+    "team": "Masquerade",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1496241019555942523": {
     "team": "Clairvoyance",
     "isLeader": false,
@@ -22478,13 +22485,6 @@
     "isModerator": true
   },
   "290405745458020353": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1464125504448626956": {
     "team": null,
     "isLeader": false,
     "region": null,
