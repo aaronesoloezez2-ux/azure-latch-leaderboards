@@ -6190,12 +6190,6 @@
     "elo5v5": 0,
     "isModerator": true
   },
-  "1237781963088072850": {
-    "team": "Overseers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1248228231543521381": {
     "team": "Overseers",
     "isLeader": false,
@@ -11577,12 +11571,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1177890953495851098": {
-    "team": "MraX",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "939256588462600202": {
     "team": "Itz goku f.c",
     "isLeader": true,
@@ -16641,12 +16629,6 @@
     "elo5v5": 0
   },
   "973560931244208148": {
-    "team": "Disband FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1194255502931153050": {
     "team": "Disband FC",
     "isLeader": false,
     "region": "Europe",
@@ -22520,6 +22502,54 @@
   },
   "1441534629097111704": {
     "team": "Counter FC",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1177890953495851098": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1418545642598432781": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1221377604901404696": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "897527417588047883": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1356271520845926644": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1194255502931153050": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "988429780238073936": {
+    "team": "Rival Requiem",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1237781963088072850": {
+    "team": "Rival Requiem",
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
