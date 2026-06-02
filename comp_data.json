@@ -10099,7 +10099,6 @@
         "644671963054473216",
         "804116659983220746",
         "1176705152342823004",
-        "1464306828077957360",
         "1376644218457686157",
         "942231461644349471",
         "1323379766098661437",
@@ -17916,24 +17915,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780361419562": {
-      "team1Id": "938564876199145494",
-      "team2Id": "567041024615120928",
-      "team1Name": "Citizens-U3",
-      "team2Name": "Abibas NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780361419562
-    },
-    "1780361454564": {
-      "team1Id": "567041024615120928",
-      "team2Id": "1143485438787596389",
-      "team1Name": "Abibas NA",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780361454564
-    },
     "1780361764627": {
       "team1Id": "813556928034635807",
       "team2Id": "1435327843289665596",
