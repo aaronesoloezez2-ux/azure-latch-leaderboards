@@ -9622,7 +9622,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -9692,7 +9692,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976",
@@ -15218,9 +15218,6 @@
       "playerId": "1474226805505523848",
       "inviterId": "1018338782061269052",
       "timestamp": 1780435747492
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1780440411677
     }
   },
   "userNicknames": {
