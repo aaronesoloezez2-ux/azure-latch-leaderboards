@@ -10084,7 +10084,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1481494653604856011",
@@ -10374,13 +10374,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "938564876199145494": {
-      "teamName": "Citizens-U3",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780361836008,
       "lastOpponents": []
     }
   },
@@ -15183,7 +15176,17 @@
     "979170983506214934": 1780534222922,
     "1038336171127873588": 1780534812908
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780362382820": {
+      "teamName": "B0MB",
+      "playerId": "1174838664644276227",
+      "inviterId": "1065743018545660004",
+      "timestamp": 1780362382820
+    },
+    "invite_1065743018545660004": {
+      "cooldownUntil": 1780362682820
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "bbq bacon burger",
@@ -17915,14 +17918,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780361764627": {
-      "team1Id": "813556928034635807",
-      "team2Id": "1435327843289665596",
-      "team1Name": "Spurs",
-      "team2Name": "Kyoto",
+    "1780362399814": {
+      "team1Id": "938564876199145494",
+      "team2Id": "757056855175594004",
+      "team1Name": "Citizens-U3",
+      "team2Name": "ⅩⅠⅠⅠ",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780361764627
+      "timestamp": 1780362399814
     }
   },
   "pendingVCRequests": {},
