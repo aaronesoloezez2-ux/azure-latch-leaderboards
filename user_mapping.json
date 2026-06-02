@@ -19730,6 +19730,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "751932360697708586": {
+    "team": "Zero",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "952667718363009074": {
     "team": "Zero",
     "isLeader": true,
@@ -19792,12 +19798,6 @@
     "elo5v5": 43
   },
   "587301011836764181": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 43
-  },
-  "751932360697708586": {
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
