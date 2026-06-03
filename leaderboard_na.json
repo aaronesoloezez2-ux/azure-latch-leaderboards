@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Abibas NA",
-    "elo5v5": 81
+    "teamName": "Spurs",
+    "elo5v5": 93
   },
   {
     "rank": 3,
-    "teamName": "Spurs",
-    "elo5v5": 76
+    "teamName": "Abibas NA",
+    "elo5v5": 81
   },
   {
     "rank": 4,
@@ -41,28 +41,28 @@
   },
   {
     "rank": 9,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 21
-  },
-  {
-    "rank": 10,
     "teamName": "Retribution",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Vitality",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "G50",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Citizens-U3",
     "elo5v5": 20
+  },
+  {
+    "rank": 13,
+    "teamName": "Oshu Oshi NA",
+    "elo5v5": 3
   },
   {
     "rank": 14,
