@@ -9302,7 +9302,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 58,
+      "elo5v5": 76,
       "elo11v11": 0,
       "leaders": [
         "749678245863227462",
@@ -15265,7 +15265,14 @@
     "839409044472070174": 1780638434470,
     "1271831257621463073": 1780638886070
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780468320660": {
+      "teamName": "Masquerade",
+      "playerId": "752348408018239629",
+      "inviterId": "1143485438787596389",
+      "timestamp": 1780468320660
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18036,17 +18043,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780466740336": {
-      "team1Id": "749678245863227462",
-      "team2Id": "792524269736951840",
-      "team1Name": "Spurs",
-      "team2Name": "Barcelona",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780466740336
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
