@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 109
+    "elo5v5": 124
   },
   {
     "rank": 2,
@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
-    "teamName": "Barcelona",
-    "elo5v5": 22
-  },
-  {
-    "rank": 9,
     "teamName": "Retribution",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Vitality",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "G50",
     "elo5v5": 21
+  },
+  {
+    "rank": 11,
+    "teamName": "Barcelona",
+    "elo5v5": 5
   },
   {
     "rank": 12,
