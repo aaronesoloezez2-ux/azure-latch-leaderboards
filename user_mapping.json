@@ -7000,12 +7000,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "784732992785743872": {
-    "team": "Larp FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "934867408508833812": {
     "team": "Larp FC",
     "isLeader": true,
@@ -13738,12 +13732,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "725508523366285333": {
-    "team": "Trollface FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "506489985457848333": {
     "team": "Trollface FC",
     "isLeader": false,
@@ -19028,12 +19016,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1014980719610695701": {
-    "team": "Shalom FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1492224414660694169": {
     "team": "Shalom FC",
     "isLeader": false,
@@ -22565,6 +22547,48 @@
     "team": "Reflex Teiko",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1231680188186759268": {
+    "team": "Dao’s Medical School",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1014980719610695701": {
+    "team": "Dao’s Medical School",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "784732992785743872": {
+    "team": "Dao’s Medical School",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "725508523366285333": {
+    "team": "Dao’s Medical School",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1509990484397920377": {
+    "team": "Dao’s Medical School",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1088124201937932379": {
+    "team": "Dao’s Medical School",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1505585761930580141": {
+    "team": "Dao’s Medical School",
+    "isLeader": false,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
