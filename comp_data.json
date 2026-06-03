@@ -9297,7 +9297,6 @@
         "567041024615120928"
       ],
       "players": [
-        "1081319797180088422",
         "1230642798428950599",
         "1030700635299000371",
         "1261068909923270757",
@@ -10380,6 +10379,21 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "792524269736951840": {
+      "teamName": "Barcelona",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780522172420,
+      "lastOpponents": []
+    },
+    "1481494653604856011": {
+      "teamName": "Kyoto",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1780522191900,
       "lastOpponents": []
     }
   },
