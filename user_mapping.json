@@ -11901,12 +11901,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1079631117444984902": {
-    "team": "Vanguard",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1309132060459401266": {
     "team": "Vanguard",
     "isLeader": false,
@@ -11932,6 +11926,12 @@
     "elo5v5": 0
   },
   "1095098117453516840": {
+    "team": "Vanguard",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1079631117444984902": {
     "team": "Vanguard",
     "isLeader": false,
     "region": "NA",
