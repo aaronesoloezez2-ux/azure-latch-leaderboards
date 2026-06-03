@@ -10032,7 +10032,6 @@
       ],
       "players": [
         "736575147850465281",
-        "915390251449585666",
         "1404318852661383199",
         "589497085477388289",
         "1469123991271899318",
@@ -10399,11 +10398,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "926536409106485338": {
+    "728385309666050149": {
       "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780452430272,
+      "startTime": 1780454354707,
       "lastOpponents": []
     }
   },
@@ -15244,14 +15243,7 @@
     "924360558596206662": 1780626906634,
     "958890982261260319": 1780627066084
   },
-  "pendingInvites": {
-    "invite_728385309666050149": {
-      "cooldownUntil": 1780454328821
-    },
-    "invite_412399874877816842": {
-      "cooldownUntil": 1780454564210
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18021,14 +18013,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780453756539": {
-      "team1Id": "728385309666050149",
-      "team2Id": "938564876199145494",
+    "1780454606789": {
+      "team1Id": "926536409106485338",
+      "team2Id": "749678245863227462",
       "team1Name": "Kiseki",
-      "team2Name": "Citizens-U3",
+      "team2Name": "Spurs",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780453756539
+      "timestamp": 1780454606790
     }
   },
   "pendingVCRequests": {},
