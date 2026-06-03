@@ -21569,6 +21569,12 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "1511596551934443561": {
+    "team": "Kyoto",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1481494653604856011": {
     "team": "Kyoto",
     "isLeader": true,
