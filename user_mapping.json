@@ -13846,13 +13846,6 @@
     "region": "Europe",
     "elo5v5": 41
   },
-  "668371931334180865": {
-    "team": "SUFC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 41,
-    "isModerator": true
-  },
   "1480875108435361815": {
     "team": "SUFC",
     "isLeader": false,
@@ -16920,6 +16913,13 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "668371931334180865": {
+    "team": "Chapter",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1395209603834314856": {
     "team": "Vision FC",
