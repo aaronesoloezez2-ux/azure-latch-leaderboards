@@ -5166,7 +5166,6 @@
         "849390299612708896",
         "900525837273673810",
         "896518777892642868",
-        "1473185025506934857",
         "759619258073481236",
         "617012754183618561",
         "933069834676224010",
@@ -10396,13 +10395,6 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "728385309666050149": {
-      "teamName": "Kiseki",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780455805847,
-      "lastOpponents": []
-    },
     "926536409106485338": {
       "teamName": "Kiseki",
       "searchType": "unlimited",
@@ -15248,11 +15240,7 @@
     "958890982261260319": 1780627066084,
     "804070778235650149": 1780629785929
   },
-  "pendingInvites": {
-    "invite_749678245863227462": {
-      "cooldownUntil": 1780457222801
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18021,7 +18009,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780457567806": {
+      "team1Id": "728385309666050149",
+      "team2Id": "1381851488569004103",
+      "team1Name": "Kiseki",
+      "team2Name": "Metalogic",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780457567806
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
