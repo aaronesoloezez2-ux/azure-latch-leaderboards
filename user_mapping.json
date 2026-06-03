@@ -19813,6 +19813,13 @@
     "region": "NA",
     "elo5v5": 58
   },
+  "804070778235650149": {
+    "team": "Spurs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 58,
+    "isModerator": true
+  },
   "1081319797180088422": {
     "team": "Abibas NA",
     "isLeader": false,
@@ -22575,13 +22582,6 @@
     "isModerator": true
   },
   "1502806949513793618": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "804070778235650149": {
     "team": null,
     "isLeader": false,
     "region": null,
