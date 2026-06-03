@@ -10246,7 +10246,8 @@
         "1356271520845926644",
         "1194255502931153050",
         "988429780238073936",
-        "1028752442000674886"
+        "1028752442000674886",
+        "1405240280977772694"
       ],
       "region": "Europe",
       "achievements": []
@@ -10380,14 +10381,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "813556928034635807": {
-      "teamName": "Spurs",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1780522807456,
       "lastOpponents": []
     }
   },
@@ -15240,9 +15233,14 @@
     "1443346001179181200": 1780695143900,
     "1056726346056867881": 1780695143900,
     "868139633245057035": 1780695322851,
-    "836064878660812861": 1780695357628
+    "836064878660812861": 1780695357628,
+    "1405240280977772694": 1780696420773
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "invite_1237781963088072850": {
+      "cooldownUntil": 1780523915568
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18031,17 +18029,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780522795885": {
-      "team1Id": "749678245863227462",
-      "team2Id": "847505723763195914",
-      "team1Name": "Spurs",
-      "team2Name": "Oshu Oshi NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780522795885
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
