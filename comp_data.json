@@ -9100,7 +9100,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 61,
+      "elo5v5": 78,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10394,12 +10394,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "813556928034635807": {
-      "teamName": "Spurs",
-      "searchType": "timed",
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 5,
-      "startTime": 1780446772963,
+      "startTime": 1780448296576,
       "lastOpponents": []
     }
   },
@@ -15244,12 +15243,6 @@
       "playerId": "785224985131614239",
       "inviterId": "938564876199145494",
       "timestamp": 1780441747450
-    },
-    "invite_1143485438787596389": {
-      "cooldownUntil": 1780446921510
-    },
-    "invite_1481494653604856011": {
-      "cooldownUntil": 1780447101070
     }
   },
   "userNicknames": {
@@ -18018,7 +18011,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780447894718": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "728385309666050149",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780447894718
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
