@@ -10327,6 +10327,22 @@
       ],
       "region": "NA",
       "achievements": []
+    },
+    "Crimzonic League": {
+      "elo5v5": 0,
+      "elo11v11": 0,
+      "leaders": [
+        "1322000183411867731"
+      ],
+      "players": [
+        "1364503982327730238",
+        "916125621262905394",
+        "1491247807435243541",
+        "1246677456681959507",
+        "1403312099387641958"
+      ],
+      "region": "NA",
+      "achievements": []
     }
   },
   "leaderboards": {
@@ -10372,6 +10388,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "847505723763195914": {
+      "teamName": "Oshu Oshi NA",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780514862485,
       "lastOpponents": []
     }
   },
@@ -15219,11 +15242,7 @@
     "1344456796923760668": 1780687070398,
     "963795392028344371": 1780687266576
   },
-  "pendingInvites": {
-    "invite_792524269736951840": {
-      "cooldownUntil": 1780514488565
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
