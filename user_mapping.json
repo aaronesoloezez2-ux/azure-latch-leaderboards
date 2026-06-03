@@ -19178,12 +19178,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1088341991122796554": {
-    "team": "bnuuy",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "728385309666050149": {
     "team": "Kiseki",
     "isLeader": true,
@@ -21875,6 +21869,12 @@
     "elo5v5": 0
   },
   "1474791708884471850": {
+    "team": "Quantum",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1088341991122796554": {
     "team": "Quantum",
     "isLeader": false,
     "region": "Europe",
