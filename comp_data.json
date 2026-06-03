@@ -9116,7 +9116,6 @@
         "982016828995948574",
         "1312934947643719700",
         "906486036685815829",
-        "1341524326041780335",
         "689672576670498883",
         "1357501382793494568",
         "813514867138887697",
@@ -10391,11 +10390,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "728385309666050149": {
-      "teamName": "Kiseki",
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780444023698,
+      "startTime": 1780444742568,
       "lastOpponents": []
     }
   },
@@ -18009,14 +18008,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780443848878": {
-      "team1Id": "567041024615120928",
-      "team2Id": "731225486818279457",
-      "team1Name": "Abibas NA",
-      "team2Name": "Dreamers (NA)",
+    "1780444299012": {
+      "team1Id": "728385309666050149",
+      "team2Id": "952667718363009074",
+      "team1Name": "Kiseki",
+      "team2Name": "Zero",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780443848878
+      "timestamp": 1780444299012
     }
   },
   "pendingVCRequests": {},
