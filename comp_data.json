@@ -8540,7 +8540,6 @@
         "881451813470089266",
         "530252705793310721",
         "931750651334119474",
-        "1037267793395064843",
         "1123099862439821413",
         "740817093490114580",
         "1237287086801817671",
@@ -10376,6 +10375,20 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1249902035352948836": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780517289148,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780517304395,
       "lastOpponents": []
     }
   },
