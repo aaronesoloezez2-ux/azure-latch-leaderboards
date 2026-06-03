@@ -5155,7 +5155,7 @@
       "achievements": []
     },
     "Dreamers (NA)": {
-      "elo5v5": 21,
+      "elo5v5": 42,
       "elo11v11": 0,
       "leaders": [
         "731225486818279457"
@@ -8441,7 +8441,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 41,
+      "elo5v5": 20,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -10393,13 +10393,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "847505723763195914": {
-      "teamName": "Oshu Oshi NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780449170312,
       "lastOpponents": []
     }
   },
@@ -15239,11 +15232,7 @@
     "1316486614439956594": 1780621928298,
     "1316162745707532440": 1780621987921
   },
-  "pendingInvites": {
-    "invite_1353220534367682582": {
-      "cooldownUntil": 1780449480540
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18011,14 +18000,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780448979933": {
-      "team1Id": "926536409106485338",
+    "1780449605334": {
+      "team1Id": "847505723763195914",
       "team2Id": "1076521298823495802",
-      "team1Name": "Kiseki",
+      "team1Name": "Oshu Oshi NA",
       "team2Name": "Monarchs Recrowned FC",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780448979933
+      "timestamp": 1780449605334
     }
   },
   "pendingVCRequests": {},
