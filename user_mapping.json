@@ -16175,68 +16175,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "843530253364363274": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "1344456796923760668": {
-    "team": "Quashers",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "819125452526059521": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "435219152555212813": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22,
-    "isModerator": true
-  },
-  "543436138585522186": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "1453113148331786390": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "989936603696869427": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "834473464512380929": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22,
-    "isModerator": true
-  },
-  "963795392028344371": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
-  "835904211484016693": {
-    "team": "Quashers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 22
-  },
   "897967963666268190": {
     "team": "The Sin Archibishops",
     "isLeader": false,
@@ -22571,6 +22509,13 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "834473464512380929": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "566360748888948766": {
     "team": null,
     "isLeader": false,
@@ -22586,6 +22531,13 @@
     "isModerator": true
   },
   "290405745458020353": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "435219152555212813": {
     "team": null,
     "isLeader": false,
     "region": null,
