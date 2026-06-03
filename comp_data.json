@@ -8284,7 +8284,7 @@
       "achievements": []
     },
     "Chapter": {
-      "elo5v5": 1,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "875112502327926796",
@@ -10270,7 +10270,7 @@
       "achievements": []
     },
     "Counter FC": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1441534629097111704"
@@ -15258,9 +15258,6 @@
       "playerId": "995997102301777970",
       "inviterId": "1352044719089127425",
       "timestamp": 1780504034204
-    },
-    "invite_1441534629097111704": {
-      "cooldownUntil": 1780507298566
     }
   },
   "userNicknames": {
