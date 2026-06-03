@@ -16,8 +16,8 @@
   },
   {
     "rank": 4,
-    "teamName": "Citizens-U3",
-    "elo5v5": 41
+    "teamName": "Dreamers (NA)",
+    "elo5v5": 42
   },
   {
     "rank": 5,
@@ -31,18 +31,18 @@
   },
   {
     "rank": 7,
-    "teamName": "Dreamers (NA)",
-    "elo5v5": 21
-  },
-  {
-    "rank": 8,
     "teamName": "Retribution",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Vitality",
     "elo5v5": 21
+  },
+  {
+    "rank": 9,
+    "teamName": "Citizens-U3",
+    "elo5v5": 20
   },
   {
     "rank": 10,
