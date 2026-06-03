@@ -591,8 +591,7 @@
     "team": "Abibas FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "618476725524758550": {
     "team": "Abibas FC",
@@ -604,15 +603,13 @@
     "team": "Abibas FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "435219152555212813": {
     "team": "Abibas FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "1344456796923760668": {
     "team": "Abibas FC",
@@ -3252,8 +3249,7 @@
     "team": "Ubers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1276990738722324595": {
     "team": "Ubers",
@@ -6097,8 +6093,7 @@
     "team": "Overseers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1248228231543521381": {
     "team": "Overseers",
@@ -9680,8 +9675,7 @@
     "team": "Dreamers (NA)",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 42,
-    "isModerator": true
+    "elo5v5": 42
   },
   "1225926926032699603": {
     "team": "Dreamers (NA)",
@@ -10515,8 +10509,7 @@
     "team": "Re Al",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 44,
-    "isModerator": true
+    "elo5v5": 44
   },
   "1306082210528624654": {
     "team": "Re Al",
@@ -10528,8 +10521,7 @@
     "team": "Re Al",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 44,
-    "isModerator": true
+    "elo5v5": 44
   },
   "1321866351593132073": {
     "team": "Re Al",
@@ -10577,8 +10569,7 @@
     "team": "Re Al",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 44,
-    "isModerator": true
+    "elo5v5": 44
   },
   "1023062575174406204": {
     "team": "Re Al",
@@ -11004,8 +10995,7 @@
     "team": "ⅩⅠⅠⅠ",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 40,
-    "isModerator": true
+    "elo5v5": 40
   },
   "303354768561012747": {
     "team": "ⅩⅠⅠⅠ",
@@ -13447,8 +13437,7 @@
     "team": "Chain Breakers: New Hope",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "662351713780629523": {
     "team": "Chain Breakers: New Hope",
@@ -15146,8 +15135,7 @@
     "team": "Masquerade",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "926915038235734016": {
     "team": "Masquerade",
@@ -16485,8 +16473,7 @@
     "team": "Oshu Oshi NA",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "1110317128952844339": {
     "team": "Oshu Oshi NA",
@@ -16600,8 +16587,7 @@
     "team": "Honorary Knights",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1050946204395126815": {
     "team": "Guild: Calabash Crusadors",
@@ -16727,8 +16713,7 @@
     "team": "Chapter",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1079017104398880888": {
     "team": "Chapter",
@@ -16740,8 +16725,7 @@
     "team": "Chapter",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "946766574545682443": {
     "team": "Chapter",
@@ -16789,8 +16773,7 @@
     "team": "Chapter",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1187369424131473478": {
     "team": "Chapter",
@@ -16808,8 +16791,7 @@
     "team": "Chapter",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "264753100903022602": {
     "team": "Chapter",
@@ -16971,8 +16953,7 @@
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "1497666605071728742": {
     "team": "Balance",
@@ -17152,8 +17133,7 @@
     "team": "Citizens-U3",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 20,
-    "isModerator": true
+    "elo5v5": 20
   },
   "1355403974122930186": {
     "team": "Citizens-U3",
@@ -17603,8 +17583,7 @@
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "931750651334119474": {
     "team": "Seirin",
@@ -17802,8 +17781,7 @@
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "979170983506214934": {
     "team": "Re Al U-20",
@@ -17815,8 +17793,7 @@
     "team": "Re Al U-20",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1176292038979895388": {
     "team": "Re Al U-20",
@@ -17942,8 +17919,7 @@
     "team": "Japan 2034",
     "isLeader": false,
     "region": "Asia",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "773881831891533835": {
     "team": "Japan 2034",
@@ -18561,8 +18537,7 @@
     "team": "Chem Brickers",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "396951562611720193": {
     "team": "Chem Brickers",
@@ -19588,8 +19563,7 @@
     "team": "Spurs",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 76,
-    "isModerator": true
+    "elo5v5": 76
   },
   "526676623827795998": {
     "team": "Spurs",
@@ -19625,15 +19599,13 @@
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 76,
-    "isModerator": true
+    "elo5v5": 76
   },
   "1280938486030930077": {
     "team": "Spurs",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 76,
-    "isModerator": true
+    "elo5v5": 76
   },
   "1020421521598062693": {
     "team": "Spurs",
@@ -19645,15 +19617,13 @@
     "team": "Spurs",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 76,
-    "isModerator": true
+    "elo5v5": 76
   },
   "1467619174930186332": {
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 76,
-    "isModerator": true
+    "elo5v5": 76
   },
   "1124196641893798008": {
     "team": "Spurs",
@@ -19683,15 +19653,13 @@
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 76,
-    "isModerator": true
+    "elo5v5": 76
   },
   "1081319797180088422": {
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 81,
-    "isModerator": true
+    "elo5v5": 81
   },
   "1230642798428950599": {
     "team": "Abibas NA",
@@ -19715,22 +19683,19 @@
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 81,
-    "isModerator": true
+    "elo5v5": 81
   },
   "747948371301499041": {
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 81,
-    "isModerator": true
+    "elo5v5": 81
   },
   "578719398785974272": {
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 81,
-    "isModerator": true
+    "elo5v5": 81
   },
   "1093388128527601695": {
     "team": "Abibas NA",
@@ -19742,8 +19707,7 @@
     "team": "Abibas NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 81,
-    "isModerator": true
+    "elo5v5": 81
   },
   "862970828299436044": {
     "team": "Abibas NA",
@@ -19977,8 +19941,7 @@
     "team": "Avernus: Order",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "851439532980961300": {
     "team": "French Vanguard",
@@ -20824,8 +20787,7 @@
     "team": "Humble Mangoes 2: The Sequel",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1068696204092899338": {
     "team": "Humble Mangoes 2: The Sequel",
@@ -20873,8 +20835,7 @@
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1399055434538815528": {
     "team": "Verse",
@@ -21024,8 +20985,7 @@
     "team": "Hopecore",
     "isLeader": false,
     "region": "Asia",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "907319327571726346": {
     "team": "Hopecore",
@@ -21433,8 +21393,7 @@
     "team": "The Ashen Eleven",
     "isLeader": false,
     "region": "Asia",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1316975964625961023": {
     "team": "The Ashen Eleven",
@@ -21578,15 +21537,13 @@
     "team": "Kyoto",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1481494653604856011": {
     "team": "Kyoto",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1435327843289665596": {
     "team": "Kyoto",
@@ -21646,15 +21603,13 @@
     "team": "Quantum",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "751740180083245116": {
     "team": "Quantum",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "1295907869513875456": {
     "team": "Quantum",
@@ -21912,8 +21867,7 @@
     "team": "G50",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
+    "elo5v5": 21
   },
   "1353220534367682582": {
     "team": "G50",
@@ -22027,8 +21981,7 @@
     "team": "comp top 1 na",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 1,
-    "isModerator": true
+    "elo5v5": 1
   },
   "1507545013096153099": {
     "team": "comp top 1 na",
@@ -22076,8 +22029,7 @@
     "team": "Theory",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
+    "elo5v5": 0
   },
   "718411292112584747": {
     "team": "Movement",
@@ -22439,6 +22391,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1487678022898290698": {
+    "team": "Barcelona",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1364503982327730238": {
     "team": "Crimzonic League",
     "isLeader": false,
@@ -22474,117 +22432,5 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
-  },
-  "991630235021881354": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1290679358528290868": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1502806949513793618": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "759536058567360522": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "834473464512380929": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "566360748888948766": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "949878090341949522": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "290405745458020353": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "959895242428002334": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1168868176189198418": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "804769804594053130": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "883949215036870698": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1111402256441548840": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1329326547525570571": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "723963456549683270": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
   }
 }
