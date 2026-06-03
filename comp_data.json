@@ -2003,7 +2003,7 @@
       "achievements": []
     },
     "Ubers+": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1341570180551016541",
@@ -8399,7 +8399,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 20,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -10379,6 +10379,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780521577835,
       "lastOpponents": []
     }
   },
