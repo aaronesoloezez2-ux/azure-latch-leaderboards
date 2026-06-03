@@ -5908,7 +5908,6 @@
         "787895205935841301",
         "975221435066884147",
         "1445264329330131006",
-        "1487678022898290698",
         "1329974654684758046",
         "840707079441350666",
         "1473185025506934857"
@@ -10422,13 +10421,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780462632749,
       "lastOpponents": []
     }
   },
@@ -18044,7 +18036,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780466740336": {
+      "team1Id": "749678245863227462",
+      "team2Id": "792524269736951840",
+      "team1Name": "Spurs",
+      "team2Name": "Barcelona",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780466740336
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
