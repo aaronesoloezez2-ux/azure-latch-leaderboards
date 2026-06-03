@@ -8974,7 +8974,6 @@
       ],
       "players": [
         "658794803433177116",
-        "804070778235650149",
         "804856302458634240",
         "1267618584180428920",
         "442428679209877504",
@@ -10394,6 +10393,20 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780455805847,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780456891780,
       "lastOpponents": []
     }
   },
@@ -18003,17 +18016,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780455456998": {
-      "team1Id": "728385309666050149",
-      "team2Id": "749678245863227462",
-      "team1Name": "Kiseki",
-      "team2Name": "Spurs",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780455456998
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
