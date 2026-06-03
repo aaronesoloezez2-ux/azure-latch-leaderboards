@@ -46,13 +46,13 @@
   },
   {
     "rank": 10,
-    "teamName": "G50",
+    "teamName": "Kyoto",
     "elo5v5": 21
   },
   {
     "rank": 11,
-    "teamName": "Barcelona",
-    "elo5v5": 5
+    "teamName": "G50",
+    "elo5v5": 21
   },
   {
     "rank": 12,
@@ -1181,47 +1181,47 @@
   },
   {
     "rank": 237,
-    "teamName": "Kyoto",
-    "elo5v5": 0
-  },
-  {
-    "rank": 238,
     "teamName": "Baroueth",
     "elo5v5": 0
   },
   {
-    "rank": 239,
+    "rank": 238,
     "teamName": "Sleepless",
     "elo5v5": 0
   },
   {
-    "rank": 240,
+    "rank": 239,
     "teamName": "Ultra Ego",
     "elo5v5": 0
   },
   {
-    "rank": 241,
+    "rank": 240,
     "teamName": "Kurain",
     "elo5v5": 0
   },
   {
-    "rank": 242,
+    "rank": 241,
     "teamName": "Movement",
     "elo5v5": 0
   },
   {
-    "rank": 243,
+    "rank": 242,
     "teamName": "Fc White Rose",
     "elo5v5": 0
   },
   {
-    "rank": 244,
+    "rank": 243,
     "teamName": "MC FC",
     "elo5v5": 0
   },
   {
-    "rank": 245,
+    "rank": 244,
     "teamName": "Reflex Teiko",
+    "elo5v5": 0
+  },
+  {
+    "rank": 245,
+    "teamName": "Barcelona",
     "elo5v5": 0
   },
   {
