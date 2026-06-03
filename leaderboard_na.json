@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Spurs",
-    "elo5v5": 62
+    "elo5v5": 80
   },
   {
     "rank": 3,
@@ -26,28 +26,28 @@
   },
   {
     "rank": 6,
-    "teamName": "B0MB",
-    "elo5v5": 22
-  },
-  {
-    "rank": 7,
     "teamName": "Ubers+",
     "elo5v5": 21
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "Dreamers (NA)",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Retribution",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Vitality",
     "elo5v5": 21
+  },
+  {
+    "rank": 10,
+    "teamName": "B0MB",
+    "elo5v5": 3
   },
   {
     "rank": 11,
