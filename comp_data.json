@@ -7626,21 +7626,6 @@
       "region": "Europe",
       "achievements": []
     },
-    "Operation": {
-      "elo5v5": 0,
-      "elo11v11": 0,
-      "leaders": [
-        "1405240280977772694"
-      ],
-      "players": [
-        "1394289595381973024",
-        "1423322717418950788",
-        "1407742428366241822",
-        "1429913715431440476"
-      ],
-      "region": "Europe",
-      "achievements": []
-    },
     "Brawl Stars FC": {
       "elo5v5": 0,
       "elo11v11": 0,
@@ -10395,6 +10380,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "813556928034635807": {
+      "teamName": "Spurs",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 10,
+      "startTime": 1780522807456,
       "lastOpponents": []
     }
   },
@@ -15249,11 +15242,7 @@
     "868139633245057035": 1780695322851,
     "836064878660812861": 1780695357628
   },
-  "pendingInvites": {
-    "invite_792524269736951840": {
-      "cooldownUntil": 1780522845657
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -16642,7 +16631,8 @@
     "1177890953495851098": "big_sand",
     "1028752442000674886": "maksak_583",
     "1213658953905471520": "sam",
-    "1037267793395064843": "SOLAR"
+    "1037267793395064843": "SOLAR",
+    "1511596551934443561": "K3nt"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -18036,55 +18026,20 @@
     "1213658953905471520": 1780687211191,
     "1037267793395064843": 1780690608868,
     "954942845226197042": 1780690624462,
-    "1138527393900937336": 1780692364882
+    "1138527393900937336": 1780692364882,
+    "1511596551934443561": 1780695470184
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780521985730": {
-      "team1Id": "938564876199145494",
-      "team2Id": "926536409106485338",
-      "team1Name": "Citizens-U3",
-      "team2Name": "Kiseki",
+    "1780522795885": {
+      "team1Id": "749678245863227462",
+      "team2Id": "847505723763195914",
+      "team1Name": "Spurs",
+      "team2Name": "Oshu Oshi NA",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780521985730
-    },
-    "1780522040738": {
-      "team1Id": "926536409106485338",
-      "team2Id": "952667718363009074",
-      "team1Name": "Kiseki",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780522040738
-    },
-    "1780522125751": {
-      "team1Id": "1481494653604856011",
-      "team2Id": "952667718363009074",
-      "team1Name": "Kyoto",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780522125751
-    },
-    "1780522195762": {
-      "team1Id": "792524269736951840",
-      "team2Id": "1481494653604856011",
-      "team1Name": "Barcelona",
-      "team2Name": "Kyoto",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780522195762
-    },
-    "1780522350780": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "728385309666050149",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780522350780
+      "timestamp": 1780522795885
     }
   },
   "pendingVCRequests": {},
