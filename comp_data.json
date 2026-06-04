@@ -7590,7 +7590,6 @@
         "800823045958402058",
         "829504713950101534",
         "1153499590855753728",
-        "1464125504448626956",
         "926915038235734016",
         "817191553097138207",
         "920118031227715654",
@@ -10388,6 +10387,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
+      "lastOpponents": []
+    },
+    "1125171739102564432": {
+      "teamName": "Yggdrasil",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780546358087,
       "lastOpponents": []
     }
   },
@@ -15248,7 +15254,17 @@
     "216309723933310977": 1780713526180,
     "915390251449585666": 1780717576459
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780546504215": {
+      "teamName": "Yggdrasil",
+      "playerId": "804769804594053130",
+      "inviterId": "1125171739102564432",
+      "timestamp": 1780546504215
+    },
+    "invite_1125171739102564432": {
+      "cooldownUntil": 1780546804215
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18042,14 +18058,23 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780545976891": {
+    "1780546057035": {
       "team1Id": "1125171739102564432",
       "team2Id": "1381851488569004103",
       "team1Name": "Yggdrasil",
       "team2Name": "Metalogic",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780545976891
+      "timestamp": 1780546057035
+    },
+    "1780546272058": {
+      "team1Id": "1381851488569004103",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Metalogic",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780546272058
     }
   },
   "pendingVCRequests": {},
