@@ -16906,12 +16906,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "830030224368205834": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1056653535237910568": {
     "team": "Balance",
     "isLeader": false,
@@ -22029,6 +22023,12 @@
     "elo5v5": 0
   },
   "888681337479888937": {
+    "team": "Theory",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "830030224368205834": {
     "team": "Theory",
     "isLeader": false,
     "region": "Europe",
