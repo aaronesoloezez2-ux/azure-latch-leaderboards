@@ -8608,7 +8608,7 @@
       "achievements": []
     },
     "Japan 2034": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "817737982060527626",
@@ -15261,8 +15261,11 @@
     "1218222053459497113": 1780745103772
   },
   "pendingInvites": {
-    "invite_910117022657032213": {
-      "cooldownUntil": 1780572570789
+    "1780572674811": {
+      "teamName": "Citizens-U3",
+      "playerId": "1272362523496288272",
+      "inviterId": "1342931782273597582",
+      "timestamp": 1780572674811
     }
   },
   "userNicknames": {
