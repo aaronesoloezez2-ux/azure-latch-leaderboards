@@ -8009,7 +8009,6 @@
         "611078433862189075",
         "1269662489658785895",
         "1287056772942659726",
-        "907520665026957374",
         "1216987984562487343",
         "1369936019528486992",
         "1246834279762100295",
@@ -10412,14 +10411,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1780594445142,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1780608673298,
       "lastOpponents": []
     }
   },
@@ -18111,6 +18102,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780608618206
+    },
+    "1780608933264": {
+      "team1Id": "952667718363009074",
+      "team2Id": "567041024615120928",
+      "team1Name": "Zero",
+      "team2Name": "Abibas NA",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780608933264
     }
   },
   "pendingVCRequests": {},
