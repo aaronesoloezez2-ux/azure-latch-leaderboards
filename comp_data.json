@@ -18043,17 +18043,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780532653709": {
-      "team1Id": "926536409106485338",
-      "team2Id": "597676720413343745",
-      "team1Name": "Kiseki",
-      "team2Name": "Masquerade",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780532653709
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
