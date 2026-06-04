@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Abibas NA",
+    "elo5v5": 74
+  },
+  {
+    "rank": 4,
     "teamName": "Re Al",
     "elo5v5": 66
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Retribution",
     "elo5v5": 61
-  },
-  {
-    "rank": 5,
-    "teamName": "Abibas NA",
-    "elo5v5": 55
   },
   {
     "rank": 6,
@@ -36,42 +36,42 @@
   },
   {
     "rank": 8,
-    "teamName": "G50",
-    "elo5v5": 41
-  },
-  {
-    "rank": 9,
     "teamName": "B0MB",
     "elo5v5": 26
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 24
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Seirin",
     "elo5v5": 24
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Bear United",
     "elo5v5": 22
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Metalogic",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Citizens-U3",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Yggdrasil",
+    "elo5v5": 21
+  },
+  {
+    "rank": 15,
+    "teamName": "G50",
     "elo5v5": 21
   },
   {
