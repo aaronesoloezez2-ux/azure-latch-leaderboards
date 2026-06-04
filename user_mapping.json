@@ -15161,12 +15161,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "800823045958402058": {
-    "team": "Masquerade",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "829504713950101534": {
     "team": "Masquerade",
     "isLeader": false,
@@ -20675,12 +20669,6 @@
     "region": "NA",
     "elo5v5": 26
   },
-  "1210078842362920991": {
-    "team": "B0MB",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 26
-  },
   "970405556579876905": {
     "team": "B0MB",
     "isLeader": false,
@@ -21213,12 +21201,6 @@
     "elo5v5": 0
   },
   "377231494994853888": {
-    "team": "swegg",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1097607808435888248": {
     "team": "swegg",
     "isLeader": false,
     "region": "NA",
@@ -21896,12 +21878,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "899073137742848022": {
-    "team": "Kurain",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1224420632184225943": {
     "team": "Kurain",
     "isLeader": false,
@@ -22565,6 +22541,63 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1502806949513793618": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1210078842362920991": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "800823045958402058": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1097607808435888248": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "552619592997142570": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "723963456549683270": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "899073137742848022": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "949878090341949522": {
+    "team": "AOGIRI",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "739220775395000443": {
+    "team": "AOGIRI",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22573,13 +22606,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1502806949513793618": {
     "team": null,
     "isLeader": false,
     "region": null,
@@ -22601,13 +22627,6 @@
     "isModerator": true
   },
   "566360748888948766": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "949878090341949522": {
     "team": null,
     "isLeader": false,
     "region": null,
@@ -22664,13 +22683,6 @@
     "isModerator": true
   },
   "1329326547525570571": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "723963456549683270": {
     "team": null,
     "isLeader": false,
     "region": null,
