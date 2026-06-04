@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Spurs",
-    "elo5v5": 136
+    "elo5v5": 117
   },
   {
     "rank": 2,
@@ -26,27 +26,27 @@
   },
   {
     "rank": 6,
+    "teamName": "Seirin",
+    "elo5v5": 49
+  },
+  {
+    "rank": 7,
     "teamName": "Dreamers (NA)",
     "elo5v5": 42
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Vitality",
     "elo5v5": 41
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "B0MB",
     "elo5v5": 26
   },
   {
-    "rank": 9,
-    "teamName": "Oshu Oshi NA",
-    "elo5v5": 24
-  },
-  {
     "rank": 10,
-    "teamName": "Seirin",
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 24
   },
   {
