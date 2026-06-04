@@ -31,22 +31,22 @@
   },
   {
     "rank": 7,
+    "teamName": "Vitality",
+    "elo5v5": 41
+  },
+  {
+    "rank": 8,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 40
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 24
   },
   {
-    "rank": 9,
-    "teamName": "Citizens-U3",
-    "elo5v5": 21
-  },
-  {
     "rank": 10,
-    "teamName": "Vitality",
+    "teamName": "Citizens-U3",
     "elo5v5": 21
   },
   {
