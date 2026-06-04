@@ -9939,7 +9939,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 4,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1481494653604856011",
@@ -10075,7 +10075,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "1353220534367682582",
@@ -10389,11 +10389,11 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
+    "1381851488569004103": {
+      "teamName": "Metalogic",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780546358087,
+      "startTime": 1780546946452,
       "lastOpponents": []
     }
   },
@@ -15261,8 +15261,11 @@
       "inviterId": "1125171739102564432",
       "timestamp": 1780546504215
     },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1780546804215
+    "1780547252989": {
+      "teamName": "Citizens-U3",
+      "playerId": "1272362523496288272",
+      "inviterId": "938564876199145494",
+      "timestamp": 1780547252989
     }
   },
   "userNicknames": {
@@ -18057,26 +18060,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780546057035": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780546057035
-    },
-    "1780546272058": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Metalogic",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780546272058
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
