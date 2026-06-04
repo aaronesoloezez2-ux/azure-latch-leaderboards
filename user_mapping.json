@@ -22275,6 +22275,13 @@
     "region": "Europe",
     "elo5v5": 21
   },
+  "991630235021881354": {
+    "team": "Counter FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 21,
+    "isModerator": true
+  },
   "1177890953495851098": {
     "team": "Rival Requiem",
     "isLeader": false,
@@ -22545,13 +22552,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
-  },
-  "991630235021881354": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
   },
   "1290679358528290868": {
     "team": null,
