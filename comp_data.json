@@ -6374,7 +6374,8 @@
         "665618780021587969",
         "915620907672809482",
         "1263104042339405854",
-        "1511346056544125078"
+        "1511346056544125078",
+        "1512129908418023635"
       ],
       "region": "Europe",
       "achievements": []
@@ -10376,11 +10377,18 @@
       "startTime": 1779677876775,
       "lastOpponents": []
     },
-    "749678245863227462": {
-      "teamName": "Spurs",
+    "1249902035352948836": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780555310835,
+      "startTime": 1780590369360,
+      "lastOpponents": []
+    },
+    "926536409106485338": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780590378175,
       "lastOpponents": []
     }
   },
