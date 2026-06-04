@@ -9543,7 +9543,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -10387,14 +10387,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "1481494653604856011": {
-      "teamName": "Kyoto",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1780540619390,
       "lastOpponents": []
     }
   },
@@ -15255,17 +15247,7 @@
     "1149656132378447894": 1780713393427,
     "216309723933310977": 1780713526180
   },
-  "pendingInvites": {
-    "1780535241672": {
-      "teamName": "Manshine United NA",
-      "playerId": "1363774484187844690",
-      "inviterId": "1335373684726042777",
-      "timestamp": 1780535241672
-    },
-    "invite_1335102355695468688": {
-      "cooldownUntil": 1780540889423
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18059,23 +18041,23 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780540395612": {
-      "team1Id": "952667718363009074",
-      "team2Id": "1335102355695468688",
-      "team1Name": "Zero",
-      "team2Name": "Re Al U-20",
+    "1780542566310": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "835590854580240405",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Bear United",
       "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780540395612
+      "team2Vote": true,
+      "timestamp": 1780542566310
     },
-    "1780540565643": {
-      "team1Id": "813556928034635807",
-      "team2Id": "1481494653604856011",
-      "team1Name": "Spurs",
-      "team2Name": "Kyoto",
+    "1780542681318": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "835590854580240405",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Bear United",
       "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780540565643
+      "team2Vote": true,
+      "timestamp": 1780542681318
     }
   },
   "pendingVCRequests": {},
