@@ -6972,7 +6972,8 @@
         "1049693399118249994",
         "691640811091394573",
         "385462387521749002",
-        "1030845094007423138"
+        "1030845094007423138",
+        "668371931334180865"
       ],
       "region": "Europe",
       "achievements": []
@@ -8247,7 +8248,6 @@
         "1410827035575844904",
         "1187369424131473478",
         "857654115373809736",
-        "668371931334180865",
         "264753100903022602"
       ],
       "region": "Europe",
@@ -18041,23 +18041,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780542566310": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "835590854580240405",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Bear United",
+    "1780544401594": {
+      "team1Id": "1481494653604856011",
+      "team2Id": "1353220534367682582",
+      "team1Name": "Kyoto",
+      "team2Name": "G50",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780542566310
-    },
-    "1780542681318": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "835590854580240405",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Bear United",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780542681318
+      "team2Vote": null,
+      "timestamp": 1780544401594
     }
   },
   "pendingVCRequests": {},
