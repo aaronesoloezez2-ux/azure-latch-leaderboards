@@ -9041,7 +9041,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 124,
+      "elo5v5": 104,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9610,7 +9610,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 0,
+      "elo5v5": 26,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976",
@@ -10386,14 +10386,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1779677876775,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1780539933761,
       "lastOpponents": []
     }
   },
@@ -18063,7 +18055,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780540395612": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1335102355695468688",
+      "team1Name": "Zero",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780540395612
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
