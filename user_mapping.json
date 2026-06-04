@@ -15515,12 +15515,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1011443909546737745": {
-    "team": "Wild Comets",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1445580279434448988": {
     "team": "Wild Comets",
     "isLeader": true,
@@ -22532,6 +22526,36 @@
   "683709095357972566": {
     "team": "Kugelstrum",
     "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1144961749162934272": {
+    "team": "Skyline FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1011443909546737745": {
+    "team": "Skyline FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1401707804548661348": {
+    "team": "Skyline FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1443773980786950145": {
+    "team": "Skyline FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1220846412460458104": {
+    "team": "Skyline FC",
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
