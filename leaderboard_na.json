@@ -7,7 +7,7 @@
   {
     "rank": 2,
     "teamName": "Spurs",
-    "elo5v5": 108
+    "elo5v5": 123
   },
   {
     "rank": 3,
@@ -51,13 +51,13 @@
   },
   {
     "rank": 11,
-    "teamName": "Kyoto",
+    "teamName": "G50",
     "elo5v5": 21
   },
   {
     "rank": 12,
-    "teamName": "G50",
-    "elo5v5": 21
+    "teamName": "Kyoto",
+    "elo5v5": 4
   },
   {
     "rank": 13,
