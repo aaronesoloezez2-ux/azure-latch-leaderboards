@@ -8476,7 +8476,7 @@
         "1252605292613734403"
       ],
       "region": "Asia",
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "achievements": []
     },
@@ -15270,8 +15270,14 @@
       "inviterId": "1342931782273597582",
       "timestamp": 1780572674811
     },
-    "invite_1394238496398508133": {
-      "cooldownUntil": 1780577654487
+    "1780577975777": {
+      "teamName": "Counter FC",
+      "playerId": "991630235021881354",
+      "inviterId": "1441534629097111704",
+      "timestamp": 1780577975788
+    },
+    "invite_1441534629097111704": {
+      "cooldownUntil": 1780578275788
     }
   },
   "userNicknames": {
