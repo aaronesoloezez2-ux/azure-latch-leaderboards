@@ -17058,13 +17058,6 @@
     "region": "NA",
     "elo5v5": 20
   },
-  "1226200259429007370": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 20,
-    "isModerator": true
-  },
   "1141899154084343909": {
     "team": "Citizens-U3",
     "isLeader": true,
@@ -22645,6 +22638,13 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
+  },
+  "1226200259429007370": {
+    "team": "AOGIRI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
   },
   "949878090341949522": {
     "team": "AOGIRI",
