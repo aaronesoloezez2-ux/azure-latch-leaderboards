@@ -21618,13 +21618,6 @@
     "region": "Europe",
     "elo5v5": 23
   },
-  "896720760985497640": {
-    "team": "Quantum",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 23,
-    "isModerator": true
-  },
   "751740180083245116": {
     "team": "Quantum",
     "isLeader": false,
@@ -22654,6 +22647,13 @@
     "elo5v5": 0
   },
   "1290679358528290868": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "896720760985497640": {
     "team": null,
     "isLeader": false,
     "region": null,
