@@ -7009,7 +7009,6 @@
         "556224085978513428",
         "1071263832267300914",
         "1046443493519802468",
-        "998769284513812501",
         "877646515840102420",
         "1477720976908357654",
         "1080290120428691476"
@@ -10422,11 +10421,12 @@
       "startTime": 1780594445142,
       "lastOpponents": []
     },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
-      "searchType": "unlimited",
+    "1481494653604856011": {
+      "teamName": "Kyoto",
+      "searchType": "timed",
       "region": "NA",
-      "startTime": 1780630642617,
+      "duration": 30,
+      "startTime": 1780635367256,
       "lastOpponents": []
     }
   },
@@ -18114,7 +18114,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780635072598": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "1481494653604856011",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Kyoto",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780635072598
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
