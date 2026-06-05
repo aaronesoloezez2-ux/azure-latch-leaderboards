@@ -8365,7 +8365,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -10420,6 +10420,13 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1780594445142,
+      "lastOpponents": []
+    },
+    "1342931782273597582": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780628574386,
       "lastOpponents": []
     }
   },
@@ -15293,12 +15300,6 @@
     "1485133609114402937": 1780799603020
   },
   "pendingInvites": {
-    "1780620999786": {
-      "teamName": "Vanguard",
-      "playerId": "796183210010476627",
-      "inviterId": "1079631117444984902",
-      "timestamp": 1780620999786
-    },
     "1780623453089": {
       "teamName": "Yakuza",
       "playerId": "755517545108209674",
@@ -18119,7 +18120,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780628316273": {
+      "team1Id": "835590854580240405",
+      "team2Id": "1342931782273597582",
+      "team1Name": "Bear United",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1780628316273
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
