@@ -5528,7 +5528,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 66,
+      "elo5v5": 45,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -9436,7 +9436,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 41,
+      "elo5v5": 62,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -10418,13 +10418,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1780594445142,
-      "lastOpponents": []
-    },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780621683792,
       "lastOpponents": []
     }
   },
@@ -18119,14 +18112,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780621350204": {
-      "team1Id": "728385309666050149",
+    "1780621990359": {
+      "team1Id": "757056855175594004",
       "team2Id": "1481494653604856011",
-      "team1Name": "Kiseki",
+      "team1Name": "ⅩⅠⅠⅠ",
       "team2Name": "Kyoto",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780621350204
+      "timestamp": 1780621990359
     }
   },
   "pendingVCRequests": {},
