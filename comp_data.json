@@ -7294,7 +7294,6 @@
         "1407158804629553335",
         "777022554383843328",
         "843978181563645953",
-        "730909407914754069",
         "1057733907430244424",
         "1081006457119588462"
       ],
@@ -10422,11 +10421,11 @@
       "startTime": 1780594445142,
       "lastOpponents": []
     },
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
+    "926536409106485338": {
+      "teamName": "Kiseki",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780622190857,
+      "startTime": 1780623615193,
       "lastOpponents": []
     }
   },
@@ -15305,17 +15304,11 @@
       "inviterId": "1079631117444984902",
       "timestamp": 1780620999786
     },
-    "invite_952667718363009074": {
-      "cooldownUntil": 1780623716962
-    },
     "1780623453089": {
       "teamName": "Yakuza",
       "playerId": "755517545108209674",
       "inviterId": "659879805440753718",
       "timestamp": 1780623453089
-    },
-    "invite_659879805440753718": {
-      "cooldownUntil": 1780623753089
     }
   },
   "userNicknames": {
@@ -18131,7 +18124,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780623605527": {
+      "team1Id": "757056855175594004",
+      "team2Id": "926536409106485338",
+      "team1Name": "ⅩⅠⅠⅠ",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780623605527
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
