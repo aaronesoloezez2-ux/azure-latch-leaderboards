@@ -1,17 +1,17 @@
 [
   {
     "rank": 1,
+    "teamName": "Japan 2034",
+    "elo5v5": 41
+  },
+  {
+    "rank": 2,
     "teamName": "Ataraxia",
     "elo5v5": 21
   },
   {
-    "rank": 2,
-    "teamName": "Hongyuan",
-    "elo5v5": 21
-  },
-  {
     "rank": 3,
-    "teamName": "Japan 2034",
+    "teamName": "Hongyuan",
     "elo5v5": 21
   },
   {
