@@ -19478,7 +19478,7 @@
   },
   "1512234413247959244": {
     "team": "Zero",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
