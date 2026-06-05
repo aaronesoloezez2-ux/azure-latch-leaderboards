@@ -6189,7 +6189,6 @@
         "1309132060459401266",
         "1357443306749169757",
         "934499904779325560",
-        "1095098117453516840",
         "1079631117444984902",
         "870152180743688252",
         "1238231511245914133",
@@ -18114,26 +18113,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780700860840": {
-      "team1Id": "1481494653604856011",
-      "team2Id": "1299722087723700256",
-      "team1Name": "Kyoto",
-      "team2Name": "Honorary Knights",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780700860840
-    },
-    "1780701140876": {
-      "team1Id": "1299722087723700256",
-      "team2Id": "728385309666050149",
-      "team1Name": "Honorary Knights",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780701140876
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
