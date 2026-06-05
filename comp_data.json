@@ -5244,7 +5244,6 @@
         "1225953515512270890",
         "1185978119769825377",
         "1143212610427302008",
-        "598233881585647626",
         "931680934925844490",
         "1387227942630981714",
         "1490476640034357374"
@@ -15301,15 +15300,6 @@
       "playerId": "1496964363951800430",
       "inviterId": "1125171739102564432",
       "timestamp": 1780696606478
-    },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1780696906478
-    },
-    "invite_1128740196221976648": {
-      "cooldownUntil": 1780697104188
-    },
-    "invite_1299722087723700256": {
-      "cooldownUntil": 1780697109887
     }
   },
   "userNicknames": {
@@ -18133,17 +18123,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780696264133": {
-      "team1Id": "949878090341949522",
-      "team2Id": "728385309666050149",
-      "team1Name": "AOGIRI",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780696264133
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
