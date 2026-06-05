@@ -7405,7 +7405,6 @@
       ],
       "players": [
         "1110012579377594378",
-        "738846083106734142",
         "716683977141911762"
       ],
       "region": "Europe",
@@ -15310,9 +15309,6 @@
       "playerId": "755517545108209674",
       "inviterId": "659879805440753718",
       "timestamp": 1780623453089
-    },
-    "invite_952667718363009074": {
-      "cooldownUntil": 1780624152987
     }
   },
   "userNicknames": {
@@ -18128,17 +18124,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780623605527": {
-      "team1Id": "757056855175594004",
-      "team2Id": "926536409106485338",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Kiseki",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780623605527
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
