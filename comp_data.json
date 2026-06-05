@@ -8511,7 +8511,7 @@
       "achievements": []
     },
     "AfterBrick": {
-      "elo5v5": 36,
+      "elo5v5": 57,
       "elo11v11": 0,
       "leaders": [
         "950295974151090186"
@@ -10168,7 +10168,7 @@
       "achievements": []
     },
     "Rival Requiem": {
-      "elo5v5": 42,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "1237781963088072850"
@@ -10383,13 +10383,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780673352066,
       "lastOpponents": []
     }
   },
@@ -18102,7 +18095,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780687961871": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "1481494653604856011",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Kyoto",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780687961871
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
