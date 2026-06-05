@@ -12298,12 +12298,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1064201817115861132": {
-    "team": "Oshu Oshi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1311412604446445570": {
     "team": "Panthera",
     "isLeader": false,
@@ -20757,6 +20751,12 @@
     "elo5v5": 0
   },
   "835904211484016693": {
+    "team": "Verse",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1064201817115861132": {
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
