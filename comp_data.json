@@ -4014,7 +4014,6 @@
         "1150232611382366238",
         "1239397959351799849",
         "1131205527922286702",
-        "1023670367442702429",
         "706957256968634561"
       ],
       "region": "Europe",
@@ -18118,17 +18117,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780621990359": {
-      "team1Id": "757056855175594004",
-      "team2Id": "1481494653604856011",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Kyoto",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780621990359
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
