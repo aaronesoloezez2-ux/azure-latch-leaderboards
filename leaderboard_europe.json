@@ -6,32 +6,32 @@
   },
   {
     "rank": 2,
-    "teamName": "SUFC",
+    "teamName": "Calamity",
     "elo5v5": 41
   },
   {
     "rank": 3,
+    "teamName": "SUFC",
+    "elo5v5": 41
+  },
+  {
+    "rank": 4,
     "teamName": "Quantum",
     "elo5v5": 23
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "o-42",
     "elo5v5": 22
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Chapter",
     "elo5v5": 22
   },
   {
-    "rank": 6,
-    "teamName": "Abibas FC",
-    "elo5v5": 21
-  },
-  {
     "rank": 7,
-    "teamName": "Calamity",
+    "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
