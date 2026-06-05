@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Kiseki",
+    "elo5v5": 118
+  },
+  {
+    "rank": 2,
     "teamName": "Spurs",
     "elo5v5": 114
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Abibas NA",
     "elo5v5": 111
-  },
-  {
-    "rank": 3,
-    "teamName": "Kiseki",
-    "elo5v5": 104
   },
   {
     "rank": 4,
