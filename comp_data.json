@@ -9574,7 +9574,8 @@
         "945437289776042024",
         "1252801167562375198",
         "769981677136642069",
-        "615122575521218571"
+        "615122575521218571",
+        "796973985261944832"
       ],
       "region": "NA",
       "achievements": []
@@ -10422,11 +10423,11 @@
       "startTime": 1780594445142,
       "lastOpponents": []
     },
-    "1342931782273597582": {
-      "teamName": "Citizens-U3",
+    "1125171739102564432": {
+      "teamName": "Yggdrasil",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780628574386,
+      "startTime": 1780630642617,
       "lastOpponents": []
     }
   },
@@ -15297,17 +15298,12 @@
     "1291473098280800387": 1780798682881,
     "1222344505244782677": 1780798903393,
     "1485133609114402937": 1780799603020,
-    "666762995258359808": 1780802507333
+    "666762995258359808": 1780802507333,
+    "796973985261944832": 1780803596086
   },
   "pendingInvites": {
-    "1780623453089": {
-      "teamName": "Yakuza",
-      "playerId": "755517545108209674",
-      "inviterId": "659879805440753718",
-      "timestamp": 1780623453089
-    },
-    "invite_914270804571746384": {
-      "cooldownUntil": 1780629973303
+    "invite_952432261372973087": {
+      "cooldownUntil": 1780631078074
     }
   },
   "userNicknames": {
@@ -18123,7 +18119,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780630481658": {
+      "team1Id": "1342931782273597582",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Citizens-U3",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780630481658
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
