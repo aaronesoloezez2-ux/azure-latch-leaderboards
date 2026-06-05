@@ -8085,7 +8085,6 @@
         "1019360056380227725",
         "717987167611387926",
         "1172260646650384409",
-        "773720621200441354",
         "1033870252439785563",
         "532334232367005706",
         "1485733155322331178",
@@ -10393,18 +10392,12 @@
       "startTime": 1780670949252,
       "lastOpponents": []
     },
-    "854409388343951450": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
+    "1481494653604856011": {
+      "teamName": "Kyoto",
+      "searchType": "timed",
       "region": "NA",
-      "startTime": 1780699752095,
-      "lastOpponents": []
-    },
-    "1437355351958749254": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780700014694,
+      "duration": 30,
+      "startTime": 1780701214550,
       "lastOpponents": []
     }
   },
@@ -18121,7 +18114,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780700860840": {
+      "team1Id": "1481494653604856011",
+      "team2Id": "1299722087723700256",
+      "team1Name": "Kyoto",
+      "team2Name": "Honorary Knights",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780700860840
+    },
+    "1780701140876": {
+      "team1Id": "1299722087723700256",
+      "team2Id": "728385309666050149",
+      "team1Name": "Honorary Knights",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780701140876
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
