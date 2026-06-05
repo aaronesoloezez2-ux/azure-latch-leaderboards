@@ -7565,7 +7565,6 @@
         "1253858354481332318",
         "1143485438787596389",
         "597676720413343745",
-        "1496964363951800430",
         "995434523468759044",
         "861964219221278741",
         "829504713950101534",
@@ -10389,12 +10388,11 @@
       "startTime": 1780670949252,
       "lastOpponents": []
     },
-    "949878090341949522": {
-      "teamName": "AOGIRI",
-      "searchType": "timed",
+    "728385309666050149": {
+      "teamName": "Kiseki",
+      "searchType": "unlimited",
       "region": "NA",
-      "duration": 30,
-      "startTime": 1780695154300,
+      "startTime": 1780696327224,
       "lastOpponents": []
     }
   },
@@ -15294,9 +15292,6 @@
       "playerId": "1161757682471026738",
       "inviterId": "857399142196052008",
       "timestamp": 1780692090229
-    },
-    "invite_1299722087723700256": {
-      "cooldownUntil": 1780696013856
     }
   },
   "userNicknames": {
@@ -18120,7 +18115,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780696264133": {
+      "team1Id": "949878090341949522",
+      "team2Id": "728385309666050149",
+      "team1Name": "AOGIRI",
+      "team2Name": "Kiseki",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780696264133
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
