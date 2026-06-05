@@ -8966,7 +8966,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 97,
+      "elo5v5": 112,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10385,6 +10385,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "792524269736951840": {
+      "teamName": "Barcelona",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780689405670,
       "lastOpponents": []
     }
   },
@@ -15277,8 +15284,11 @@
       "inviterId": "1441534629097111704",
       "timestamp": 1780682880705
     },
-    "invite_728385309666050149": {
-      "cooldownUntil": 1780689242396
+    "1780689168082": {
+      "teamName": "Barcelona",
+      "playerId": "954942845226197042",
+      "inviterId": "792524269736951840",
+      "timestamp": 1780689168082
     }
   },
   "userNicknames": {
