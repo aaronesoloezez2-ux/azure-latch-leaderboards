@@ -9026,7 +9026,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 104,
+      "elo5v5": 118,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10420,14 +10420,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1780594445142,
-      "lastOpponents": []
-    },
-    "835590854580240405": {
-      "teamName": "Bear United",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1780626947716,
       "lastOpponents": []
     }
   },
