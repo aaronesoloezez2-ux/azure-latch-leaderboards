@@ -7227,7 +7227,6 @@
       "players": [
         "862257163304435733",
         "1288716705173864503",
-        "757937267720454249",
         "1365572463727083591",
         "1015837874681290802",
         "900272851041550388",
@@ -10420,14 +10419,6 @@
       "searchType": "unlimited",
       "region": "Europe",
       "startTime": 1780594445142,
-      "lastOpponents": []
-    },
-    "1481494653604856011": {
-      "teamName": "Kyoto",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 30,
-      "startTime": 1780635367256,
       "lastOpponents": []
     }
   },
@@ -15301,11 +15292,7 @@
     "931608642145362021": 1780804017954,
     "998769284513812501": 1780808414639
   },
-  "pendingInvites": {
-    "invite_938564876199145494": {
-      "cooldownUntil": 1780635903384
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18119,17 +18106,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780635072598": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "1481494653604856011",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Kyoto",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780635072598
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
