@@ -8377,7 +8377,6 @@
         "713447077832687647",
         "9385648719915494",
         "1226200259429007370",
-        "1355403974122930186",
         "1141899154084343909",
         "476629109804630018",
         "1019772221301989466",
@@ -18120,17 +18119,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780628316273": {
-      "team1Id": "835590854580240405",
-      "team2Id": "1342931782273597582",
-      "team1Name": "Bear United",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780628316273
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
