@@ -9809,12 +9809,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1490476640034357374": {
-    "team": "Undying Spirits",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "323606190615691265": {
     "team": "Undying Spirits",
     "isLeader": true,
@@ -18976,6 +18970,18 @@
     "elo5v5": 0
   },
   "1191121100332089424": {
+    "team": "Spectral FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1451435016893632593": {
+    "team": "Spectral FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1490476640034357374": {
     "team": "Spectral FC",
     "isLeader": false,
     "region": "NA",
