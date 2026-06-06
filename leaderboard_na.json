@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Kiseki",
-    "elo5v5": 156
+    "elo5v5": 139
   },
   {
     "rank": 2,
@@ -31,48 +31,48 @@
   },
   {
     "rank": 7,
+    "teamName": "Moon Noobs",
+    "elo5v5": 47
+  },
+  {
+    "rank": 8,
     "teamName": "AOGIRI",
     "elo5v5": 45
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Dreamers (NA)",
     "elo5v5": 42
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "G50",
     "elo5v5": 30
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Seirin",
     "elo5v5": 29
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "B0MB",
     "elo5v5": 26
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Yggdrasil",
     "elo5v5": 25
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Honorary Knights",
     "elo5v5": 22
-  },
-  {
-    "rank": 15,
-    "teamName": "Moon Noobs",
-    "elo5v5": 21
   },
   {
     "rank": 16,
