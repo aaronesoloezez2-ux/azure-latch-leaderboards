@@ -553,7 +553,7 @@
         "909618541236482058"
       ],
       "region": "NA",
-      "elo5v5": 21,
+      "elo5v5": 47,
       "elo11v11": 0,
       "achievements": []
     },
@@ -8896,7 +8896,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 156,
+      "elo5v5": 139,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -10403,13 +10403,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "567041024615120928": {
-      "teamName": "Abibas NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780785083344,
       "lastOpponents": []
     }
   },
@@ -15310,7 +15303,17 @@
     "1492224414660694169": 1780957544372,
     "829504713950101534": 1780958627588
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780789081000": {
+      "teamName": "Son 2",
+      "playerId": "714928228787159069",
+      "inviterId": "952432261372973087",
+      "timestamp": 1780789081000
+    },
+    "invite_952432261372973087": {
+      "cooldownUntil": 1780789381000
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
