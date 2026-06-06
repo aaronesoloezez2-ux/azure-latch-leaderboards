@@ -1,17 +1,17 @@
 [
   {
     "rank": 1,
-    "teamName": "Spurs",
-    "elo5v5": 139
-  },
-  {
-    "rank": 2,
     "teamName": "Abibas NA",
     "elo5v5": 125
   },
   {
-    "rank": 3,
+    "rank": 2,
     "teamName": "Kiseki",
+    "elo5v5": 120
+  },
+  {
+    "rank": 3,
+    "teamName": "Spurs",
     "elo5v5": 120
   },
   {
@@ -56,33 +56,33 @@
   },
   {
     "rank": 12,
+    "teamName": "G50",
+    "elo5v5": 30
+  },
+  {
+    "rank": 13,
     "teamName": "B0MB",
     "elo5v5": 26
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Metalogic",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Citizens-U3",
     "elo5v5": 20
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 18
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Oshu Oshi NA",
     "elo5v5": 5
-  },
-  {
-    "rank": 17,
-    "teamName": "G50",
-    "elo5v5": 4
   },
   {
     "rank": 18,
