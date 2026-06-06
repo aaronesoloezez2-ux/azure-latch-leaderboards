@@ -9566,9 +9566,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [],
-      "players": [
-        "991147493385568357"
-      ],
+      "players": [],
       "region": "NA",
       "achievements": []
     },
@@ -18136,15 +18134,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780767949663": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "952667718363009074",
-      "team1Name": "Ubers+",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780767949663
-    },
     "1780768359857": {
       "team1Id": "1299722087723700256",
       "team2Id": "952667718363009074",
@@ -18153,6 +18142,24 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780768359857
+    },
+    "1780768559879": {
+      "team1Id": "926536409106485338",
+      "team2Id": "952667718363009074",
+      "team1Name": "Kiseki",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780768559879
+    },
+    "1780768634887": {
+      "team1Id": "728385309666050149",
+      "team2Id": "952667718363009074",
+      "team1Name": "Kiseki",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780768634887
     }
   },
   "pendingVCRequests": {},
