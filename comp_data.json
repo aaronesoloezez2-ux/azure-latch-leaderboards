@@ -8925,7 +8925,7 @@
       "achievements": []
     },
     "Heavens Society": {
-      "elo5v5": 21,
+      "elo5v5": 42,
       "elo11v11": 0,
       "leaders": [
         "1038190438697406516",
@@ -10298,7 +10298,7 @@
       "achievements": []
     },
     "Paris X Gen": {
-      "elo5v5": 21,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1418545642598432781"
@@ -10381,13 +10381,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1437355351958749254": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780761386350,
       "lastOpponents": []
     }
   },
@@ -18142,7 +18135,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780767949663": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "952667718363009074",
+      "team1Name": "Ubers+",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780767949663
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
