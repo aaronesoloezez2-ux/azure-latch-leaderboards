@@ -13211,12 +13211,6 @@
     "region": "Europe",
     "elo5v5": 60
   },
-  "1015156859029700628": {
-    "team": "Calamity",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 60
-  },
   "896050388720058408": {
     "team": "Calamity",
     "isLeader": false,
@@ -22410,12 +22404,6 @@
     "elo5v5": 21
   },
   "495235523804135424": {
-    "team": "Dark",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
-  "897515769733214340": {
     "team": "Dark",
     "isLeader": false,
     "region": "Europe",
