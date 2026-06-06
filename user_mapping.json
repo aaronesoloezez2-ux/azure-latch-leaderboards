@@ -19322,12 +19322,6 @@
     "region": "NA",
     "elo5v5": 120
   },
-  "965000459469348864": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
   "804070778235650149": {
     "team": "Spurs",
     "isLeader": false,
@@ -19410,13 +19404,6 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 139
-  },
-  "1081319797180088422": {
-    "team": "Abibas NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 139,
-    "isModerator": true
   },
   "1511779394727841944": {
     "team": "Abibas NA",
@@ -20398,12 +20385,6 @@
     "elo5v5": 26
   },
   "567861908951269386": {
-    "team": "B0MB",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 26
-  },
-  "1013576163488182343": {
     "team": "B0MB",
     "isLeader": false,
     "region": "NA",
@@ -22099,12 +22080,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "836064878660812861": {
-    "team": "Barcelona",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "788225525478457396": {
     "team": "Barcelona",
     "isLeader": false,
@@ -22270,13 +22245,6 @@
     "elo5v5": 45
   },
   "1226200259429007370": {
-    "team": "AOGIRI",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 45,
-    "isModerator": true
-  },
-  "611697342604902450": {
     "team": "AOGIRI",
     "isLeader": false,
     "region": "NA",
@@ -22519,6 +22487,50 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 21
+  },
+  "1507545013096153099": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "611697342604902450": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1081319797180088422": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1390755048434307092": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "836064878660812861": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "965000459469348864": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1013576163488182343": {
+    "team": "Amaryllis",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
