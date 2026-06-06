@@ -9167,7 +9167,7 @@
       "achievements": []
     },
     "Spurs": {
-      "elo5v5": 127,
+      "elo5v5": 139,
       "elo11v11": 0,
       "leaders": [
         "749678245863227462",
@@ -10360,14 +10360,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "952667718363009074": {
-      "teamName": "Zero",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1780712666729,
       "lastOpponents": []
     }
   },
@@ -18110,6 +18102,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780712604251
+    },
+    "1780712809359": {
+      "team1Id": "952667718363009074",
+      "team2Id": "1437355351958749254",
+      "team1Name": "Zero",
+      "team2Name": "Ubers+",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780712809359
     }
   },
   "pendingVCRequests": {},
