@@ -36,23 +36,23 @@
   },
   {
     "rank": 8,
+    "teamName": "AOGIRI",
+    "elo5v5": 45
+  },
+  {
+    "rank": 9,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Dreamers (NA)",
     "elo5v5": 42
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "B0MB",
     "elo5v5": 26
-  },
-  {
-    "rank": 11,
-    "teamName": "AOGIRI",
-    "elo5v5": 25
   },
   {
     "rank": 12,
