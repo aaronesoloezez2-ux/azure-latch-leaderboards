@@ -22358,13 +22358,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1374154116351262892": {
-    "team": "Barcelona",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "1364503982327730238": {
     "team": "Crimzonic League",
     "isLeader": false,
@@ -22624,6 +22617,13 @@
     "isModerator": true
   },
   "959895242428002334": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1374154116351262892": {
     "team": null,
     "isLeader": false,
     "region": null,
