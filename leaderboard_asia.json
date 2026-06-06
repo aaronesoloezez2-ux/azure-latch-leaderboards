@@ -1,22 +1,22 @@
 [
   {
     "rank": 1,
+    "teamName": "Hopecore",
+    "elo5v5": 41
+  },
+  {
+    "rank": 2,
     "teamName": "The Ashen Eleven",
     "elo5v5": 22
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Ataraxia",
     "elo5v5": 21
   },
   {
-    "rank": 3,
-    "teamName": "Hyacinthia",
-    "elo5v5": 21
-  },
-  {
     "rank": 4,
-    "teamName": "Hopecore",
+    "teamName": "Hyacinthia",
     "elo5v5": 21
   },
   {
