@@ -41,17 +41,17 @@
   },
   {
     "rank": 9,
-    "teamName": "DARK CLUB",
-    "elo5v5": 21
-  },
-  {
-    "rank": 10,
     "teamName": "ZeniX",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Balance",
+    "elo5v5": 21
+  },
+  {
+    "rank": 11,
+    "teamName": "Dark",
     "elo5v5": 21
   },
   {
