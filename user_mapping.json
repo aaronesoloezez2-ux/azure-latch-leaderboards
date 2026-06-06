@@ -19588,7 +19588,7 @@
   },
   "1435410273874739392": {
     "team": "Avernus: Order",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -19675,13 +19675,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
-  },
-  "818162843701739520": {
-    "team": "Avernus: Order",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
   },
   "851439532980961300": {
     "team": "French Vanguard",
@@ -22556,6 +22549,13 @@
     "isModerator": true
   },
   "290405745458020353": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "818162843701739520": {
     "team": null,
     "isLeader": false,
     "region": null,
