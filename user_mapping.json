@@ -22536,6 +22536,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1464125504448626956": {
+    "team": "Amaryllis",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1013576163488182343": {
     "team": "Amaryllis",
     "isLeader": true,
@@ -22652,13 +22659,6 @@
     "isModerator": true
   },
   "818162843701739520": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1464125504448626956": {
     "team": null,
     "isLeader": false,
     "region": null,
