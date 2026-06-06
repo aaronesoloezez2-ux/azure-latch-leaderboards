@@ -10230,7 +10230,8 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "824514052171497494"
+        "1184153323570475038",
+        "1435410273874739392"
       ],
       "players": [
         "824514052171497494",
@@ -10402,14 +10403,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "835590854580240405": {
-      "teamName": "Bear United",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 10,
-      "startTime": 1780772144406,
       "lastOpponents": []
     }
   },
