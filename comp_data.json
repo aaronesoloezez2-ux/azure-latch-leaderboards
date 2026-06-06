@@ -9603,7 +9603,6 @@
         "767443634827952208",
         "1026589851300139018",
         "925938772099620885",
-        "949707465610645525",
         "1139590163689914449",
         "658509030548832261"
       ],
@@ -10390,13 +10389,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "749678245863227462": {
-      "teamName": "Spurs",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780703454343,
       "lastOpponents": []
     }
   },
@@ -15288,7 +15280,17 @@
     "708452355200254002": 1780874771742,
     "1095098117453516840": 1780874866417
   },
-  "pendingInvites": {},
+  "pendingInvites": {
+    "1780704427418": {
+      "teamName": "Royal Court",
+      "playerId": "1150232606047211580",
+      "inviterId": "710006040254480396",
+      "timestamp": 1780704427418
+    },
+    "invite_710006040254480396": {
+      "cooldownUntil": 1780704727418
+    }
+  },
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18116,7 +18118,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780704211881": {
+      "team1Id": "749678245863227462",
+      "team2Id": "1481494653604856011",
+      "team1Name": "Spurs",
+      "team2Name": "Kyoto",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780704211881
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
