@@ -10302,7 +10302,7 @@
       "achievements": []
     },
     "AOGIRI": {
-      "elo5v5": 25,
+      "elo5v5": 45,
       "elo11v11": 0,
       "leaders": [
         "949878090341949522",
@@ -18116,17 +18116,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780703446671": {
-      "team1Id": "759647905887289364",
-      "team2Id": "749678245863227462",
-      "team1Name": "Moon Noobs",
-      "team2Name": "Spurs",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1780703446671
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
