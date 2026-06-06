@@ -12333,12 +12333,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1263104042339405854": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1511346056544125078": {
     "team": "WildCards",
     "isLeader": false,
@@ -12352,6 +12346,12 @@
     "elo5v5": 0
   },
   "691000508781035612": {
+    "team": "WildCards",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1263104042339405854": {
     "team": "WildCards",
     "isLeader": false,
     "region": "Europe",
