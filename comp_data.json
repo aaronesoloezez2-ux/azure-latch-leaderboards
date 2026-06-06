@@ -8955,7 +8955,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 106,
+      "elo5v5": 120,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -9861,7 +9861,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 8,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1481494653604856011",
@@ -15252,11 +15252,7 @@
     "1351332059913785485": 1780882324427,
     "1142527047026094121": 1780883856686
   },
-  "pendingInvites": {
-    "invite_880865540518862918": {
-      "cooldownUntil": 1780711257667
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18086,7 +18082,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780711193856": {
+      "team1Id": "926536409106485338",
+      "team2Id": "952667718363009074",
+      "team1Name": "Kiseki",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780711193856
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
