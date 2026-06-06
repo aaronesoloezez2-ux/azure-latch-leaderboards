@@ -19412,12 +19412,6 @@
     "elo5v5": 120,
     "isModerator": true
   },
-  "1124196641893798008": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
   "945363515680641034": {
     "team": "Spurs",
     "isLeader": false,
@@ -20307,25 +20301,7 @@
     "region": "NA",
     "elo5v5": 25
   },
-  "854385657257787392": {
-    "team": "Yggdrasil",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25
-  },
-  "1200920802246262925": {
-    "team": "Yggdrasil",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25
-  },
   "1474149459595100170": {
-    "team": "Yggdrasil",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 25
-  },
-  "899782955248021534": {
     "team": "Yggdrasil",
     "isLeader": false,
     "region": "NA",
@@ -22603,6 +22579,37 @@
     "region": "Europe",
     "elo5v5": 21
   },
+  "1200920802246262925": {
+    "team": "Amethyst",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "899782955248021534": {
+    "team": "Amethyst",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "804769804594053130": {
+    "team": "Amethyst",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1124196641893798008": {
+    "team": "Amethyst",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "854385657257787392": {
+    "team": "Amethyst",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22667,13 +22674,6 @@
     "isModerator": true
   },
   "1168868176189198418": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "804769804594053130": {
     "team": null,
     "isLeader": false,
     "region": null,
