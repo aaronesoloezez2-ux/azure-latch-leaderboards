@@ -8824,7 +8824,6 @@
         "1075077634138054807",
         "656538330967703565",
         "946353192231378994",
-        "758679760754180116",
         "1492224414660694169",
         "1167553043848499322"
       ],
@@ -10405,11 +10404,11 @@
       "startTime": 1780670949252,
       "lastOpponents": []
     },
-    "1005947912565559356": {
+    "1335102355695468688": {
       "teamName": "Re Al U-20",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780783263313,
+      "startTime": 1780784285674,
       "lastOpponents": []
     }
   },
@@ -15322,9 +15321,6 @@
       "playerId": "1436818930860818533",
       "inviterId": "728385309666050149",
       "timestamp": 1780778406699
-    },
-    "invite_1013576163488182343": {
-      "cooldownUntil": 1780784173190
     }
   },
   "userNicknames": {
@@ -18180,7 +18176,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780784069805": {
+      "team1Id": "1005947912565559356",
+      "team2Id": "759647905887289364",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Moon Noobs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780784069805
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
