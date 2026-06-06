@@ -9872,7 +9872,6 @@
         "1469123991271899318",
         "644671963054473216",
         "804116659983220746",
-        "1176705152342823004",
         "1376644218457686157",
         "942231461644349471",
         "1323379766098661437",
@@ -10358,13 +10357,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "880865540518862918": {
-      "teamName": "Vinland",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780707113069,
       "lastOpponents": []
     }
   },
@@ -18085,7 +18077,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780707247941": {
+      "team1Id": "880865540518862918",
+      "team2Id": "749678245863227462",
+      "team1Name": "Vinland",
+      "team2Name": "Spurs",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780707247941
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
