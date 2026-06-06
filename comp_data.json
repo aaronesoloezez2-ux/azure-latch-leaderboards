@@ -8894,7 +8894,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 133,
+      "elo5v5": 145,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -18144,6 +18144,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780767949663
+    },
+    "1780768359857": {
+      "team1Id": "1299722087723700256",
+      "team2Id": "952667718363009074",
+      "team1Name": "Honorary Knights",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780768359857
     }
   },
   "pendingVCRequests": {},
