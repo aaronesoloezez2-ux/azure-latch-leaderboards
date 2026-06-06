@@ -66,13 +66,13 @@
   },
   {
     "rank": 14,
-    "teamName": "Metalogic",
-    "elo5v5": 21
+    "teamName": "Honorary Knights",
+    "elo5v5": 22
   },
   {
     "rank": 15,
-    "teamName": "Citizens-U3",
-    "elo5v5": 20
+    "teamName": "Metalogic",
+    "elo5v5": 21
   },
   {
     "rank": 16,
@@ -1031,17 +1031,17 @@
   },
   {
     "rank": 207,
-    "teamName": "Honorary Knights",
-    "elo5v5": 0
-  },
-  {
-    "rank": 208,
     "teamName": "Guild: Calabash Crusadors",
     "elo5v5": 0
   },
   {
-    "rank": 209,
+    "rank": 208,
     "teamName": "Octagram",
+    "elo5v5": 0
+  },
+  {
+    "rank": 209,
+    "teamName": "Citizens-U3",
     "elo5v5": 0
   },
   {
