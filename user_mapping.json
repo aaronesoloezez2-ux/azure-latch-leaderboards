@@ -21863,13 +21863,13 @@
   },
   "1441534629097111704": {
     "team": "Counter FC",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 21
   },
   "1386454451149340763": {
     "team": "Counter FC",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 21
   },
