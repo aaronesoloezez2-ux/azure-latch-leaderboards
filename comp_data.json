@@ -8929,7 +8929,7 @@
       "achievements": []
     },
     "Heavens Society": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1038190438697406516",
@@ -10386,6 +10386,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "759647905887289364": {
+      "teamName": "Moon Noobs",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780779296686,
       "lastOpponents": []
     }
   },
@@ -15305,8 +15312,11 @@
       "inviterId": "728385309666050149",
       "timestamp": 1780778406699
     },
-    "invite_1458274913004556442": {
-      "cooldownUntil": 1780779409312
+    "1780779363340": {
+      "teamName": "Kiseki",
+      "playerId": "1224420632184225943",
+      "inviterId": "728385309666050149",
+      "timestamp": 1780779363340
     }
   },
   "userNicknames": {
