@@ -17773,13 +17773,6 @@
     "region": "Asia",
     "elo5v5": 20
   },
-  "917801460585070702": {
-    "team": "Japan 2034",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 20,
-    "isModerator": true
-  },
   "773881831891533835": {
     "team": "Japan 2034",
     "isLeader": false,
@@ -22575,6 +22568,13 @@
     "isModerator": true
   },
   "1355669102731202580": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "917801460585070702": {
     "team": null,
     "isLeader": false,
     "region": null,
