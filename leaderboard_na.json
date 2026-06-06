@@ -16,43 +16,43 @@
   },
   {
     "rank": 4,
+    "teamName": "Re Al",
+    "elo5v5": 65
+  },
+  {
+    "rank": 5,
     "teamName": "Vitality",
     "elo5v5": 62
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Retribution",
     "elo5v5": 61
   },
   {
-    "rank": 6,
-    "teamName": "Seirin",
-    "elo5v5": 49
-  },
-  {
     "rank": 7,
-    "teamName": "Re Al",
-    "elo5v5": 45
-  },
-  {
-    "rank": 8,
     "teamName": "AOGIRI",
     "elo5v5": 45
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Dreamers (NA)",
     "elo5v5": 42
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "G50",
     "elo5v5": 30
+  },
+  {
+    "rank": 11,
+    "teamName": "Seirin",
+    "elo5v5": 29
   },
   {
     "rank": 12,
