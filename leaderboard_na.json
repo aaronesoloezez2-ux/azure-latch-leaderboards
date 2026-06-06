@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Abibas NA",
-    "elo5v5": 125
+    "elo5v5": 139
   },
   {
     "rank": 2,
@@ -51,18 +51,18 @@
   },
   {
     "rank": 11,
-    "teamName": "Yggdrasil",
-    "elo5v5": 42
-  },
-  {
-    "rank": 12,
     "teamName": "G50",
     "elo5v5": 30
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "B0MB",
     "elo5v5": 26
+  },
+  {
+    "rank": 13,
+    "teamName": "Yggdrasil",
+    "elo5v5": 25
   },
   {
     "rank": 14,
