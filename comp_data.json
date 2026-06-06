@@ -2994,7 +2994,6 @@
         "1250974581162905690",
         "1418676552048050269",
         "792072165037441064",
-        "1495162016539869306",
         "1319459981669699625",
         "1265017690251067393"
       ],
@@ -10359,6 +10358,14 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "952667718363009074": {
+      "teamName": "Zero",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 5,
+      "startTime": 1780711839391,
       "lastOpponents": []
     }
   },
@@ -18087,15 +18094,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780711193856": {
-      "team1Id": "926536409106485338",
-      "team2Id": "952667718363009074",
-      "team1Name": "Kiseki",
-      "team2Name": "Zero",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780711193856
-    },
     "1780711453960": {
       "team1Id": "1353220534367682582",
       "team2Id": "952667718363009074",
