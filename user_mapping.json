@@ -22352,13 +22352,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1464125504448626956": {
-    "team": "Barcelona",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "954942845226197042": {
     "team": "Barcelona",
     "isLeader": false,
@@ -22617,6 +22610,13 @@
     "isModerator": true
   },
   "290405745458020353": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1464125504448626956": {
     "team": null,
     "isLeader": false,
     "region": null,
