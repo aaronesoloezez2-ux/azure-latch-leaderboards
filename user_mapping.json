@@ -9635,12 +9635,6 @@
     "region": "NA",
     "elo5v5": 42
   },
-  "1468908246189211670": {
-    "team": "Dreamers (NA)",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 42
-  },
   "928197683745787934": {
     "team": "Dreamers (NA)",
     "isLeader": false,
@@ -14303,6 +14297,42 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "753065120522829875": {
+    "team": "The Abyssal Stars",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1468908246189211670": {
+    "team": "The Abyssal Stars",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "751932360697708586": {
+    "team": "The Abyssal Stars",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1112524607656833034": {
+    "team": "The Abyssal Stars",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "900710005358096484": {
+    "team": "The Abyssal Stars",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1073896844960206879": {
+    "team": "The Abyssal Stars",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1115477792239407104": {
     "team": "The Abyssal Stars",
     "isLeader": true,
@@ -14580,12 +14610,6 @@
     "elo5v5": 0
   },
   "1194547489106296886": {
-    "team": "Repaired",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "900710005358096484": {
     "team": "Repaired",
     "isLeader": false,
     "region": "NA",
@@ -19173,12 +19197,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "751932360697708586": {
-    "team": "Zero",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "475452427860967435": {
     "team": "Zero",
     "isLeader": false,
@@ -22289,6 +22307,24 @@
     "elo5v5": 0
   },
   "617103834916847646": {
+    "team": "Destiny",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1381769195586584587": {
+    "team": "Destiny",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1429256839455047763": {
+    "team": "Destiny",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1512338258200367167": {
     "team": "Destiny",
     "isLeader": false,
     "region": "NA",
