@@ -19549,7 +19549,7 @@
   },
   "1184153323570475038": {
     "team": "Avernus: Order",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -19610,12 +19610,6 @@
   "1452750249494839452": {
     "team": "Avernus: Order",
     "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "818162843701739520": {
-    "team": "Avernus: Order",
-    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
