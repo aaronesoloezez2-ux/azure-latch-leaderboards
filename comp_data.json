@@ -7504,7 +7504,7 @@
       "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
-        "914270804571746384"
+        "1095098117453516840"
       ],
       "players": [
         "1179396120317796433",
@@ -15265,14 +15265,7 @@
     "1150232606047211580": 1780877310260,
     "949707465610645525": 1780877393121
   },
-  "pendingInvites": {
-    "invite_710006040254480396": {
-      "cooldownUntil": 1780704727418
-    },
-    "invite_1005947912565559356": {
-      "cooldownUntil": 1780704754699
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18100,17 +18093,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780704211881": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1481494653604856011",
-      "team1Name": "Spurs",
-      "team2Name": "Kyoto",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780704211881
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
