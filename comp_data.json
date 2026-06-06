@@ -10306,7 +10306,7 @@
       "achievements": []
     },
     "Paris X Gen": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1418545642598432781"
@@ -15277,9 +15277,6 @@
       "playerId": "1063907029913186336",
       "inviterId": "753995547639152740",
       "timestamp": 1780759263362
-    },
-    "invite_1299722087723700256": {
-      "cooldownUntil": 1780760053290
     }
   },
   "userNicknames": {
