@@ -56,17 +56,17 @@
   },
   {
     "rank": 12,
+    "teamName": "Movement",
+    "elo5v5": 22
+  },
+  {
+    "rank": 13,
     "teamName": "Metalogic",
     "elo5v5": 21
   },
   {
-    "rank": 13,
-    "teamName": "Yggdrasil",
-    "elo5v5": 21
-  },
-  {
     "rank": 14,
-    "teamName": "Barcelona",
+    "teamName": "Yggdrasil",
     "elo5v5": 21
   },
   {
@@ -1201,22 +1201,22 @@
   },
   {
     "rank": 241,
-    "teamName": "Movement",
-    "elo5v5": 0
-  },
-  {
-    "rank": 242,
     "teamName": "Fc White Rose",
     "elo5v5": 0
   },
   {
-    "rank": 243,
+    "rank": 242,
     "teamName": "MC FC",
     "elo5v5": 0
   },
   {
-    "rank": 244,
+    "rank": 243,
     "teamName": "Reflex Teiko",
+    "elo5v5": 0
+  },
+  {
+    "rank": 244,
+    "teamName": "Barcelona",
     "elo5v5": 0
   },
   {
