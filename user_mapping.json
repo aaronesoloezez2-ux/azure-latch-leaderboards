@@ -20053,12 +20053,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "467624486917898240": {
-    "team": "Vought International",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1417205700798709891": {
     "team": "Vought International",
     "isLeader": false,
@@ -22568,6 +22562,36 @@
   },
   "1437721752565448705": {
     "team": "DOAB!",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "783331469056540682": {
+    "team": "Missing Pieces",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1325174768235839578": {
+    "team": "Missing Pieces",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "467624486917898240": {
+    "team": "Missing Pieces",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "633694274038267925": {
+    "team": "Missing Pieces",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1175144948887199874": {
+    "team": "Missing Pieces",
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
