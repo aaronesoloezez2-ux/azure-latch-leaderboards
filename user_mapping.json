@@ -6408,7 +6408,7 @@
   },
   "1112150858562539561": {
     "team": "Son",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
@@ -6448,7 +6448,7 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1320293329317134358": {
+  "898989192820965389": {
     "team": "Son",
     "isLeader": true,
     "region": "NA",
