@@ -19581,7 +19581,7 @@
   },
   "1184153323570475038": {
     "team": "Avernus: Order",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -22290,7 +22290,7 @@
   },
   "824514052171497494": {
     "team": "Destiny",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
@@ -22314,7 +22314,7 @@
   },
   "617103834916847646": {
     "team": "Destiny",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
