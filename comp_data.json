@@ -8994,7 +8994,8 @@
         "1512234413247959244",
         "730909407914754069",
         "1351332059913785485",
-        "717822050701410324"
+        "717822050701410324",
+        "1512669024742281342"
       ],
       "region": "NA",
       "achievements": []
@@ -10388,6 +10389,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "847505723763195914": {
+      "teamName": "Oshu Oshi NA",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780873414031,
       "lastOpponents": []
     }
   },
@@ -15310,11 +15318,12 @@
     "1243378634085896202": 1781043864503,
     "1132531466568466553": 1781044737450,
     "883782190348001351": 1781045105039,
-    "1484636972877222049": 1781045453214
+    "1484636972877222049": 1781045453214,
+    "1512669024742281342": 1781046394237
   },
   "pendingInvites": {
-    "invite_1076521298823495802": {
-      "cooldownUntil": 1780872949355
+    "invite_952667718363009074": {
+      "cooldownUntil": 1780873588051
     }
   },
   "userNicknames": {
@@ -18183,7 +18192,16 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {},
-  "pendingVCRequests": {},
+  "pendingVCRequests": {
+    "vc_1780872937108": {
+      "team1Id": "1076521298823495802",
+      "team2Id": "1141899154084343909",
+      "team1Name": "Monarchs Recrowned FC",
+      "team2Name": "Citizens-U3",
+      "vcLink": null,
+      "timestamp": 1780873390564
+    }
+  },
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
