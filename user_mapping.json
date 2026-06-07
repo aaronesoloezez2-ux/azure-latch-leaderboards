@@ -19758,7 +19758,7 @@
   },
   "833372036649844816": {
     "team": "Vought International",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
