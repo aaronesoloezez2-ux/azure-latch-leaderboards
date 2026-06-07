@@ -9133,7 +9133,6 @@
         "1280938486030930077",
         "1020421521598062693",
         "749678245863227462",
-        "1467619174930186332",
         "945363515680641034",
         "1038336171127873588",
         "804070778235650149",
@@ -10403,6 +10402,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "1125171739102564432": {
+      "teamName": "Yggdrasil",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780793279487,
       "lastOpponents": []
     }
   },
@@ -15321,9 +15327,6 @@
       "playerId": "735409729001750638",
       "inviterId": "938564876199145494",
       "timestamp": 1780792601219
-    },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1780793448248
     }
   },
   "userNicknames": {
@@ -18179,17 +18182,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780792767267": {
-      "team1Id": "854409388343951450",
-      "team2Id": "567041024615120928",
-      "team1Name": "Ubers+",
-      "team2Name": "Abibas NA",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1780792767267
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
