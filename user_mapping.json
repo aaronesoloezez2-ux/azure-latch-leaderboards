@@ -16912,6 +16912,12 @@
     "region": "Asia",
     "elo5v5": 21
   },
+  "1161895242627285062": {
+    "team": "Hyacinthia",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
   "1455063092038860904": {
     "team": "Hyacinthia",
     "isLeader": true,
@@ -22540,13 +22546,6 @@
     "isModerator": true
   },
   "566360748888948766": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "1029779932999594016": {
     "team": null,
     "isLeader": false,
     "region": null,
