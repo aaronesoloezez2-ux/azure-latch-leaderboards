@@ -2915,7 +2915,6 @@
         "1154910400874291292",
         "1050552783029415966",
         "1474530119258341446",
-        "1489615012304785568",
         "1045868388867657828"
       ],
       "region": "NA",
@@ -15309,12 +15308,6 @@
     "1061818861348978699": 1781039070096
   },
   "pendingInvites": {
-    "1780861985916": {
-      "teamName": "FC Vanity",
-      "playerId": "942593369736114206",
-      "inviterId": "873750545851113514",
-      "timestamp": 1780861985916
-    },
     "1780862980097": {
       "teamName": "FC Vanity",
       "playerId": "810623474396692511",
@@ -15326,9 +15319,6 @@
       "playerId": "693157905939169372",
       "inviterId": "1144455673686536314",
       "timestamp": 1780868629581
-    },
-    "invite_1144455673686536314": {
-      "cooldownUntil": 1780868929581
     }
   },
   "userNicknames": {
@@ -18197,14 +18187,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780868811056": {
-      "team1Id": "1437355351958749254",
+    "1780869626288": {
+      "team1Id": "567041024615120928",
       "team2Id": "938564876199145494",
-      "team1Name": "Ubers+",
+      "team1Name": "Abibas NA",
       "team2Name": "Citizens-U3",
       "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780868811056
+      "team2Vote": null,
+      "timestamp": 1780869626288
     }
   },
   "pendingVCRequests": {},
