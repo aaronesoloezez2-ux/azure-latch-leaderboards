@@ -1,13 +1,13 @@
 [
   {
     "type": "kick",
-    "guildName": "0 elo activities",
-    "targetId": "1220701238082015334",
-    "targetName": "1220701238082015334",
+    "guildName": "Verse",
+    "targetId": "1025844116669595779",
+    "targetName": "aaronewld",
     "executorId": "1025844116669595779",
     "executorName": "aaronewld",
-    "timestamp": 1780842434947,
-    "id": "kick_1220701238082015334_1780842435109",
+    "timestamp": 1780843235646,
+    "id": "kick_1025844116669595779_1780843235900",
     "status": "pending"
   }
 ]
