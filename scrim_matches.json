@@ -24,6 +24,15 @@
         "isReferee": false,
         "text": "cc",
         "time": 1780864093892
+      },
+      {
+        "id": "1780864098995",
+        "author": "aaronewld",
+        "authorId": "1025844116669595779",
+        "authorAvatar": "be8a7c659247004a5f7a40bbb52b911e",
+        "isReferee": false,
+        "text": "tu vois ce message?",
+        "time": 1780864098995
       }
     ],
     "refCalled": false,
