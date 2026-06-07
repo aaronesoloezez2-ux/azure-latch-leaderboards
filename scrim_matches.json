@@ -15,7 +15,17 @@
     },
     "mode": "friendly",
     "createdAt": 1780864079803,
-    "messages": [],
+    "messages": [
+      {
+        "id": "1780864093892",
+        "author": "aaronewld",
+        "authorId": "1025844116669595779",
+        "authorAvatar": "be8a7c659247004a5f7a40bbb52b911e",
+        "isReferee": false,
+        "text": "cc",
+        "time": 1780864093892
+      }
+    ],
     "refCalled": false,
     "refereeId": null
   }
