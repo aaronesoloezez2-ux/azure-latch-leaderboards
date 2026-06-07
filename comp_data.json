@@ -2693,7 +2693,6 @@
         "800684894635556905",
         "1314054951336411207",
         "1234690094758101037",
-        "942593369736114206",
         "1024799256822960210"
       ],
       "region": "NA",
@@ -10404,13 +10403,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1141899154084343909": {
-      "teamName": "Citizens-U3",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780791117873,
       "lastOpponents": []
     }
   },
@@ -18178,7 +18170,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780791662054": {
+      "team1Id": "1141899154084343909",
+      "team2Id": "967575388547055686",
+      "team1Name": "Citizens-U3",
+      "team2Name": "Abibas NA",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780791662054
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
