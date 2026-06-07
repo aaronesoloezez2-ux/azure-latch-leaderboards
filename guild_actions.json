@@ -1,24 +1,13 @@
 [
   {
-    "type": "invite_sent",
-    "guildName": "P.X.G",
-    "targetId": "1025844116669595779",
-    "targetName": "aaronewld",
-    "executorId": "1440648503364681728",
-    "executorName": "xz_zenith",
-    "timestamp": 1780844562054,
-    "id": "invite_sent_1025844116669595779_1780844562080",
-    "status": "done"
-  },
-  {
     "type": "invite_accepted",
     "guildName": "P.X.G",
     "targetId": "1025844116669595779",
     "targetName": "aaronewld",
     "executorId": "1440648503364681728",
     "executorName": "xz_zenith",
-    "timestamp": 1780845102157,
-    "id": "invite_accepted_1025844116669595779_1780845102168",
-    "status": "done"
+    "timestamp": 1780853313914,
+    "id": "invite_accepted_1025844116669595779_1780853314132",
+    "status": "pending"
   }
 ]
