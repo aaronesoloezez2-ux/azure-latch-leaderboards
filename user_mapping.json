@@ -13292,12 +13292,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "692250751640272937": {
-    "team": "Chain Breakers: New Hope",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1462913727971070073": {
     "team": "Chain Breakers: New Hope",
     "isLeader": false,
@@ -13307,6 +13301,12 @@
   },
   "662351713780629523": {
     "team": "Chain Breakers: New Hope",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1047795693743509534": {
+    "team": "Chem Brickers",
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
@@ -18164,12 +18164,6 @@
     "elo5v5": 0
   },
   "1223918075439480876": {
-    "team": "Chem Brickers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1047795693743509534": {
     "team": "Chem Brickers",
     "isLeader": false,
     "region": "Europe",
