@@ -9971,7 +9971,8 @@
         "1264606236800847944",
         "755399582925586476",
         "1024297918917775360",
-        "1080744656406581288"
+        "1080744656406581288",
+        "1513175578927173633"
       ],
       "region": "Europe",
       "achievements": []
@@ -10363,13 +10364,6 @@
     }
   },
   "matchmaking": {
-    "938564876199145494": {
-      "teamName": "Citizens-U3",
-      "searchType": "unlimited",
-      "region": "Europe",
-      "startTime": 1780594445142,
-      "lastOpponents": []
-    },
     "1373723364543303732": {
       "teamName": "Tracen Academy URA",
       "searchType": "unlimited",
@@ -15295,7 +15289,8 @@
     "1161895242627285062": 1781010949171,
     "834564942748450877": 1781011488232,
     "1426287190316683314": 1781012421414,
-    "1287056772942659726": 1781013268094
+    "1287056772942659726": 1781013268094,
+    "1513175578927173633": 1781013860122
   },
   "pendingInvites": {
     "1780839224758": {
@@ -15304,8 +15299,8 @@
       "inviterId": "1247118076084748402",
       "timestamp": 1780839224758
     },
-    "invite_1489954649032228865": {
-      "cooldownUntil": 1780840748807
+    "invite_1394238496398508133": {
+      "cooldownUntil": 1780841305592
     }
   },
   "userNicknames": {
@@ -18163,7 +18158,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780840821760": {
+      "team1Id": "938564876199145494",
+      "team2Id": "798949214704107521",
+      "team1Name": "Citizens-U3",
+      "team2Name": "WildCards",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1780840821760
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
