@@ -3969,12 +3969,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1050552783029415966": {
-    "team": "Generation of Miracles",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1132841615187251362": {
     "team": "Generation of Miracles",
     "isLeader": false,
@@ -6443,6 +6437,24 @@
     "elo5v5": 0
   },
   "1154910400874291292": {
+    "team": "Son",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1050552783029415966": {
+    "team": "Son",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1474530119258341446": {
+    "team": "Son",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1489615012304785568": {
     "team": "Son",
     "isLeader": false,
     "region": "NA",
@@ -19979,12 +19991,6 @@
     "elo5v5": 26
   },
   "728450543768305724": {
-    "team": "Yggdrasil",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 26
-  },
-  "1489615012304785568": {
     "team": "Yggdrasil",
     "isLeader": false,
     "region": "NA",
