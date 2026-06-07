@@ -1,27 +1,27 @@
 [
   {
     "rank": 1,
-    "teamName": "Paris X Gen",
-    "elo5v5": 61
+    "teamName": "Calamity",
+    "elo5v5": 80
   },
   {
     "rank": 2,
-    "teamName": "Calamity",
-    "elo5v5": 60
-  },
-  {
-    "rank": 3,
     "teamName": "AfterBrick",
     "elo5v5": 57
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Balance",
     "elo5v5": 42
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "SUFC",
+    "elo5v5": 41
+  },
+  {
+    "rank": 5,
+    "teamName": "Paris X Gen",
     "elo5v5": 41
   },
   {
