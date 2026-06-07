@@ -1,13 +1,13 @@
 [
   {
-    "type": "invite_accepted",
-    "guildName": "P.X.G",
-    "targetId": "1025844116669595779",
-    "targetName": "aaronewld",
-    "executorId": "1440648503364681728",
-    "executorName": "xz_zenith",
-    "timestamp": 1780853313914,
-    "id": "invite_accepted_1025844116669595779_1780853314132",
-    "status": "done"
+    "type": "invite_sent",
+    "guildName": "Ubers",
+    "targetId": "1473025200814555226",
+    "targetName": "silkiified",
+    "executorId": "1276990738722324595",
+    "executorName": "sodemiet",
+    "timestamp": 1780868885956,
+    "id": "invite_sent_1473025200814555226_1780868886137",
+    "status": "pending"
   }
 ]
