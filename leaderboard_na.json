@@ -16,28 +16,28 @@
   },
   {
     "rank": 4,
+    "teamName": "Re Al",
+    "elo5v5": 65
+  },
+  {
+    "rank": 5,
     "teamName": "Vitality",
     "elo5v5": 62
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Retribution",
     "elo5v5": 61
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "G50",
     "elo5v5": 49
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Moon Noobs",
     "elo5v5": 47
-  },
-  {
-    "rank": 8,
-    "teamName": "Re Al",
-    "elo5v5": 45
   },
   {
     "rank": 9,
