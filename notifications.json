@@ -15,15 +15,5 @@
     "git": "https://api.github.com/repos/aaronesoloezez2-ux/azure-latch-leaderboards/git/blobs/c05129c0bc38cd4ee26a113b2da60bbc51ef0f60",
     "html": "https://github.com/aaronesoloezez2-ux/azure-latch-leaderboards/blob/main/notifications.json"
   },
-  "1025844116669595779": [
-    {
-      "id": 1780844561018,
-      "fromId": "1440648503364681728",
-      "fromName": "xz_zenith",
-      "teamName": "P.X.G",
-      "time": 1780844561018,
-      "read": false,
-      "status": "pending"
-    }
-  ]
+  "1025844116669595779": []
 }
