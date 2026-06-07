@@ -1,3 +1,19 @@
 {
+  "name": "notifications.json",
+  "path": "notifications.json",
+  "sha": "c05129c0bc38cd4ee26a113b2da60bbc51ef0f60",
+  "size": 31,
+  "url": "https://api.github.com/repos/aaronesoloezez2-ux/azure-latch-leaderboards/contents/notifications.json?ref=main",
+  "html_url": "https://github.com/aaronesoloezez2-ux/azure-latch-leaderboards/blob/main/notifications.json",
+  "git_url": "https://api.github.com/repos/aaronesoloezez2-ux/azure-latch-leaderboards/git/blobs/c05129c0bc38cd4ee26a113b2da60bbc51ef0f60",
+  "download_url": "https://raw.githubusercontent.com/aaronesoloezez2-ux/azure-latch-leaderboards/main/notifications.json",
+  "type": "file",
+  "content": "ewogICIxMDI1ODQ0MTE2NjY5NTk1Nzc5IjogW10KfQ==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/aaronesoloezez2-ux/azure-latch-leaderboards/contents/notifications.json?ref=main",
+    "git": "https://api.github.com/repos/aaronesoloezez2-ux/azure-latch-leaderboards/git/blobs/c05129c0bc38cd4ee26a113b2da60bbc51ef0f60",
+    "html": "https://github.com/aaronesoloezez2-ux/azure-latch-leaderboards/blob/main/notifications.json"
+  },
   "1025844116669595779": []
 }
