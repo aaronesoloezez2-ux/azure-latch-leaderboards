@@ -11576,24 +11576,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1045868388867657828": {
-    "team": "Lucent:RE",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "571101224011825173": {
-    "team": "Lucent:RE",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1469931988503756988": {
-    "team": "Ivory",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1012141971940327545": {
     "team": "Nike FC",
     "isLeader": false,
@@ -13957,6 +13939,12 @@
   "697848172885573692": {
     "team": "Anomalies",
     "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1469931988503756988": {
+    "team": "Ivory",
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
