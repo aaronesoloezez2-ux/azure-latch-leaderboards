@@ -21021,7 +21021,7 @@
   },
   "1437537784314331408": {
     "team": "Kyoto",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
@@ -21044,18 +21044,18 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1435327843289665596": {
+    "team": "Kyoto",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1481494653604856011": {
     "team": "Kyoto",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
-  },
-  "1435327843289665596": {
-    "team": "Kyoto",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
   },
   "958458428093788210": {
     "team": "Baroueth",
