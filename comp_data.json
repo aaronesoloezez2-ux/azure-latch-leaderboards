@@ -10385,13 +10385,6 @@
       "region": "Asia",
       "startTime": 1780670949252,
       "lastOpponents": []
-    },
-    "1437355351958749254": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780847465098,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15327,6 +15320,15 @@
       "playerId": "810623474396692511",
       "inviterId": "873750545851113514",
       "timestamp": 1780862980097
+    },
+    "1780868629581": {
+      "teamName": "Verse",
+      "playerId": "693157905939169372",
+      "inviterId": "1144455673686536314",
+      "timestamp": 1780868629581
+    },
+    "invite_1144455673686536314": {
+      "cooldownUntil": 1780868929581
     }
   },
   "userNicknames": {
@@ -18194,7 +18196,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780868811056": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "938564876199145494",
+      "team1Name": "Ubers+",
+      "team2Name": "Citizens-U3",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1780868811056
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
