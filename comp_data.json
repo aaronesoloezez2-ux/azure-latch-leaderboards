@@ -8237,7 +8237,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 21,
+      "elo5v5": 5,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -8894,7 +8894,7 @@
       "achievements": []
     },
     "Kiseki": {
-      "elo5v5": 139,
+      "elo5v5": 151,
       "elo11v11": 0,
       "leaders": [
         "1249902035352948836",
@@ -15311,20 +15311,11 @@
     "1093388128527601695": 1780968090155
   },
   "pendingInvites": {
-    "1780791299457": {
-      "teamName": "Reprised",
-      "playerId": "768118677387477004",
-      "inviterId": "1153499590855753728",
-      "timestamp": 1780791299457
-    },
     "1780792601219": {
       "teamName": "Citizens-U3",
       "playerId": "735409729001750638",
       "inviterId": "938564876199145494",
       "timestamp": 1780792601219
-    },
-    "invite_952667718363009074": {
-      "cooldownUntil": 1780797989327
     }
   },
   "userNicknames": {
@@ -18180,17 +18171,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780797508215": {
-      "team1Id": "1030990928191688704",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Citizens - U3",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780797508215
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
