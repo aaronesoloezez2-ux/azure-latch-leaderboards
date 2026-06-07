@@ -46,18 +46,18 @@
   },
   {
     "rank": 10,
-    "teamName": "Dreamers (NA)",
-    "elo5v5": 42
-  },
-  {
-    "rank": 11,
     "teamName": "G50",
     "elo5v5": 30
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Seirin",
     "elo5v5": 29
+  },
+  {
+    "rank": 12,
+    "teamName": "Yggdrasil",
+    "elo5v5": 26
   },
   {
     "rank": 13,
@@ -91,13 +91,13 @@
   },
   {
     "rank": 19,
-    "teamName": "ⅩⅠⅠⅠ",
-    "elo5v5": 18
+    "teamName": "Dreamers (NA)",
+    "elo5v5": 20
   },
   {
     "rank": 20,
-    "teamName": "Yggdrasil",
-    "elo5v5": 4
+    "teamName": "ⅩⅠⅠⅠ",
+    "elo5v5": 18
   },
   {
     "rank": 21,
