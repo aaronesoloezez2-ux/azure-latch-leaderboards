@@ -8359,7 +8359,6 @@
         "846631785408495646",
         "731855473334026293",
         "1107027625601413323",
-        "1170325402158366743",
         "637151131595964416",
         "998918291525472288",
         "715889442937897003",
@@ -10371,6 +10370,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "1437355351958749254": {
+      "teamName": "Ubers+",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780847465098,
       "lastOpponents": []
     }
   },
@@ -15288,11 +15294,7 @@
     "1045868388867657828": 1781018932291,
     "914541167943778304": 1781019804429
   },
-  "pendingInvites": {
-    "invite_1237781963088072850": {
-      "cooldownUntil": 1780847290007
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18152,17 +18154,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780846710179": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "1437355351958749254",
-      "team1Name": "Metalogic",
-      "team2Name": "Ubers+",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780846710179
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
