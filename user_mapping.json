@@ -13688,8 +13688,7 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 41,
-    "isModerator": true,
-    "isReferee": true
+    "isModerator": true
   },
   "754702431404818473": {
     "team": "Paleideus",
@@ -19011,12 +19010,6 @@
     "elo5v5": 0
   },
   "1351332059913785485": {
-    "team": "Zero",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "950149614361800774": {
     "team": "Zero",
     "isLeader": false,
     "region": "NA",
