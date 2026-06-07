@@ -12687,12 +12687,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1460829570407202986": {
-    "team": "Monarchs Recrowned FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1300885787700756551": {
     "team": "Monarchs Recrowned FC",
     "isLeader": false,
@@ -22433,6 +22427,12 @@
     "isModerator": true
   },
   "945363515680641034": {
+    "team": "Amethyst",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 22
+  },
+  "1460829570407202986": {
     "team": "Amethyst",
     "isLeader": false,
     "region": "NA",
