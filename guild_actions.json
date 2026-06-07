@@ -1,1 +1,13 @@
-{}
+[
+  {
+    "type": "kick",
+    "guildName": "0 elo activities",
+    "targetId": "1220701238082015334",
+    "targetName": "1220701238082015334",
+    "executorId": "1025844116669595779",
+    "executorName": "aaronewld",
+    "timestamp": 1780842434947,
+    "id": "kick_1220701238082015334_1780842435109",
+    "status": "pending"
+  }
+]
