@@ -11,23 +11,23 @@
   },
   {
     "rank": 3,
+    "teamName": "G50",
+    "elo5v5": 68
+  },
+  {
+    "rank": 4,
     "teamName": "Re Al",
     "elo5v5": 65
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Vitality",
     "elo5v5": 62
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Retribution",
     "elo5v5": 61
-  },
-  {
-    "rank": 6,
-    "teamName": "G50",
-    "elo5v5": 49
   },
   {
     "rank": 7,
@@ -76,23 +76,23 @@
   },
   {
     "rank": 16,
-    "teamName": "Metalogic",
-    "elo5v5": 21
-  },
-  {
-    "rank": 17,
     "teamName": "Llantines fc",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 17,
     "teamName": "Dreamers (NA)",
     "elo5v5": 20
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 18
+  },
+  {
+    "rank": 19,
+    "teamName": "Metalogic",
+    "elo5v5": 2
   },
   {
     "rank": 20,
