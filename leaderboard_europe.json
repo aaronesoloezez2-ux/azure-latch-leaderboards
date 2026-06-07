@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Paris X Gen",
+    "elo5v5": 61
+  },
+  {
+    "rank": 2,
     "teamName": "Calamity",
     "elo5v5": 60
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "AfterBrick",
     "elo5v5": 57
-  },
-  {
-    "rank": 3,
-    "teamName": "Paris X Gen",
-    "elo5v5": 42
   },
   {
     "rank": 4,
@@ -36,38 +36,38 @@
   },
   {
     "rank": 8,
-    "teamName": "Rival Requiem",
-    "elo5v5": 22
-  },
-  {
-    "rank": 9,
     "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "ZeniX",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Balance",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Heavens Society",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Counter FC",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Dark",
     "elo5v5": 21
+  },
+  {
+    "rank": 14,
+    "teamName": "Rival Requiem",
+    "elo5v5": 2
   },
   {
     "rank": 15,
