@@ -10378,13 +10378,6 @@
       "region": "NA",
       "startTime": 1780804367393,
       "lastOpponents": []
-    },
-    "798949214704107521": {
-      "teamName": "WildCards",
-      "searchType": "unlimited",
-      "region": "Europe",
-      "startTime": 1780842493500,
-      "lastOpponents": []
     }
   },
   "refereeQueue": [],
@@ -15301,14 +15294,7 @@
     "1513175578927173633": 1781013860122,
     "355620726059040768": 1781014855594
   },
-  "pendingInvites": {
-    "1780839224758": {
-      "teamName": "Calamity",
-      "playerId": "713044980343504989",
-      "inviterId": "1247118076084748402",
-      "timestamp": 1780839224758
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
