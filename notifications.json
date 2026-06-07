@@ -24,6 +24,15 @@
       "time": 1780845077317,
       "read": true,
       "status": "accepted"
+    },
+    {
+      "id": 1780864082471,
+      "type": "scrim_found",
+      "fromName": "P.X.G",
+      "matchId": "match_1780864079341",
+      "time": 1780864082471,
+      "read": false,
+      "status": "pending"
     }
   ],
   "1440648503364681728": []
