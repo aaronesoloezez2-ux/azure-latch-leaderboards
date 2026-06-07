@@ -1,24 +1,13 @@
 [
   {
-    "type": "kick",
-    "guildName": "Verse",
+    "type": "invite_sent",
+    "guildName": "P.X.G",
     "targetId": "1025844116669595779",
     "targetName": "aaronewld",
-    "executorId": "1025844116669595779",
-    "executorName": "aaronewld",
-    "timestamp": 1780843235646,
-    "id": "kick_1025844116669595779_1780843235900",
-    "status": "pending"
-  },
-  {
-    "type": "kick",
-    "guildName": "Verse",
-    "targetId": "1025844116669595779",
-    "targetName": "aaronewld",
-    "executorId": "1025844116669595779",
-    "executorName": "aaronewld",
-    "timestamp": 1780843682563,
-    "id": "kick_1025844116669595779_1780843682573",
+    "executorId": "1440648503364681728",
+    "executorName": "xz_zenith",
+    "timestamp": 1780843894763,
+    "id": "invite_sent_1025844116669595779_1780843894781",
     "status": "pending"
   }
 ]
