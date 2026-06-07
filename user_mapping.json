@@ -5177,7 +5177,7 @@
   },
   "1025844116669595779": {
     "team": "P.X.G",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -20294,12 +20294,6 @@
   "1064201817115861132": {
     "team": "Verse",
     "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1144455673686536314": {
-    "team": "Verse",
-    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
