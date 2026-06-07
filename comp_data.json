@@ -9144,7 +9144,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 139,
+      "elo5v5": 150,
       "elo11v11": 0,
       "leaders": [
         "1364318290088034335",
@@ -15309,9 +15309,6 @@
       "playerId": "714928228787159069",
       "inviterId": "952432261372973087",
       "timestamp": 1780789081000
-    },
-    "invite_1013576163488182343": {
-      "cooldownUntil": 1780789800540
     }
   },
   "userNicknames": {
