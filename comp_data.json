@@ -8284,7 +8284,8 @@
         "1307542829228363861",
         "1059680525507366982",
         "1399335285602386044",
-        "1252605292613734403"
+        "1252605292613734403",
+        "355620726059040768"
       ],
       "region": "Asia",
       "elo5v5": 20,
@@ -10376,6 +10377,13 @@
       "searchType": "unlimited",
       "region": "NA",
       "startTime": 1780804367393,
+      "lastOpponents": []
+    },
+    "798949214704107521": {
+      "teamName": "WildCards",
+      "searchType": "unlimited",
+      "region": "Europe",
+      "startTime": 1780841413098,
       "lastOpponents": []
     }
   },
@@ -15290,7 +15298,8 @@
     "834564942748450877": 1781011488232,
     "1426287190316683314": 1781012421414,
     "1287056772942659726": 1781013268094,
-    "1513175578927173633": 1781013860122
+    "1513175578927173633": 1781013860122,
+    "355620726059040768": 1781014855594
   },
   "pendingInvites": {
     "1780839224758": {
@@ -15299,8 +15308,8 @@
       "inviterId": "1247118076084748402",
       "timestamp": 1780839224758
     },
-    "invite_1394238496398508133": {
-      "cooldownUntil": 1780841305592
+    "invite_751267453375348818": {
+      "cooldownUntil": 1780842296603
     }
   },
   "userNicknames": {
@@ -18158,17 +18167,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780840821760": {
-      "team1Id": "938564876199145494",
-      "team2Id": "798949214704107521",
-      "team1Name": "Citizens-U3",
-      "team2Name": "WildCards",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780840821760
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
