@@ -9669,7 +9669,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "1435327843289665596",
@@ -10395,6 +10395,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780886262260,
       "lastOpponents": []
     }
   },
@@ -18216,17 +18223,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780885685232": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "1200920802246262925",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Amethyst",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780885685232
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
