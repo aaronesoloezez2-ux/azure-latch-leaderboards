@@ -1548,7 +1548,7 @@
       "achievements": []
     },
     "Vinland": {
-      "elo5v5": 42,
+      "elo5v5": 20,
       "elo11v11": 0,
       "leaders": [
         "880865540518862918"
@@ -10121,7 +10121,7 @@
       "elo11v11": 0
     },
     "Amethyst": {
-      "elo5v5": 5,
+      "elo5v5": 27,
       "elo11v11": 0,
       "leaders": [
         "1200920802246262925",
@@ -10492,13 +10492,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780955993515,
       "lastOpponents": []
     }
   },
@@ -15468,11 +15461,7 @@
     "1038336171127873588": 1781132052678,
     "1277285681508519976": 1781132663501
   },
-  "pendingInvites": {
-    "invite_1481494653604856011": {
-      "cooldownUntil": 1780960154049
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18374,7 +18363,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780959898865": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "1013576163488182343",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Amaryllis",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780959898865
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
