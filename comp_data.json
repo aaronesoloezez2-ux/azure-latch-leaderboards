@@ -9044,7 +9044,6 @@
       "elo5v5": 132,
       "elo11v11": 0,
       "leaders": [
-        "1364318290088034335",
         "967575388547055686",
         "567041024615120928"
       ],
@@ -15324,8 +15323,14 @@
       "inviterId": "350657508529930241",
       "timestamp": 1780876935509
     },
-    "invite_350657508529930241": {
-      "cooldownUntil": 1780877235509
+    "1780877489683": {
+      "teamName": "Oshu Oshi NA",
+      "playerId": "926536409106485338",
+      "inviterId": "847505723763195914",
+      "timestamp": 1780877489683
+    },
+    "invite_847505723763195914": {
+      "cooldownUntil": 1780877789683
     }
   },
   "userNicknames": {
@@ -18195,17 +18200,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780876863163": {
-      "team1Id": "1076521298823495802",
-      "team2Id": "759647905887289364",
-      "team1Name": "Monarchs Recrowned FC",
-      "team2Name": "Moon Noobs",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1780876863163
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
