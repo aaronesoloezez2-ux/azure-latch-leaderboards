@@ -9956,7 +9956,7 @@
       "achievements": []
     },
     "Rival Requiem": {
-      "elo5v5": 2,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1237781963088072850"
@@ -10166,7 +10166,7 @@
       "achievements": []
     },
     "Paris X Gen": {
-      "elo5v5": 41,
+      "elo5v5": 60,
       "elo11v11": 0,
       "leaders": [
         "1418545642598432781"
@@ -15345,6 +15345,15 @@
       "playerId": "1415382264577265715",
       "inviterId": "1437721752565448705",
       "timestamp": 1780923927511
+    },
+    "1780925167384": {
+      "teamName": "Missing Pieces",
+      "playerId": "873106066097963008",
+      "inviterId": "1175144948887199874",
+      "timestamp": 1780925167384
+    },
+    "invite_1175144948887199874": {
+      "cooldownUntil": 1780925467384
     }
   },
   "userNicknames": {
