@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Spurs",
-    "elo5v5": 120
+    "teamName": "Abibas NA",
+    "elo5v5": 127
   },
   {
     "rank": 2,
-    "teamName": "Abibas NA",
-    "elo5v5": 113
+    "teamName": "Spurs",
+    "elo5v5": 120
   },
   {
     "rank": 3,
@@ -81,23 +81,23 @@
   },
   {
     "rank": 17,
-    "teamName": "Amethyst",
-    "elo5v5": 22
-  },
-  {
-    "rank": 18,
     "teamName": "Llantines fc",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Kyoto",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 18
+  },
+  {
+    "rank": 20,
+    "teamName": "Amethyst",
+    "elo5v5": 5
   },
   {
     "rank": 21,
