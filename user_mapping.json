@@ -22155,7 +22155,7 @@
   },
   "1467619174930186332": {
     "team": "Amethyst",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 22,
     "isModerator": true
