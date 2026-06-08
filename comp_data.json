@@ -553,7 +553,7 @@
         "909618541236482058"
       ],
       "region": "NA",
-      "elo5v5": 47,
+      "elo5v5": 26,
       "elo11v11": 0,
       "achievements": []
     },
@@ -6381,7 +6381,7 @@
       "achievements": []
     },
     "Monarchs Recrowned FC": {
-      "elo5v5": 23,
+      "elo5v5": 44,
       "elo11v11": 0,
       "leaders": [
         "1076521298823495802",
@@ -15333,7 +15333,13 @@
       "timestamp": 1780880861344
     },
     "invite_350657508529930241": {
-      "cooldownUntil": 1780881161344
+      "cooldownUntil": 1780881480054
+    },
+    "1780881180053": {
+      "teamName": "Voidness Zukym",
+      "playerId": "1063054968988381184",
+      "inviterId": "350657508529930241",
+      "timestamp": 1780881180054
     }
   },
   "userNicknames": {
@@ -18206,15 +18212,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780880494108": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "1013576163488182343",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Amaryllis",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780880494108
-    },
     "1780880664133": {
       "team1Id": "1335102355695468688",
       "team2Id": "1437355351958749254",
