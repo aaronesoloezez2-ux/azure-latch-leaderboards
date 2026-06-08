@@ -5432,7 +5432,7 @@
       "achievements": []
     },
     "Re Al": {
-      "elo5v5": 65,
+      "elo5v5": 85,
       "elo11v11": 0,
       "leaders": [
         "509160088632819712",
@@ -9806,7 +9806,7 @@
       "achievements": []
     },
     "G50": {
-      "elo5v5": 68,
+      "elo5v5": 48,
       "elo11v11": 0,
       "leaders": [
         "1353220534367682582",
@@ -10395,13 +10395,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1437355351958749254": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780880962598,
       "lastOpponents": []
     }
   },
@@ -15348,15 +15341,6 @@
       "playerId": "1103337911287558175",
       "inviterId": "350657508529930241",
       "timestamp": 1780880861344
-    },
-    "invite_350657508529930241": {
-      "cooldownUntil": 1780881480054
-    },
-    "1780881180053": {
-      "teamName": "Voidness Zukym",
-      "playerId": "1063054968988381184",
-      "inviterId": "350657508529930241",
-      "timestamp": 1780881180054
     }
   },
   "userNicknames": {
@@ -18229,14 +18213,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780880739146": {
-      "team1Id": "1437537784314331408",
-      "team2Id": "1005947912565559356",
-      "team1Name": "Kyoto",
-      "team2Name": "Re Al U-20",
-      "team1Vote": false,
+    "1780881399283": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "1437537784314331408",
+      "team1Name": "Ubers+",
+      "team2Name": "Kyoto",
+      "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780880739146
+      "timestamp": 1780881399283
     }
   },
   "pendingVCRequests": {},
