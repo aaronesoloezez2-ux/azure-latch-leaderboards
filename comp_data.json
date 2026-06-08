@@ -5442,7 +5442,6 @@
         "1186109186417885204",
         "589932939391926467",
         "1306082210528624654",
-        "950108450216607784",
         "1321866351593132073",
         "705075370076143718",
         "835595066050740295",
@@ -10394,13 +10393,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1005947912565559356": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780886262260,
       "lastOpponents": []
     }
   },
@@ -18215,7 +18207,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780890196063": {
+      "team1Id": "1005947912565559356",
+      "team2Id": "1200920802246262925",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Amethyst",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780890196063
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
