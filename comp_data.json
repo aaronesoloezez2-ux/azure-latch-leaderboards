@@ -10192,7 +10192,7 @@
       "achievements": []
     },
     "Amaryllis": {
-      "elo5v5": 27,
+      "elo5v5": 46,
       "elo11v11": 0,
       "leaders": [
         "1013576163488182343"
@@ -10381,6 +10381,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "1005947912565559356": {
+      "teamName": "Re Al U-20",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780879249884,
       "lastOpponents": []
     }
   },
@@ -15316,9 +15323,6 @@
       "playerId": "1501050902495363112",
       "inviterId": "350657508529930241",
       "timestamp": 1780875649700
-    },
-    "invite_1110317128952844339": {
-      "cooldownUntil": 1780879449594
     }
   },
   "userNicknames": {
