@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Abibas NA",
-    "elo5v5": 127
+    "elo5v5": 140
   },
   {
     "rank": 2,
@@ -81,23 +81,23 @@
   },
   {
     "rank": 17,
-    "teamName": "Kyoto",
-    "elo5v5": 21
-  },
-  {
-    "rank": 18,
     "teamName": "Interval",
     "elo5v5": 21
   },
   {
-    "rank": 19,
+    "rank": 18,
     "teamName": "Vinland",
     "elo5v5": 20
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 18
+  },
+  {
+    "rank": 20,
+    "teamName": "Kyoto",
+    "elo5v5": 5
   },
   {
     "rank": 21,
