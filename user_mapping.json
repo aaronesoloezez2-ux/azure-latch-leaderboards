@@ -16000,6 +16000,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "926536409106485338": {
+    "team": "Oshu Oshi NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "847505723763195914": {
     "team": "Oshu Oshi NA",
     "isLeader": true,
@@ -19691,12 +19697,6 @@
     "elo5v5": 62
   },
   "614848979594903562": {
-    "team": "Vitality",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 62
-  },
-  "1364318290088034335": {
     "team": "Vitality",
     "isLeader": false,
     "region": "NA",
