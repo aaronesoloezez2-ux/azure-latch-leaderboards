@@ -8304,7 +8304,7 @@
       "achievements": []
     },
     "Seirin": {
-      "elo5v5": 29,
+      "elo5v5": 53,
       "elo11v11": 0,
       "leaders": [
         "1456515493656789034"
@@ -9038,7 +9038,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 132,
+      "elo5v5": 113,
       "elo11v11": 0,
       "leaders": [
         "967575388547055686",
@@ -10396,13 +10396,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1005947912565559356": {
-      "teamName": "Re Al U-20",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780884152070,
       "lastOpponents": []
     }
   },
@@ -15345,9 +15338,6 @@
       "playerId": "1482391024050638983",
       "inviterId": "659879805440753718",
       "timestamp": 1780879896199
-    },
-    "invite_509160088632819712": {
-      "cooldownUntil": 1780885310265
     }
   },
   "userNicknames": {
@@ -16782,7 +16772,9 @@
     "1512669024742281342": "soli",
     "1506537352426819596": "Gloomy",
     "916691369035194368": "eri_lay",
-    "1139485758869213245": "dolabeb"
+    "1139485758869213245": "dolabeb",
+    "761936665722880000": "Sansandsonic34",
+    "1463560235359932679": "Okweplay_fan12897"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -18219,11 +18211,23 @@
     "1255541367581573162": 1781057306481,
     "916691369035194368": 1781057343990,
     "1139485758869213245": 1781057681587,
-    "510116497121607700": 1781057745921
+    "510116497121607700": 1781057745921,
+    "761936665722880000": 1781057848045,
+    "1463560235359932679": 1781057970064
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780885685232": {
+      "team1Id": "1005947912565559356",
+      "team2Id": "1200920802246262925",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Amethyst",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780885685232
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
