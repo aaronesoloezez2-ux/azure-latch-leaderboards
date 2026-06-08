@@ -7327,7 +7327,8 @@
         "754336294347210842",
         "909503042045481040",
         "1116068034092744704",
-        "966773583789576283"
+        "966773583789576283",
+        "1012172425062002818"
       ],
       "region": "Europe",
       "achievements": []
@@ -10485,6 +10486,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "1342931782273597582": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780947235972,
       "lastOpponents": []
     }
   },
@@ -15449,7 +15457,8 @@
     "1045705996774932542": 1781117640679,
     "1050836180960297121": 1781118454439,
     "1441534629097111704": 1781119144131,
-    "520679292250619914": 1781119658745
+    "520679292250619914": 1781119658745,
+    "1012172425062002818": 1781120231682
   },
   "pendingInvites": {
     "1780940744481": {
@@ -15458,8 +15467,8 @@
       "inviterId": "1504912651036262423",
       "timestamp": 1780940744481
     },
-    "invite_1079017104398880888": {
-      "cooldownUntil": 1780947032006
+    "invite_1261330439637827635": {
+      "cooldownUntil": 1780947728184
     }
   },
   "userNicknames": {
@@ -18355,17 +18364,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780946410997": {
-      "team1Id": "567041024615120928",
-      "team2Id": "1342931782273597582",
-      "team1Name": "Abibas NA",
-      "team2Name": "Citizens-U3",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1780946410997
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
