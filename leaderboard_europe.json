@@ -36,28 +36,28 @@
   },
   {
     "rank": 8,
+    "teamName": "o-42",
+    "elo5v5": 22
+  },
+  {
+    "rank": 9,
     "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "ZeniX",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Counter FC",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Dark",
     "elo5v5": 21
-  },
-  {
-    "rank": 12,
-    "teamName": "o-42",
-    "elo5v5": 1
   },
   {
     "rank": 13,
