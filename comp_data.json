@@ -6382,7 +6382,7 @@
       "achievements": []
     },
     "Monarchs Recrowned FC": {
-      "elo5v5": 0,
+      "elo5v5": 23,
       "elo11v11": 0,
       "leaders": [
         "1076521298823495802",
@@ -8169,7 +8169,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 45,
+      "elo5v5": 23,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -15316,6 +15316,15 @@
       "playerId": "1501050902495363112",
       "inviterId": "350657508529930241",
       "timestamp": 1780875649700
+    },
+    "1780876935509": {
+      "teamName": "Voidness Zukym",
+      "playerId": "1506537352426819596",
+      "inviterId": "350657508529930241",
+      "timestamp": 1780876935509
+    },
+    "invite_350657508529930241": {
+      "cooldownUntil": 1780877235509
     }
   },
   "userNicknames": {
