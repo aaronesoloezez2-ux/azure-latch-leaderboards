@@ -8356,7 +8356,7 @@
       "achievements": []
     },
     "Re Al U-20": {
-      "elo5v5": 0,
+      "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
         "1335102355695468688",
@@ -9306,7 +9306,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 26,
+      "elo5v5": 4,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -15315,6 +15315,15 @@
       "playerId": "1501050902495363112",
       "inviterId": "350657508529930241",
       "timestamp": 1780875649700
+    },
+    "1780879149594": {
+      "teamName": "Oshu Oshi NA",
+      "playerId": "216309723933310977",
+      "inviterId": "1110317128952844339",
+      "timestamp": 1780879149594
+    },
+    "invite_1110317128952844339": {
+      "cooldownUntil": 1780879449594
     }
   },
   "userNicknames": {
