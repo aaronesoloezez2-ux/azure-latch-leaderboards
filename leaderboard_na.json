@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Vitality",
-    "elo5v5": 62
+    "elo5v5": 81
   },
   {
     "rank": 5,
@@ -36,33 +36,33 @@
   },
   {
     "rank": 8,
-    "teamName": "B0MB",
-    "elo5v5": 45
-  },
-  {
-    "rank": 9,
     "teamName": "AOGIRI",
     "elo5v5": 45
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 44
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Seirin",
     "elo5v5": 29
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Moon Noobs",
     "elo5v5": 26
+  },
+  {
+    "rank": 13,
+    "teamName": "B0MB",
+    "elo5v5": 25
   },
   {
     "rank": 14,
