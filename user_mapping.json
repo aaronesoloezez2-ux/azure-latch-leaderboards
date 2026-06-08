@@ -18126,12 +18126,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "692352866316451862": {
-    "team": "Chem Brickers",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1223918075439480876": {
     "team": "Chem Brickers",
     "isLeader": false,
@@ -20592,6 +20586,12 @@
     "elo5v5": 0
   },
   "556463950770995216": {
+    "team": "Iced",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "692352866316451862": {
     "team": "Iced",
     "isLeader": false,
     "region": "Europe",
