@@ -1,13 +1,13 @@
 [
   {
     "rank": 1,
-    "teamName": "Abibas NA",
-    "elo5v5": 132
+    "teamName": "Spurs",
+    "elo5v5": 120
   },
   {
     "rank": 2,
-    "teamName": "Spurs",
-    "elo5v5": 120
+    "teamName": "Abibas NA",
+    "elo5v5": 113
   },
   {
     "rank": 3,
@@ -31,28 +31,28 @@
   },
   {
     "rank": 7,
+    "teamName": "Seirin",
+    "elo5v5": 53
+  },
+  {
+    "rank": 8,
     "teamName": "G50",
     "elo5v5": 48
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "AOGIRI",
     "elo5v5": 45
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 44
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Bear United",
     "elo5v5": 43
-  },
-  {
-    "rank": 11,
-    "teamName": "Seirin",
-    "elo5v5": 29
   },
   {
     "rank": 12,
