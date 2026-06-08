@@ -9277,7 +9277,7 @@
       "achievements": []
     },
     "Yggdrasil": {
-      "elo5v5": 4,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "1125171739102564432",
@@ -10382,7 +10382,7 @@
       "achievements": []
     },
     "Interval": {
-      "elo5v5": 0,
+      "elo5v5": 21,
       "elo11v11": 0,
       "leaders": [
         "521276425999745034"
@@ -10491,11 +10491,11 @@
       "startTime": 1780670949252,
       "lastOpponents": []
     },
-    "1200920802246262925": {
-      "teamName": "Amethyst",
+    "740375608474992662": {
+      "teamName": "Yggdrasil",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780954299787,
+      "startTime": 1780955400266,
       "lastOpponents": []
     }
   },
@@ -15464,11 +15464,7 @@
     "1133222116955795506": 1781127145753,
     "968239772428546158": 1781127835656
   },
-  "pendingInvites": {
-    "invite_740375608474992662": {
-      "cooldownUntil": 1780955332243
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -16913,7 +16909,8 @@
     "1060616376143855686": "sonljf",
     "1087794516666351729": "xxalixxov",
     "940972780889997332": "witcher",
-    "848722774508044319": "Star sirus"
+    "848722774508044319": "Star sirus",
+    "968239772428546158": "Aurora"
   },
   "awaitingNickname": {
     "1025844116669595779": {
@@ -18362,11 +18359,22 @@
     "930152407688695878": 1781123612559,
     "1272362523496288272": 1781125629300,
     "848722774508044319": 1781126260823,
-    "745720911235383406": 1781127035448
+    "745720911235383406": 1781127035448,
+    "968239772428546158": 1781127846208
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780955377976": {
+      "team1Id": "1200920802246262925",
+      "team2Id": "740375608474992662",
+      "team1Name": "Amethyst",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780955377976
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
