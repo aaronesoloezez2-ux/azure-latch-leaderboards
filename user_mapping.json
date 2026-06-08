@@ -17109,13 +17109,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "917801460585070702": {
-    "team": "Larp Warriors",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "1329636569119719493": {
     "team": "Larp Warriors",
     "isLeader": false,
@@ -22670,6 +22663,13 @@
     "isModerator": true
   },
   "1355669102731202580": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "917801460585070702": {
     "team": null,
     "isLeader": false,
     "region": null,
