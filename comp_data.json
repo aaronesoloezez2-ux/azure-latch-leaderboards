@@ -9013,7 +9013,7 @@
       "achievements": []
     },
     "Abibas NA": {
-      "elo5v5": 127,
+      "elo5v5": 140,
       "elo11v11": 0,
       "leaders": [
         "967575388547055686",
@@ -9648,7 +9648,7 @@
       "achievements": []
     },
     "Kyoto": {
-      "elo5v5": 21,
+      "elo5v5": 5,
       "elo11v11": 0,
       "leaders": [
         "1435327843289665596",
@@ -18364,14 +18364,14 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780959898865": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "1013576163488182343",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Amaryllis",
+    "1780962624382": {
+      "team1Id": "1467619174930186332",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Amethyst",
+      "team2Name": "Yggdrasil",
       "team1Vote": null,
       "team2Vote": null,
-      "timestamp": 1780959898865
+      "timestamp": 1780962624382
     }
   },
   "pendingVCRequests": {},
