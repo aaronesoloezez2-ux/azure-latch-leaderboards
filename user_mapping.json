@@ -2972,12 +2972,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "916691369035194368": {
-    "team": "KingsOfBricks",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1167097491074846723": {
     "team": "Energy",
     "isLeader": false,
@@ -22618,6 +22612,48 @@
     "team": "Voidness Zukym",
     "isLeader": false,
     "region": "SA",
+    "elo5v5": 0
+  },
+  "761936665722880000": {
+    "team": "Kentucky FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1255541367581573162": {
+    "team": "Kentucky FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1139485758869213245": {
+    "team": "Kentucky FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "979326415642181663": {
+    "team": "Kentucky FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1463560235359932679": {
+    "team": "Kentucky FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "510116497121607700": {
+    "team": "Kentucky FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "916691369035194368": {
+    "team": "Kentucky FC",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
