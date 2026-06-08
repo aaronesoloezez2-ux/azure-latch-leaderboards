@@ -8204,7 +8204,6 @@
         "1217648516705550398",
         "1194824379956203762",
         "864652479706824734",
-        "519585200355672074",
         "1272362523496288272",
         "998769284513812501",
         "785224985131614239",
@@ -10390,13 +10389,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "847505723763195914": {
-      "teamName": "Oshu Oshi NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780873414031,
       "lastOpponents": []
     }
   },
@@ -15337,9 +15329,6 @@
       "playerId": "1501050902495363112",
       "inviterId": "350657508529930241",
       "timestamp": 1780875649700
-    },
-    "invite_350657508529930241": {
-      "cooldownUntil": 1780875949700
     }
   },
   "userNicknames": {
@@ -18209,7 +18198,26 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780876498046": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "1125171739102564432",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Yggdrasil",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780876498046
+    },
+    "1780876863163": {
+      "team1Id": "1076521298823495802",
+      "team2Id": "759647905887289364",
+      "team1Name": "Monarchs Recrowned FC",
+      "team2Name": "Moon Noobs",
+      "team1Vote": true,
+      "team2Vote": null,
+      "timestamp": 1780876863163
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
