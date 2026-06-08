@@ -9213,7 +9213,7 @@
       "achievements": []
     },
     "Vitality": {
-      "elo5v5": 62,
+      "elo5v5": 81,
       "elo11v11": 0,
       "leaders": [
         "1285337928989544468",
@@ -9374,7 +9374,7 @@
       "achievements": []
     },
     "B0MB": {
-      "elo5v5": 45,
+      "elo5v5": 25,
       "elo11v11": 0,
       "leaders": [
         "852164591839870976",
@@ -10395,6 +10395,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "938564876199145494": {
+      "teamName": "Citizens-U3",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780881587970,
       "lastOpponents": []
     }
   },
@@ -18219,7 +18226,7 @@
       "team1Name": "Ubers+",
       "team2Name": "Kyoto",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": false,
       "timestamp": 1780881399283
     }
   },
