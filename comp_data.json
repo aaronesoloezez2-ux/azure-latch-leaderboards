@@ -8353,7 +8353,7 @@
       "achievements": []
     },
     "Re Al U-20": {
-      "elo5v5": 22,
+      "elo5v5": 2,
       "elo11v11": 0,
       "leaders": [
         "1335102355695468688",
@@ -10188,7 +10188,7 @@
       "achievements": []
     },
     "Amaryllis": {
-      "elo5v5": 46,
+      "elo5v5": 65,
       "elo11v11": 0,
       "leaders": [
         "1013576163488182343"
@@ -10397,13 +10397,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "938564876199145494": {
-      "teamName": "Citizens-U3",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780881587970,
       "lastOpponents": []
     }
   },
@@ -15346,9 +15339,6 @@
       "playerId": "1482391024050638983",
       "inviterId": "659879805440753718",
       "timestamp": 1780879896199
-    },
-    "invite_938564876199145494": {
-      "cooldownUntil": 1780883899502
     }
   },
   "userNicknames": {
@@ -18220,7 +18210,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780883909918": {
+      "team1Id": "938564876199145494",
+      "team2Id": "731225486818279457",
+      "team1Name": "Citizens-U3",
+      "team2Name": "Dreamers (NA)",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780883909918
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
