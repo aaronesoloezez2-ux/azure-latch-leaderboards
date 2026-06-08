@@ -10154,7 +10154,8 @@
       "elo5v5": 22,
       "elo11v11": 0,
       "leaders": [
-        "1200920802246262925"
+        "1200920802246262925",
+        "1467619174930186332"
       ],
       "players": [
         "1200920802246262925",
@@ -18194,15 +18195,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1780876498046": {
-      "team1Id": "1335102355695468688",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780876498046
-    },
     "1780876863163": {
       "team1Id": "1076521298823495802",
       "team2Id": "759647905887289364",
