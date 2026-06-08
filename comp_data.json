@@ -3100,8 +3100,7 @@
         "1193980299583963287",
         "879859919673769984",
         "785522468844077087",
-        "1241217007127498804",
-        "1063054968988381184"
+        "1241217007127498804"
       ],
       "region": "SA",
       "achievements": []
@@ -10384,11 +10383,11 @@
       "startTime": 1780670949252,
       "lastOpponents": []
     },
-    "1335102355695468688": {
-      "teamName": "Re Al U-20",
+    "1437355351958749254": {
+      "teamName": "Ubers+",
       "searchType": "unlimited",
       "region": "NA",
-      "startTime": 1780879966993,
+      "startTime": 1780880962598,
       "lastOpponents": []
     }
   },
@@ -15327,8 +15326,14 @@
       "inviterId": "659879805440753718",
       "timestamp": 1780879896199
     },
-    "invite_1076521298823495802": {
-      "cooldownUntil": 1780880891160
+    "1780880861344": {
+      "teamName": "Voidness Zukym",
+      "playerId": "1103337911287558175",
+      "inviterId": "350657508529930241",
+      "timestamp": 1780880861344
+    },
+    "invite_350657508529930241": {
+      "cooldownUntil": 1780881161344
     }
   },
   "userNicknames": {
@@ -18209,6 +18214,24 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1780880494108
+    },
+    "1780880664133": {
+      "team1Id": "1335102355695468688",
+      "team2Id": "1437355351958749254",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Ubers+",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780880664133
+    },
+    "1780880739146": {
+      "team1Id": "1437537784314331408",
+      "team2Id": "1005947912565559356",
+      "team1Name": "Kyoto",
+      "team2Name": "Re Al U-20",
+      "team1Vote": false,
+      "team2Vote": null,
+      "timestamp": 1780880739146
     }
   },
   "pendingVCRequests": {},
