@@ -8185,7 +8185,6 @@
         "933615586473300039",
         "1412184105604350023",
         "1452268067479621697",
-        "1217648516705550398",
         "1194824379956203762",
         "864652479706824734",
         "1272362523496288272",
@@ -15331,11 +15330,7 @@
     "624335854063714314": 1781059623051,
     "950108450216607784": 1781063189728
   },
-  "pendingInvites": {
-    "invite_1200920802246262925": {
-      "cooldownUntil": 1780890687010
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18213,17 +18208,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780890196063": {
-      "team1Id": "1005947912565559356",
-      "team2Id": "1200920802246262925",
-      "team1Name": "Re Al U-20",
-      "team2Name": "Amethyst",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780890196063
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
