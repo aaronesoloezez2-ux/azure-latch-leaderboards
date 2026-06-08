@@ -8633,7 +8633,6 @@
       "players": [
         "902272222964625428",
         "396951562611720193",
-        "1045705996774932542",
         "697948745723281411",
         "648559642032734219",
         "445099794885640192",
@@ -10482,6 +10481,13 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
+      "lastOpponents": []
+    },
+    "567041024615120928": {
+      "teamName": "Abibas NA",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1780943182039,
       "lastOpponents": []
     }
   },
@@ -15459,9 +15465,6 @@
       "playerId": "1050836180960297121",
       "inviterId": "350657508529930241",
       "timestamp": 1780942222954
-    },
-    "invite_1479091115251732480": {
-      "cooldownUntil": 1780943413498
     }
   },
   "userNicknames": {
