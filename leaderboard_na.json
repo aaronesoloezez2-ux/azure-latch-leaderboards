@@ -12,7 +12,7 @@
   {
     "rank": 3,
     "teamName": "Re Al",
-    "elo5v5": 85
+    "elo5v5": 103
   },
   {
     "rank": 4,
@@ -26,22 +26,22 @@
   },
   {
     "rank": 6,
-    "teamName": "Amaryllis",
-    "elo5v5": 65
-  },
-  {
-    "rank": 7,
     "teamName": "Seirin",
     "elo5v5": 53
   },
   {
-    "rank": 8,
+    "rank": 7,
     "teamName": "G50",
     "elo5v5": 48
   },
   {
-    "rank": 9,
+    "rank": 8,
     "teamName": "Amethyst",
+    "elo5v5": 46
+  },
+  {
+    "rank": 9,
+    "teamName": "Amaryllis",
     "elo5v5": 46
   },
   {
