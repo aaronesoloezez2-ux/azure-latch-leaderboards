@@ -9513,7 +9513,6 @@
         "1096962050544128010",
         "550500010966646814",
         "1377017752354554028",
-        "1030880601617735772",
         "1261057273107845275"
       ],
       "region": "NA",
@@ -15465,11 +15464,7 @@
     "804070778235650149": 1781141508505,
     "911279343756542003": 1781141992861
   },
-  "pendingInvites": {
-    "invite_952667718363009074": {
-      "cooldownUntil": 1780969380491
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18371,17 +18366,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780969145842": {
-      "team1Id": "952667718363009074",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Zero",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780969145842
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
