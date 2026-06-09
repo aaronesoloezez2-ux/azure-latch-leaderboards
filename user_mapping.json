@@ -19899,6 +19899,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "767181637040734218": {
+    "team": "Yggdrasil",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1125171739102564432": {
     "team": "Yggdrasil",
     "isLeader": true,
@@ -22942,13 +22949,6 @@
     "isModerator": true
   },
   "1445551978120741016": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "767181637040734218": {
     "team": null,
     "isLeader": false,
     "region": null,
