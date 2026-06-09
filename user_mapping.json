@@ -4101,12 +4101,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1292563560022675508": {
-    "team": "Malice",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "776950627690348566": {
     "team": "Malice",
     "isLeader": false,
@@ -22912,6 +22906,36 @@
   },
   "1357904480506744996": {
     "team": "Dark Phoenix",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "838995804969631785": {
+    "team": "Solaris",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1214073193157885962": {
+    "team": "Solaris",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1292563560022675508": {
+    "team": "Solaris",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "855831713024704522": {
+    "team": "Solaris",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "752617818742063228": {
+    "team": "Solaris",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
