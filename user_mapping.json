@@ -22291,15 +22291,9 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "467624486917898240": {
-    "team": "Missing Pieces",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "633694274038267925": {
     "team": "Missing Pieces",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
