@@ -76,38 +76,38 @@
   },
   {
     "rank": 16,
-    "teamName": "Llantines fc",
+    "teamName": "Zero",
     "elo5v5": 21
   },
   {
     "rank": 17,
-    "teamName": "Interval",
+    "teamName": "Llantines fc",
     "elo5v5": 21
   },
   {
     "rank": 18,
+    "teamName": "Interval",
+    "elo5v5": 21
+  },
+  {
+    "rank": 19,
     "teamName": "Vinland",
     "elo5v5": 20
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 18
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Kyoto",
     "elo5v5": 5
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Citizens-U3",
     "elo5v5": 4
-  },
-  {
-    "rank": 22,
-    "teamName": "Metalogic",
-    "elo5v5": 2
   },
   {
     "rank": 23,
@@ -746,372 +746,372 @@
   },
   {
     "rank": 150,
-    "teamName": "Rebirth Arena FC",
+    "teamName": "Metalogic",
     "elo5v5": 0
   },
   {
     "rank": 151,
-    "teamName": "Floral FC",
+    "teamName": "Rebirth Arena FC",
     "elo5v5": 0
   },
   {
     "rank": 152,
-    "teamName": "Synergy FC West",
+    "teamName": "Floral FC",
     "elo5v5": 0
   },
   {
     "rank": 153,
-    "teamName": "Redmoon",
+    "teamName": "Synergy FC West",
     "elo5v5": 0
   },
   {
     "rank": 154,
-    "teamName": "Overdrive",
+    "teamName": "Redmoon",
     "elo5v5": 0
   },
   {
     "rank": 155,
-    "teamName": "FC Crow",
+    "teamName": "Overdrive",
     "elo5v5": 0
   },
   {
     "rank": 156,
-    "teamName": "Waffle",
+    "teamName": "FC Crow",
     "elo5v5": 0
   },
   {
     "rank": 157,
-    "teamName": "Vanguard",
+    "teamName": "Waffle",
     "elo5v5": 0
   },
   {
     "rank": 158,
-    "teamName": "Yakuza",
+    "teamName": "Vanguard",
     "elo5v5": 0
   },
   {
     "rank": 159,
-    "teamName": "Melancholy",
+    "teamName": "Yakuza",
     "elo5v5": 0
   },
   {
     "rank": 160,
-    "teamName": "Crucifer",
+    "teamName": "Melancholy",
     "elo5v5": 0
   },
   {
     "rank": 161,
-    "teamName": "Panthera",
+    "teamName": "Crucifer",
     "elo5v5": 0
   },
   {
     "rank": 162,
-    "teamName": "Snowflakes",
+    "teamName": "Panthera",
     "elo5v5": 0
   },
   {
     "rank": 163,
-    "teamName": "Bibliomania",
+    "teamName": "Snowflakes",
     "elo5v5": 0
   },
   {
     "rank": 164,
-    "teamName": "Crimsons",
+    "teamName": "Bibliomania",
     "elo5v5": 0
   },
   {
     "rank": 165,
-    "teamName": "ZZZ Lovers",
+    "teamName": "Crimsons",
     "elo5v5": 0
   },
   {
     "rank": 166,
-    "teamName": "Crown Monopoly",
+    "teamName": "ZZZ Lovers",
     "elo5v5": 0
   },
   {
     "rank": 167,
-    "teamName": "U4-CORP",
+    "teamName": "Crown Monopoly",
     "elo5v5": 0
   },
   {
     "rank": 168,
-    "teamName": "Gengar FC",
+    "teamName": "U4-CORP",
     "elo5v5": 0
   },
   {
     "rank": 169,
-    "teamName": "TBC",
+    "teamName": "Gengar FC",
     "elo5v5": 0
   },
   {
     "rank": 170,
-    "teamName": "AxisEleven",
+    "teamName": "TBC",
     "elo5v5": 0
   },
   {
     "rank": 171,
-    "teamName": "Nullscapes",
+    "teamName": "AxisEleven",
     "elo5v5": 0
   },
   {
     "rank": 172,
-    "teamName": "Borussia",
+    "teamName": "Nullscapes",
     "elo5v5": 0
   },
   {
     "rank": 173,
-    "teamName": "Inazuki",
+    "teamName": "Borussia",
     "elo5v5": 0
   },
   {
     "rank": 174,
-    "teamName": "Kyzards",
+    "teamName": "Inazuki",
     "elo5v5": 0
   },
   {
     "rank": 175,
-    "teamName": "FC Starstruck",
+    "teamName": "Kyzards",
     "elo5v5": 0
   },
   {
     "rank": 176,
-    "teamName": "Tea Time",
+    "teamName": "FC Starstruck",
     "elo5v5": 0
   },
   {
     "rank": 177,
-    "teamName": "Synthra",
+    "teamName": "Tea Time",
     "elo5v5": 0
   },
   {
     "rank": 178,
-    "teamName": "Anomalies",
+    "teamName": "Synthra",
     "elo5v5": 0
   },
   {
     "rank": 179,
-    "teamName": "Ivory",
+    "teamName": "Anomalies",
     "elo5v5": 0
   },
   {
     "rank": 180,
-    "teamName": "Manshine United NA",
+    "teamName": "Ivory",
     "elo5v5": 0
   },
   {
     "rank": 181,
-    "teamName": "Night Garden",
+    "teamName": "Manshine United NA",
     "elo5v5": 0
   },
   {
     "rank": 182,
-    "teamName": "Euclesis",
+    "teamName": "Night Garden",
     "elo5v5": 0
   },
   {
     "rank": 183,
-    "teamName": "Paradox",
+    "teamName": "Euclesis",
     "elo5v5": 0
   },
   {
     "rank": 184,
-    "teamName": "Waltz Company",
+    "teamName": "Paradox",
     "elo5v5": 0
   },
   {
     "rank": 185,
-    "teamName": "The Abyssal Stars",
+    "teamName": "Waltz Company",
     "elo5v5": 0
   },
   {
     "rank": 186,
-    "teamName": "Hysteria",
+    "teamName": "The Abyssal Stars",
     "elo5v5": 0
   },
   {
     "rank": 187,
-    "teamName": "Re Al - Youth",
+    "teamName": "Hysteria",
     "elo5v5": 0
   },
   {
     "rank": 188,
-    "teamName": "BZRK",
+    "teamName": "Re Al - Youth",
     "elo5v5": 0
   },
   {
     "rank": 189,
-    "teamName": "Passione",
+    "teamName": "BZRK",
     "elo5v5": 0
   },
   {
     "rank": 190,
-    "teamName": "Repaired",
+    "teamName": "Passione",
     "elo5v5": 0
   },
   {
     "rank": 191,
-    "teamName": "Instinct",
+    "teamName": "Repaired",
     "elo5v5": 0
   },
   {
     "rank": 192,
-    "teamName": "Vanguard U20",
+    "teamName": "Instinct",
     "elo5v5": 0
   },
   {
     "rank": 193,
-    "teamName": "Axonify Tech",
+    "teamName": "Vanguard U20",
     "elo5v5": 0
   },
   {
     "rank": 194,
-    "teamName": "Masquerade",
+    "teamName": "Axonify Tech",
     "elo5v5": 0
   },
   {
     "rank": 195,
-    "teamName": "Clairvoyance",
+    "teamName": "Masquerade",
     "elo5v5": 0
   },
   {
     "rank": 196,
-    "teamName": "Reverence",
+    "teamName": "Clairvoyance",
     "elo5v5": 0
   },
   {
     "rank": 197,
-    "teamName": "Berserkers|NA",
+    "teamName": "Reverence",
     "elo5v5": 0
   },
   {
     "rank": 198,
-    "teamName": "Chompers",
+    "teamName": "Berserkers|NA",
     "elo5v5": 0
   },
   {
     "rank": 199,
-    "teamName": "Crimson Clavis",
+    "teamName": "Chompers",
     "elo5v5": 0
   },
   {
     "rank": 200,
-    "teamName": "Era Of Darkness",
+    "teamName": "Crimson Clavis",
     "elo5v5": 0
   },
   {
     "rank": 201,
-    "teamName": "Geniuses no sekai",
+    "teamName": "Era Of Darkness",
     "elo5v5": 0
   },
   {
     "rank": 202,
-    "teamName": "Soul Survivors Fc",
+    "teamName": "Geniuses no sekai",
     "elo5v5": 0
   },
   {
     "rank": 203,
-    "teamName": "H.P. Academy",
+    "teamName": "Soul Survivors Fc",
     "elo5v5": 0
   },
   {
     "rank": 204,
-    "teamName": "PARIS.X.GEN",
+    "teamName": "H.P. Academy",
     "elo5v5": 0
   },
   {
     "rank": 205,
-    "teamName": "Vanguard FC",
+    "teamName": "PARIS.X.GEN",
     "elo5v5": 0
   },
   {
     "rank": 206,
-    "teamName": "The Sin Archibishops",
+    "teamName": "Vanguard FC",
     "elo5v5": 0
   },
   {
     "rank": 207,
-    "teamName": "Attrition",
+    "teamName": "The Sin Archibishops",
     "elo5v5": 0
   },
   {
     "rank": 208,
-    "teamName": "Tismatics",
+    "teamName": "Attrition",
     "elo5v5": 0
   },
   {
     "rank": 209,
-    "teamName": "Oshu Oshi NA",
+    "teamName": "Tismatics",
     "elo5v5": 0
   },
   {
     "rank": 210,
-    "teamName": "Guild: Calabash Crusadors",
+    "teamName": "Oshu Oshi NA",
     "elo5v5": 0
   },
   {
     "rank": 211,
-    "teamName": "Octagram",
+    "teamName": "Guild: Calabash Crusadors",
     "elo5v5": 0
   },
   {
     "rank": 212,
-    "teamName": "Vision",
+    "teamName": "Octagram",
     "elo5v5": 0
   },
   {
     "rank": 213,
-    "teamName": "Majesty",
+    "teamName": "Vision",
     "elo5v5": 0
   },
   {
     "rank": 214,
-    "teamName": "Bear United U-20",
+    "teamName": "Majesty",
     "elo5v5": 0
   },
   {
     "rank": 215,
-    "teamName": "ODYSSEY",
+    "teamName": "Bear United U-20",
     "elo5v5": 0
   },
   {
     "rank": 216,
-    "teamName": "The Hei",
+    "teamName": "ODYSSEY",
     "elo5v5": 0
   },
   {
     "rank": 217,
-    "teamName": "Disciples",
+    "teamName": "The Hei",
     "elo5v5": 0
   },
   {
     "rank": 218,
-    "teamName": "Royal Court",
+    "teamName": "Disciples",
     "elo5v5": 0
   },
   {
     "rank": 219,
-    "teamName": "Paragon",
+    "teamName": "Royal Court",
     "elo5v5": 0
   },
   {
     "rank": 220,
-    "teamName": "FC Barcha",
+    "teamName": "Paragon",
     "elo5v5": 0
   },
   {
     "rank": 221,
-    "teamName": "Tracen Academy URA",
+    "teamName": "FC Barcha",
     "elo5v5": 0
   },
   {
     "rank": 222,
-    "teamName": "Spectral FC",
+    "teamName": "Tracen Academy URA",
     "elo5v5": 0
   },
   {
     "rank": 223,
-    "teamName": "Zero",
+    "teamName": "Spectral FC",
     "elo5v5": 0
   },
   {
