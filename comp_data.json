@@ -9005,7 +9005,6 @@
         "1280938486030930077",
         "1020421521598062693",
         "749678245863227462",
-        "804070778235650149",
         "868139633245057035",
         "636302097742299147"
       ],
@@ -10494,13 +10493,6 @@
       "searchType": "unlimited",
       "region": "Asia",
       "startTime": 1780670949252,
-      "lastOpponents": []
-    },
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1780967737488,
       "lastOpponents": []
     }
   },
@@ -18372,7 +18364,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1780968350487": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "952667718363009074",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Zero",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1780968350487
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
