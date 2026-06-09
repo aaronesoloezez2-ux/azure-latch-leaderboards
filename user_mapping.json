@@ -10951,6 +10951,13 @@
     "region": "NA",
     "elo5v5": 18
   },
+  "1502806949513793618": {
+    "team": "ⅩⅠⅠⅠ",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 18,
+    "isModerator": true
+  },
   "1355635488303747403": {
     "team": "Purest Humans",
     "isLeader": false,
@@ -22836,13 +22843,6 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
-  },
-  "1502806949513793618": {
-    "team": "SIRUS",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isModerator": true
   },
   "1103134220102140035": {
     "team": "SIRUS",
