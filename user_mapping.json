@@ -22106,6 +22106,13 @@
     "region": "NA",
     "elo5v5": 46
   },
+  "804070778235650149": {
+    "team": "Amethyst",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 46,
+    "isModerator": true
+  },
   "746401527417143397": {
     "team": "Paris X Gen",
     "isLeader": false,
@@ -22887,13 +22894,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "804070778235650149": {
     "team": null,
     "isLeader": false,
     "region": null,
