@@ -8173,7 +8173,7 @@
       "achievements": []
     },
     "Citizens-U3": {
-      "elo5v5": 4,
+      "elo5v5": 0,
       "elo11v11": 0,
       "leaders": [
         "938564876199145494",
@@ -10387,7 +10387,7 @@
       "achievements": []
     },
     "Interval": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "521276425999745034"
@@ -15476,14 +15476,7 @@
     "863133530208993300": 1781147930531,
     "1322341986149077095": 1781148106584
   },
-  "pendingInvites": {
-    "invite_1458274913004556442": {
-      "cooldownUntil": 1780975392482
-    },
-    "invite_847505723763195914": {
-      "cooldownUntil": 1780975539454
-    }
-  },
+  "pendingInvites": {},
   "userNicknames": {
     "1025844116669595779": "aarone",
     "841945606519128074": "sleepystr1ngs",
@@ -18393,17 +18386,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1780975186857": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "847505723763195914",
-      "team1Name": "Metalogic",
-      "team2Name": "Oshu Oshi NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1780975186857
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
