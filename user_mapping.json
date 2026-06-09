@@ -12640,7 +12640,7 @@
   },
   "813514867138887697": {
     "team": "Monarchs Recrowned FC",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 44
   },
