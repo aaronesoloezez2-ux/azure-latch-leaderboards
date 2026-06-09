@@ -1,1 +1,60 @@
-[]
+{
+  "season": "",
+  "published": false,
+  "awards": {
+    "latch_or": {
+      "ranks": [
+        {
+          "name": "hypec",
+          "team": "vefsd",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        }
+      ]
+    }
+  }
+}
