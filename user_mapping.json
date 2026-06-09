@@ -5173,7 +5173,8 @@
     "team": "P.X.G",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "588270918686474251": {
     "team": "umumu",
