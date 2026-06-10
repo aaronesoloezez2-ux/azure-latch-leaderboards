@@ -22,7 +22,7 @@
       "fromName": "Balance",
       "matchId": "match_1781094405392",
       "time": 1781094410932,
-      "read": false,
+      "read": true,
       "status": "pending"
     },
     {
@@ -31,7 +31,7 @@
       "fromName": "P.X.G",
       "matchId": "match_1781094722376",
       "time": 1781094737288,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ],
