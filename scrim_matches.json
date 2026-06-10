@@ -296,7 +296,8 @@
         "time": 1781095016895
       }
     ],
-    "refCalled": false,
-    "refereeId": null
+    "refCalled": true,
+    "refereeId": null,
+    "lastRefCall": 1781095021544
   }
 }
