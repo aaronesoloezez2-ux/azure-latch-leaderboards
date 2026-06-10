@@ -33,7 +33,7 @@
       "type": "referee_needed",
       "matchId": "match_1781094405392",
       "time": 1781094571551,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ],
