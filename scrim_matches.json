@@ -147,5 +147,25 @@
     "closed": true,
     "closedAt": 1781094684506,
     "closedBy": "1025844116669595779"
+  },
+  "match_1781094722376": {
+    "matchId": "match_1781094722376",
+    "guild1": {
+      "name": "P.X.G",
+      "leaderId": "1440648503364681728",
+      "leaderName": "xz_zenith",
+      "elo": 1000
+    },
+    "guild2": {
+      "name": "Verse",
+      "leaderId": "1025844116669595779",
+      "leaderName": "aaronewld",
+      "elo": 1000
+    },
+    "mode": "friendly",
+    "createdAt": 1781094722602,
+    "messages": [],
+    "refCalled": false,
+    "refereeId": null
   }
 }
