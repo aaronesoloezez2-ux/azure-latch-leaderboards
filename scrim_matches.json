@@ -143,6 +143,9 @@
     "refCalled": true,
     "refereeId": "668371931334180865",
     "lastRefCall": 1781094570277,
-    "refereeName": "dutch_vandl"
+    "refereeName": "dutch_vandl",
+    "closed": true,
+    "closedAt": 1781094684506,
+    "closedBy": "1025844116669595779"
   }
 }
