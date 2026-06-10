@@ -84,7 +84,17 @@
     },
     "mode": "friendly",
     "createdAt": 1781094405684,
-    "messages": [],
+    "messages": [
+      {
+        "id": "1781094522223",
+        "author": "9rdw",
+        "authorId": "1252207651761164340",
+        "authorAvatar": "4d0f8549f776b7d1834af83ad856f643",
+        "isReferee": false,
+        "text": "h",
+        "time": 1781094522223
+      }
+    ],
     "refCalled": false,
     "refereeId": null
   }
