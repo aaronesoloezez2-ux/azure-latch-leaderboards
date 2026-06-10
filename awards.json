@@ -163,60 +163,6 @@
           "img": ""
         }
       ]
-    },
-    "azure_boot": {
-      "ranks": [
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        },
-        {
-          "name": "",
-          "team": "",
-          "img": ""
-        }
-      ]
     }
   }
 }
