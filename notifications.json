@@ -42,6 +42,15 @@
       "time": 1781094825206,
       "read": true,
       "status": "pending"
+    },
+    {
+      "id": 1781094960415,
+      "type": "scrim_found",
+      "fromName": "P.X.G",
+      "matchId": "match_1781094951218",
+      "time": 1781094960415,
+      "read": false,
+      "status": "pending"
     }
   ],
   "1440648503364681728": [
