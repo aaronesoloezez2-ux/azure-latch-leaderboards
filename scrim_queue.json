@@ -20,5 +20,16 @@
     "region": "Europe",
     "joinedAt": 1781094942902,
     "status": "waiting"
+  },
+  "668371931334180865_1781095215911": {
+    "queueId": "668371931334180865_1781095215911",
+    "guildName": "SUFC",
+    "leaderId": "668371931334180865",
+    "leaderName": "dutch_vandl",
+    "elo": 41,
+    "mode": "elo",
+    "region": "NA",
+    "joinedAt": 1781095215911,
+    "status": "waiting"
   }
 }
