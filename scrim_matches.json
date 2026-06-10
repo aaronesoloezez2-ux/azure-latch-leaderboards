@@ -267,7 +267,17 @@
     },
     "mode": "friendly",
     "createdAt": 1781094951812,
-    "messages": [],
+    "messages": [
+      {
+        "id": "1781094974101",
+        "author": "xz_zenith",
+        "authorId": "1440648503364681728",
+        "authorAvatar": "f47ce244b4246bd4d806f841bafc50e9",
+        "isReferee": false,
+        "text": "oe",
+        "time": 1781094974101
+      }
+    ],
     "refCalled": false,
     "refereeId": null
   }
