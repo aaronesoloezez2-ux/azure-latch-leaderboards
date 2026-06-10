@@ -111,10 +111,20 @@
         "isReferee": false,
         "text": "HI",
         "time": 1781094568240
+      },
+      {
+        "id": "1781094590166",
+        "author": "dutch_vandl",
+        "authorId": "668371931334180865",
+        "authorAvatar": "e110793c6bb1f12db93b411a5e6d85a2",
+        "isReferee": true,
+        "text": "I'm your referee for this scrim. Let's get started.",
+        "time": 1781094590166
       }
     ],
     "refCalled": true,
-    "refereeId": null,
-    "lastRefCall": 1781094570277
+    "refereeId": "668371931334180865",
+    "lastRefCall": 1781094570277,
+    "refereeName": "dutch_vandl"
   }
 }
