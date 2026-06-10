@@ -109,6 +109,114 @@
           "img": ""
         }
       ]
+    },
+    "azure_wall": {
+      "ranks": [
+        {
+          "name": "merry",
+          "team": "chaper",
+          "img": ""
+        },
+        {
+          "name": "tarnished",
+          "team": "verse",
+          "img": ""
+        },
+        {
+          "name": "legend",
+          "team": "verse",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        }
+      ]
+    },
+    "azure_boot": {
+      "ranks": [
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        }
+      ]
     }
   }
 }
