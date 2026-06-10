@@ -49,7 +49,7 @@
       "fromName": "P.X.G",
       "matchId": "match_1781094951218",
       "time": 1781094960415,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ],
