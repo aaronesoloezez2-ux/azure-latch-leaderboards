@@ -42,7 +42,7 @@
       "fromName": "Verse",
       "matchId": "match_1781094722376",
       "time": 1781094726356,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ],
@@ -60,7 +60,7 @@
       "type": "referee_needed",
       "matchId": "match_1781094722376",
       "time": 1781094746397,
-      "read": true,
+      "read": false,
       "status": "pending"
     }
   ],
