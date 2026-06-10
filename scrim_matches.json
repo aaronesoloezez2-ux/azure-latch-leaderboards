@@ -303,6 +303,15 @@
         "isReferee": true,
         "text": "I'm your referee for this scrim. Let's get started.",
         "time": 1781095076027
+      },
+      {
+        "id": "1781095093274",
+        "author": "aaronewld",
+        "authorId": "1025844116669595779",
+        "authorAvatar": "be8a7c659247004a5f7a40bbb52b911e",
+        "isReferee": false,
+        "text": "hi dutch",
+        "time": 1781095093274
       }
     ],
     "refCalled": true,
