@@ -9,17 +9,5 @@
     "region": "Europe",
     "joinedAt": 1781094356715,
     "status": "waiting"
-  },
-  "1440648503364681728_1781094776131": {
-    "queueId": "1440648503364681728_1781094776131",
-    "guildName": "P.X.G",
-    "leaderId": "1440648503364681728",
-    "leaderName": "xz_zenith",
-    "elo": 0,
-    "mode": "friendly",
-    "region": "Europe",
-    "joinedAt": 1781094776131,
-    "status": "matched",
-    "matchId": "match_1781094816694"
   }
 }
