@@ -166,16 +166,16 @@
     "createdAt": 1781094722602,
     "messages": [
       {
-        "id": "1781094736951",
+        "id": "1781094735100",
         "author": "xz_zenith",
         "authorId": "1440648503364681728",
         "authorAvatar": "f47ce244b4246bd4d806f841bafc50e9",
         "isReferee": false,
         "text": "yo",
-        "time": 1781094736951
+        "time": 1781094735100
       }
     ],
-    "refCalled": false,
+    "refCalled": true,
     "refereeId": null
   }
 }
