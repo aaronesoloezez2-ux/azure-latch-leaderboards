@@ -182,12 +182,22 @@
         "isReferee": false,
         "text": "im gay",
         "time": 1781094747430
+      },
+      {
+        "id": "1781094800166",
+        "author": "dutch_vandl",
+        "authorId": "668371931334180865",
+        "authorAvatar": "e110793c6bb1f12db93b411a5e6d85a2",
+        "isReferee": true,
+        "text": "I'm your referee for this scrim. Let's get started.",
+        "time": 1781094800166
       }
     ],
     "refCalled": true,
-    "refereeId": null,
+    "refereeId": "668371931334180865",
     "closed": true,
     "closedAt": 1781094773877,
-    "closedBy": "1440648503364681728"
+    "closedBy": "1440648503364681728",
+    "refereeName": "dutch_vandl"
   }
 }
