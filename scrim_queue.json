@@ -33,5 +33,16 @@
     "joinedAt": 1781094776131,
     "status": "matched",
     "matchId": "match_1781094816694"
+  },
+  "668371931334180865_1781094858023": {
+    "queueId": "668371931334180865_1781094858023",
+    "guildName": "SUFC",
+    "leaderId": "668371931334180865",
+    "leaderName": "dutch_vandl",
+    "elo": 41,
+    "mode": "friendly",
+    "region": "Europe",
+    "joinedAt": 1781094858023,
+    "status": "waiting"
   }
 }
