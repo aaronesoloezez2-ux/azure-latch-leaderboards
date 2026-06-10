@@ -20,5 +20,16 @@
     "region": "Europe",
     "joinedAt": 1781094356715,
     "status": "waiting"
+  },
+  "1252207651761164340_1781094404165": {
+    "queueId": "1252207651761164340_1781094404165",
+    "guildName": "Balance",
+    "leaderId": "1252207651761164340",
+    "leaderName": "9rdw",
+    "elo": 42,
+    "mode": "friendly",
+    "region": "Europe",
+    "joinedAt": 1781094404165,
+    "status": "waiting"
   }
 }
