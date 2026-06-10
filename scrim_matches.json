@@ -67,5 +67,25 @@
     "closed": true,
     "closedAt": 1780864992603,
     "closedBy": "1025844116669595779"
+  },
+  "match_1781094405392": {
+    "matchId": "match_1781094405392",
+    "guild1": {
+      "name": "Balance",
+      "leaderId": "1252207651761164340",
+      "leaderName": "9rdw",
+      "elo": 42
+    },
+    "guild2": {
+      "name": "Verse",
+      "leaderId": "1025844116669595779",
+      "leaderName": "aaronewld",
+      "elo": 1000
+    },
+    "mode": "friendly",
+    "createdAt": 1781094405684,
+    "messages": [],
+    "refCalled": false,
+    "refereeId": null
   }
 }
