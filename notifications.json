@@ -38,5 +38,16 @@
       "read": false,
       "status": "pending"
     }
+  ],
+  "1252207651761164340": [
+    {
+      "id": 1781094409354,
+      "type": "scrim_found",
+      "fromName": "Verse",
+      "matchId": "match_1781094405392",
+      "time": 1781094409354,
+      "read": false,
+      "status": "pending"
+    }
   ]
 }
