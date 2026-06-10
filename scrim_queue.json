@@ -8,7 +8,8 @@
     "mode": "friendly",
     "region": "Europe",
     "joinedAt": 1781094341482,
-    "status": "waiting"
+    "status": "matched",
+    "matchId": "match_1781094405392"
   },
   "1252207651761164340_1781094356715": {
     "queueId": "1252207651761164340_1781094356715",
@@ -30,6 +31,7 @@
     "mode": "friendly",
     "region": "Europe",
     "joinedAt": 1781094404165,
-    "status": "waiting"
+    "status": "matched",
+    "matchId": "match_1781094405392"
   }
 }
