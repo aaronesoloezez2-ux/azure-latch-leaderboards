@@ -60,7 +60,7 @@
       "fromName": "Verse",
       "matchId": "match_1781094816694",
       "time": 1781094823793,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ],
