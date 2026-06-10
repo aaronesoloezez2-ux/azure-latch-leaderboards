@@ -246,6 +246,9 @@
       }
     ],
     "refCalled": false,
-    "refereeId": null
+    "refereeId": null,
+    "closed": true,
+    "closedAt": 1781094929358,
+    "closedBy": "1440648503364681728"
   }
 }
