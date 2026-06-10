@@ -55,6 +55,60 @@
           "img": ""
         }
       ]
+    },
+    "azure_gloves": {
+      "ranks": [
+        {
+          "name": "pizza",
+          "team": "verse",
+          "img": ""
+        },
+        {
+          "name": "pizzaxioa",
+          "team": "verse",
+          "img": ""
+        },
+        {
+          "name": "la pizza",
+          "team": "verse",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        },
+        {
+          "name": "",
+          "team": "",
+          "img": ""
+        }
+      ]
     }
   }
 }
