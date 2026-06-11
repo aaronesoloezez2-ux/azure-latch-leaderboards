@@ -10470,18 +10470,6 @@
     "region": "NA",
     "elo5v5": 103
   },
-  "1315171990864269346": {
-    "team": "Re Al",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 103
-  },
-  "1154151895976398889": {
-    "team": "Re Al",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 103
-  },
   "509160088632819712": {
     "team": "Re Al",
     "isLeader": true,
@@ -18812,13 +18800,6 @@
     "elo5v5": 120,
     "isModerator": true
   },
-  "868139633245057035": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120,
-    "isModerator": true
-  },
   "636302097742299147": {
     "team": "Spurs",
     "isLeader": false,
@@ -19885,12 +19866,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "883782190348001351": {
-    "team": "B0MB",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "899782955248021534": {
     "team": "B0MB",
     "isLeader": false,
@@ -20628,12 +20603,6 @@
     "elo5v5": 26
   },
   "478725373513695244": {
-    "team": "Kyoto",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 26
-  },
-  "991147493385568357": {
     "team": "Kyoto",
     "isLeader": false,
     "region": "NA",
@@ -22815,38 +22784,46 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "952667718363009074": {
-    "team": "Ogurdincitos",
+  "883782190348001351": {
+    "team": "Na'Vi",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
-  "1466271362514681992": {
-    "team": "Ogurdincitos",
+  "991147493385568357": {
+    "team": "Na'Vi",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
-  "475452427860967435": {
-    "team": "Ogurdincitos",
+  "950108450216607784": {
+    "team": "Na'Vi",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1133116249426100287": {
+    "team": "Na'Vi",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
-  "1184656885895417922": {
-    "team": "Ogurdincitos",
+  "1315171990864269346": {
+    "team": "Na'Vi",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
-  "730909407914754069": {
-    "team": "Ogurdincitos",
+  "868139633245057035": {
+    "team": "Na'Vi",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
-  "1509798094592675950": {
-    "team": "Ogurdincitos",
+  "1154151895976398889": {
+    "team": "Na'Vi",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
@@ -22915,13 +22892,6 @@
     "isModerator": true
   },
   "959895242428002334": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "950108450216607784": {
     "team": null,
     "isLeader": false,
     "region": null,
