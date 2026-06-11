@@ -15487,6 +15487,15 @@
       "playerId": "432981566096932864",
       "inviterId": "1154151895976398889",
       "timestamp": 1781215514858
+    },
+    "1781216996443": {
+      "teamName": "Dreamers (NA)",
+      "playerId": "1047222535739146350",
+      "inviterId": "731225486818279457",
+      "timestamp": 1781216996443
+    },
+    "invite_731225486818279457": {
+      "cooldownUntil": 1781217296443
     }
   },
   "userNicknames": {
