@@ -10499,7 +10499,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "854409388343951450": {
+      "teamName": "Ubers+",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781209185325,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
