@@ -18459,17 +18459,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781214674227": {
-      "team1Id": "800823045958402058",
-      "team2Id": "1013576163488182343",
-      "team1Name": "Israel FC",
-      "team2Name": "Amaryllis",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781214674227
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
