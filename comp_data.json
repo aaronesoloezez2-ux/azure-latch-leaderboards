@@ -10470,7 +10470,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "800823045958402058": {
+      "teamName": "Israel FC",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781213750308,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -15485,9 +15493,6 @@
       "playerId": "1151166466444492912",
       "inviterId": "1196849306636927036",
       "timestamp": 1781210963313
-    },
-    "invite_1154151895976398889": {
-      "cooldownUntil": 1781213738069
     }
   },
   "userNicknames": {
