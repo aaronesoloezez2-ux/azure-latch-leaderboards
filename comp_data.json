@@ -10456,15 +10456,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "757056855175594004": {
-      "teamName": "ⅩⅠⅠⅠ",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781215825627,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
