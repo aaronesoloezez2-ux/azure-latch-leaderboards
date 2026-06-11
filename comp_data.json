@@ -10474,15 +10474,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "Amaryllis",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781214688100,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18459,7 +18451,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781215304257": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "757056855175594004",
+      "team1Name": "Amaryllis",
+      "team2Name": "ⅩⅠⅠⅠ",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781215304257
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
