@@ -18488,15 +18488,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781206868912": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "624335854063714314",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Vitality",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781206868912
-    },
     "1781206893913": {
       "team1Id": "624335854063714314",
       "team2Id": "1125171739102564432",
