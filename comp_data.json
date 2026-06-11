@@ -18512,17 +18512,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781205543774": {
-      "team1Id": "938564876199145494",
-      "team2Id": "624335854063714314",
-      "team1Name": "Citizens-U3",
-      "team2Name": "Vitality",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781205543774
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
