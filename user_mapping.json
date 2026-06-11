@@ -13684,6 +13684,12 @@
     "elo5v5": 41,
     "isModerator": true
   },
+  "1387117723569356810": {
+    "team": "SUFC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 41
+  },
   "754702431404818473": {
     "team": "Paleideus",
     "isLeader": false,
@@ -22045,12 +22051,6 @@
     "region": "NA",
     "elo5v5": 46
   },
-  "1387117723569356810": {
-    "team": "DOAB!",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1507058852238200883": {
     "team": "DOAB!",
     "isLeader": false,
@@ -22335,6 +22335,12 @@
     "elo5v5": 0
   },
   "863133530208993300": {
+    "team": "Project Citizens",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1497297879839281293": {
     "team": "Project Citizens",
     "isLeader": false,
     "region": "NA",
