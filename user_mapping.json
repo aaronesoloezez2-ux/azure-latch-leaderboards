@@ -22683,6 +22683,12 @@
     "region": "NA",
     "elo5v5": 4
   },
+  "857399142196052008": {
+    "team": "Israel FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 4
+  },
   "864753158328287233": {
     "team": "Team Spirit",
     "isLeader": false,
@@ -22807,6 +22813,42 @@
     "team": "Revenant",
     "isLeader": false,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "952667718363009074": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1466271362514681992": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "475452427860967435": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1184656885895417922": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "730909407914754069": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1509798094592675950": {
+    "team": "Ogurdincitos",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "991630235021881354": {
