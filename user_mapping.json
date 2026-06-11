@@ -13179,6 +13179,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "959117662175248465": {
+    "team": "TBC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "795476206652227584": {
     "team": "TBC",
     "isLeader": true,
@@ -13204,12 +13210,6 @@
     "elo5v5": 0
   },
   "736526435467919410": {
-    "team": "TBC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "727345518442840115": {
     "team": "TBC",
     "isLeader": false,
     "region": "NA",
@@ -22636,6 +22636,12 @@
     "elo5v5": 25
   },
   "857399142196052008": {
+    "team": "Israel FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 25
+  },
+  "815362774393552966": {
     "team": "Israel FC",
     "isLeader": false,
     "region": "NA",
