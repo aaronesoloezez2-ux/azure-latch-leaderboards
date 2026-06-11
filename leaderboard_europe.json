@@ -21,53 +21,53 @@
   },
   {
     "rank": 5,
-    "teamName": "Heavens Society",
+    "teamName": "Chapter",
     "elo5v5": 23
   },
   {
     "rank": 6,
-    "teamName": "Quantum",
+    "teamName": "Heavens Society",
     "elo5v5": 23
   },
   {
     "rank": 7,
-    "teamName": "Paris X Gen",
+    "teamName": "Quantum",
     "elo5v5": 23
   },
   {
     "rank": 8,
+    "teamName": "Paris X Gen",
+    "elo5v5": 23
+  },
+  {
+    "rank": 9,
     "teamName": "o-42",
     "elo5v5": 22
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "ZeniX",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Iced",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Counter FC",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Dark",
     "elo5v5": 21
-  },
-  {
-    "rank": 14,
-    "teamName": "Chapter",
-    "elo5v5": 1
   },
   {
     "rank": 15,
