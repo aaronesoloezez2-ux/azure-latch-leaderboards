@@ -10473,15 +10473,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "800823045958402058": {
-      "teamName": "Israel FC",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781213750308,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18458,7 +18450,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781214674227": {
+      "team1Id": "800823045958402058",
+      "team2Id": "1013576163488182343",
+      "team1Name": "Israel FC",
+      "team2Name": "Amaryllis",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781214674227
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
