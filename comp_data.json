@@ -15494,6 +15494,15 @@
     },
     "invite_731225486818279457": {
       "cooldownUntil": 1781215750217
+    },
+    "1781215514858": {
+      "teamName": "Team Spirit NA",
+      "playerId": "432981566096932864",
+      "inviterId": "1154151895976398889",
+      "timestamp": 1781215514858
+    },
+    "invite_1154151895976398889": {
+      "cooldownUntil": 1781215814858
     }
   },
   "userNicknames": {
