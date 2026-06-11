@@ -18754,90 +18754,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "864753158328287233": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "557332882662752258": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1419036768962875553": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1415753125599379597": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1387300469906345995": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "620260150388981771": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "493151952222552114": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1117483689891340320": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1007349757578051653": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1438203781308485763": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "962775010966114394": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "701124989385965599": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1064806734570467370": {
-    "team": "Na'Vi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "344075580766945290": {
-    "team": "Na'Vi",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1441509941365182487": {
     "team": "Dragon headers",
     "isLeader": false,
@@ -22946,6 +22862,90 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 4
+  },
+  "864753158328287233": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "557332882662752258": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1419036768962875553": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1415753125599379597": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1387300469906345995": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "620260150388981771": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "493151952222552114": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1117483689891340320": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1007349757578051653": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1438203781308485763": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "962775010966114394": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "701124989385965599": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1064806734570467370": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "344075580766945290": {
+    "team": "Team Spirit",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
   },
   "991630235021881354": {
     "team": null,
