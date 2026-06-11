@@ -18487,17 +18487,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781206893913": {
-      "team1Id": "624335854063714314",
-      "team2Id": "1125171739102564432",
-      "team1Name": "Vitality",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781206893913
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
