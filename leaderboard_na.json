@@ -6,28 +6,28 @@
   },
   {
     "rank": 2,
-    "teamName": "Yggdrasil",
-    "elo5v5": 123
-  },
-  {
-    "rank": 3,
     "teamName": "Spurs",
     "elo5v5": 120
   },
   {
-    "rank": 4,
+    "rank": 3,
     "teamName": "Re Al",
     "elo5v5": 103
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Retribution",
     "elo5v5": 95
   },
   {
-    "rank": 6,
+    "rank": 5,
     "teamName": "Vitality",
     "elo5v5": 94
+  },
+  {
+    "rank": 6,
+    "teamName": "Yggdrasil",
+    "elo5v5": 81
   },
   {
     "rank": 7,
