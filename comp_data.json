@@ -18453,17 +18453,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781213094153": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "1299722087723700256",
-      "team1Name": "Ubers+",
-      "team2Name": "Honorary Knights",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781213094153
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
