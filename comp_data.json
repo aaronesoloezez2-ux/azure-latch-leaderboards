@@ -18459,17 +18459,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781217459372": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "1437355351958749254",
-      "team1Name": "Amaryllis",
-      "team2Name": "Ubers+",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781217459372
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
