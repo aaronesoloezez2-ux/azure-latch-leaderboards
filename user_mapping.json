@@ -22816,6 +22816,12 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "970405556579876905": {
+    "team": "Na'Vi",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1154151895976398889": {
     "team": "Na'Vi",
     "isLeader": true,
