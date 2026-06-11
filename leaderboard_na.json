@@ -71,33 +71,33 @@
   },
   {
     "rank": 15,
+    "teamName": "Israel FC",
+    "elo5v5": 25
+  },
+  {
+    "rank": 16,
     "teamName": "Citizens-U3",
     "elo5v5": 22
   },
   {
-    "rank": 16,
+    "rank": 17,
     "teamName": "Llantines fc",
     "elo5v5": 21
   },
   {
-    "rank": 17,
+    "rank": 18,
     "teamName": "Solaris",
     "elo5v5": 21
   },
   {
-    "rank": 18,
+    "rank": 19,
     "teamName": "Vinland",
     "elo5v5": 20
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Seirin",
     "elo5v5": 15
-  },
-  {
-    "rank": 20,
-    "teamName": "Israel FC",
-    "elo5v5": 4
   },
   {
     "rank": 21,
