@@ -10459,7 +10459,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "552619592997142570": {
+      "teamName": "Israel FC",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781220096252,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
