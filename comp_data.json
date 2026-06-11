@@ -15544,6 +15544,15 @@
       "playerId": "894679997355270144",
       "inviterId": "521276425999745034",
       "timestamp": 1781202264518
+    },
+    "1781205138217": {
+      "teamName": "Project Citizens",
+      "playerId": "863133530208993300",
+      "inviterId": "1458274913004556442",
+      "timestamp": 1781205138217
+    },
+    "invite_1458274913004556442": {
+      "cooldownUntil": 1781205438217
     }
   },
   "userNicknames": {
