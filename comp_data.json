@@ -10455,7 +10455,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "757056855175594004": {
+      "teamName": "ⅩⅠⅠⅠ",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781215825627,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -15478,6 +15486,15 @@
       "playerId": "432981566096932864",
       "inviterId": "1154151895976398889",
       "timestamp": 1781215514858
+    },
+    "1781215826917": {
+      "teamName": "Team Spirit NA",
+      "playerId": "1065743018545660004",
+      "inviterId": "1154151895976398889",
+      "timestamp": 1781215826917
+    },
+    "invite_1154151895976398889": {
+      "cooldownUntil": 1781216126917
     }
   },
   "userNicknames": {
