@@ -4478,6 +4478,12 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1364318290088034335": {
+    "team": "Ubers+",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "611656948726890496": {
     "team": "Albania FC",
     "isLeader": false,
@@ -21793,12 +21799,6 @@
     "elo5v5": 46
   },
   "1093388128527601695": {
-    "team": "Amaryllis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 46
-  },
-  "1364318290088034335": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
