@@ -12932,13 +12932,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "834473464512380929": {
-    "team": "dump message ids in here delete when 20 members and recreate",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "827242858276847646": {
     "team": "Braciszku",
     "isLeader": false,
@@ -23040,6 +23033,13 @@
     "isModerator": true
   },
   "759536058567360522": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "834473464512380929": {
     "team": null,
     "isLeader": false,
     "region": null,
