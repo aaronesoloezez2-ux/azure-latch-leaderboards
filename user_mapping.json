@@ -16504,48 +16504,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1261415451364298783": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1249903397297979392": {
-    "team": "Nexus",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1094992884958240828": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1461037110235631832": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "760269575396261888": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "683709095357972566": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1377397981367631892": {
-    "team": "Nexus",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1056653535237910568": {
     "team": "Balance",
     "isLeader": false,
@@ -22872,6 +22830,48 @@
   "344075580766945290": {
     "team": "Team Spirit",
     "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1261415451364298783": {
+    "team": "Revenant",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1249903397297979392": {
+    "team": "Revenant",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1094992884958240828": {
+    "team": "Revenant",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1461037110235631832": {
+    "team": "Revenant",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "760269575396261888": {
+    "team": "Revenant",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "683709095357972566": {
+    "team": "Revenant",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1377397981367631892": {
+    "team": "Revenant",
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
