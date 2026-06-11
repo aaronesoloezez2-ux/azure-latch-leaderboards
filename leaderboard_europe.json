@@ -11,42 +11,42 @@
   },
   {
     "rank": 3,
+    "teamName": "ZeniX",
+    "elo5v5": 61
+  },
+  {
+    "rank": 4,
     "teamName": "SUFC",
     "elo5v5": 41
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Chapter",
     "elo5v5": 23
   },
   {
-    "rank": 5,
+    "rank": 6,
     "teamName": "Heavens Society",
     "elo5v5": 23
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Quantum",
     "elo5v5": 23
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Paris X Gen",
     "elo5v5": 23
   },
   {
-    "rank": 8,
+    "rank": 9,
     "teamName": "o-42",
     "elo5v5": 22
   },
   {
-    "rank": 9,
-    "teamName": "Abibas FC",
-    "elo5v5": 21
-  },
-  {
     "rank": 10,
-    "teamName": "ZeniX",
+    "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
