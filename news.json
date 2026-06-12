@@ -75,31 +75,5 @@
     "authorId": "834473464512380929",
     "time": 1781203433559,
     "replies": []
-  },
-  {
-    "id": "1781229228379",
-    "text": "samu i see you",
-    "type": "general",
-    "author": "muringoo",
-    "authorId": "834473464512380929",
-    "time": 1781229228380,
-    "replies": [
-      {
-        "id": "1781229283596",
-        "text": "im sacrreedd :cry:",
-        "author": "veynice",
-        "authorId": "669364478709727242",
-        "authorAvatar": "240926dc3c43326b35276c5be3c38b2a",
-        "time": 1781229283596
-      },
-      {
-        "id": "1781229289558",
-        "text": "sorry samu is friend fake firend",
-        "author": "muringoo",
-        "authorId": "834473464512380929",
-        "authorAvatar": "50114780b33ec7f2644f3e71f53b262e",
-        "time": 1781229289558
-      }
-    ]
   }
 ]
