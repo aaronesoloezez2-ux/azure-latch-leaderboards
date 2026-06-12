@@ -10461,7 +10461,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "731225486818279457": {
+      "teamName": "Dreamers (NA)",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781226283037,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
