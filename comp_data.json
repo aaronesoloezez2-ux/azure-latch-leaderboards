@@ -18469,18 +18469,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781231095544": {
+  "pendingRefVotes": {},
+  "pendingVCRequests": {
+    "vc_1781231095544": {
       "team1Id": "855831713024704522",
       "team2Id": "1153499590855753728",
       "team1Name": "Solaris",
       "team2Name": "Reprised",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781231095544
+      "vcLink": null,
+      "timestamp": 1781231295396
     }
   },
-  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
