@@ -116,5 +116,84 @@
       }
     ],
     "loggedBy": "788089537381400596"
+  },
+  {
+    "id": "match_1781280995815",
+    "source": "apply_match",
+    "createdAt": 1781280995815,
+    "expiresAt": 1783872995815,
+    "type": "5v5",
+    "team1": "AfterBrick",
+    "team2": "Metavision FC",
+    "score": "3-2",
+    "winner": "AfterBrick",
+    "loser": "Metavision FC",
+    "eloChanges": {
+      "AfterBrick": {
+        "before": 108,
+        "after": 122,
+        "delta": 14
+      },
+      "Metavision FC": {
+        "before": 0,
+        "after": 0,
+        "delta": -16
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "AfterBrick",
+        "mvpId": "1064526055391637545"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Metavision FC",
+        "mvpId": "1495420000721305712"
+      },
+      {
+        "round": 3,
+        "roundWinner": "AfterBrick",
+        "mvpId": "1504912651036262423"
+      },
+      {
+        "round": 4,
+        "roundWinner": "Metavision FC",
+        "mvpId": "1251496480318161002"
+      },
+      {
+        "round": 5,
+        "roundWinner": "AfterBrick",
+        "mvpId": "1064526055391637545"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "1064526055391637545",
+        "roundWinner": "AfterBrick"
+      },
+      {
+        "round": 2,
+        "playerId": "1495420000721305712",
+        "roundWinner": "Metavision FC"
+      },
+      {
+        "round": 3,
+        "playerId": "1504912651036262423",
+        "roundWinner": "AfterBrick"
+      },
+      {
+        "round": 4,
+        "playerId": "1251496480318161002",
+        "roundWinner": "Metavision FC"
+      },
+      {
+        "round": 5,
+        "playerId": "1064526055391637545",
+        "roundWinner": "AfterBrick"
+      }
+    ],
+    "loggedBy": "1168868176189198418"
   }
 ]
