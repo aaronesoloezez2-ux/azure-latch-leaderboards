@@ -15520,6 +15520,15 @@
       "playerId": "1315171990864269346",
       "inviterId": "1125171739102564432",
       "timestamp": 1781299194452
+    },
+    "1781302775042": {
+      "teamName": "Israel FC",
+      "playerId": "1194824379956203762",
+      "inviterId": "800823045958402058",
+      "timestamp": 1781302775042
+    },
+    "invite_800823045958402058": {
+      "cooldownUntil": 1781303075042
     }
   },
   "userNicknames": {
@@ -18505,17 +18514,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781302163251": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1426419421026455565",
-      "team1Name": "Ascella",
-      "team2Name": "Movement",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781302163251
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
