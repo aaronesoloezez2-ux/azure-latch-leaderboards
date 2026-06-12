@@ -15480,6 +15480,15 @@
   "pendingInvites": {
     "invite_1437721752565448705": {
       "cooldownUntil": 1781271591139
+    },
+    "1781271386919": {
+      "teamName": "Larp Warriors",
+      "playerId": "835766622521131049",
+      "inviterId": "1337815894704787459",
+      "timestamp": 1781271386919
+    },
+    "invite_1337815894704787459": {
+      "cooldownUntil": 1781271686919
     }
   },
   "userNicknames": {
