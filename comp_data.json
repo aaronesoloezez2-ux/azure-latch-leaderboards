@@ -10493,7 +10493,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1013576163488182343": {
+      "teamName": "Amaryllis",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781308572292,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18533,15 +18541,6 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1781308038879
-    },
-    "1781308518995": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "1458274913004556442",
-      "team1Name": "Amaryllis",
-      "team2Name": "Imperātōres",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781308518995
     }
   },
   "pendingVCRequests": {},
