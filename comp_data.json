@@ -10487,13 +10487,6 @@
     }
   },
   "matchmaking": {
-    "521276425999745034": {
-      "teamName": "Interval",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781299415695,
-      "lastOpponents": []
-    },
     "899073137742848022": {
       "teamName": "Interval",
       "searchType": "unlimited",
@@ -18513,7 +18506,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781301023145": {
+      "team1Id": "521276425999745034",
+      "team2Id": "552619592997142570",
+      "team1Name": "Interval",
+      "team2Name": "Israel FC",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781301023145
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
