@@ -21930,66 +21930,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "854089044363313162": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1222617946963312712": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1458274913004556442": {
-    "team": "Project Citizens",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "999415573727420457": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1506847288239329330": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1248816928987025512": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1243378634085896202": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1109492569462804580": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "863133530208993300": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1497297879839281293": {
-    "team": "Project Citizens",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "350657508529930241": {
     "team": "Voidness Zukym",
     "isLeader": true,
@@ -22865,6 +22805,66 @@
     "region": "NA",
     "elo5v5": 0,
     "isModerator": true
+  },
+  "854089044363313162": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1222617946963312712": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1458274913004556442": {
+    "team": "Imperātōres",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "999415573727420457": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1506847288239329330": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1248816928987025512": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1243378634085896202": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1109492569462804580": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "863133530208993300": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1497297879839281293": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
   },
   "991630235021881354": {
     "team": null,
