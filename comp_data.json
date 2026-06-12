@@ -18534,15 +18534,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781307653852": {
-      "team1Id": "521276425999745034",
-      "team2Id": "495333407551782933",
-      "team1Name": "Interval",
-      "team2Name": "ⅩⅠⅠⅠ",
-      "team1Vote": false,
-      "team2Vote": null,
-      "timestamp": 1781307653852
-    },
     "1781308038879": {
       "team1Id": "495333407551782933",
       "team2Id": "1125171739102564432",
