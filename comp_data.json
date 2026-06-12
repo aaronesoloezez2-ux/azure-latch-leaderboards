@@ -18450,17 +18450,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781242721912": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "1153499590855753728",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Reprised",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781242721912
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
