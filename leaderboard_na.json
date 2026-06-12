@@ -1211,42 +1211,42 @@
   },
   {
     "rank": 243,
-    "teamName": "Project Citizens",
-    "elo5v5": 0
-  },
-  {
-    "rank": 244,
     "teamName": "THE Latch",
     "elo5v5": 0
   },
   {
-    "rank": 245,
+    "rank": 244,
     "teamName": "SIRUS",
     "elo5v5": 0
   },
   {
-    "rank": 246,
+    "rank": 245,
     "teamName": "Dark Phoenix",
     "elo5v5": 0
   },
   {
-    "rank": 247,
+    "rank": 246,
     "teamName": "Israel FC",
     "elo5v5": 0
   },
   {
-    "rank": 248,
+    "rank": 247,
     "teamName": "Team Spirit NA",
     "elo5v5": 0
   },
   {
-    "rank": 249,
+    "rank": 248,
     "teamName": "Ogurdincitos",
     "elo5v5": 0
   },
   {
-    "rank": 250,
+    "rank": 249,
     "teamName": "Ascella",
+    "elo5v5": 0
+  },
+  {
+    "rank": 250,
+    "teamName": "Imperātōres",
     "elo5v5": 0
   }
 ]
