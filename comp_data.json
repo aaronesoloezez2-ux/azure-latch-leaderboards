@@ -10487,13 +10487,6 @@
     }
   },
   "matchmaking": {
-    "521276425999745034": {
-      "teamName": "Interval",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781305469156,
-      "lastOpponents": []
-    },
     "899073137742848022": {
       "teamName": "Interval",
       "searchType": "unlimited",
@@ -18525,6 +18518,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1781305053546
+    },
+    "1781305503577": {
+      "team1Id": "521276425999745034",
+      "team2Id": "800823045958402058",
+      "team1Name": "Interval",
+      "team2Name": "Israel FC",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781305503577
     }
   },
   "pendingVCRequests": {},
