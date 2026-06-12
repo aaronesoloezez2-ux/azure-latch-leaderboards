@@ -10488,13 +10488,6 @@
     }
   },
   "matchmaking": {
-    "899073137742848022": {
-      "teamName": "Interval",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781305568288,
-      "lastOpponents": []
-    },
     "521276425999745034": {
       "teamName": "Interval",
       "searchType": "unlimited",
@@ -18524,7 +18517,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781306523771": {
+      "team1Id": "899073137742848022",
+      "team2Id": "1435327843289665596",
+      "team1Name": "Interval",
+      "team2Name": "Kyoto",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781306523772
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
