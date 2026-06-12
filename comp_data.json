@@ -18464,7 +18464,7 @@
       "team2Id": "739220775395000443",
       "team1Name": "Israel FC",
       "team2Name": "Re Al U-20",
-      "team1Vote": null,
+      "team1Vote": false,
       "team2Vote": null,
       "timestamp": 1781222764696
     }
