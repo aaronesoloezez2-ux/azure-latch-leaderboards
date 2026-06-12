@@ -15528,10 +15528,7 @@
       "timestamp": 1781304279379
     },
     "invite_1435327843289665596": {
-      "cooldownUntil": 1781307701371
-    },
-    "invite_1125171739102564432": {
-      "cooldownUntil": 1781307705883
+      "cooldownUntil": 1781308022989
     },
     "1781307596976": {
       "teamName": "Imperātōres",
@@ -15550,6 +15547,12 @@
     },
     "invite_1204496416203083787": {
       "cooldownUntil": 1781307937125
+    },
+    "1781307722989": {
+      "teamName": "Kyoto",
+      "playerId": "1224420632184225943",
+      "inviterId": "1435327843289665596",
+      "timestamp": 1781307722989
     }
   },
   "userNicknames": {
