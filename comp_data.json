@@ -10456,7 +10456,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1125171739102564432": {
+      "teamName": "Yggdrasil",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781287806740,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
