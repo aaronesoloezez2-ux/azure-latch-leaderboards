@@ -10462,16 +10462,7 @@
     }
   },
   "refereeQueue": [],
-  "awaitingReferee": {
-    "1781237299393": {
-      "team1Id": "952432261372973087",
-      "team2Id": "1153499590855753728",
-      "team1Name": "Son 2",
-      "team2Name": "Reprised",
-      "vcLink": null,
-      "timestamp": 1781237299393
-    }
-  },
+  "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
