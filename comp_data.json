@@ -15485,6 +15485,15 @@
       "playerId": "1141990683775864843",
       "inviterId": "1165345544198160488",
       "timestamp": 1781280135531
+    },
+    "1781287331667": {
+      "teamName": "Missing Pieces",
+      "playerId": "1235126157318295552",
+      "inviterId": "1175144948887199874",
+      "timestamp": 1781287331667
+    },
+    "invite_1175144948887199874": {
+      "cooldownUntil": 1781287631667
     }
   },
   "userNicknames": {
