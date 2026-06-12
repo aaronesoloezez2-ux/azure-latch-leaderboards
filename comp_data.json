@@ -15476,6 +15476,15 @@
       "playerId": "925861033439027221",
       "inviterId": "1350267195736981617",
       "timestamp": 1781251816229
+    },
+    "1781258292527": {
+      "teamName": "Hyacinthia",
+      "playerId": "770993388681691176",
+      "inviterId": "1170751348124438639",
+      "timestamp": 1781258292527
+    },
+    "invite_1170751348124438639": {
+      "cooldownUntil": 1781258592527
     }
   },
   "userNicknames": {
