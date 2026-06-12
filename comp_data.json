@@ -15524,6 +15524,15 @@
       "playerId": "1515069556442267658",
       "inviterId": "1352044719089127425",
       "timestamp": 1781304279379
+    },
+    "1781307314732": {
+      "teamName": "Ogurdincitos",
+      "playerId": "1453334847211962390",
+      "inviterId": "1509798094592675950",
+      "timestamp": 1781307314732
+    },
+    "invite_1509798094592675950": {
+      "cooldownUntil": 1781307614732
     }
   },
   "userNicknames": {
