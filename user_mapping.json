@@ -16718,7 +16718,7 @@
   },
   "1141899154084343909": {
     "team": "Citizens-U3",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 22
   },
@@ -16742,7 +16742,7 @@
   },
   "1342931782273597582": {
     "team": "Citizens-U3",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 22
   },
