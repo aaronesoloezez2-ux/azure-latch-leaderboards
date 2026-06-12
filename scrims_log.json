@@ -195,5 +195,74 @@
       }
     ],
     "loggedBy": "1168868176189198418"
+  },
+  {
+    "id": "match_1781302133352",
+    "source": "apply_match",
+    "createdAt": 1781302133352,
+    "expiresAt": 1783894133352,
+    "type": "5v5",
+    "team1": "Shalom FC",
+    "team2": "Metavision FC",
+    "score": "3-1",
+    "winner": "Shalom FC",
+    "loser": "Metavision FC",
+    "eloChanges": {
+      "Shalom FC": {
+        "before": 0,
+        "after": 21,
+        "delta": 21
+      },
+      "Metavision FC": {
+        "before": 0,
+        "after": 0,
+        "delta": -21
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Metavision FC",
+        "mvpId": "1251496480318161002"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Shalom FC",
+        "mvpId": "715403311163113542"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Shalom FC",
+        "mvpId": "946353192231378994"
+      },
+      {
+        "round": 4,
+        "roundWinner": "Shalom FC",
+        "mvpId": "715403311163113542"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "1251496480318161002",
+        "roundWinner": "Metavision FC"
+      },
+      {
+        "round": 2,
+        "playerId": "715403311163113542",
+        "roundWinner": "Shalom FC"
+      },
+      {
+        "round": 3,
+        "playerId": "946353192231378994",
+        "roundWinner": "Shalom FC"
+      },
+      {
+        "round": 4,
+        "playerId": "715403311163113542",
+        "roundWinner": "Shalom FC"
+      }
+    ],
+    "loggedBy": "788089537381400596"
   }
 ]
