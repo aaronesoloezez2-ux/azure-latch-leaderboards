@@ -7065,7 +7065,6 @@
         "910641680556883969",
         "1000599662824259744",
         "894559744440815640",
-        "1132073680785125416",
         "658622868397096960"
       ],
       "region": "NA",
@@ -18527,17 +18526,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781308038879": {
-      "team1Id": "495333407551782933",
-      "team2Id": "1125171739102564432",
-      "team1Name": "ⅩⅠⅠⅠ",
-      "team2Name": "Yggdrasil",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781308038879
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
