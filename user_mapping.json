@@ -17269,12 +17269,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "792524269736951840": {
-    "team": "Re Al U-20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21
-  },
   "1132531466568466553": {
     "team": "Re Al U-20",
     "isLeader": false,
@@ -22896,6 +22890,12 @@
     "elo5v5": 0
   },
   "1497297879839281293": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "792524269736951840": {
     "team": "Imperātōres",
     "isLeader": false,
     "region": "NA",
