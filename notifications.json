@@ -16,35 +16,7 @@
     "html": "https://github.com/aaronesoloezez2-ux/azure-latch-leaderboards/blob/main/notifications.json"
   },
   "1025844116669595779": [],
-  "1440648503364681728": [
-    {
-      "id": 1781094726356,
-      "type": "scrim_found",
-      "fromName": "Verse",
-      "matchId": "match_1781094722376",
-      "time": 1781094726356,
-      "read": true,
-      "status": "pending"
-    },
-    {
-      "id": 1781094823793,
-      "type": "scrim_found",
-      "fromName": "Verse",
-      "matchId": "match_1781094816694",
-      "time": 1781094823793,
-      "read": true,
-      "status": "pending"
-    },
-    {
-      "id": 1781094958165,
-      "type": "scrim_found",
-      "fromName": "Verse",
-      "matchId": "match_1781094951218",
-      "time": 1781094958165,
-      "read": false,
-      "status": "pending"
-    }
-  ],
+  "1440648503364681728": [],
   "668371931334180865": [
     {
       "id": 1781094571551.3586,
