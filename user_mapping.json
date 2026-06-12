@@ -20433,13 +20433,6 @@
     "region": "Asia",
     "elo5v5": 22
   },
-  "885500704020631592": {
-    "team": "The Ashen Eleven",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 22,
-    "isModerator": true
-  },
   "1167003866026475582": {
     "team": "The Ashen Eleven",
     "isLeader": false,
@@ -22878,6 +22871,13 @@
     "isModerator": true
   },
   "1168868176189198418": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "885500704020631592": {
     "team": null,
     "isLeader": false,
     "region": null,
