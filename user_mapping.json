@@ -19553,12 +19553,6 @@
     "region": "NA",
     "elo5v5": 140
   },
-  "1382561990110609479": {
-    "team": "Yggdrasil",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 140
-  },
   "1251953074134847498": {
     "team": "Yggdrasil",
     "isLeader": false,
@@ -22230,12 +22224,6 @@
     "region": "NA",
     "elo5v5": 23
   },
-  "1038336171127873588": {
-    "team": "Interval",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 23
-  },
   "642906462489673748": {
     "team": "Interval",
     "isLeader": false,
@@ -22834,6 +22822,50 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1038336171127873588": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1382561990110609479": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1467619174930186332": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1460829570407202986": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1210078842362920991": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1482063866778357993": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "749678245863227462": {
+    "team": "Ascella",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "991630235021881354": {
     "team": null,
     "isLeader": false,
@@ -22904,13 +22936,6 @@
     "elo5v5": 0,
     "isModerator": true
   },
-  "1467619174930186332": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
   "1168868176189198418": {
     "team": null,
     "isLeader": false,
@@ -22919,13 +22944,6 @@
     "isModerator": true
   },
   "885500704020631592": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "749678245863227462": {
     "team": null,
     "isLeader": false,
     "region": null,
