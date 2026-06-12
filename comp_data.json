@@ -10452,16 +10452,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1153499590855753728": {
-      "teamName": "Reprised",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 5,
-      "startTime": 1781242784476,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
