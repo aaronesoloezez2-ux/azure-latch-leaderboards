@@ -18454,15 +18454,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781222764696": {
-      "team1Id": "552619592997142570",
-      "team2Id": "739220775395000443",
-      "team1Name": "Israel FC",
-      "team2Name": "Re Al U-20",
-      "team1Vote": false,
-      "team2Vote": null,
-      "timestamp": 1781222764696
-    },
     "1781222819696": {
       "team1Id": "1154151895976398889",
       "team2Id": "1458659161985384701",
