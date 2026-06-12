@@ -18459,7 +18459,7 @@
       "team1Name": "Team Spirit NA",
       "team2Name": "Son 2",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1781226039840
     }
   },
