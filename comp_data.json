@@ -18540,7 +18540,7 @@
       "team1Name": "Amaryllis",
       "team2Name": "Imperātōres",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1781308518995
     }
   },
