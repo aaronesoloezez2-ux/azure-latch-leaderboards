@@ -10485,15 +10485,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1125171739102564432": {
-      "teamName": "Yggdrasil",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781287806740,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18508,7 +18500,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781292951813": {
+      "team1Id": "1125171739102564432",
+      "team2Id": "731225486818279457",
+      "team1Name": "Yggdrasil",
+      "team2Name": "Dreamers (NA)",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781292951813
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
