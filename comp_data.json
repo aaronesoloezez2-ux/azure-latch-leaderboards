@@ -18524,7 +18524,7 @@
       "team1Name": "Interval",
       "team2Name": "Kyoto",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1781306523772
     }
   },
