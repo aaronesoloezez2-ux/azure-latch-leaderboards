@@ -15537,6 +15537,15 @@
     },
     "invite_521276425999745034": {
       "cooldownUntil": 1781306620780
+    },
+    "1781306449705": {
+      "teamName": "Blue Rose Fc",
+      "playerId": "1498830949524443146",
+      "inviterId": "518580553449078784",
+      "timestamp": 1781306449705
+    },
+    "invite_518580553449078784": {
+      "cooldownUntil": 1781306749705
     }
   },
   "userNicknames": {
