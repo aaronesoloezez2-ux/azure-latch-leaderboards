@@ -10461,15 +10461,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1154151895976398889": {
-      "teamName": "Team Spirit NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781224019883,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18460,7 +18452,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781226039840": {
+      "team1Id": "1154151895976398889",
+      "team2Id": "952432261372973087",
+      "team1Name": "Team Spirit NA",
+      "team2Name": "Son 2",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781226039840
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
