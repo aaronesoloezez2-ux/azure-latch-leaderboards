@@ -18457,7 +18457,7 @@
       "team1Name": "Yggdrasil",
       "team2Name": "Reprised",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1781242721912
     }
   },
