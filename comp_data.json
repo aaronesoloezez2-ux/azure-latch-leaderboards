@@ -10461,15 +10461,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1458659161985384701": {
-      "teamName": "Reprised",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781222829923,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18476,6 +18468,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1781222819696
+    },
+    "1781222869698": {
+      "team1Id": "1458659161985384701",
+      "team2Id": "739220775395000443",
+      "team1Name": "Reprised",
+      "team2Name": "Re Al U-20",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781222869698
     }
   },
   "pendingVCRequests": {},
