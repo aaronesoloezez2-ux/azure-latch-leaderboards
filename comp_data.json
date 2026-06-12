@@ -10460,15 +10460,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1154151895976398889": {
-      "teamName": "Team Spirit NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781223714054,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
