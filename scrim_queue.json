@@ -1,1 +1,13 @@
-{}
+{
+  "1025844116669595779_1781264565831": {
+    "queueId": "1025844116669595779_1781264565831",
+    "guildName": "Verse",
+    "leaderId": "1025844116669595779",
+    "leaderName": "aaronewld",
+    "elo": 0,
+    "mode": "friendly",
+    "region": "NA",
+    "joinedAt": 1781264565831,
+    "status": "waiting"
+  }
+}
