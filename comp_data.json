@@ -18460,17 +18460,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781226039840": {
-      "team1Id": "1154151895976398889",
-      "team2Id": "952432261372973087",
-      "team1Name": "Team Spirit NA",
-      "team2Name": "Son 2",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781226039840
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
