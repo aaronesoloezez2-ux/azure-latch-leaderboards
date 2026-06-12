@@ -18513,7 +18513,7 @@
       "team1Name": "Re Al U-20",
       "team2Name": "Blue Rose Fc",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": false,
       "timestamp": 1781301738181
     }
   },
