@@ -18462,18 +18462,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781236516339": {
+  "pendingRefVotes": {},
+  "pendingVCRequests": {
+    "vc_1781236516339": {
       "team1Id": "952432261372973087",
       "team2Id": "1153499590855753728",
       "team1Name": "Son 2",
       "team2Name": "Reprised",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781236516339
+      "vcLink": null,
+      "timestamp": 1781236687968
     }
   },
-  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
