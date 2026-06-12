@@ -18468,7 +18468,7 @@
       "team2Id": "1458659161985384701",
       "team1Name": "Team Spirit NA",
       "team2Name": "Reprised",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1781222819696
     },
