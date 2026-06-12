@@ -15,44 +15,7 @@
     "git": "https://api.github.com/repos/aaronesoloezez2-ux/azure-latch-leaderboards/git/blobs/c05129c0bc38cd4ee26a113b2da60bbc51ef0f60",
     "html": "https://github.com/aaronesoloezez2-ux/azure-latch-leaderboards/blob/main/notifications.json"
   },
-  "1025844116669595779": [
-    {
-      "id": 1781094410932,
-      "type": "scrim_found",
-      "fromName": "Balance",
-      "matchId": "match_1781094405392",
-      "time": 1781094410932,
-      "read": true,
-      "status": "pending"
-    },
-    {
-      "id": 1781094737288,
-      "type": "scrim_found",
-      "fromName": "P.X.G",
-      "matchId": "match_1781094722376",
-      "time": 1781094737288,
-      "read": true,
-      "status": "pending"
-    },
-    {
-      "id": 1781094825206,
-      "type": "scrim_found",
-      "fromName": "P.X.G",
-      "matchId": "match_1781094816694",
-      "time": 1781094825206,
-      "read": true,
-      "status": "pending"
-    },
-    {
-      "id": 1781094960415,
-      "type": "scrim_found",
-      "fromName": "P.X.G",
-      "matchId": "match_1781094951218",
-      "time": 1781094960415,
-      "read": true,
-      "status": "pending"
-    }
-  ],
+  "1025844116669595779": [],
   "1440648503364681728": [
     {
       "id": 1781094726356,
