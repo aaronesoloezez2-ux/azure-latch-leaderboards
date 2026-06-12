@@ -10457,15 +10457,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "855831713024704522": {
-      "teamName": "Solaris",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781230196115,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18468,7 +18460,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781231095544": {
+      "team1Id": "855831713024704522",
+      "team2Id": "1153499590855753728",
+      "team1Name": "Solaris",
+      "team2Name": "Reprised",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781231095544
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
