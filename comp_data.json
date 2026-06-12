@@ -18491,17 +18491,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781297882655": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1426419421026455565",
-      "team1Name": "Ascella",
-      "team2Name": "Movement",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781297882655
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
