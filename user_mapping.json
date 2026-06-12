@@ -17288,13 +17288,6 @@
     "region": "NA",
     "elo5v5": 21
   },
-  "723963456549683270": {
-    "team": "Re Al U-20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 21,
-    "isModerator": true
-  },
   "739220775395000443": {
     "team": "Re Al U-20",
     "isLeader": true,
@@ -22639,6 +22632,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "723963456549683270": {
+    "team": "Team Spirit NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "1182669327602831431": {
     "team": "Team Spirit NA",
     "isLeader": false,
@@ -22766,6 +22766,12 @@
     "elo5v5": 0
   },
   "1453334847211962390": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1351332059913785485": {
     "team": "Ogurdincitos",
     "isLeader": false,
     "region": "NA",
