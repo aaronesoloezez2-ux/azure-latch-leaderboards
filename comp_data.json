@@ -18474,7 +18474,7 @@
       "team2Id": "739220775395000443",
       "team1Name": "Reprised",
       "team2Name": "Re Al U-20",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1781222869698
     }
