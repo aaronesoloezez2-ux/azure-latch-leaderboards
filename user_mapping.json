@@ -17335,79 +17335,79 @@
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1502295032483282995": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1274313690719453305": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1501320915504464084": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1064526055391637545": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "828353861508005908": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "940678398399877181": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "761789721344868442": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1484565860185149471": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1245680599969169539": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "536220175582756865": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1504912651036262423": {
     "team": "AfterBrick",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "952855287151353868": {
     "team": "AfterBrick",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 122
+    "elo5v5": 108
   },
   "1160491809542262844": {
     "team": "Japan 2034",
@@ -17967,13 +17967,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
-  },
-  "1329326547525570571": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0,
-    "isModerator": true
   },
   "1251496480318161002": {
     "team": "Counter FC",
@@ -22917,6 +22910,13 @@
     "isModerator": true
   },
   "1111402256441548840": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "1329326547525570571": {
     "team": null,
     "isLeader": false,
     "region": null,
