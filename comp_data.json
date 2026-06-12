@@ -15530,6 +15530,15 @@
     },
     "invite_749678245863227462": {
       "cooldownUntil": 1781300230756
+    },
+    "1781299965764": {
+      "teamName": "Metavision FC",
+      "playerId": "529356333716209686",
+      "inviterId": "1251496480318161002",
+      "timestamp": 1781299965764
+    },
+    "invite_1251496480318161002": {
+      "cooldownUntil": 1781300265764
     }
   },
   "userNicknames": {
