@@ -435,5 +435,58 @@
       }
     ],
     "loggedBy": "1040715701708656650"
+  },
+  {
+    "id": "match_1781305705859",
+    "source": "apply_match",
+    "createdAt": 1781305705859,
+    "expiresAt": 1783897705859,
+    "type": "5v5",
+    "team1": "Interval",
+    "team2": "Israel FC",
+    "score": "3-2",
+    "winner": "Israel FC",
+    "loser": "Interval",
+    "eloChanges": {
+      "Israel FC": {
+        "before": 0,
+        "after": 22,
+        "delta": 22
+      },
+      "Interval": {
+        "before": 23,
+        "after": 2,
+        "delta": -21
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Israel FC",
+        "mvpId": null
+      },
+      {
+        "round": 2,
+        "roundWinner": "Israel FC",
+        "mvpId": null
+      },
+      {
+        "round": 3,
+        "roundWinner": "Interval",
+        "mvpId": null
+      },
+      {
+        "round": 4,
+        "roundWinner": "Interval",
+        "mvpId": null
+      },
+      {
+        "round": 5,
+        "roundWinner": "Israel FC",
+        "mvpId": null
+      }
+    ],
+    "mvpPerRound": [],
+    "loggedBy": "1290679358528290868"
   }
 ]
