@@ -18843,6 +18843,13 @@
     "region": "NA",
     "elo5v5": 149
   },
+  "747948371301499041": {
+    "team": "Abibas NA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 149,
+    "isModerator": true
+  },
   "578719398785974272": {
     "team": "Abibas NA",
     "isLeader": false,
@@ -22494,67 +22501,67 @@
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "1214073193157885962": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "1292563560022675508": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "855831713024704522": {
     "team": "Solaris",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "752617818742063228": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "929931431147339798": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "763374434068332556": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "1217648516705550398": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "1249902035352948836": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "712395143755595808": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "813514867138887697": {
     "team": "Solaris",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 21
+    "elo5v5": 41
   },
   "552619592997142570": {
     "team": "Israel FC",
@@ -22901,13 +22908,6 @@
     "isModerator": true
   },
   "1168868176189198418": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "747948371301499041": {
     "team": null,
     "isLeader": false,
     "region": null,
