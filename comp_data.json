@@ -15537,14 +15537,20 @@
       "inviterId": "1458274913004556442",
       "timestamp": 1781307596976
     },
-    "invite_1458274913004556442": {
-      "cooldownUntil": 1781307896976
-    },
     "invite_1204496416203083787": {
       "cooldownUntil": 1781307937125
     },
     "invite_749678245863227462": {
       "cooldownUntil": 1781308167283
+    },
+    "1781307907925": {
+      "teamName": "Imperātōres",
+      "playerId": "1099523632717373592",
+      "inviterId": "1458274913004556442",
+      "timestamp": 1781307907925
+    },
+    "invite_1458274913004556442": {
+      "cooldownUntil": 1781308207925
     }
   },
   "userNicknames": {
