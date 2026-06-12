@@ -22323,6 +22323,12 @@
     "elo5v5": 40,
     "isModerator": true
   },
+  "1387290291186434090": {
+    "team": "Interval",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 40
+  },
   "521276425999745034": {
     "team": "Interval",
     "isLeader": true,
