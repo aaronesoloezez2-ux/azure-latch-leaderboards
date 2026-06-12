@@ -10460,7 +10460,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "952432261372973087": {
+      "teamName": "Son 2",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781227457915,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
