@@ -10485,7 +10485,16 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "739220775395000443": {
+      "teamName": "Re Al U-20",
+      "searchType": "timed",
+      "region": "NA",
+      "duration": 15,
+      "startTime": 1781301527527,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
