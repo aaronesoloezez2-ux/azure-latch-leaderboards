@@ -18518,15 +18518,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781305528580": {
-      "team1Id": "899073137742848022",
-      "team2Id": "731225486818279457",
-      "team1Name": "Interval",
-      "team2Name": "Dreamers (NA)",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781305528580
-    },
     "1781305558580": {
       "team1Id": "899073137742848022",
       "team2Id": "800823045958402058",
