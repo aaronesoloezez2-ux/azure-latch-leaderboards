@@ -10486,15 +10486,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1299722087723700256": {
-      "teamName": "Honorary Knights",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781304831889,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18517,6 +18509,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1781304793509
+    },
+    "1781305053546": {
+      "team1Id": "1299722087723700256",
+      "team2Id": "731225486818279457",
+      "team1Name": "Honorary Knights",
+      "team2Name": "Dreamers (NA)",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781305053546
     }
   },
   "pendingVCRequests": {},
