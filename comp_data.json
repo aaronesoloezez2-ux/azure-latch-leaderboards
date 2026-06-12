@@ -15485,6 +15485,15 @@
   "pendingInvites": {
     "invite_1381851488569004103": {
       "cooldownUntil": 1781224455844
+    },
+    "1781224353841": {
+      "teamName": "Interval",
+      "playerId": "1387290291186434090",
+      "inviterId": "521276425999745034",
+      "timestamp": 1781224353841
+    },
+    "invite_521276425999745034": {
+      "cooldownUntil": 1781224653841
     }
   },
   "userNicknames": {
