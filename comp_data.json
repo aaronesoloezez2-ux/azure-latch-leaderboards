@@ -15489,6 +15489,15 @@
       "playerId": "883782190348001351",
       "inviterId": "1125171739102564432",
       "timestamp": 1781236951672
+    },
+    "1781237984054": {
+      "teamName": "Yggdrasil",
+      "playerId": "802359779929489408",
+      "inviterId": "1125171739102564432",
+      "timestamp": 1781237984054
+    },
+    "invite_1125171739102564432": {
+      "cooldownUntil": 1781238284054
     }
   },
   "userNicknames": {
