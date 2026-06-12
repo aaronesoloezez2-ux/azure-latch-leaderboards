@@ -10407,7 +10407,7 @@
       "achievements": []
     },
     "Ascella": {
-      "elo5v5": 21,
+      "elo5v5": 41,
       "elo11v11": 0,
       "leaders": [
         "749678245863227462"
@@ -10485,7 +10485,22 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "899073137742848022": {
+      "teamName": "Interval",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781305568288,
+      "lastOpponents": []
+    },
+    "521276425999745034": {
+      "teamName": "Interval",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781305568475,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
