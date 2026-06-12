@@ -17968,6 +17968,12 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1016313051923877909": {
+    "team": "Metavision FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "1251496480318161002": {
     "team": "Counter FC",
     "isLeader": false,
@@ -21097,12 +21103,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
-  },
-  "1016313051923877909": {
-    "team": "Counter FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
   },
   "1201396634588807301": {
     "team": "Counter FC",
