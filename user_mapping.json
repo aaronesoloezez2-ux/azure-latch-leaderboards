@@ -18752,12 +18752,6 @@
     "region": "NA",
     "elo5v5": 120
   },
-  "1025178336122650644": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
   "1230642798428950599": {
     "team": "Abibas NA",
     "isLeader": false,
@@ -22808,6 +22802,36 @@
     "team": "Barcha",
     "isLeader": false,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "952667718363009074": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1509798094592675950": {
+    "team": "Ogurdincitos",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1466271362514681992": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "475452427860967435": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "730909407914754069": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
     "elo5v5": 0
   },
   "991630235021881354": {
