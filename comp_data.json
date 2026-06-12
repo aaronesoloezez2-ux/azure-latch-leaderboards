@@ -10486,7 +10486,22 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "521276425999745034": {
+      "teamName": "Interval",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781305469156,
+      "lastOpponents": []
+    },
+    "899073137742848022": {
+      "teamName": "Interval",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781305472208,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
