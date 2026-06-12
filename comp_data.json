@@ -15484,6 +15484,15 @@
   "pendingInvites": {
     "invite_1504912651036262423": {
       "cooldownUntil": 1781277180148
+    },
+    "1781277076550": {
+      "teamName": "Metavision FC",
+      "playerId": "1211089819678285835",
+      "inviterId": "1188187130111996035",
+      "timestamp": 1781277076550
+    },
+    "invite_1188187130111996035": {
+      "cooldownUntil": 1781277376550
     }
   },
   "userNicknames": {
