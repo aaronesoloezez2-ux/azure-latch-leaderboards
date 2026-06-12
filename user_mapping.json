@@ -12207,90 +12207,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "798949214704107521": {
-    "team": "WildCards",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "865630452299202611": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1062398303251202139": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1251090350056013935": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "894992453013217311": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1248621849978339381": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1142132595795165255": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1357021792073552103": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "665618780021587969": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "915620907672809482": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1511346056544125078": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1512129908418023635": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "691000508781035612": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1263104042339405854": {
-    "team": "WildCards",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1195892638700798036": {
     "team": "Crimsons",
     "isLeader": true,
@@ -22803,6 +22719,90 @@
     "team": "Team Spirit NA",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "798949214704107521": {
+    "team": "Barcha",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "865630452299202611": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1062398303251202139": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1251090350056013935": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "894992453013217311": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1248621849978339381": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1142132595795165255": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1357021792073552103": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "665618780021587969": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "915620907672809482": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1511346056544125078": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1512129908418023635": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "691000508781035612": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1263104042339405854": {
+    "team": "Barcha",
+    "isLeader": false,
+    "region": "Europe",
     "elo5v5": 0
   },
   "991630235021881354": {
