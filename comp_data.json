@@ -18454,15 +18454,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781222819696": {
-      "team1Id": "1154151895976398889",
-      "team2Id": "1458659161985384701",
-      "team1Name": "Team Spirit NA",
-      "team2Name": "Reprised",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1781222819696
-    },
     "1781222869698": {
       "team1Id": "1458659161985384701",
       "team2Id": "739220775395000443",
