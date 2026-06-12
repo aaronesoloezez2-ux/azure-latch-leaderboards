@@ -10461,15 +10461,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1154151895976398889": {
-      "teamName": "Team Spirit NA",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781222800153,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18467,6 +18459,15 @@
       "team1Vote": false,
       "team2Vote": null,
       "timestamp": 1781222764696
+    },
+    "1781222819696": {
+      "team1Id": "1154151895976398889",
+      "team2Id": "1458659161985384701",
+      "team1Name": "Team Spirit NA",
+      "team2Name": "Reprised",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781222819696
     }
   },
   "pendingVCRequests": {},
