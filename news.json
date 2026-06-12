@@ -32,39 +32,5 @@
         "time": 1781178588374
       }
     ]
-  },
-  {
-    "id": "1781094783721",
-    "text": "ijaijsdajiadsikj",
-    "type": "event",
-    "author": "dutch_vandl",
-    "authorId": "668371931334180865",
-    "time": 1781094783721,
-    "replies": [
-      {
-        "id": "1781094789527",
-        "text": "e adssadadssadasd",
-        "author": "dutch_vandl",
-        "authorId": "668371931334180865",
-        "authorAvatar": "e110793c6bb1f12db93b411a5e6d85a2",
-        "time": 1781094789527
-      },
-      {
-        "id": "1781098496908",
-        "text": "67",
-        "author": "myst1chek",
-        "authorId": "1192621155148890215",
-        "authorAvatar": "0c2dbe17efe81b09f456f264df73337d",
-        "time": 1781098496908
-      },
-      {
-        "id": "1781111534224",
-        "text": "omg mystic said 67 LMAO",
-        "author": "luchnez",
-        "authorId": "548086400063635476",
-        "authorAvatar": "75eaef798aed5f970b897832e91007bf",
-        "time": 1781111534224
-      }
-    ]
   }
 ]
