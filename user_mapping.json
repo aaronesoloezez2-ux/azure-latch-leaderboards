@@ -22805,6 +22805,13 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "804070778235650149": {
+    "team": "Ascella",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "749678245863227462": {
     "team": "Ascella",
     "isLeader": true,
@@ -22887,13 +22894,6 @@
     "isModerator": true
   },
   "1355669102731202580": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "804070778235650149": {
     "team": null,
     "isLeader": false,
     "region": null,
