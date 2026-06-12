@@ -15533,6 +15533,24 @@
     },
     "invite_1509798094592675950": {
       "cooldownUntil": 1781307614732
+    },
+    "1781307401371": {
+      "teamName": "Kyoto",
+      "playerId": "899782955248021534",
+      "inviterId": "1435327843289665596",
+      "timestamp": 1781307401371
+    },
+    "invite_1435327843289665596": {
+      "cooldownUntil": 1781307701371
+    },
+    "1781307405883": {
+      "teamName": "Yggdrasil",
+      "playerId": "854385657257787392",
+      "inviterId": "1125171739102564432",
+      "timestamp": 1781307405883
+    },
+    "invite_1125171739102564432": {
+      "cooldownUntil": 1781307705883
     }
   },
   "userNicknames": {
