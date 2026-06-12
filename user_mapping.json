@@ -17956,6 +17956,12 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1251496480318161002": {
+    "team": "Counter FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 21
+  },
   "902272222964625428": {
     "team": "Chem Brickers",
     "isLeader": true,
@@ -21086,12 +21092,6 @@
     "region": "Europe",
     "elo5v5": 21
   },
-  "1251496480318161002": {
-    "team": "Counter FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "1201396634588807301": {
     "team": "Counter FC",
     "isLeader": false,
@@ -21634,12 +21634,6 @@
     "region": "NA",
     "elo5v5": 48,
     "isModerator": true
-  },
-  "1390755048434307092": {
-    "team": "Amaryllis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 48
   },
   "965000459469348864": {
     "team": "Amaryllis",
