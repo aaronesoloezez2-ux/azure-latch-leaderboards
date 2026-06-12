@@ -15490,6 +15490,15 @@
     },
     "invite_855831713024704522": {
       "cooldownUntil": 1781232863045
+    },
+    "1781232827960": {
+      "teamName": "Reprised",
+      "playerId": "1309132060459401266",
+      "inviterId": "1153499590855753728",
+      "timestamp": 1781232827960
+    },
+    "invite_1153499590855753728": {
+      "cooldownUntil": 1781233127960
     }
   },
   "userNicknames": {
