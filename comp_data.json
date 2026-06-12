@@ -18502,15 +18502,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781304793509": {
-      "team1Id": "1426419421026455565",
-      "team2Id": "1299722087723700256",
-      "team1Name": "Movement",
-      "team2Name": "Honorary Knights",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781304793509
-    },
     "1781305053546": {
       "team1Id": "1299722087723700256",
       "team2Id": "731225486818279457",
