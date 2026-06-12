@@ -18454,17 +18454,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781227600005": {
-      "team1Id": "952432261372973087",
-      "team2Id": "1381851488569004103",
-      "team1Name": "Son 2",
-      "team2Name": "Metalogic",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781227600005
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
