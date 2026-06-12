@@ -18515,17 +18515,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781306523771": {
-      "team1Id": "899073137742848022",
-      "team2Id": "1435327843289665596",
-      "team1Name": "Interval",
-      "team2Name": "Kyoto",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781306523772
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
