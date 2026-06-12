@@ -22342,7 +22342,7 @@
   },
   "899073137742848022": {
     "team": "Interval",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 40
   },
