@@ -18507,15 +18507,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781301023145": {
-      "team1Id": "521276425999745034",
-      "team2Id": "552619592997142570",
-      "team1Name": "Interval",
-      "team2Name": "Israel FC",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781301023145
-    },
     "1781301323162": {
       "team1Id": "899073137742848022",
       "team2Id": "1481494653604856011",
