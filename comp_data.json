@@ -10485,16 +10485,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "739220775395000443": {
-      "teamName": "Re Al U-20",
-      "searchType": "timed",
-      "region": "NA",
-      "duration": 15,
-      "startTime": 1781301527527,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18515,6 +18506,15 @@
       "team1Vote": null,
       "team2Vote": null,
       "timestamp": 1781301323162
+    },
+    "1781301738181": {
+      "team1Id": "739220775395000443",
+      "team2Id": "518580553449078784",
+      "team1Name": "Re Al U-20",
+      "team2Name": "Blue Rose Fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781301738181
     }
   },
   "pendingVCRequests": {},
