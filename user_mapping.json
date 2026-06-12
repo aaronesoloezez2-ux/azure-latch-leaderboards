@@ -17193,7 +17193,7 @@
   },
   "1237287086801817671": {
     "team": "Seirin",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 15
   },
