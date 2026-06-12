@@ -18514,17 +18514,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781300318050": {
-      "team1Id": "899073137742848022",
-      "team2Id": "567041024615120928",
-      "team1Name": "Interval",
-      "team2Name": "Abibas NA",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781300318050
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
