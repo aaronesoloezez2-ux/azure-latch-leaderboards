@@ -18491,17 +18491,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781292951813": {
-      "team1Id": "1125171739102564432",
-      "team2Id": "731225486818279457",
-      "team1Name": "Yggdrasil",
-      "team2Name": "Dreamers (NA)",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781292951813
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
