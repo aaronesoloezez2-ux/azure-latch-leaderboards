@@ -10514,7 +10514,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1381851488569004103": {
+      "teamName": "Metalogic",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781321883749,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18546,7 +18554,7 @@
       "team2Id": "749678245863227462",
       "team1Name": "Blue Rose Fc",
       "team2Name": "Ascella",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1781321861155
     }
