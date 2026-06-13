@@ -18550,17 +18550,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781319495725": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1437355351958749254",
-      "team1Name": "Ascella",
-      "team2Name": "Ubers+",
-      "team1Vote": null,
-      "team2Vote": null,
-      "timestamp": 1781319495725
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
