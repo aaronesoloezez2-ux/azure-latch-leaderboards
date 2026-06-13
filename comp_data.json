@@ -15558,6 +15558,15 @@
   "pendingInvites": {
     "invite_772787397704417321": {
       "cooldownUntil": 1781324008574
+    },
+    "1781323909236": {
+      "teamName": "Citizens-U3 United",
+      "playerId": "476629109804630018",
+      "inviterId": "785224985131614239",
+      "timestamp": 1781323909236
+    },
+    "invite_785224985131614239": {
+      "cooldownUntil": 1781324209236
     }
   },
   "userNicknames": {
