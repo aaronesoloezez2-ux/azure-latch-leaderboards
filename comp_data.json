@@ -18548,17 +18548,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781326356875": {
-      "team1Id": "518580553449078784",
-      "team2Id": "854409388343951450",
-      "team1Name": "Blue Rose Fc",
-      "team2Name": "Ubers+",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781326356875
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
