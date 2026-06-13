@@ -1534,11 +1534,7 @@
     ],
     "notes": "no more games",
     "appliedBy": "1025844116669595779",
-    "appliedByName": "aaronewld",
-    "deleted": true,
-    "deletedBy": "1025844116669595779",
-    "deletedByName": "aaronewld",
-    "deletedAt": 1781355400943
+    "appliedByName": "aaronewld"
   },
   {
     "id": "match_1781348115750",
@@ -1634,7 +1630,11 @@
     ],
     "notes": null,
     "appliedBy": "1025844116669595779",
-    "appliedByName": "aaronewld"
+    "appliedByName": "aaronewld",
+    "deleted": true,
+    "deletedBy": "1025844116669595779",
+    "deletedByName": "aaronewld",
+    "deletedAt": 1781355403703
   },
   {
     "id": "match_1781351687082",
