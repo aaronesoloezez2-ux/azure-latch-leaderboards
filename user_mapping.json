@@ -10865,98 +10865,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "757056855175594004": {
-    "team": "â©â â â ",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 6,
-    "isReferee": true
-  },
-  "303354768561012747": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "580131778250014724": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "495333407551782933": {
-    "team": "â©â â â ",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "707358456247484498": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "850549698619768832": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "1134298295099985981": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "1424924767215030334": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "1255330650286723106": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "834581603840819220": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "637687483232026657": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "424354473842835458": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "1125593852129050745": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
-  "1502806949513793618": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6,
-    "isReferee": true
-  },
-  "756413543636533348": {
-    "team": "â©â â â ",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 6
-  },
   "1355635488303747403": {
     "team": "Purest Humans",
     "isLeader": false,
@@ -22919,6 +22827,98 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "757056855175594004": {
+    "team": "XIII",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 6,
+    "isReferee": true
+  },
+  "303354768561012747": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "580131778250014724": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "495333407551782933": {
+    "team": "XIII",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "707358456247484498": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "850549698619768832": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "1134298295099985981": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "1424924767215030334": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "1255330650286723106": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "834581603840819220": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "637687483232026657": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "424354473842835458": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "1125593852129050745": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
+  },
+  "1502806949513793618": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6,
+    "isReferee": true
+  },
+  "756413543636533348": {
+    "team": "XIII",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 6
   },
   "1290679358528290868": {
     "team": null,
