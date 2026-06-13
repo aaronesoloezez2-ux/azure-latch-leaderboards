@@ -10524,16 +10524,7 @@
     }
   },
   "refereeQueue": [],
-  "awaitingReferee": {
-    "1781314986409": {
-      "team1Id": "518580553449078784",
-      "team2Id": "952432261372973087",
-      "team1Name": "Blue Rose Fc",
-      "team2Name": "Son 2",
-      "vcLink": null,
-      "timestamp": 1781314986409
-    }
-  },
+  "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
