@@ -10521,7 +10521,16 @@
     }
   },
   "refereeQueue": [],
-  "awaitingReferee": {},
+  "awaitingReferee": {
+    "1781313366374": {
+      "team1Id": "952432261372973087",
+      "team2Id": "412399874877816842",
+      "team1Name": "Son 2",
+      "team2Name": "Retribution",
+      "vcLink": null,
+      "timestamp": 1781313366374
+    }
+  },
   "logsChannel": "1442611443600982240",
   "playerCooldowns": {
     "1501366179": 1777327385225,
@@ -18551,16 +18560,7 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {},
-  "pendingVCRequests": {
-    "vc_1781312139415": {
-      "team1Id": "952432261372973087",
-      "team2Id": "412399874877816842",
-      "team1Name": "Son 2",
-      "team2Name": "Retribution",
-      "vcLink": null,
-      "timestamp": 1781312764705
-    }
-  },
+  "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
     "setup_queue_scrims": 3,
