@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
-    "teamName": "Ascella",
-    "elo5v5": 130
-  },
-  {
-    "rank": 4,
     "teamName": "Spurs",
     "elo5v5": 120
   },
   {
-    "rank": 5,
+    "rank": 4,
     "teamName": "Re Al",
     "elo5v5": 119
+  },
+  {
+    "rank": 5,
+    "teamName": "Ascella",
+    "elo5v5": 112
   },
   {
     "rank": 6,
@@ -42,7 +42,7 @@
   {
     "rank": 9,
     "teamName": "Amaryllis",
-    "elo5v5": 50
+    "elo5v5": 73
   },
   {
     "rank": 10,
