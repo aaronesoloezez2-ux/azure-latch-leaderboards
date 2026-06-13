@@ -10512,15 +10512,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "518580553449078784": {
-      "teamName": "Blue Rose Fc",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781312733607,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {
     "1781313366374": {
@@ -18560,7 +18552,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781314354929": {
+      "team1Id": "518580553449078784",
+      "team2Id": "952432261372973087",
+      "team1Name": "Blue Rose Fc",
+      "team2Name": "Son 2",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1781314354929
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
