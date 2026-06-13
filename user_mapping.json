@@ -603,7 +603,8 @@
     "team": "Abibas FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 21
+    "elo5v5": 21,
+    "isReferee": true
   },
   "1344456796923760668": {
     "team": "Abibas FC",
