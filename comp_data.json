@@ -10509,15 +10509,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1381851488569004103": {
-      "teamName": "Metalogic",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781309857161,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18559,6 +18551,15 @@
       "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1781309784127
+    },
+    "1781309869133": {
+      "team1Id": "1381851488569004103",
+      "team2Id": "1458274913004556442",
+      "team1Name": "Metalogic",
+      "team2Name": "Imperātōres",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1781309869133
     }
   },
   "pendingVCRequests": {},
