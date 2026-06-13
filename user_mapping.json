@@ -19756,7 +19756,7 @@
     "isLeader": false,
     "region": "Asia",
     "elo5v5": 78,
-    "isModerator": true,
+    "isModerator": false,
     "isReferee": true
   },
   "546341945757401118": {
