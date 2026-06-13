@@ -21747,7 +21747,8 @@
     "team": "Interval",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 41
+    "elo5v5": 41,
+    "isReferee": true
   },
   "1387290291186434090": {
     "team": "Interval",
