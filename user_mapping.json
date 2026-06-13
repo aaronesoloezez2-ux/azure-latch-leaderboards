@@ -13566,7 +13566,7 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 41,
-    "isModerator": false
+    "isModerator": true
   },
   "1387117723569356810": {
     "team": "SUFC",
