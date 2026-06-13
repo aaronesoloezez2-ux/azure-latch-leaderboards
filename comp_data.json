@@ -10509,15 +10509,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1076521298823495802": {
-      "teamName": "Monarchs Recrowned FC",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781314851072,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {
     "1781314986409": {
@@ -18550,7 +18542,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781317385346": {
+      "team1Id": "1076521298823495802",
+      "team2Id": "749678245863227462",
+      "team1Name": "Monarchs Recrowned FC",
+      "team2Name": "Ascella",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781317385346
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
