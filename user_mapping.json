@@ -625,6 +625,13 @@
     "region": "Europe",
     "elo5v5": 21
   },
+  "1410827035575844904": {
+    "team": "Abibas FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 21,
+    "isReferee": true
+  },
   "790479627478892574": {
     "team": "Abibas FC",
     "isLeader": true,
@@ -16071,13 +16078,6 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 44
-  },
-  "1410827035575844904": {
-    "team": "Chapter",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 44,
-    "isReferee": true
   },
   "264753100903022602": {
     "team": "Chapter",
