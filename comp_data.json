@@ -10519,15 +10519,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "749678245863227462": {
-      "teamName": "Ascella",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781324161312,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18566,6 +18558,15 @@
       "team1Vote": null,
       "team2Vote": true,
       "timestamp": 1781324111530
+    },
+    "1781324186541": {
+      "team1Id": "749678245863227462",
+      "team2Id": "518580553449078784",
+      "team1Name": "Ascella",
+      "team2Name": "Blue Rose Fc",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781324186541
     }
   },
   "pendingVCRequests": {},
