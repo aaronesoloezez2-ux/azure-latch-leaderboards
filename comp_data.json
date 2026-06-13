@@ -15557,6 +15557,15 @@
       "playerId": "1142987562256973895",
       "inviterId": "1458274913004556442",
       "timestamp": 1781307596976
+    },
+    "1781311448895": {
+      "teamName": "Monarchs Recrowned FC",
+      "playerId": "859615820127928342",
+      "inviterId": "1076521298823495802",
+      "timestamp": 1781311448895
+    },
+    "invite_1076521298823495802": {
+      "cooldownUntil": 1781311748895
     }
   },
   "userNicknames": {
