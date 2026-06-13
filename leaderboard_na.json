@@ -26,13 +26,13 @@
   },
   {
     "rank": 6,
-    "teamName": "Retribution",
-    "elo5v5": 95
+    "teamName": "Ascella",
+    "elo5v5": 96
   },
   {
     "rank": 7,
-    "teamName": "Ascella",
-    "elo5v5": 79
+    "teamName": "Retribution",
+    "elo5v5": 95
   },
   {
     "rank": 8,
@@ -86,38 +86,38 @@
   },
   {
     "rank": 18,
-    "teamName": "Metalogic",
-    "elo5v5": 21
-  },
-  {
-    "rank": 19,
     "teamName": "Llantines fc",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 19,
     "teamName": "Son 2",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 20,
     "teamName": "Vinland",
     "elo5v5": 20
   },
   {
-    "rank": 22,
+    "rank": 21,
     "teamName": "Seirin",
     "elo5v5": 15
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "ⅩⅠⅠⅠ",
     "elo5v5": 6
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 4
+  },
+  {
+    "rank": 24,
+    "teamName": "Metalogic",
+    "elo5v5": 3
   },
   {
     "rank": 25,
