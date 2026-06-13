@@ -15559,8 +15559,14 @@
     "1514586991151419446": 1781497045544
   },
   "pendingInvites": {
-    "invite_772787397704417321": {
-      "cooldownUntil": 1781324541424
+    "1781324551381": {
+      "teamName": "Parxousia",
+      "playerId": "1170325402158366743",
+      "inviterId": "825714491874345001",
+      "timestamp": 1781324551381
+    },
+    "invite_825714491874345001": {
+      "cooldownUntil": 1781324851381
     }
   },
   "userNicknames": {
