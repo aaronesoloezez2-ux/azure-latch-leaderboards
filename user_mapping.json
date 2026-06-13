@@ -21521,7 +21521,8 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "874003546511646800": {
     "team": "Missing Pieces",
@@ -22448,7 +22449,7 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0,
-    "isModerator": true,
+    "isModerator": false,
     "isReferee": true
   },
   "1182669327602831431": {
