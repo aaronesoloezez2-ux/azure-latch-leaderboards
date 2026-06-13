@@ -18550,7 +18550,7 @@
       "team1Name": "Son 2",
       "team2Name": "Retribution",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1781312139415
     }
   },
