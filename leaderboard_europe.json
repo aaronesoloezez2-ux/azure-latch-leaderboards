@@ -21,27 +21,27 @@
   },
   {
     "rank": 5,
+    "teamName": "Verse",
+    "elo5v5": 42
+  },
+  {
+    "rank": 6,
     "teamName": "SUFC",
     "elo5v5": 41
   },
   {
-    "rank": 6,
+    "rank": 7,
     "teamName": "Quantum",
     "elo5v5": 23
   },
   {
-    "rank": 7,
+    "rank": 8,
     "teamName": "Paris X Gen",
     "elo5v5": 23
   },
   {
-    "rank": 8,
-    "teamName": "o-42",
-    "elo5v5": 22
-  },
-  {
     "rank": 9,
-    "teamName": "Verse",
+    "teamName": "o-42",
     "elo5v5": 22
   },
   {
@@ -1357,6 +1357,6 @@
   {
     "rank": 272,
     "teamName": "Balance",
-    "elo5v5": -1
+    "elo5v5": -21
   }
 ]
