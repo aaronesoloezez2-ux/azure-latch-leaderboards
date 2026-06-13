@@ -1,18 +1,18 @@
 [
   {
     "rank": 1,
+    "teamName": "Ascella",
+    "elo5v5": 143
+  },
+  {
+    "rank": 2,
     "teamName": "Yggdrasil",
     "elo5v5": 137
   },
   {
-    "rank": 2,
+    "rank": 3,
     "teamName": "Abibas NA",
     "elo5v5": 133
-  },
-  {
-    "rank": 3,
-    "teamName": "Ascella",
-    "elo5v5": 130
   },
   {
     "rank": 4,
@@ -51,82 +51,82 @@
   },
   {
     "rank": 11,
-    "teamName": "Moon Noobs",
-    "elo5v5": 45
-  },
-  {
-    "rank": 12,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 13,
-    "teamName": "Israel FC",
-    "elo5v5": 43
-  },
-  {
-    "rank": 14,
+    "rank": 12,
     "teamName": "Honorary Knights",
     "elo5v5": 42
   },
   {
-    "rank": 15,
+    "rank": 13,
     "teamName": "Llantines fc",
     "elo5v5": 41
   },
   {
-    "rank": 16,
+    "rank": 14,
     "teamName": "Interval",
     "elo5v5": 41
   },
   {
-    "rank": 17,
+    "rank": 15,
     "teamName": "Solaris",
     "elo5v5": 41
   },
   {
+    "rank": 16,
+    "teamName": "Israel FC",
+    "elo5v5": 26
+  },
+  {
+    "rank": 17,
+    "teamName": "Moon Noobs",
+    "elo5v5": 23
+  },
+  {
     "rank": 18,
+    "teamName": "Re Al U-20",
+    "elo5v5": 23
+  },
+  {
+    "rank": 19,
     "teamName": "Citizens-U3",
     "elo5v5": 22
   },
   {
-    "rank": 19,
+    "rank": 20,
     "teamName": "Reprised",
     "elo5v5": 21
   },
   {
-    "rank": 20,
+    "rank": 21,
     "teamName": "Son 2",
     "elo5v5": 21
   },
   {
-    "rank": 21,
+    "rank": 22,
     "teamName": "Vinland",
     "elo5v5": 20
   },
   {
-    "rank": 22,
+    "rank": 23,
     "teamName": "Seirin",
     "elo5v5": 15
   },
   {
-    "rank": 23,
+    "rank": 24,
     "teamName": "XIII",
     "elo5v5": 6
   },
   {
-    "rank": 24,
+    "rank": 25,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 4
   },
   {
-    "rank": 25,
-    "teamName": "Dreamers (NA)",
-    "elo5v5": 1
-  },
-  {
     "rank": 26,
-    "teamName": "Re Al U-20",
+    "teamName": "Dreamers (NA)",
     "elo5v5": 1
   },
   {
