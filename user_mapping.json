@@ -12948,12 +12948,6 @@
     "region": "Europe",
     "elo5v5": 114
   },
-  "907319327571726346": {
-    "team": "Calamity",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 114
-  },
   "713044980343504989": {
     "team": "Calamity",
     "isLeader": false,
@@ -13084,12 +13078,6 @@
   "662351713780629523": {
     "team": "Chain Breakers: New Hope",
     "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1047795693743509534": {
-    "team": "Chain Breakers: New Hope",
-    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -22836,6 +22824,37 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "902272222964625428": {
+    "team": "Chain Breakers",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isReferee": true
+  },
+  "1223918075439480876": {
+    "team": "Chain Breakers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "995994659312640091": {
+    "team": "Chain Breakers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1047795693743509534": {
+    "team": "Chain Breakers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "907319327571726346": {
+    "team": "Chain Breakers",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "1290679358528290868": {
     "team": null,
     "isLeader": false,
@@ -22858,13 +22877,6 @@
     "isReferee": true
   },
   "290405745458020353": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isReferee": true
-  },
-  "902272222964625428": {
     "team": null,
     "isLeader": false,
     "region": null,
