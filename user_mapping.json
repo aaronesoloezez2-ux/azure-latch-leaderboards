@@ -22992,7 +22992,7 @@
     "isLeader": false,
     "region": null,
     "elo5v5": 0,
-    "isModerator": true
+    "isModerator": false
   },
   "950108450216607784": {
     "team": null,
