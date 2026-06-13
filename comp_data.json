@@ -15556,6 +15556,9 @@
   "pendingInvites": {
     "invite_1437355351958749254": {
       "cooldownUntil": 1781319613193
+    },
+    "invite_749678245863227462": {
+      "cooldownUntil": 1781319688962
     }
   },
   "userNicknames": {
