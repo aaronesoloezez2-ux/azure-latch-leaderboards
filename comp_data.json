@@ -18548,17 +18548,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781320750891": {
-      "team1Id": "1437355351958749254",
-      "team2Id": "521276425999745034",
-      "team1Name": "Ubers+",
-      "team2Name": "Interval",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1781320750891
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
