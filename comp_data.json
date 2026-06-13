@@ -15555,9 +15555,6 @@
       "inviterId": "1458274913004556442",
       "timestamp": 1781307596976
     },
-    "invite_1076521298823495802": {
-      "cooldownUntil": 1781312099740
-    },
     "invite_749678245863227462": {
       "cooldownUntil": 1781312355950
     }
@@ -18554,17 +18551,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781311489364": {
-      "team1Id": "749678245863227462",
-      "team2Id": "1076521298823495802",
-      "team1Name": "Ascella",
-      "team2Name": "Monarchs Recrowned FC",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781311489364
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
