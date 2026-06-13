@@ -10512,7 +10512,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "1013576163488182343": {
+      "teamName": "Amaryllis",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781314524787,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {
     "1781313366374": {
