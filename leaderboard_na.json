@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Yggdrasil",
-    "elo5v5": 152
+    "elo5v5": 137
   },
   {
     "rank": 2,
@@ -11,18 +11,18 @@
   },
   {
     "rank": 3,
+    "teamName": "Ascella",
+    "elo5v5": 130
+  },
+  {
+    "rank": 4,
     "teamName": "Spurs",
     "elo5v5": 120
   },
   {
-    "rank": 4,
+    "rank": 5,
     "teamName": "Re Al",
     "elo5v5": 119
-  },
-  {
-    "rank": 5,
-    "teamName": "Ascella",
-    "elo5v5": 111
   },
   {
     "rank": 6,
