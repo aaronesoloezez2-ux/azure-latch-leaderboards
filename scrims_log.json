@@ -787,17 +787,17 @@
     "expiresAt": 1783904962178,
     "type": "5v5",
     "team1": "Yggdrasil",
-    "team2": "ⅩⅠⅠⅠ",
+    "team2": "â©â â â ",
     "score": "3-1",
     "winner": "Yggdrasil",
-    "loser": "ⅩⅠⅠⅠ",
+    "loser": "â©â â â ",
     "eloChanges": {
       "Yggdrasil": {
         "before": 140,
         "after": 152,
         "delta": 12
       },
-      "ⅩⅠⅠⅠ": {
+      "â©â â â ": {
         "before": 22,
         "after": 6,
         "delta": -16
@@ -811,7 +811,7 @@
       },
       {
         "round": 2,
-        "roundWinner": "ⅩⅠⅠⅠ",
+        "roundWinner": "â©â â â ",
         "mvpId": "1125593852129050745"
       },
       {
@@ -834,7 +834,7 @@
       {
         "round": 2,
         "playerId": "1125593852129050745",
-        "roundWinner": "ⅩⅠⅠⅠ"
+        "roundWinner": "â©â â â "
       },
       {
         "round": 3,
@@ -1489,5 +1489,51 @@
       }
     ],
     "loggedBy": "757056855175594004"
+  },
+  {
+    "id": "match_1781347060866",
+    "createdAt": 1781347060866,
+    "type": "5v5",
+    "team1": "Balance",
+    "team2": "Verse",
+    "score": "0–3",
+    "winner": "Verse",
+    "loser": "Balance",
+    "eloField": "elo5v5",
+    "eloChanges": {
+      "Balance": {
+        "before": 20,
+        "after": -1,
+        "change": -21
+      },
+      "Verse": {
+        "before": 0,
+        "after": 22,
+        "change": 22
+      }
+    },
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "winner": "Verse",
+        "playerId": "1025844116669595779",
+        "playerName": "aaronewld"
+      },
+      {
+        "round": 2,
+        "winner": "Verse",
+        "playerId": "1025844116669595779",
+        "playerName": "aaronewld"
+      },
+      {
+        "round": 3,
+        "winner": "Verse",
+        "playerId": "1025844116669595779",
+        "playerName": "aaronewld"
+      }
+    ],
+    "notes": "no more games",
+    "appliedBy": "1025844116669595779",
+    "appliedByName": "aaronewld"
   }
 ]
