@@ -18560,17 +18560,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781314794980": {
-      "team1Id": "1076521298823495802",
-      "team2Id": "749678245863227462",
-      "team1Name": "Monarchs Recrowned FC",
-      "team2Name": "Ascella",
-      "team1Vote": false,
-      "team2Vote": null,
-      "timestamp": 1781314794980
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
