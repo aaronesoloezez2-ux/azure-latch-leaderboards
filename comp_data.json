@@ -18566,15 +18566,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781314609956": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "1076521298823495802",
-      "team1Name": "Amaryllis",
-      "team2Name": "Monarchs Recrowned FC",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781314609956
-    },
     "1781314794980": {
       "team1Id": "1076521298823495802",
       "team2Id": "749678245863227462",
