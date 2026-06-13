@@ -22158,7 +22158,8 @@
     "team": "Team Spirit NA",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isReferee": true
   },
   "1182669327602831431": {
     "team": "Team Spirit NA",
