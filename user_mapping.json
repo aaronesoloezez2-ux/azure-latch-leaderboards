@@ -3237,7 +3237,8 @@
     "team": "Ubers",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1242682273606930503": {
     "team": "Ash FC",
