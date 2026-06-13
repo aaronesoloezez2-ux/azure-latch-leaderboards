@@ -51,33 +51,33 @@
   },
   {
     "rank": 11,
+    "teamName": "Moon Noobs",
+    "elo5v5": 45
+  },
+  {
+    "rank": 12,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Israel FC",
     "elo5v5": 43
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Honorary Knights",
     "elo5v5": 42
   },
   {
-    "rank": 14,
+    "rank": 15,
     "teamName": "Interval",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 16,
     "teamName": "Solaris",
     "elo5v5": 41
-  },
-  {
-    "rank": 16,
-    "teamName": "Moon Noobs",
-    "elo5v5": 26
   },
   {
     "rank": 17,
