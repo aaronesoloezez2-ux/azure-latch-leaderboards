@@ -18548,7 +18548,7 @@
       "team2Id": "731225486818279457",
       "team1Name": "Imperātōres",
       "team2Name": "Dreamers (NA)",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1781309784127
     }
