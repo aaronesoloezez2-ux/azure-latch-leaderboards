@@ -10520,14 +10520,6 @@
   },
   "refereeQueue": [],
   "awaitingReferee": {
-    "1781313366374": {
-      "team1Id": "952432261372973087",
-      "team2Id": "412399874877816842",
-      "team1Name": "Son 2",
-      "team2Name": "Retribution",
-      "vcLink": null,
-      "timestamp": 1781313366374
-    },
     "1781314986409": {
       "team1Id": "518580553449078784",
       "team2Id": "952432261372973087",
