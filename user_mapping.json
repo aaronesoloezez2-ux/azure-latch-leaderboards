@@ -16123,7 +16123,8 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 44,
-    "isModerator": true
+    "isModerator": false,
+    "isReferee": true
   },
   "1079017104398880888": {
     "team": "Chapter",
