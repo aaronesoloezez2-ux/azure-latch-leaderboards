@@ -18562,7 +18562,7 @@
       "team2Id": "521276425999745034",
       "team1Name": "Ubers+",
       "team2Name": "Interval",
-      "team1Vote": null,
+      "team1Vote": true,
       "team2Vote": null,
       "timestamp": 1781320750891
     }
