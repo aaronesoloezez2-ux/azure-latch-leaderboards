@@ -10518,15 +10518,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "749678245863227462": {
-      "teamName": "Ascella",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781327996891,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18556,7 +18548,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781334493692": {
+      "team1Id": "749678245863227462",
+      "team2Id": "952432261372973087",
+      "team1Name": "Ascella",
+      "team2Name": "Son 2",
+      "team1Vote": null,
+      "team2Vote": null,
+      "timestamp": 1781334493692
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
