@@ -16191,6 +16191,8 @@
     "elo5v5": 44
   },
   "598471758693269505": {
+    "team": "Chapter",
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 44,
     "isModerator": true
