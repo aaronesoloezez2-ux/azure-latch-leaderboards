@@ -5998,7 +5998,8 @@
     "team": "Overseers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isReferee": true
   },
   "1248228231543521381": {
     "team": "Overseers",
@@ -22821,5 +22822,8 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "1168868176189198418": {
+    "isReferee": true
   }
 }
