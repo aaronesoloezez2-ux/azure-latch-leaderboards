@@ -848,5 +848,53 @@
       }
     ],
     "loggedBy": "883949215036870698"
+  },
+  {
+    "id": "match_1781313616123",
+    "source": "apply_match",
+    "createdAt": 1781313616123,
+    "expiresAt": 1783905616123,
+    "type": "5v5",
+    "team1": "G50",
+    "team2": "Abibas NA",
+    "score": "3-1",
+    "winner": "G50",
+    "loser": "Abibas NA",
+    "eloChanges": {
+      "G50": {
+        "before": 88,
+        "after": 109,
+        "delta": 21
+      },
+      "Abibas NA": {
+        "before": 149,
+        "after": 133,
+        "delta": -16
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "G50",
+        "mvpId": null
+      },
+      {
+        "round": 2,
+        "roundWinner": "Abibas NA",
+        "mvpId": null
+      },
+      {
+        "round": 3,
+        "roundWinner": "G50",
+        "mvpId": null
+      },
+      {
+        "round": 4,
+        "roundWinner": "G50",
+        "mvpId": null
+      }
+    ],
+    "mvpPerRound": [],
+    "loggedBy": "747948371301499041"
   }
 ]
