@@ -18556,17 +18556,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781324471586": {
-      "team1Id": "518580553449078784",
-      "team2Id": "749678245863227462",
-      "team1Name": "Blue Rose Fc",
-      "team2Name": "Ascella",
-      "team1Vote": false,
-      "team2Vote": null,
-      "timestamp": 1781324471586
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
