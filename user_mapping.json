@@ -16116,13 +16116,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "875112502327926796": {
-    "team": "Chapter",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 44,
-    "isModerator": true
-  },
   "1079017104398880888": {
     "team": "Chapter",
     "isLeader": true,
@@ -16310,74 +16303,74 @@
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1073556738609008692": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1394112905473032326": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "529652043602984970": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0,
+    "elo5v5": 103,
     "isModerator": true
   },
   "1497666605071728742": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "548086400063635476": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1236627933972402189": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "935195304892989491": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1103805159638839346": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1304821238472118385": {
     "team": "Balance",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "990095740195987477": {
     "team": "Balance",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1252207651761164340": {
     "team": "Balance",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 103
   },
   "1402459742172872765": {
     "team": "as lendas 2.0",
@@ -18322,12 +18315,6 @@
     "region": "Europe",
     "elo5v5": 2
   },
-  "1296927816096550975": {
-    "team": "Heavens Society",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 2
-  },
   "1373376391218728981": {
     "team": "Heavens Society",
     "isLeader": false,
@@ -19629,37 +19616,37 @@
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 61
+    "elo5v5": 0
   },
   "1211699112911568988": {
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 61
+    "elo5v5": 0
   },
   "835904211484016693": {
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 61
+    "elo5v5": 0
   },
   "1025844116669595779": {
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 61
+    "elo5v5": 0
   },
   "693157905939169372": {
     "team": "Verse",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 61
+    "elo5v5": 0
   },
   "1144455673686536314": {
     "team": "Verse",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 61
+    "elo5v5": 0
   },
   "1504285397725876244": {
     "team": "Ascendant FC",
@@ -21132,12 +21119,6 @@
     "elo5v5": 0
   },
   "1011443909546737745": {
-    "team": "Skyline FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1401707804548661348": {
     "team": "Skyline FC",
     "isLeader": false,
     "region": "Europe",
@@ -22966,6 +22947,13 @@
     "elo5v5": 0,
     "isModerator": true
   },
+  "875112502327926796": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isModerator": true
+  },
   "566360748888948766": {
     "team": null,
     "isLeader": false,
@@ -22992,8 +22980,7 @@
     "isLeader": false,
     "region": null,
     "elo5v5": 0,
-    "isModerator": false,
-    "isReferee": true
+    "isModerator": true
   },
   "950108450216607784": {
     "team": null,
