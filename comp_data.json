@@ -15556,6 +15556,15 @@
     },
     "invite_1076521298823495802": {
       "cooldownUntil": 1781312099740
+    },
+    "1781312055950": {
+      "teamName": "Ascella",
+      "playerId": "813865404761374795",
+      "inviterId": "749678245863227462",
+      "timestamp": 1781312055950
+    },
+    "invite_749678245863227462": {
+      "cooldownUntil": 1781312355950
     }
   },
   "userNicknames": {
