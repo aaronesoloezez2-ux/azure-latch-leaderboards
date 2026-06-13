@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "Re Al",
-    "elo5v5": 103
+    "elo5v5": 119
   },
   {
     "rank": 5,
@@ -36,33 +36,33 @@
   },
   {
     "rank": 8,
-    "teamName": "Amaryllis",
-    "elo5v5": 48
-  },
-  {
-    "rank": 9,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 44
   },
   {
-    "rank": 10,
+    "rank": 9,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Honorary Knights",
     "elo5v5": 42
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Solaris",
     "elo5v5": 41
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Ascella",
     "elo5v5": 41
+  },
+  {
+    "rank": 13,
+    "teamName": "Amaryllis",
+    "elo5v5": 30
   },
   {
     "rank": 14,
