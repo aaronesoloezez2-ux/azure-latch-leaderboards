@@ -5186,12 +5186,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1440648503364681728": {
-    "team": "P.X.G",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "588270918686474251": {
     "team": "umumu",
     "isLeader": false,
@@ -16481,12 +16475,6 @@
     "region": "Europe",
     "elo5v5": 20
   },
-  "1304821238472118385": {
-    "team": "Balance",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 20
-  },
   "1103805159638839346": {
     "team": "Balance",
     "isLeader": false,
@@ -22949,6 +22937,37 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1304821238472118385": {
+    "team": "Folk FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "834473464512380929": {
+    "team": "Folk FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isModerator": true
+  },
+  "960499267997429780": {
+    "team": "Folk FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1350811324757573632": {
+    "team": "Folk FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1440648503364681728": {
+    "team": "Folk FC",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "991630235021881354": {
     "team": null,
     "isLeader": false,
@@ -22971,13 +22990,6 @@
     "isModerator": true
   },
   "759536058567360522": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isModerator": true
-  },
-  "834473464512380929": {
     "team": null,
     "isLeader": false,
     "region": null,
