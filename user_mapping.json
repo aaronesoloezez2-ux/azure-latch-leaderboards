@@ -16341,7 +16341,8 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 20,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "1497666605071728742": {
     "team": "Balance",
