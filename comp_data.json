@@ -10509,15 +10509,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1458274913004556442": {
-      "teamName": "Imperātōres",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781309337881,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
