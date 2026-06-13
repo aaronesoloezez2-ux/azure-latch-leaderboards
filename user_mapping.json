@@ -10406,7 +10406,8 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 119,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "1306082210528624654": {
     "team": "Re Al",
