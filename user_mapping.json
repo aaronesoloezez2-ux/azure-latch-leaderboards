@@ -13462,7 +13462,8 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 41,
-    "isReferee": true
+    "isReferee": true,
+    "isModerator": true
   },
   "1387117723569356810": {
     "team": "SUFC",
@@ -22492,7 +22493,8 @@
     "team": "Folk FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "960499267997429780": {
     "team": "Folk FC",
