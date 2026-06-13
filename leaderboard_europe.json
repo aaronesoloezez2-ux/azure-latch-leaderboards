@@ -41,33 +41,33 @@
   },
   {
     "rank": 9,
+    "teamName": "Verse",
+    "elo5v5": 22
+  },
+  {
+    "rank": 10,
     "teamName": "Abibas FC",
     "elo5v5": 21
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Shalom FC",
     "elo5v5": 21
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Iced",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Counter FC",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 14,
     "teamName": "Dark",
     "elo5v5": 21
-  },
-  {
-    "rank": 14,
-    "teamName": "Balance",
-    "elo5v5": 20
   },
   {
     "rank": 15,
@@ -1246,117 +1246,117 @@
   },
   {
     "rank": 250,
-    "teamName": "Verse",
-    "elo5v5": 0
-  },
-  {
-    "rank": 251,
     "teamName": "Creation",
     "elo5v5": 0
   },
   {
-    "rank": 252,
+    "rank": 251,
     "teamName": "Citizens - U3",
     "elo5v5": 0
   },
   {
-    "rank": 253,
+    "rank": 252,
     "teamName": "gypsy squad",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "New Gen 11",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "Bastard MÃ¼nchen",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Theory",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Zenin FC",
     "elo5v5": 0
   },
   {
-    "rank": 258,
+    "rank": 257,
     "teamName": "Rival Requiem",
     "elo5v5": 0
   },
   {
-    "rank": 259,
+    "rank": 258,
     "teamName": "Daoâs Medical School",
     "elo5v5": 0
   },
   {
-    "rank": 260,
+    "rank": 259,
     "teamName": "Kugelstrum",
     "elo5v5": 0
   },
   {
-    "rank": 261,
+    "rank": 260,
     "teamName": "Skyline FC",
     "elo5v5": 0
   },
   {
-    "rank": 262,
+    "rank": 261,
     "teamName": "DOAB!",
     "elo5v5": 0
   },
   {
-    "rank": 263,
+    "rank": 262,
     "teamName": "Missing Pieces",
     "elo5v5": 0
   },
   {
-    "rank": 264,
+    "rank": 263,
     "teamName": "Kentucky FC",
     "elo5v5": 0
   },
   {
-    "rank": 265,
+    "rank": 264,
     "teamName": "Heritage",
     "elo5v5": 0
   },
   {
-    "rank": 266,
+    "rank": 265,
     "teamName": "RUKABLOODS TWIN",
     "elo5v5": 0
   },
   {
-    "rank": 267,
+    "rank": 266,
     "teamName": "Despicable Disciples",
     "elo5v5": 0
   },
   {
-    "rank": 268,
+    "rank": 267,
     "teamName": "Team Spirit",
     "elo5v5": 0
   },
   {
-    "rank": 269,
+    "rank": 268,
     "teamName": "Revenant",
     "elo5v5": 0
   },
   {
-    "rank": 270,
+    "rank": 269,
     "teamName": "Barcha",
     "elo5v5": 0
   },
   {
-    "rank": 271,
+    "rank": 270,
     "teamName": "Folk FC",
     "elo5v5": 0
   },
   {
-    "rank": 272,
+    "rank": 271,
     "teamName": "ok fc",
     "elo5v5": 0
+  },
+  {
+    "rank": 272,
+    "teamName": "Balance",
+    "elo5v5": -1
   }
 ]
