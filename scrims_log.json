@@ -1318,5 +1318,58 @@
       }
     ],
     "loggedBy": "749678245863227462"
+  },
+  {
+    "id": "match_1781327368612",
+    "source": "apply_match",
+    "createdAt": 1781327368612,
+    "expiresAt": 1783919368612,
+    "type": "5v5",
+    "team1": "Metalogic",
+    "team2": "Interval",
+    "score": "3-2",
+    "winner": "Interval",
+    "loser": "Metalogic",
+    "eloChanges": {
+      "Interval": {
+        "before": 21,
+        "after": 41,
+        "delta": 20
+      },
+      "Metalogic": {
+        "before": 3,
+        "after": 0,
+        "delta": -20
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Interval",
+        "mvpId": null
+      },
+      {
+        "round": 2,
+        "roundWinner": "Interval",
+        "mvpId": null
+      },
+      {
+        "round": 3,
+        "roundWinner": "Metalogic",
+        "mvpId": null
+      },
+      {
+        "round": 4,
+        "roundWinner": "Metalogic",
+        "mvpId": null
+      },
+      {
+        "round": 5,
+        "roundWinner": "Interval",
+        "mvpId": null
+      }
+    ],
+    "mvpPerRound": [],
+    "loggedBy": "1464125504448626956"
   }
 ]
