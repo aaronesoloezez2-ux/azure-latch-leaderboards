@@ -1371,5 +1371,64 @@
     ],
     "mvpPerRound": [],
     "loggedBy": "1464125504448626956"
+  },
+  {
+    "id": "match_1781327751528",
+    "source": "apply_match",
+    "createdAt": 1781327751528,
+    "expiresAt": 1783919751528,
+    "type": "5v5",
+    "team1": "Ascella",
+    "team2": "Yggdrasil",
+    "score": "3-0",
+    "winner": "Ascella",
+    "loser": "Yggdrasil",
+    "eloChanges": {
+      "Ascella": {
+        "before": 111,
+        "after": 130,
+        "delta": 19
+      },
+      "Yggdrasil": {
+        "before": 152,
+        "after": 137,
+        "delta": -15
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Ascella",
+        "mvpId": "749678245863227462"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Ascella",
+        "mvpId": "749678245863227462"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Ascella",
+        "mvpId": "749678245863227462"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "749678245863227462",
+        "roundWinner": "Ascella"
+      },
+      {
+        "round": 2,
+        "playerId": "749678245863227462",
+        "roundWinner": "Ascella"
+      },
+      {
+        "round": 3,
+        "playerId": "749678245863227462",
+        "roundWinner": "Ascella"
+      }
+    ],
+    "loggedBy": "749678245863227462"
   }
 ]
