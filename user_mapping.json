@@ -15844,7 +15844,7 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0,
-    "isModerator": false
+    "isModerator": true
   },
   "1110317128952844339": {
     "team": "Oshu Oshi NA",
@@ -16122,8 +16122,7 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 44,
-    "isModerator": true,
-    "isReferee": true
+    "isModerator": true
   },
   "1079017104398880888": {
     "team": "Chapter",
@@ -22917,7 +22916,7 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0,
-    "isModerator": false,
+    "isModerator": true,
     "isReferee": true
   },
   "1499893392782524487": {
@@ -23019,7 +23018,7 @@
     "isLeader": false,
     "region": null,
     "elo5v5": 0,
-    "isModerator": false,
+    "isModerator": true,
     "isReferee": true
   },
   "747948371301499041": {
