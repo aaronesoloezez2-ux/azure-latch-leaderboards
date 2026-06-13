@@ -1430,5 +1430,64 @@
       }
     ],
     "loggedBy": "749678245863227462"
+  },
+  {
+    "id": "match_1781346937303",
+    "source": "apply_match",
+    "createdAt": 1781346937303,
+    "expiresAt": 1783938937303,
+    "type": "5v5",
+    "team1": "Metavision FC",
+    "team2": "ZeniX",
+    "score": "3-0",
+    "winner": "ZeniX",
+    "loser": "Metavision FC",
+    "eloChanges": {
+      "ZeniX": {
+        "before": 61,
+        "after": 78,
+        "delta": 17
+      },
+      "Metavision FC": {
+        "before": 0,
+        "after": 0,
+        "delta": -18
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "ZeniX",
+        "mvpId": "819453497845743636"
+      },
+      {
+        "round": 2,
+        "roundWinner": "ZeniX",
+        "mvpId": "1202859415040950273"
+      },
+      {
+        "round": 3,
+        "roundWinner": "ZeniX",
+        "mvpId": "1202859415040950273"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "819453497845743636",
+        "roundWinner": "ZeniX"
+      },
+      {
+        "round": 2,
+        "playerId": "1202859415040950273",
+        "roundWinner": "ZeniX"
+      },
+      {
+        "round": 3,
+        "playerId": "1202859415040950273",
+        "roundWinner": "ZeniX"
+      }
+    ],
+    "loggedBy": "757056855175594004"
   }
 ]
