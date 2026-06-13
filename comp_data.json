@@ -18575,7 +18575,7 @@
       "team2Id": "749678245863227462",
       "team1Name": "Blue Rose Fc",
       "team2Name": "Ascella",
-      "team1Vote": null,
+      "team1Vote": false,
       "team2Vote": null,
       "timestamp": 1781324471586
     }
