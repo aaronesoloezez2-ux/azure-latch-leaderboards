@@ -18569,12 +18569,6 @@
     "region": "NA",
     "elo5v5": 120
   },
-  "409638643754336277": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
   "587301011836764181": {
     "team": "Spurs",
     "isLeader": false,
@@ -22825,6 +22819,12 @@
     "elo5v5": 0
   },
   "807663349974040626": {
+    "team": "Folk FC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "409638643754336277": {
     "team": "Folk FC",
     "isLeader": false,
     "region": "Europe",
