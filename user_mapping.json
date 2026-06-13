@@ -18613,7 +18613,8 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 133,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "868243652416254034": {
     "team": "Abibas NA",
@@ -20244,7 +20245,8 @@
     "isLeader": true,
     "region": "NA",
     "elo5v5": 46,
-    "isModerator": true
+    "isModerator": false,
+    "isReferee": true
   },
   "945380402862911568": {
     "team": "Kyoto",
@@ -22914,7 +22916,8 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "1499893392782524487": {
     "team": "ok fc",
@@ -23007,14 +23010,16 @@
     "isLeader": false,
     "region": null,
     "elo5v5": 0,
-    "isModerator": false
+    "isModerator": false,
+    "isReferee": true
   },
   "885500704020631592": {
     "team": null,
     "isLeader": false,
     "region": null,
     "elo5v5": 0,
-    "isModerator": true
+    "isModerator": false,
+    "isReferee": true
   },
   "747948371301499041": {
     "team": null,
