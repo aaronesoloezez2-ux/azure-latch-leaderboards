@@ -10514,7 +10514,15 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {},
+  "matchmaking": {
+    "518580553449078784": {
+      "teamName": "Blue Rose Fc",
+      "searchType": "unlimited",
+      "region": "NA",
+      "startTime": 1781321129787,
+      "lastOpponents": []
+    }
+  },
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
