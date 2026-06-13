@@ -16195,6 +16195,13 @@
     "region": "Europe",
     "elo5v5": 44
   },
+  "875112502327926796": {
+    "team": "Chapter",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 44,
+    "isReferee": true
+  },
   "1395209603834314856": {
     "team": "Vision FC",
     "isLeader": false,
@@ -22920,13 +22927,6 @@
     "elo5v5": 0
   },
   "1290679358528290868": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isReferee": true
-  },
-  "875112502327926796": {
     "team": null,
     "isLeader": false,
     "region": null,
