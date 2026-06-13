@@ -22786,7 +22786,8 @@
     "team": "Folk FC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "1458274913004556442": {
     "team": "Folk FC",
