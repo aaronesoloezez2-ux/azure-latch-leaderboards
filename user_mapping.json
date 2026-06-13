@@ -9489,12 +9489,6 @@
     "region": "NA",
     "elo5v5": 1
   },
-  "518828160297467934": {
-    "team": "Dreamers (NA)",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 1
-  },
   "849390299612708896": {
     "team": "Dreamers (NA)",
     "isLeader": false,
@@ -22908,6 +22902,12 @@
     "elo5v5": 0
   },
   "1497297879839281293": {
+    "team": "Imperātōres",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "792524269736951840": {
     "team": "Imperātōres",
     "isLeader": false,
     "region": "NA",
