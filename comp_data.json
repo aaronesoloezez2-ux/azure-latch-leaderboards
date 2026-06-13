@@ -18542,15 +18542,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781309784127": {
-      "team1Id": "1458274913004556442",
-      "team2Id": "731225486818279457",
-      "team1Name": "Imperātōres",
-      "team2Name": "Dreamers (NA)",
-      "team1Vote": true,
-      "team2Vote": null,
-      "timestamp": 1781309784127
-    },
     "1781309869133": {
       "team1Id": "1381851488569004103",
       "team2Id": "1458274913004556442",
