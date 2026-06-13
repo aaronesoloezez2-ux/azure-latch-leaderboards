@@ -20366,7 +20366,7 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 23,
-    "isModerator": true,
+    "isModerator": false,
     "isReferee": true
   },
   "1295907869513875456": {
