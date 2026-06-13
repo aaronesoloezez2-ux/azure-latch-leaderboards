@@ -3795,12 +3795,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1269726521761726538": {
-    "team": "Alt FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1463877479096782871": {
     "team": "Alt FC",
     "isLeader": false,
@@ -14216,12 +14210,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "717752317595746376": {
-    "team": "gamesense",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1332124003178905704": {
     "team": "Re Al - Youth",
     "isLeader": false,
@@ -21260,69 +21248,69 @@
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "611697342604902450": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73,
+    "elo5v5": 50,
     "isReferee": true
   },
   "1081319797180088422": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "965000459469348864": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "1193794594157117495": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "288683252581924864": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "1093388128527601695": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "1464125504448626956": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73,
+    "elo5v5": 50,
     "isReferee": true
   },
   "577233325018578964": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "1187524477479813211": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "1013576163488182343": {
     "team": "Amaryllis",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 73
+    "elo5v5": 50
   },
   "1507058852238200883": {
     "team": "DOAB!",
@@ -22214,12 +22202,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "962775010966114394": {
-    "team": "Team Spirit",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "701124989385965599": {
     "team": "Team Spirit",
     "isLeader": false,
@@ -22460,89 +22442,89 @@
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "1382561990110609479": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "1467619174930186332": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112,
+    "elo5v5": 130,
     "isReferee": true
   },
   "1460829570407202986": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "1210078842362920991": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "1482063866778357993": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "804070778235650149": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112,
+    "elo5v5": 130,
     "isReferee": true
   },
   "1445551978120741016": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112,
+    "elo5v5": 130,
     "isReferee": true
   },
   "1399055434538815528": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "813865404761374795": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "689672576670498883": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "950108450216607784": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112,
+    "elo5v5": 130,
     "isReferee": true
   },
   "1415382264577265715": {
     "team": "Ascella",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 112
+    "elo5v5": 130
   },
   "749678245863227462": {
     "team": "Ascella",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 112,
+    "elo5v5": 130,
     "isReferee": true
   },
   "854089044363313162": {
@@ -22908,6 +22890,36 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 6
+  },
+  "1242108967547703319": {
+    "team": "POLIKLINIKA",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1269726521761726538": {
+    "team": "POLIKLINIKA",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "962775010966114394": {
+    "team": "POLIKLINIKA",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "717752317595746376": {
+    "team": "POLIKLINIKA",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "727426281821438014": {
+    "team": "POLIKLINIKA",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0
   },
   "1290679358528290868": {
     "team": null,
