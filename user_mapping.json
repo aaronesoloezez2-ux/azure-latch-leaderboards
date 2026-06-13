@@ -17043,7 +17043,8 @@
     "team": "Re Al U-20",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 23
+    "elo5v5": 23,
+    "isModerator": true
   },
   "1026865918556508200": {
     "team": "AfterBrick",
