@@ -710,5 +710,74 @@
       }
     ],
     "loggedBy": "949878090341949522"
+  },
+  {
+    "id": "match_1781311742294",
+    "source": "apply_match",
+    "createdAt": 1781311742294,
+    "expiresAt": 1783903742294,
+    "type": "5v5",
+    "team1": "Interval",
+    "team2": "Kyoto",
+    "score": "3-1",
+    "winner": "Kyoto",
+    "loser": "Interval",
+    "eloChanges": {
+      "Kyoto": {
+        "before": 26,
+        "after": 46,
+        "delta": 20
+      },
+      "Interval": {
+        "before": 2,
+        "after": 0,
+        "delta": -20
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Kyoto",
+        "mvpId": "804116659983220746"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Kyoto",
+        "mvpId": "804116659983220746"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Interval",
+        "mvpId": "666762995258359808"
+      },
+      {
+        "round": 4,
+        "roundWinner": "Kyoto",
+        "mvpId": "804116659983220746"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "804116659983220746",
+        "roundWinner": "Kyoto"
+      },
+      {
+        "round": 2,
+        "playerId": "804116659983220746",
+        "roundWinner": "Kyoto"
+      },
+      {
+        "round": 3,
+        "playerId": "666762995258359808",
+        "roundWinner": "Interval"
+      },
+      {
+        "round": 4,
+        "playerId": "804116659983220746",
+        "roundWinner": "Kyoto"
+      }
+    ],
+    "loggedBy": "749678245863227462"
   }
 ]
