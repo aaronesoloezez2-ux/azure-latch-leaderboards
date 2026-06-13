@@ -167,6 +167,12 @@
     "region": "Europe",
     "elo5v5": 0
   },
+  "1421510830347780148": {
+    "team": "Dyslexia Untied",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
   "878283240979456032": {
     "team": "Dyslexia Untied",
     "isLeader": true,
@@ -12033,12 +12039,6 @@
     "elo5v5": 0
   },
   "1301966224804020235": {
-    "team": "Oshu Oshi",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1421510830347780148": {
     "team": "Oshu Oshi",
     "isLeader": false,
     "region": "Europe",
