@@ -14716,12 +14716,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "965008986665549924": {
-    "team": "Vanguard U20",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1243815019762946062": {
     "team": "Vanguard U20",
     "isLeader": false,
@@ -16547,49 +16541,13 @@
     "region": "NA",
     "elo5v5": 22
   },
-  "713447077832687647": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
   "9385648719915494": {
     "team": "Citizens-U3",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 22
   },
-  "1019772221301989466": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
-  "764340761079971880": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
-  "900164799005085747": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
   "933615586473300039": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
-  "785224985131614239": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
-  "589483383881465866": {
     "team": "Citizens-U3",
     "isLeader": false,
     "region": "NA",
@@ -22918,6 +22876,60 @@
     "team": "Folk FC",
     "isLeader": true,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "713447077832687647": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1019772221301989466": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "764340761079971880": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "900164799005085747": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "589483383881465866": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "965008986665549924": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1412184105604350023": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1141899154084343909": {
+    "team": "Citizens-U3 United",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "785224985131614239": {
+    "team": "Citizens-U3 United",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "991630235021881354": {
