@@ -3240,7 +3240,9 @@
     "team": "Ubers",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true,
+    "isReferee": true
   },
   "1242682273606930503": {
     "team": "Ash FC",
@@ -6032,7 +6034,8 @@
     "isLeader": false,
     "region": "Europe",
     "elo5v5": 0,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "1134796356620406926": {
     "team": "CoR3s World",
