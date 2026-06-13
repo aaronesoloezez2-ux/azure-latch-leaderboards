@@ -18561,15 +18561,6 @@
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
   "pendingRefVotes": {
-    "1781324111530": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "518580553449078784",
-      "team1Name": "Metalogic",
-      "team2Name": "Blue Rose Fc",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781324111530
-    },
     "1781324186541": {
       "team1Id": "749678245863227462",
       "team2Id": "518580553449078784",
