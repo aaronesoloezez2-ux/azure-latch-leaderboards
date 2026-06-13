@@ -31,13 +31,13 @@
   },
   {
     "rank": 7,
-    "teamName": "Vitality",
-    "elo5v5": 74
+    "teamName": "Ascella",
+    "elo5v5": 79
   },
   {
     "rank": 8,
-    "teamName": "Ascella",
-    "elo5v5": 60
+    "teamName": "Vitality",
+    "elo5v5": 74
   },
   {
     "rank": 9,
@@ -46,38 +46,38 @@
   },
   {
     "rank": 10,
-    "teamName": "Monarchs Recrowned FC",
-    "elo5v5": 44
-  },
-  {
-    "rank": 11,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Israel FC",
     "elo5v5": 43
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Honorary Knights",
     "elo5v5": 42
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Solaris",
     "elo5v5": 41
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Amaryllis",
     "elo5v5": 30
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Moon Noobs",
     "elo5v5": 26
+  },
+  {
+    "rank": 16,
+    "teamName": "Monarchs Recrowned FC",
+    "elo5v5": 24
   },
   {
     "rank": 17,
