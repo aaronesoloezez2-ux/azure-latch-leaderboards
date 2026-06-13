@@ -4466,12 +4466,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1487607458032779294": {
-    "team": "Ubers+",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1047039480844009472": {
     "team": "Ubers+",
     "isLeader": false,
@@ -22886,6 +22880,36 @@
   },
   "785224985131614239": {
     "team": "Citizens-U3 United",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1487607458032779294": {
+    "team": "Requiem XI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1154861705613017110": {
+    "team": "Requiem XI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1387092326291083364": {
+    "team": "Requiem XI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "888879851619106866": {
+    "team": "Requiem XI",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1356202863780696125": {
+    "team": "Requiem XI",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
