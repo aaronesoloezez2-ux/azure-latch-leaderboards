@@ -36,32 +36,32 @@
   },
   {
     "rank": 8,
+    "teamName": "Ascella",
+    "elo5v5": 60
+  },
+  {
+    "rank": 9,
     "teamName": "Monarchs Recrowned FC",
     "elo5v5": 44
   },
   {
-    "rank": 9,
+    "rank": 10,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Israel FC",
     "elo5v5": 43
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Honorary Knights",
     "elo5v5": 42
   },
   {
-    "rank": 12,
-    "teamName": "Solaris",
-    "elo5v5": 41
-  },
-  {
     "rank": 13,
-    "teamName": "Ascella",
+    "teamName": "Solaris",
     "elo5v5": 41
   },
   {
@@ -101,32 +101,32 @@
   },
   {
     "rank": 21,
-    "teamName": "Re Al U-20",
-    "elo5v5": 21
-  },
-  {
-    "rank": 22,
     "teamName": "Llantines fc",
     "elo5v5": 21
   },
   {
-    "rank": 23,
+    "rank": 22,
     "teamName": "Vinland",
     "elo5v5": 20
   },
   {
-    "rank": 24,
+    "rank": 23,
     "teamName": "Seirin",
     "elo5v5": 15
   },
   {
-    "rank": 25,
+    "rank": 24,
     "teamName": "Interval",
     "elo5v5": 2
   },
   {
-    "rank": 26,
+    "rank": 25,
     "teamName": "Dreamers (NA)",
+    "elo5v5": 1
+  },
+  {
+    "rank": 26,
+    "teamName": "Re Al U-20",
     "elo5v5": 1
   },
   {
