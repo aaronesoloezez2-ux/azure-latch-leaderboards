@@ -18556,7 +18556,7 @@
       "team1Name": "Metalogic",
       "team2Name": "Blue Rose Fc",
       "team1Vote": null,
-      "team2Vote": null,
+      "team2Vote": true,
       "timestamp": 1781324111530
     }
   },
