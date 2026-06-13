@@ -18541,17 +18541,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781309869133": {
-      "team1Id": "1381851488569004103",
-      "team2Id": "1458274913004556442",
-      "team1Name": "Metalogic",
-      "team2Name": "Imperātōres",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781309869133
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
