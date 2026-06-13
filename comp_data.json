@@ -18551,17 +18551,7 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {
-    "1781309054070": {
-      "team1Id": "1013576163488182343",
-      "team2Id": "1458274913004556442",
-      "team1Name": "Amaryllis",
-      "team2Name": "Imperātōres",
-      "team1Vote": null,
-      "team2Vote": true,
-      "timestamp": 1781309054070
-    }
-  },
+  "pendingRefVotes": {},
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
