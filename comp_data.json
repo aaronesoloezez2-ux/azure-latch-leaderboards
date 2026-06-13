@@ -10516,15 +10516,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1437355351958749254": {
-      "teamName": "Ubers+",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781319584448,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {},
   "logsChannel": "1442611443600982240",
@@ -18550,7 +18542,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781320410850": {
+      "team1Id": "1437355351958749254",
+      "team2Id": "521276425999745034",
+      "team1Name": "Ubers+",
+      "team2Name": "Interval",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1781320410850
+    }
+  },
   "pendingVCRequests": {},
   "currentSeason": "Winter 2025-26",
   "testCommandCounts": {
