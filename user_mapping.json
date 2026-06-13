@@ -17194,7 +17194,8 @@
     "team": "Japan 2034",
     "isLeader": false,
     "region": "Asia",
-    "elo5v5": 1
+    "elo5v5": 1,
+    "isReferee": true
   },
   "817737982060527626": {
     "team": "Japan 2034",
