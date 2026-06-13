@@ -787,17 +787,17 @@
     "expiresAt": 1783904962178,
     "type": "5v5",
     "team1": "Yggdrasil",
-    "team2": "ÃÂ¢ÃÂÃÂ©ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ",
+    "team2": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ©ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ",
     "score": "3-1",
     "winner": "Yggdrasil",
-    "loser": "ÃÂ¢ÃÂÃÂ©ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ",
+    "loser": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ©ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ",
     "eloChanges": {
       "Yggdrasil": {
         "before": 140,
         "after": 152,
         "delta": 12
       },
-      "ÃÂ¢ÃÂÃÂ©ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ": {
+      "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ©ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ": {
         "before": 22,
         "after": 6,
         "delta": -16
@@ -811,7 +811,7 @@
       },
       {
         "round": 2,
-        "roundWinner": "ÃÂ¢ÃÂÃÂ©ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ",
+        "roundWinner": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ©ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ",
         "mvpId": "1125593852129050745"
       },
       {
@@ -834,7 +834,7 @@
       {
         "round": 2,
         "playerId": "1125593852129050745",
-        "roundWinner": "ÃÂ¢ÃÂÃÂ©ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ ÃÂ¢ÃÂÃÂ "
+        "roundWinner": "ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ©ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ "
       },
       {
         "round": 3,
@@ -1496,7 +1496,7 @@
     "type": "5v5",
     "team1": "Balance",
     "team2": "Verse",
-    "score": "0Ã¢ÂÂ3",
+    "score": "0ÃÂ¢ÃÂÃÂ3",
     "winner": "Verse",
     "loser": "Balance",
     "eloField": "elo5v5",
@@ -1542,7 +1542,7 @@
     "type": "5v5",
     "team1": "Balance",
     "team2": "Verse",
-    "score": "0â3",
+    "score": "0Ã¢ÂÂ3",
     "winner": "Verse",
     "loser": "Balance",
     "eloField": "elo5v5",
@@ -1588,7 +1588,7 @@
     "type": "5v5",
     "team1": "Balance",
     "team2": "Verse",
-    "score": "0–3",
+    "score": "0â3",
     "winner": "Verse",
     "loser": "Balance",
     "eloField": "elo5v5",
@@ -1602,6 +1602,52 @@
         "before": 0,
         "after": 22,
         "change": 22
+      }
+    },
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "winner": "Verse",
+        "playerId": "1025844116669595779",
+        "playerName": "aaronewld"
+      },
+      {
+        "round": 2,
+        "winner": "Verse",
+        "playerId": "1025844116669595779",
+        "playerName": "aaronewld"
+      },
+      {
+        "round": 3,
+        "winner": "Verse",
+        "playerId": "1025844116669595779",
+        "playerName": "aaronewld"
+      }
+    ],
+    "notes": null,
+    "appliedBy": "1025844116669595779",
+    "appliedByName": "aaronewld"
+  },
+  {
+    "id": "match_1781351687082",
+    "createdAt": 1781351687082,
+    "type": "5v5",
+    "team1": "Balance",
+    "team2": "Verse",
+    "score": "0–3",
+    "winner": "Verse",
+    "loser": "Balance",
+    "eloField": "elo5v5",
+    "eloChanges": {
+      "Balance": {
+        "before": -1,
+        "after": -21,
+        "change": -20
+      },
+      "Verse": {
+        "before": 22,
+        "after": 42,
+        "change": 20
       }
     },
     "mvpPerRound": [
