@@ -15561,6 +15561,15 @@
   "pendingInvites": {
     "invite_751267453375348818": {
       "cooldownUntil": 1781329621212
+    },
+    "1781329493900": {
+      "teamName": "Reprised",
+      "playerId": "1492230361554354267",
+      "inviterId": "1153499590855753728",
+      "timestamp": 1781329493900
+    },
+    "invite_1153499590855753728": {
+      "cooldownUntil": 1781329793901
     }
   },
   "userNicknames": {
