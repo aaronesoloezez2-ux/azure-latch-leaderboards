@@ -10512,15 +10512,7 @@
       "type": "5v5"
     }
   },
-  "matchmaking": {
-    "1013576163488182343": {
-      "teamName": "Amaryllis",
-      "searchType": "unlimited",
-      "region": "NA",
-      "startTime": 1781314524787,
-      "lastOpponents": []
-    }
-  },
+  "matchmaking": {},
   "refereeQueue": [],
   "awaitingReferee": {
     "1781313366374": {
@@ -18560,7 +18552,17 @@
   },
   "queueStatusMessages": {},
   "pingedWaitingMatches": {},
-  "pendingRefVotes": {},
+  "pendingRefVotes": {
+    "1781314609956": {
+      "team1Id": "1013576163488182343",
+      "team2Id": "1076521298823495802",
+      "team1Name": "Amaryllis",
+      "team2Name": "Monarchs Recrowned FC",
+      "team1Vote": null,
+      "team2Vote": true,
+      "timestamp": 1781314609956
+    }
+  },
   "pendingVCRequests": {
     "vc_1781314354929": {
       "team1Id": "518580553449078784",
