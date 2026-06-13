@@ -20445,7 +20445,8 @@
     "team": "Theory",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isReferee": true
   },
   "718411292112584747": {
     "team": "Movement",
