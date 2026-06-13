@@ -22795,7 +22795,7 @@
   },
   "854089044363313162": {
     "team": "Imperātōres",
-    "isLeader": false,
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
@@ -22807,7 +22807,7 @@
   },
   "1458274913004556442": {
     "team": "Imperātōres",
-    "isLeader": true,
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
