@@ -17019,6 +17019,13 @@
     "region": "NA",
     "elo5v5": 1
   },
+  "949878090341949522": {
+    "team": "Re Al U-20",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 1,
+    "isReferee": true
+  },
   "739220775395000443": {
     "team": "Re Al U-20",
     "isLeader": true,
@@ -22863,13 +22870,6 @@
     "isReferee": true
   },
   "566360748888948766": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isReferee": true
-  },
-  "949878090341949522": {
     "team": null,
     "isLeader": false,
     "region": null,
