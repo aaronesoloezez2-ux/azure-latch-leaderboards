@@ -11,13 +11,13 @@
   },
   {
     "rank": 3,
-    "teamName": "ZeniX",
-    "elo5v5": 78
+    "teamName": "Balance",
+    "elo5v5": 103
   },
   {
     "rank": 4,
-    "teamName": "Verse",
-    "elo5v5": 61
+    "teamName": "ZeniX",
+    "elo5v5": 78
   },
   {
     "rank": 5,
@@ -1146,107 +1146,107 @@
   },
   {
     "rank": 230,
-    "teamName": "Balance",
-    "elo5v5": 0
-  },
-  {
-    "rank": 231,
     "teamName": "Instincts",
     "elo5v5": 0
   },
   {
-    "rank": 232,
+    "rank": 231,
     "teamName": "Project//SSC-Naples",
     "elo5v5": 0
   },
   {
-    "rank": 233,
+    "rank": 232,
     "teamName": "AfterShrine",
     "elo5v5": 0
   },
   {
-    "rank": 234,
+    "rank": 233,
     "teamName": "Velora",
     "elo5v5": 0
   },
   {
-    "rank": 235,
+    "rank": 234,
     "teamName": "Metavision FC",
     "elo5v5": 0
   },
   {
-    "rank": 236,
+    "rank": 235,
     "teamName": "Chem Brickers",
     "elo5v5": 0
   },
   {
-    "rank": 237,
+    "rank": 236,
     "teamName": "Juventus FC",
     "elo5v5": 0
   },
   {
-    "rank": 238,
+    "rank": 237,
     "teamName": "Divine: Chances",
     "elo5v5": 0
   },
   {
-    "rank": 239,
+    "rank": 238,
     "teamName": "Sovereigns",
     "elo5v5": 0
   },
   {
-    "rank": 240,
+    "rank": 239,
     "teamName": "Resurrection",
     "elo5v5": 0
   },
   {
-    "rank": 241,
+    "rank": 240,
     "teamName": "bnuuy",
     "elo5v5": 0
   },
   {
-    "rank": 242,
+    "rank": 241,
     "teamName": "Dragon headers",
     "elo5v5": 0
   },
   {
-    "rank": 243,
+    "rank": 242,
     "teamName": "Bastard Munchen",
     "elo5v5": 0
   },
   {
-    "rank": 244,
+    "rank": 243,
     "teamName": "Unity",
     "elo5v5": 0
   },
   {
-    "rank": 245,
+    "rank": 244,
     "teamName": "Avernus: Order",
     "elo5v5": 0
   },
   {
-    "rank": 246,
+    "rank": 245,
     "teamName": "French Vanguard",
     "elo5v5": 0
   },
   {
-    "rank": 247,
+    "rank": 246,
     "teamName": "Apex Latch",
     "elo5v5": 0
   },
   {
-    "rank": 248,
+    "rank": 247,
     "teamName": "Vought International",
     "elo5v5": 0
   },
   {
-    "rank": 249,
+    "rank": 248,
     "teamName": "rabbits",
     "elo5v5": 0
   },
   {
-    "rank": 250,
+    "rank": 249,
     "teamName": "DFFE",
+    "elo5v5": 0
+  },
+  {
+    "rank": 250,
+    "teamName": "Verse",
     "elo5v5": 0
   },
   {
