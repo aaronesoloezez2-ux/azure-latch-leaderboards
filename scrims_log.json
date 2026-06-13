@@ -1795,7 +1795,11 @@
     ],
     "notes": null,
     "appliedBy": "1025844116669595779",
-    "appliedByName": "aaronewld"
+    "appliedByName": "aaronewld",
+    "deleted": true,
+    "deletedBy": "1025844116669595779",
+    "deletedByName": "aaronewld",
+    "deletedAt": 1781355478345
   },
   {
     "id": "match_1781355138471",
