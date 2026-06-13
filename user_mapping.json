@@ -22816,7 +22816,8 @@
     "team": "Folk FC",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isModerator": true
   },
   "713447077832687647": {
     "team": "Citizens-U3 United",
