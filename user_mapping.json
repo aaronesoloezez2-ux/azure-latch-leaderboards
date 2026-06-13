@@ -19756,7 +19756,8 @@
     "isLeader": false,
     "region": "Asia",
     "elo5v5": 78,
-    "isModerator": true
+    "isModerator": true,
+    "isReferee": true
   },
   "546341945757401118": {
     "team": "Hopecore",
