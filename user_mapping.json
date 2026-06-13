@@ -21461,7 +21461,7 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 50,
-    "isModerator": true,
+    "isModerator": false,
     "isReferee": true
   },
   "577233325018578964": {
