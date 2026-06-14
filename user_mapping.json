@@ -18103,12 +18103,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "976149014586212392": {
-    "team": "Resurrection",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1416504934136025191": {
     "team": "Resurrection",
     "isLeader": false,
@@ -21267,12 +21261,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "540920049003921418": {
-    "team": "Missing Pieces",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1235126157318295552": {
     "team": "Missing Pieces",
     "isLeader": false,
@@ -22999,6 +22987,54 @@
     "team": "Eurasion Hyacinth",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1330702393922289699": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "323541976874090497": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "540920049003921418": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "290893314645819393": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1187369424131473478": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "976149014586212392": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "930946311061114881": {
+    "team": "Recollections",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "891929267615703040": {
+    "team": "Recollections",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
