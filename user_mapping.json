@@ -18578,91 +18578,91 @@
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1023820720326856736": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "912439333993205830": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "845402759623868466": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1421163014710628522": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1104636086145257492": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "861090825681502259": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1114604790295576597": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "805870520598921257": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "902645026574729216": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1119676033763913818": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1253506999111389219": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "763935692375851008": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "842117888839516160": {
     "team": "Llantines fc",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "690007789325647948": {
     "team": "Llantines fc",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 60
+    "elo5v5": 41
   },
   "1504834030640697416": {
     "team": "Noviluna Aeterna",
@@ -21981,37 +21981,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1133116249426100287": {
-    "team": "Team Spirit NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "970405556579876905": {
-    "team": "Team Spirit NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "723963456549683270": {
-    "team": "Team Spirit NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isReferee": true
-  },
-  "1182669327602831431": {
-    "team": "Team Spirit NA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1154151895976398889": {
-    "team": "Team Spirit NA",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "798949214704107521": {
     "team": "Barcha",
     "isLeader": true,
@@ -23099,6 +23068,13 @@
     "isReferee": true
   },
   "1111402256441548840": {
+    "team": null,
+    "isLeader": false,
+    "region": null,
+    "elo5v5": 0,
+    "isReferee": true
+  },
+  "723963456549683270": {
     "team": null,
     "isLeader": false,
     "region": null,
