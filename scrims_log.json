@@ -302,5 +302,64 @@
       }
     ],
     "loggedBy": "611697342604902450"
+  },
+  {
+    "id": "match_1781406971258",
+    "source": "apply_match",
+    "createdAt": 1781406971258,
+    "expiresAt": 1783998971258,
+    "type": "5v5",
+    "team1": "Re Al U-20",
+    "team2": "Yggdrasil",
+    "score": "3-0",
+    "winner": "Re Al U-20",
+    "loser": "Yggdrasil",
+    "eloChanges": {
+      "Re Al U-20": {
+        "before": 43,
+        "after": 67,
+        "delta": 24
+      },
+      "Yggdrasil": {
+        "before": 148,
+        "after": 131,
+        "delta": -17
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Re Al U-20",
+        "mvpId": "1065743018545660004"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Re Al U-20",
+        "mvpId": "979170983506214934"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Re Al U-20",
+        "mvpId": "979170983506214934"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "1065743018545660004",
+        "roundWinner": "Re Al U-20"
+      },
+      {
+        "round": 2,
+        "playerId": "979170983506214934",
+        "roundWinner": "Re Al U-20"
+      },
+      {
+        "round": 3,
+        "playerId": "979170983506214934",
+        "roundWinner": "Re Al U-20"
+      }
+    ],
+    "loggedBy": "949878090341949522"
   }
 ]
