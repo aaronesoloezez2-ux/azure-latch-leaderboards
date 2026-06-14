@@ -19373,19 +19373,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "988336456189747230": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1429544356452499647": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0,
-    "isReferee": true
-  },
   "1068696204092899338": {
     "team": "Humble Mangoes 2: The Sequel",
     "isLeader": false,
@@ -19399,12 +19386,6 @@
     "elo5v5": 0
   },
   "1026589851300139018": {
-    "team": "Humble Mangoes 2: The Sequel",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "925938772099620885": {
     "team": "Humble Mangoes 2: The Sequel",
     "isLeader": false,
     "region": "NA",
@@ -23047,6 +23028,43 @@
     "team": "Recollections",
     "isLeader": true,
     "region": "Europe",
+    "elo5v5": 0
+  },
+  "1429544356452499647": {
+    "team": "Chubbs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0,
+    "isReferee": true
+  },
+  "954480238987989013": {
+    "team": "Chubbs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1234305820427288578": {
+    "team": "Chubbs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "988336456189747230": {
+    "team": "Chubbs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1349079374900494397": {
+    "team": "Chubbs",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "925938772099620885": {
+    "team": "Chubbs",
+    "isLeader": true,
+    "region": "NA",
     "elo5v5": 0
   },
   "1290679358528290868": {
