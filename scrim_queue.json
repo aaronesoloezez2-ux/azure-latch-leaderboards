@@ -47,15 +47,15 @@
     "status": "matched",
     "matchId": "match_1781452350758"
   },
-  "1386454451149340763_1781452375800": {
-    "queueId": "1386454451149340763_1781452375800",
-    "guildName": "Counter FC",
-    "leaderId": "1386454451149340763",
-    "leaderName": "mrlucky0_0",
-    "elo": 21,
+  "477179878911901696_1781459033870": {
+    "queueId": "477179878911901696_1781459033870",
+    "guildName": "Real Sword",
+    "leaderId": "477179878911901696",
+    "leaderName": "smoke.zlr",
+    "elo": 0,
     "mode": "friendly",
     "region": "Europe",
-    "joinedAt": 1781452375801,
+    "joinedAt": 1781459033870,
     "status": "waiting"
   }
 }
