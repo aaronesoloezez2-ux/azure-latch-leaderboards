@@ -13340,6 +13340,12 @@
     "region": "Europe",
     "elo5v5": 41
   },
+  "511165991976304640": {
+    "team": "SUFC",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 41
+  },
   "754702431404818473": {
     "team": "Paleideus",
     "isLeader": false,
@@ -15463,43 +15469,43 @@
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "600228139884347392": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "1382377004724125786": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "795991077961465878": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "968892954775269376": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "1515651992498737273": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "1202859415040950273": {
     "team": "ZeniX",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 78
+    "elo5v5": 94
   },
   "1335645103351533646": {
     "team": "TaishÅ",
@@ -17243,120 +17249,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1188187130111996035": {
-    "team": "Metavision FC",
-    "isLeader": true,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "634435261002022932": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "777594531117793310": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "819866466941009933": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "939167481157812294": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "961172568746917908": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1088539800463736913": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1287779661316624406": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1495834184042807538": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "749589371627241582": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1479987924828426322": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1245453380390748324": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "786577694002249748": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1211089819678285835": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1495420000721305712": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "873106066097963008": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1201396634588807301": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "529356333716209686": {
-    "team": "Metavision FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
-  "1251496480318161002": {
-    "team": "Counter FC",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 21
-  },
   "1190338322824970281": {
     "team": "Juventus FC",
     "isLeader": true,
@@ -17862,6 +17754,12 @@
     "elo5v5": 0
   },
   "681071366312689702": {
+    "team": "Tracen Academy URA",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1333009373202747462": {
     "team": "Tracen Academy URA",
     "isLeader": false,
     "region": "NA",
@@ -18639,6 +18537,12 @@
     "elo5v5": 0
   },
   "1377397981367631892": {
+    "team": "Vought International",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "467624486917898240": {
     "team": "Vought International",
     "isLeader": false,
     "region": "Europe",
@@ -22890,12 +22794,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1412184105604350023": {
-    "team": "Monarchs Recrowned U-20 | FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1106380572131078174": {
     "team": "Hoshino: Oshi No Ko",
     "isLeader": false,
@@ -23100,6 +22998,60 @@
     "team": "2ndChance",
     "isLeader": false,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1479987924828426322": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1341884846858833950": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1201396634588807301": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1296927816096550975": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "529356333716209686": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1211089819678285835": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1245453380390748324": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1016313051923877909": {
+    "team": "Erisia",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "1251496480318161002": {
+    "team": "Erisia",
+    "isLeader": true,
+    "region": "Europe",
     "elo5v5": 0
   },
   "1290679358528290868": {
