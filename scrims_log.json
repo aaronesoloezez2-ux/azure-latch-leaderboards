@@ -487,17 +487,17 @@
     "expiresAt": 1784004835086,
     "type": "5v5",
     "team1": "Llantines fc",
-    "team2": "LimboÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©a",
+    "team2": "LimboÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©a",
     "score": "3-0",
     "winner": "Llantines fc",
-    "loser": "LimboÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©a",
+    "loser": "LimboÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©a",
     "eloChanges": {
       "Llantines fc": {
         "before": 41,
         "after": 60,
         "delta": 19
       },
-      "LimboÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©a": {
+      "LimboÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©a": {
         "before": 0,
         "after": 0,
         "delta": -19
@@ -844,6 +844,65 @@
         "round": 3,
         "playerId": "453138688591921154",
         "roundWinner": "Japan 2034"
+      }
+    ],
+    "loggedBy": "917801460585070702"
+  },
+  {
+    "id": "match_1781438373210",
+    "source": "apply_match",
+    "createdAt": 1781438373210,
+    "expiresAt": 1784030373210,
+    "type": "5v5",
+    "team1": "Parxousia",
+    "team2": "Japan 2034",
+    "score": "3-0",
+    "winner": "Parxousia",
+    "loser": "Japan 2034",
+    "eloChanges": {
+      "Parxousia": {
+        "before": 0,
+        "after": 22,
+        "delta": 22
+      },
+      "Japan 2034": {
+        "before": 22,
+        "after": 1,
+        "delta": -21
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Parxousia",
+        "mvpId": "880024833180729354"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Parxousia",
+        "mvpId": "1289504604681277524"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Parxousia",
+        "mvpId": "880024833180729354"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "880024833180729354",
+        "roundWinner": "Parxousia"
+      },
+      {
+        "round": 2,
+        "playerId": "1289504604681277524",
+        "roundWinner": "Parxousia"
+      },
+      {
+        "round": 3,
+        "playerId": "880024833180729354",
+        "roundWinner": "Parxousia"
       }
     ],
     "loggedBy": "917801460585070702"
