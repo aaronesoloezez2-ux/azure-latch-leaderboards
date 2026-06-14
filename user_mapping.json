@@ -8655,12 +8655,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "921051835949781014": {
-    "team": "Irithyll",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "1438135484684701729": {
     "team": "Irithyll",
     "isLeader": false,
@@ -14950,12 +14944,6 @@
     "elo5v5": 0
   },
   "566513027499950090": {
-    "team": "Crimson Clavis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "930241416775487488": {
     "team": "Crimson Clavis",
     "isLeader": false,
     "region": "NA",
@@ -22970,12 +22958,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "587301011836764181": {
-    "team": "The Wildcard Project",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "850563804974678026": {
     "team": "The Wildcard Project",
     "isLeader": false,
@@ -22994,7 +22976,31 @@
     "region": "NA",
     "elo5v5": 0
   },
+  "1440060333338398873": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "930241416775487488": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1234236669578711061": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "587301011836764181": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "921051835949781014": {
     "team": "The Wildcard Project",
     "isLeader": false,
     "region": "NA",
