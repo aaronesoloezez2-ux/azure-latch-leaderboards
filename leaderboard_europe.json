@@ -17,7 +17,7 @@
   {
     "rank": 4,
     "teamName": "AfterBrick",
-    "elo5v5": 91
+    "elo5v5": 107
   },
   {
     "rank": 5,
@@ -46,33 +46,33 @@
   },
   {
     "rank": 10,
-    "teamName": "Shalom FC",
-    "elo5v5": 21
-  },
-  {
-    "rank": 11,
     "teamName": "Iced",
     "elo5v5": 21
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Counter FC",
     "elo5v5": 21
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Dark",
     "elo5v5": 21
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Chain Breakers",
     "elo5v5": 21
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Recollections",
     "elo5v5": 4
+  },
+  {
+    "rank": 15,
+    "teamName": "Shalom FC",
+    "elo5v5": 3
   },
   {
     "rank": 16,
