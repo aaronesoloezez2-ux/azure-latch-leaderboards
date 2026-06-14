@@ -9189,12 +9189,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "1470047647573213317": {
-    "team": "Re",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "875765852752994375": {
     "team": "Uberzitos Brickudo",
     "isLeader": false,
@@ -15195,12 +15189,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "1357526705086140527": {
-    "team": "Alicization",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "939396339165458503": {
     "team": "Alicization",
     "isLeader": false,
@@ -19542,12 +19530,6 @@
     "region": "Asia",
     "elo5v5": 78
   },
-  "1326905194537029653": {
-    "team": "Hopecore",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 78
-  },
   "1010412751564320799": {
     "team": "Hopecore",
     "isLeader": false,
@@ -23017,6 +22999,48 @@
     "team": "Chubbs",
     "isLeader": true,
     "region": "NA",
+    "elo5v5": 0
+  },
+  "1431582080608768010": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "728962647009132667": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1404296634309021818": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1357526705086140527": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1470047647573213317": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "849552601111855144": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "1326905194537029653": {
+    "team": "Nameless",
+    "isLeader": true,
+    "region": "Asia",
     "elo5v5": 0
   },
   "1290679358528290868": {
