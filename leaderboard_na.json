@@ -41,43 +41,43 @@
   },
   {
     "rank": 9,
-    "teamName": "Llantines fc",
-    "elo5v5": 60
-  },
-  {
-    "rank": 10,
     "teamName": "Solaris",
     "elo5v5": 60
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Vitality",
     "elo5v5": 54
   },
   {
-    "rank": 12,
+    "rank": 11,
     "teamName": "Amaryllis",
     "elo5v5": 54
   },
   {
-    "rank": 13,
+    "rank": 12,
     "teamName": "Re Al U-20",
     "elo5v5": 51
   },
   {
-    "rank": 14,
+    "rank": 13,
     "teamName": "Kyoto",
     "elo5v5": 46
   },
   {
-    "rank": 15,
+    "rank": 14,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 16,
+    "rank": 15,
     "teamName": "Honorary Knights",
     "elo5v5": 42
+  },
+  {
+    "rank": 16,
+    "teamName": "Llantines fc",
+    "elo5v5": 41
   },
   {
     "rank": 17,
@@ -1221,66 +1221,61 @@
   },
   {
     "rank": 245,
-    "teamName": "Team Spirit NA",
-    "elo5v5": 0
-  },
-  {
-    "rank": 246,
     "teamName": "Ogurdincitos",
     "elo5v5": 0
   },
   {
-    "rank": 247,
+    "rank": 246,
     "teamName": "ImperÄtÅres",
     "elo5v5": 0
   },
   {
-    "rank": 248,
+    "rank": 247,
     "teamName": "Viper FC",
     "elo5v5": 0
   },
   {
-    "rank": 249,
+    "rank": 248,
     "teamName": "Citizens-U3 United",
     "elo5v5": 0
   },
   {
-    "rank": 250,
+    "rank": 249,
     "teamName": "Requiem XI",
     "elo5v5": 0
   },
   {
-    "rank": 251,
+    "rank": 250,
     "teamName": "XIII",
     "elo5v5": 0
   },
   {
-    "rank": 252,
+    "rank": 251,
     "teamName": "Star Stream",
     "elo5v5": 0
   },
   {
-    "rank": 253,
+    "rank": 252,
     "teamName": "Disbanding FC",
     "elo5v5": 0
   },
   {
-    "rank": 254,
+    "rank": 253,
     "teamName": "E.O.A",
     "elo5v5": 0
   },
   {
-    "rank": 255,
+    "rank": 254,
     "teamName": "Eurasion Hyacinth",
     "elo5v5": 0
   },
   {
-    "rank": 256,
+    "rank": 255,
     "teamName": "Chubbs",
     "elo5v5": 0
   },
   {
-    "rank": 257,
+    "rank": 256,
     "teamName": "Limboéa",
     "elo5v5": 0
   }
