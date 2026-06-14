@@ -32,7 +32,7 @@
   {
     "rank": 7,
     "teamName": "Retribution",
-    "elo5v5": 95
+    "elo5v5": 75
   },
   {
     "rank": 8,
@@ -41,32 +41,32 @@
   },
   {
     "rank": 9,
+    "teamName": "Interval",
+    "elo5v5": 63
+  },
+  {
+    "rank": 10,
     "teamName": "Amaryllis",
     "elo5v5": 50
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Kyoto",
     "elo5v5": 46
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Bear United",
     "elo5v5": 43
   },
   {
-    "rank": 12,
+    "rank": 13,
     "teamName": "Honorary Knights",
     "elo5v5": 42
   },
   {
-    "rank": 13,
-    "teamName": "Llantines fc",
-    "elo5v5": 41
-  },
-  {
     "rank": 14,
-    "teamName": "Interval",
+    "teamName": "Llantines fc",
     "elo5v5": 41
   },
   {
