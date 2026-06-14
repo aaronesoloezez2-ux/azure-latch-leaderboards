@@ -46,5 +46,16 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
+  },
+  "902272222964625428_1781466282396": {
+    "queueId": "902272222964625428_1781466282396",
+    "guildName": "Chain Breakers",
+    "leaderId": "902272222964625428",
+    "leaderName": "capybread",
+    "elo": 21,
+    "mode": "elo",
+    "region": "Europe",
+    "joinedAt": 1781466282396,
+    "status": "waiting"
   }
 }
