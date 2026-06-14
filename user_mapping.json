@@ -15183,12 +15183,6 @@
     "region": "Asia",
     "elo5v5": 0
   },
-  "942299791919022140": {
-    "team": "Alicization",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 0
-  },
   "939396339165458503": {
     "team": "Alicization",
     "isLeader": false,
@@ -23032,6 +23026,12 @@
     "elo5v5": 0
   },
   "849552601111855144": {
+    "team": "Nameless",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 0
+  },
+  "942299791919022140": {
     "team": "Nameless",
     "isLeader": false,
     "region": "Asia",
