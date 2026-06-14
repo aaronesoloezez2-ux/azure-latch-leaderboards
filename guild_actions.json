@@ -19,5 +19,15 @@
     "status": "done",
     "source": "self_leave",
     "createdAt": 1781458890380
+  },
+  {
+    "id": "leave_1065743018545660004_1781466076935",
+    "type": "kick",
+    "guildName": "Re Al U-20",
+    "targetId": "1065743018545660004",
+    "targetName": "eggmonster",
+    "status": "pending",
+    "source": "self_leave",
+    "createdAt": 1781466076935
   }
 ]
