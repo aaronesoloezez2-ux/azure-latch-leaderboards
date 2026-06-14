@@ -10,5 +10,16 @@
     "joinedAt": 1781451961930,
     "status": "matched",
     "matchId": "match_1781452132668"
+  },
+  "1175144948887199874_1781452143145": {
+    "queueId": "1175144948887199874_1781452143145",
+    "guildName": "Missing Pieces",
+    "leaderId": "1175144948887199874",
+    "leaderName": "notsor4ndom",
+    "elo": 0,
+    "mode": "friendly",
+    "region": "Europe",
+    "joinedAt": 1781452143145,
+    "status": "waiting"
   }
 }
