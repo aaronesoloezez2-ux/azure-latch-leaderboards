@@ -22226,12 +22226,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "863133530208993300": {
-    "team": "ImperÄtÅres",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1497297879839281293": {
     "team": "ImperÄtÅres",
     "isLeader": false,
@@ -22366,12 +22360,6 @@
     "elo5v5": 0
   },
   "965008986665549924": {
-    "team": "Citizens-U3 United",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1412184105604350023": {
     "team": "Citizens-U3 United",
     "isLeader": false,
     "region": "NA",
@@ -23086,6 +23074,36 @@
   },
   "1456916478707372156": {
     "team": "FC Mumbai",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "859615820127928342": {
+    "team": "Monarchs Recrowned U-20 | FC",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1497066851723907083": {
+    "team": "Monarchs Recrowned U-20 | FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1189635486990479390": {
+    "team": "Monarchs Recrowned U-20 | FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "863133530208993300": {
+    "team": "Monarchs Recrowned U-20 | FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1412184105604350023": {
+    "team": "Monarchs Recrowned U-20 | FC",
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
