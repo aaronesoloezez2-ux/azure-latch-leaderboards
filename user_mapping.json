@@ -10243,6 +10243,8 @@
     "elo5v5": 119
   },
   "705075370076143718": {
+    "team": "Re Al",
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 119
   },
@@ -10283,6 +10285,8 @@
     "elo5v5": 119
   },
   "1432105698174439527": {
+    "team": "Re Al",
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 119
   },
@@ -15904,7 +15908,7 @@
   },
   "798488869678743584": {
     "team": "I-Adepts",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Asia",
     "elo5v5": 0
   },
@@ -17756,12 +17760,6 @@
     "elo5v5": 0
   },
   "681071366312689702": {
-    "team": "Tracen Academy URA",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1333009373202747462": {
     "team": "Tracen Academy URA",
     "isLeader": false,
     "region": "NA",
@@ -20591,12 +20589,6 @@
     "region": "Europe",
     "elo5v5": 3
   },
-  "1383832513818001458": {
-    "team": "Paris X Gen",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 3
-  },
   "1404415641842221081": {
     "team": "Paris X Gen",
     "isLeader": false,
@@ -21574,6 +21566,12 @@
     "elo5v5": 0
   },
   "1082033621210239127": {
+    "team": "Team Spirit",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "819125452526059521": {
     "team": "Team Spirit",
     "isLeader": false,
     "region": "Europe",
