@@ -23134,5 +23134,9 @@
     "region": null,
     "elo5v5": 0,
     "isReferee": true
+  },
+  "702710123260412004": {
+    "team": "SIRUS",
+    "isLeader": false
   }
 }
