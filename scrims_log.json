@@ -487,17 +487,17 @@
     "expiresAt": 1784004835086,
     "type": "5v5",
     "team1": "Llantines fc",
-    "team2": "LimboÃ©a",
+    "team2": "LimboÃÂ©a",
     "score": "3-0",
     "winner": "Llantines fc",
-    "loser": "LimboÃ©a",
+    "loser": "LimboÃÂ©a",
     "eloChanges": {
       "Llantines fc": {
         "before": 41,
         "after": 60,
         "delta": 19
       },
-      "LimboÃ©a": {
+      "LimboÃÂ©a": {
         "before": 0,
         "after": 0,
         "delta": -19
@@ -597,5 +597,84 @@
       }
     ],
     "loggedBy": "917801460585070702"
+  },
+  {
+    "id": "match_1781417337335",
+    "source": "apply_match",
+    "createdAt": 1781417337335,
+    "expiresAt": 1784009337335,
+    "type": "5v5",
+    "team1": "Yggdrasil",
+    "team2": "Solaris",
+    "score": "3-2",
+    "winner": "Yggdrasil",
+    "loser": "Solaris",
+    "eloChanges": {
+      "Yggdrasil": {
+        "before": 112,
+        "after": 112,
+        "delta": 16
+      },
+      "Solaris": {
+        "before": 60,
+        "after": 60,
+        "delta": -18
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Yggdrasil",
+        "mvpId": "883782190348001351"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Yggdrasil",
+        "mvpId": "767181637040734218"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Solaris",
+        "mvpId": "813514867138887697"
+      },
+      {
+        "round": 4,
+        "roundWinner": "Solaris",
+        "mvpId": "924360558596206662"
+      },
+      {
+        "round": 5,
+        "roundWinner": "Yggdrasil",
+        "mvpId": "767181637040734218"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "883782190348001351",
+        "roundWinner": "Yggdrasil"
+      },
+      {
+        "round": 2,
+        "playerId": "767181637040734218",
+        "roundWinner": "Yggdrasil"
+      },
+      {
+        "round": 3,
+        "playerId": "813514867138887697",
+        "roundWinner": "Solaris"
+      },
+      {
+        "round": 4,
+        "playerId": "924360558596206662",
+        "roundWinner": "Solaris"
+      },
+      {
+        "round": 5,
+        "playerId": "767181637040734218",
+        "roundWinner": "Yggdrasil"
+      }
+    ],
+    "loggedBy": "589932939391926467"
   }
 ]
