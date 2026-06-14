@@ -9,5 +9,15 @@
     "timestamp": 1780868885956,
     "id": "invite_sent_1473025200814555226_1780868886137",
     "status": "done"
+  },
+  {
+    "id": "leave_787697038426243182_1781458890380",
+    "type": "kick",
+    "guildName": "Velora",
+    "targetId": "787697038426243182",
+    "targetName": "mizbluh",
+    "status": "pending",
+    "source": "self_leave",
+    "createdAt": 1781458890380
   }
 ]
