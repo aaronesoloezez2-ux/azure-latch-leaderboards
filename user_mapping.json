@@ -14992,7 +14992,7 @@
   },
   "1445580279434448988": {
     "team": "Wild Comets",
-    "isLeader": true,
+    "isLeader": false,
     "region": "Europe",
     "elo5v5": 0
   },
@@ -15037,6 +15037,13 @@
     "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
+  },
+  "1168868176189198418": {
+    "team": "Wild Comets",
+    "isLeader": true,
+    "region": "Europe",
+    "elo5v5": 0,
+    "isReferee": true
   },
   "1406337901360447568": {
     "team": "Crimson Clavis",
@@ -16781,73 +16788,73 @@
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "977972232452186223": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "959304778989584447": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "881451813470089266": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "530252705793310721": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "931750651334119474": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "1123099862439821413": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "740817093490114580": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "1237287086801817671": {
     "team": "Seirin",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "1131031661694423120": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "1021931644116021289": {
     "team": "Seirin",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "1456515493656789034": {
     "team": "Seirin",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 15
+    "elo5v5": 0
   },
   "1106380572131078174": {
     "team": "Hoshino (æé)",
@@ -20364,44 +20371,44 @@
     "team": "G50",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 109
+    "elo5v5": 123
   },
   "396111393058979840": {
     "team": "G50",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 109
+    "elo5v5": 123
   },
   "460090789272354817": {
     "team": "G50",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 109,
+    "elo5v5": 123,
     "isReferee": true
   },
   "1353220534367682582": {
     "team": "G50",
     "isLeader": true,
     "region": "NA",
-    "elo5v5": 109
+    "elo5v5": 123
   },
   "779547098000916480": {
     "team": "G50",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 109
+    "elo5v5": 123
   },
   "1422674515783061597": {
     "team": "G50",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 109
+    "elo5v5": 123
   },
   "442428679209877504": {
     "team": "G50",
     "isLeader": false,
     "region": "NA",
-    "elo5v5": 109
+    "elo5v5": 123
   },
   "381953108760068106": {
     "team": "Kurain",
@@ -22932,13 +22939,6 @@
     "isReferee": true
   },
   "959895242428002334": {
-    "team": null,
-    "isLeader": false,
-    "region": null,
-    "elo5v5": 0,
-    "isReferee": true
-  },
-  "1168868176189198418": {
     "team": null,
     "isLeader": false,
     "region": null,
