@@ -13277,80 +13277,80 @@
     "team": "SUFC",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "1404886837213921300": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "1480875108435361815": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "821726593084686366": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "1049693399118249994": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "691640811091394573": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "385462387521749002": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "1030845094007423138": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "668371931334180865": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41,
+    "elo5v5": 61,
     "isReferee": true
   },
   "1387117723569356810": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "974974696921649172": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "511165991976304640": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "963120503252451349": {
     "team": "SUFC",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 41
+    "elo5v5": 61
   },
   "754702431404818473": {
     "team": "Paleideus",
@@ -15475,43 +15475,43 @@
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "600228139884347392": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "1382377004724125786": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "795991077961465878": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "968892954775269376": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "1515651992498737273": {
     "team": "ZeniX",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "1202859415040950273": {
     "team": "ZeniX",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 94
+    "elo5v5": 109
   },
   "1335645103351533646": {
     "team": "TaishÅ",
@@ -20545,67 +20545,73 @@
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1279169251793567896": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "866649984832897044": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1203347643359821835": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1381670710027620458": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1426287190316683314": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1028752442000674886": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "683404551008682005": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1061818861348978699": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1383832513818001458": {
     "team": "Paris X Gen",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
+  },
+  "1404415641842221081": {
+    "team": "Paris X Gen",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 3
   },
   "1418545642598432781": {
     "team": "Paris X Gen",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 23
+    "elo5v5": 3
   },
   "1507545013096153099": {
     "team": "Amaryllis",
@@ -20694,6 +20700,12 @@
     "elo5v5": 0
   },
   "1439153998362968186": {
+    "team": "DOAB!",
+    "isLeader": false,
+    "region": "Europe",
+    "elo5v5": 0
+  },
+  "570249150038278146": {
     "team": "DOAB!",
     "isLeader": false,
     "region": "Europe",
@@ -22250,38 +22262,38 @@
     "team": "Chain Breakers",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0,
+    "elo5v5": 21,
     "isReferee": true
   },
   "1223918075439480876": {
     "team": "Chain Breakers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "995994659312640091": {
     "team": "Chain Breakers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "1047795693743509534": {
     "team": "Chain Breakers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "907319327571726346": {
     "team": "Chain Breakers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "1149688265331458209": {
     "team": "Chain Breakers",
     "isLeader": false,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 21
   },
   "728450543768305724": {
     "team": "Star Stream",
