@@ -487,17 +487,17 @@
     "expiresAt": 1784004835086,
     "type": "5v5",
     "team1": "Llantines fc",
-    "team2": "LimboÃÂ©a",
+    "team2": "LimboÃÂÃÂ©a",
     "score": "3-0",
     "winner": "Llantines fc",
-    "loser": "LimboÃÂ©a",
+    "loser": "LimboÃÂÃÂ©a",
     "eloChanges": {
       "Llantines fc": {
         "before": 41,
         "after": 60,
         "delta": 19
       },
-      "LimboÃÂ©a": {
+      "LimboÃÂÃÂ©a": {
         "before": 0,
         "after": 0,
         "delta": -19
@@ -675,6 +675,59 @@
         "roundWinner": "Yggdrasil"
       }
     ],
+    "loggedBy": "589932939391926467"
+  },
+  {
+    "id": "match_1781417703878",
+    "source": "apply_match",
+    "createdAt": 1781417703878,
+    "expiresAt": 1784009703878,
+    "type": "5v5",
+    "team1": "Yggdrasil",
+    "team2": "Solaris",
+    "score": "3-2",
+    "winner": "Yggdrasil",
+    "loser": "Solaris",
+    "eloChanges": {
+      "Yggdrasil": {
+        "before": 112,
+        "after": 128,
+        "delta": 16
+      },
+      "Solaris": {
+        "before": 60,
+        "after": 42,
+        "delta": -18
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Yggdrasil",
+        "mvpId": null
+      },
+      {
+        "round": 2,
+        "roundWinner": "Yggdrasil",
+        "mvpId": null
+      },
+      {
+        "round": 3,
+        "roundWinner": "Solaris",
+        "mvpId": null
+      },
+      {
+        "round": 4,
+        "roundWinner": "Solaris",
+        "mvpId": null
+      },
+      {
+        "round": 5,
+        "roundWinner": "Yggdrasil",
+        "mvpId": null
+      }
+    ],
+    "mvpPerRound": [],
     "loggedBy": "589932939391926467"
   }
 ]
