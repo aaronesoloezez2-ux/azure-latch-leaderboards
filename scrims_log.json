@@ -243,5 +243,64 @@
       }
     ],
     "loggedBy": "757056855175594004"
+  },
+  {
+    "id": "match_1781406741930",
+    "source": "apply_match",
+    "createdAt": 1781406741930,
+    "expiresAt": 1783998741930,
+    "type": "5v5",
+    "team1": "Amaryllis",
+    "team2": "Abibas NA",
+    "score": "3-0",
+    "winner": "Abibas NA",
+    "loser": "Amaryllis",
+    "eloChanges": {
+      "Abibas NA": {
+        "before": 133,
+        "after": 147,
+        "delta": 14
+      },
+      "Amaryllis": {
+        "before": 71,
+        "after": 54,
+        "delta": -17
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Abibas NA",
+        "mvpId": "967575388547055686"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Abibas NA",
+        "mvpId": "868243652416254034"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Abibas NA",
+        "mvpId": "868243652416254034"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "967575388547055686",
+        "roundWinner": "Abibas NA"
+      },
+      {
+        "round": 2,
+        "playerId": "868243652416254034",
+        "roundWinner": "Abibas NA"
+      },
+      {
+        "round": 3,
+        "playerId": "868243652416254034",
+        "roundWinner": "Abibas NA"
+      }
+    ],
+    "loggedBy": "611697342604902450"
   }
 ]
