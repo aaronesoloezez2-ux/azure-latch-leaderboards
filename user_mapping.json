@@ -11298,12 +11298,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1378519545530024048": {
-    "team": "Floral FC",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1397022373366206618": {
     "team": "Floral FC",
     "isLeader": false,
@@ -22967,6 +22961,42 @@
   },
   "720999716007182340": {
     "team": "E.O.A",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "665983679100747828": {
+    "team": "Eurasion Hyacinth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1378519545530024048": {
+    "team": "Eurasion Hyacinth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "751582855456358450": {
+    "team": "Eurasion Hyacinth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "958120463995920424": {
+    "team": "Eurasion Hyacinth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "527361084080783367": {
+    "team": "Eurasion Hyacinth",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "940709232091725946": {
+    "team": "Eurasion Hyacinth",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
