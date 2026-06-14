@@ -20465,6 +20465,60 @@
     "elo5v5": 0,
     "isReferee": true
   },
+  "718411292112584747": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "823168893359095809": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "760652234513055745": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "747852467550552116": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "969685436740026458": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1023670367442702429": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "871112971244421120": {
+    "team": "Movement",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1426419421026455565": {
+    "team": "Movement",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "850869448356528148": {
+    "team": "Movement",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
   "1212211508545593384": {
     "team": "Fc White Rose",
     "isLeader": false,
@@ -22859,6 +22913,36 @@
   },
   "1133222116955795506": {
     "team": "Star Stream",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1244372461839974461": {
+    "team": "Disbanding FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1515462430585520128": {
+    "team": "Disbanding FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1318357405225979977": {
+    "team": "Disbanding FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "937099954843967499": {
+    "team": "Disbanding FC",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1301167012722118679": {
+    "team": "Disbanding FC",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
