@@ -34,5 +34,16 @@
     "joinedAt": 1781452306600,
     "status": "matched",
     "matchId": "match_1781452307371"
+  },
+  "1504912651036262423_1781452327007": {
+    "queueId": "1504912651036262423_1781452327007",
+    "guildName": "AfterBrick",
+    "leaderId": "1504912651036262423",
+    "leaderName": "realretokyo",
+    "elo": 108,
+    "mode": "friendly",
+    "region": "Europe",
+    "joinedAt": 1781452327007,
+    "status": "waiting"
   }
 }
