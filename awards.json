@@ -224,21 +224,225 @@
     "published": false,
     "awards": {
       "latch_or": {
-        "ranks": []
+        "ranks": [
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          }
+        ]
       },
       "azure_boot": {
-        "ranks": []
+        "ranks": [
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          }
+        ]
       },
       "azure_wall": {
-        "ranks": []
+        "ranks": [
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          }
+        ]
       },
       "azure_gloves": {
-        "ranks": []
+        "ranks": [
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          },
+          {
+            "name": "",
+            "team": "",
+            "img": ""
+          }
+        ]
       }
     }
   },
   "na": {
-    "season": "",
+    "season": "JUNE 2026",
     "published": false,
     "awards": {}
   }
