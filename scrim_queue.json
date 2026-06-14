@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "1128740196221976648_1781470037031": {
-    "queueId": "1128740196221976648_1781470037031",
-    "guildName": "Honorary Knights",
-    "leaderId": "1128740196221976648",
-    "leaderName": "oxeyfr",
-    "elo": 42,
-    "mode": "friendly",
-    "region": "NA",
-    "joinedAt": 1781470037031,
-    "status": "waiting"
   }
 }
