@@ -487,17 +487,17 @@
     "expiresAt": 1784004835086,
     "type": "5v5",
     "team1": "Llantines fc",
-    "team2": "Limboéa",
+    "team2": "LimboÃ©a",
     "score": "3-0",
     "winner": "Llantines fc",
-    "loser": "Limboéa",
+    "loser": "LimboÃ©a",
     "eloChanges": {
       "Llantines fc": {
         "before": 41,
         "after": 60,
         "delta": 19
       },
-      "Limboéa": {
+      "LimboÃ©a": {
         "before": 0,
         "after": 0,
         "delta": -19
@@ -538,5 +538,64 @@
       }
     ],
     "loggedBy": "949878090341949522"
+  },
+  {
+    "id": "match_1781413504045",
+    "source": "apply_match",
+    "createdAt": 1781413504045,
+    "expiresAt": 1784005504045,
+    "type": "5v5",
+    "team1": "Yggdrasil",
+    "team2": "Son 2",
+    "score": "3-0",
+    "winner": "Son 2",
+    "loser": "Yggdrasil",
+    "eloChanges": {
+      "Son 2": {
+        "before": 21,
+        "after": 46,
+        "delta": 25
+      },
+      "Yggdrasil": {
+        "before": 131,
+        "after": 112,
+        "delta": -19
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Son 2",
+        "mvpId": "769981677136642069"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Son 2",
+        "mvpId": "712486124496355440"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Son 2",
+        "mvpId": "769981677136642069"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "769981677136642069",
+        "roundWinner": "Son 2"
+      },
+      {
+        "round": 2,
+        "playerId": "712486124496355440",
+        "roundWinner": "Son 2"
+      },
+      {
+        "round": 3,
+        "playerId": "769981677136642069",
+        "roundWinner": "Son 2"
+      }
+    ],
+    "loggedBy": "917801460585070702"
   }
 ]
