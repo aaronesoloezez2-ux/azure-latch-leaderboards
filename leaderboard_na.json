@@ -1273,5 +1273,10 @@
     "rank": 255,
     "teamName": "Disbanding FC",
     "elo5v5": 0
+  },
+  {
+    "rank": 256,
+    "teamName": "E.O.A",
+    "elo5v5": 0
   }
 ]
