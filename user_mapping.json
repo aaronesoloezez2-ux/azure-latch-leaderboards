@@ -14931,12 +14931,6 @@
     "elo5v5": 0,
     "isReferee": true
   },
-  "1406337901360447568": {
-    "team": "Crimson Clavis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "605165255953481768": {
     "team": "Crimson Clavis",
     "isLeader": false,
@@ -14950,12 +14944,6 @@
     "elo5v5": 0
   },
   "818702443541561365": {
-    "team": "Crimson Clavis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "944638739563548753": {
     "team": "Crimson Clavis",
     "isLeader": false,
     "region": "NA",
@@ -18260,12 +18248,6 @@
     "elo5v5": 120
   },
   "526676623827795998": {
-    "team": "Spurs",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 120
-  },
-  "587301011836764181": {
     "team": "Spurs",
     "isLeader": false,
     "region": "NA",
@@ -23015,6 +22997,36 @@
   "1452891362000109611": {
     "team": "Limboéa",
     "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "587301011836764181": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "850563804974678026": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1406337901360447568": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "944638739563548753": {
+    "team": "The Wildcard Project",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1234236669578711061": {
+    "team": "The Wildcard Project",
+    "isLeader": false,
     "region": "NA",
     "elo5v5": 0
   },
