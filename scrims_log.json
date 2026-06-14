@@ -420,5 +420,64 @@
       }
     ],
     "loggedBy": "749678245863227462"
+  },
+  {
+    "id": "match_1781411220341",
+    "source": "apply_match",
+    "createdAt": 1781411220341,
+    "expiresAt": 1784003220341,
+    "type": "5v5",
+    "team1": "Metalogic",
+    "team2": "Solaris",
+    "score": "3-0",
+    "winner": "Solaris",
+    "loser": "Metalogic",
+    "eloChanges": {
+      "Solaris": {
+        "before": 41,
+        "after": 60,
+        "delta": 19
+      },
+      "Metalogic": {
+        "before": 21,
+        "after": 1,
+        "delta": -20
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Solaris",
+        "mvpId": "1374154116351262892"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Solaris",
+        "mvpId": "1374154116351262892"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Solaris",
+        "mvpId": "1374154116351262892"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "1374154116351262892",
+        "roundWinner": "Solaris"
+      },
+      {
+        "round": 2,
+        "playerId": "1374154116351262892",
+        "roundWinner": "Solaris"
+      },
+      {
+        "round": 3,
+        "playerId": "1374154116351262892",
+        "roundWinner": "Solaris"
+      }
+    ],
+    "loggedBy": "885500704020631592"
   }
 ]
