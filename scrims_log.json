@@ -487,17 +487,17 @@
     "expiresAt": 1784004835086,
     "type": "5v5",
     "team1": "Llantines fc",
-    "team2": "LimboÃÂÃÂ©a",
+    "team2": "LimboÃÂÃÂÃÂÃÂ©a",
     "score": "3-0",
     "winner": "Llantines fc",
-    "loser": "LimboÃÂÃÂ©a",
+    "loser": "LimboÃÂÃÂÃÂÃÂ©a",
     "eloChanges": {
       "Llantines fc": {
         "before": 41,
         "after": 60,
         "delta": 19
       },
-      "LimboÃÂÃÂ©a": {
+      "LimboÃÂÃÂÃÂÃÂ©a": {
         "before": 0,
         "after": 0,
         "delta": -19
@@ -729,5 +729,64 @@
     ],
     "mvpPerRound": [],
     "loggedBy": "589932939391926467"
+  },
+  {
+    "id": "match_1781420121323",
+    "source": "apply_match",
+    "createdAt": 1781420121323,
+    "expiresAt": 1784012121323,
+    "type": "5v5",
+    "team1": "Ogurdincitos",
+    "team2": "Llantines fc",
+    "score": "3-0",
+    "winner": "Ogurdincitos",
+    "loser": "Llantines fc",
+    "eloChanges": {
+      "Ogurdincitos": {
+        "before": 0,
+        "after": 22,
+        "delta": 22
+      },
+      "Llantines fc": {
+        "before": 41,
+        "after": 19,
+        "delta": -22
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Ogurdincitos",
+        "mvpId": "475452427860967435"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Ogurdincitos",
+        "mvpId": "952667718363009074"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Ogurdincitos",
+        "mvpId": "1351332059913785485"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "475452427860967435",
+        "roundWinner": "Ogurdincitos"
+      },
+      {
+        "round": 2,
+        "playerId": "952667718363009074",
+        "roundWinner": "Ogurdincitos"
+      },
+      {
+        "round": 3,
+        "playerId": "1351332059913785485",
+        "roundWinner": "Ogurdincitos"
+      }
+    ],
+    "loggedBy": "788089537381400596"
   }
 ]
