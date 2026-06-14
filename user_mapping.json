@@ -20055,7 +20055,8 @@
     "team": "Theory",
     "isLeader": true,
     "region": "Europe",
-    "elo5v5": 0
+    "elo5v5": 0,
+    "isReferee": true
   },
   "1212211508545593384": {
     "team": "Fc White Rose",
