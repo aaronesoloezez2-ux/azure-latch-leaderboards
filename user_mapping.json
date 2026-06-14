@@ -16382,12 +16382,6 @@
     "region": "NA",
     "elo5v5": 22
   },
-  "933615586473300039": {
-    "team": "Citizens-U3",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 22
-  },
   "1103456474870599701": {
     "team": "Citizens-U3",
     "isLeader": false,
@@ -18875,12 +18869,6 @@
     "elo5v5": 0
   },
   "948757035569266738": {
-    "team": "Westbound Union",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
-  "1491325570653618198": {
     "team": "Westbound Union",
     "isLeader": false,
     "region": "NA",
@@ -22887,12 +22875,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "720999716007182340": {
-    "team": "Star Stream",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1032746410229112832": {
     "team": "Star Stream",
     "isLeader": false,
@@ -22943,6 +22925,48 @@
   },
   "1301167012722118679": {
     "team": "Disbanding FC",
+    "isLeader": true,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1452047945657614416": {
+    "team": "E.O.A",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1492230361554354267": {
+    "team": "E.O.A",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "933615586473300039": {
+    "team": "E.O.A",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1491325570653618198": {
+    "team": "E.O.A",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1176705152342823004": {
+    "team": "E.O.A",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1412536559080833045": {
+    "team": "E.O.A",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "720999716007182340": {
+    "team": "E.O.A",
     "isLeader": true,
     "region": "NA",
     "elo5v5": 0
