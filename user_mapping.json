@@ -18922,6 +18922,12 @@
     "region": "NA",
     "elo5v5": 54
   },
+  "965000459469348864": {
+    "team": "Vitality",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 54
+  },
   "1285337928989544468": {
     "team": "Vitality",
     "isLeader": true,
@@ -21049,12 +21055,6 @@
     "isReferee": true
   },
   "1081319797180088422": {
-    "team": "Amaryllis",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 54
-  },
-  "965000459469348864": {
     "team": "Amaryllis",
     "isLeader": false,
     "region": "NA",
