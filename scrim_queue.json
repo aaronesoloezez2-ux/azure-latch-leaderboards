@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "720999716007182340_1781463358891": {
-    "queueId": "720999716007182340_1781463358891",
-    "guildName": "E.O.A",
-    "leaderId": "720999716007182340",
-    "leaderName": "sharkk.y",
-    "elo": 0,
-    "mode": "friendly",
-    "region": "NA",
-    "joinedAt": 1781463358891,
-    "status": "waiting"
   }
 }
