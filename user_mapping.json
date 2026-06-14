@@ -14992,7 +14992,7 @@
   },
   "1445580279434448988": {
     "team": "Wild Comets",
-    "isLeader": false,
+    "isLeader": true,
     "region": "Europe",
     "elo5v5": 0
   },
