@@ -2,7 +2,7 @@
   {
     "rank": 1,
     "teamName": "Ascella",
-    "elo5v5": 154
+    "elo5v5": 165
   },
   {
     "rank": 2,
@@ -41,18 +41,18 @@
   },
   {
     "rank": 9,
-    "teamName": "Re Al U-20",
-    "elo5v5": 67
-  },
-  {
-    "rank": 10,
     "teamName": "Vitality",
     "elo5v5": 54
   },
   {
-    "rank": 11,
+    "rank": 10,
     "teamName": "Amaryllis",
     "elo5v5": 54
+  },
+  {
+    "rank": 11,
+    "teamName": "Re Al U-20",
+    "elo5v5": 51
   },
   {
     "rank": 12,
