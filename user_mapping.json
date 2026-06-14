@@ -20445,12 +20445,6 @@
     "region": "Europe",
     "elo5v5": 0
   },
-  "830030224368205834": {
-    "team": "Theory",
-    "isLeader": false,
-    "region": "Europe",
-    "elo5v5": 0
-  },
   "758679760754180116": {
     "team": "Theory",
     "isLeader": false,
@@ -22301,6 +22295,12 @@
     "elo5v5": 0
   },
   "475452427860967435": {
+    "team": "Ogurdincitos",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "730909407914754069": {
     "team": "Ogurdincitos",
     "isLeader": false,
     "region": "NA",
