@@ -16700,109 +16700,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1106380572131078174": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "731855473334026293": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "1107027625601413323": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "637151131595964416": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "998918291525472288": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "715889442937897003": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21,
-    "isReferee": true
-  },
-  "802646047369330688": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "599138961260019734": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "529242823753465867": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "707258239867420715": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "1356788851116609547": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "306400700097757184": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "1066604155554242561": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "879724614589222922": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "1136220892033204234": {
-    "team": "Hoshino (æé)",
-    "isLeader": false,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "1124290783235809340": {
-    "team": "Hoshino (æé)",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 21
-  },
-  "990429531166900274": {
-    "team": "Hoshino (æé)",
-    "isLeader": true,
-    "region": "Asia",
-    "elo5v5": 21
-  },
   "1335102355695468688": {
     "team": "Re Al U-20",
     "isLeader": true,
@@ -23107,6 +23004,109 @@
     "isLeader": false,
     "region": "NA",
     "elo5v5": 0
+  },
+  "1106380572131078174": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "731855473334026293": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "1107027625601413323": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "637151131595964416": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "998918291525472288": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "715889442937897003": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21,
+    "isReferee": true
+  },
+  "802646047369330688": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "599138961260019734": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "529242823753465867": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "707258239867420715": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "1356788851116609547": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "306400700097757184": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "1066604155554242561": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "879724614589222922": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "1136220892033204234": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": false,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "1124290783235809340": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 21
+  },
+  "990429531166900274": {
+    "team": "Hoshino: Oshi No Ko",
+    "isLeader": true,
+    "region": "Asia",
+    "elo5v5": 21
   },
   "1290679358528290868": {
     "team": null,
