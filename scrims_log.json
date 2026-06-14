@@ -361,5 +361,64 @@
       }
     ],
     "loggedBy": "949878090341949522"
+  },
+  {
+    "id": "match_1781410845923",
+    "source": "apply_match",
+    "createdAt": 1781410845923,
+    "expiresAt": 1784002845923,
+    "type": "5v5",
+    "team1": "Re Al U-20",
+    "team2": "Ascella",
+    "score": "3-0",
+    "winner": "Ascella",
+    "loser": "Re Al U-20",
+    "eloChanges": {
+      "Ascella": {
+        "before": 154,
+        "after": 165,
+        "delta": 11
+      },
+      "Re Al U-20": {
+        "before": 67,
+        "after": 51,
+        "delta": -16
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Ascella",
+        "mvpId": "1467619174930186332"
+      },
+      {
+        "round": 2,
+        "roundWinner": "Ascella",
+        "mvpId": "1467619174930186332"
+      },
+      {
+        "round": 3,
+        "roundWinner": "Ascella",
+        "mvpId": "749678245863227462"
+      }
+    ],
+    "mvpPerRound": [
+      {
+        "round": 1,
+        "playerId": "1467619174930186332",
+        "roundWinner": "Ascella"
+      },
+      {
+        "round": 2,
+        "playerId": "1467619174930186332",
+        "roundWinner": "Ascella"
+      },
+      {
+        "round": 3,
+        "playerId": "749678245863227462",
+        "roundWinner": "Ascella"
+      }
+    ],
+    "loggedBy": "749678245863227462"
   }
 ]
