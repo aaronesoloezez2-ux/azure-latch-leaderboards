@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "1168868176189198418_1781465988422": {
-    "queueId": "1168868176189198418_1781465988422",
-    "guildName": "Wild Comets",
-    "leaderId": "1168868176189198418",
-    "leaderName": "renz.c",
-    "elo": 0,
-    "mode": "friendly",
-    "region": "Europe",
-    "joinedAt": 1781465988422,
-    "status": "waiting"
   }
 }
