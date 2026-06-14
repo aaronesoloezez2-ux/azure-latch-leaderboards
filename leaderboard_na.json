@@ -6,13 +6,13 @@
   },
   {
     "rank": 2,
-    "teamName": "Yggdrasil",
-    "elo5v5": 148
+    "teamName": "Abibas NA",
+    "elo5v5": 147
   },
   {
     "rank": 3,
-    "teamName": "Abibas NA",
-    "elo5v5": 147
+    "teamName": "Yggdrasil",
+    "elo5v5": 131
   },
   {
     "rank": 4,
@@ -41,27 +41,27 @@
   },
   {
     "rank": 9,
+    "teamName": "Re Al U-20",
+    "elo5v5": 67
+  },
+  {
+    "rank": 10,
     "teamName": "Vitality",
     "elo5v5": 54
   },
   {
-    "rank": 10,
+    "rank": 11,
     "teamName": "Amaryllis",
     "elo5v5": 54
   },
   {
-    "rank": 11,
+    "rank": 12,
     "teamName": "Kyoto",
     "elo5v5": 46
   },
   {
-    "rank": 12,
-    "teamName": "Bear United",
-    "elo5v5": 43
-  },
-  {
     "rank": 13,
-    "teamName": "Re Al U-20",
+    "teamName": "Bear United",
     "elo5v5": 43
   },
   {
