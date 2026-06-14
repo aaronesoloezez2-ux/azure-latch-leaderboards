@@ -46,5 +46,16 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
+  },
+  "1386454451149340763_1781452375800": {
+    "queueId": "1386454451149340763_1781452375800",
+    "guildName": "Counter FC",
+    "leaderId": "1386454451149340763",
+    "leaderName": "mrlucky0_0",
+    "elo": 21,
+    "mode": "friendly",
+    "region": "Europe",
+    "joinedAt": 1781452375801,
+    "status": "waiting"
   }
 }
