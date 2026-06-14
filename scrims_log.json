@@ -141,5 +141,48 @@
       }
     ],
     "loggedBy": "949878090341949522"
+  },
+  {
+    "id": "match_1781403090905",
+    "source": "apply_match",
+    "createdAt": 1781403090905,
+    "expiresAt": 1783995090905,
+    "type": "5v5",
+    "team1": "Interval",
+    "team2": "Ubers+",
+    "score": "3-0",
+    "winner": "Interval",
+    "loser": "Ubers+",
+    "eloChanges": {
+      "Interval": {
+        "before": 63,
+        "after": 80,
+        "delta": 17
+      },
+      "Ubers+": {
+        "before": 0,
+        "after": 0,
+        "delta": -18
+      }
+    },
+    "rounds": [
+      {
+        "round": 1,
+        "roundWinner": "Interval",
+        "mvpId": null
+      },
+      {
+        "round": 2,
+        "roundWinner": "Interval",
+        "mvpId": null
+      },
+      {
+        "round": 3,
+        "roundWinner": "Interval",
+        "mvpId": null
+      }
+    ],
+    "mvpPerRound": [],
+    "loggedBy": "1437537784314331408"
   }
 ]
