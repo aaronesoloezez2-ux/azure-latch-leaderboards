@@ -237,7 +237,7 @@
       "fromName": "stellaron_342",
       "teamName": "SIRUS",
       "time": 1781463558766,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ],
