@@ -13682,12 +13682,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1177722544502095955": {
-    "team": "Euclesis",
-    "isLeader": true,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "866139602451824661": {
     "team": "Euclesis",
     "isLeader": false,
@@ -19644,12 +19638,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "1303445888009502791": {
-    "team": "swegg",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1479091115251732480": {
     "team": "Iced",
     "isLeader": true,
@@ -21621,12 +21609,6 @@
     "region": "NA",
     "elo5v5": 0
   },
-  "702710123260412004": {
-    "team": "SIRUS",
-    "isLeader": false,
-    "region": "NA",
-    "elo5v5": 0
-  },
   "1103134220102140035": {
     "team": "SIRUS",
     "isLeader": true,
@@ -23027,6 +23009,48 @@
   "1234236669578711061": {
     "team": "The Wildcard Project",
     "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "542526150279168010": {
+    "team": "Dead End",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1368308957998874745": {
+    "team": "Dead End",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "702710123260412004": {
+    "team": "Dead End",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1515128458009907258": {
+    "team": "Dead End",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1303445888009502791": {
+    "team": "Dead End",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1177722544502095955": {
+    "team": "Dead End",
+    "isLeader": false,
+    "region": "NA",
+    "elo5v5": 0
+  },
+  "1466504461504479349": {
+    "team": "Dead End",
+    "isLeader": true,
     "region": "NA",
     "elo5v5": 0
   },
