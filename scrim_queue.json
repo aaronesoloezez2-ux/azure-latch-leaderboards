@@ -47,15 +47,15 @@
     "status": "matched",
     "matchId": "match_1781452350758"
   },
-  "1275675157285044236_1781486768300": {
-    "queueId": "1275675157285044236_1781486768300",
-    "guildName": "Completeness",
-    "leaderId": "1275675157285044236",
-    "leaderName": "rwbyuri",
-    "elo": 0,
-    "mode": "friendly",
+  "880865540518862918_1781488576666": {
+    "queueId": "880865540518862918_1781488576666",
+    "guildName": "Vinland",
+    "leaderId": "880865540518862918",
+    "leaderName": "cyber_man234",
+    "elo": 20,
+    "mode": "elo",
     "region": "NA",
-    "joinedAt": 1781486768300,
+    "joinedAt": 1781488576666,
     "status": "waiting"
   }
 }
