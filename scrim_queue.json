@@ -57,16 +57,5 @@
     "region": "NA",
     "joinedAt": 1781486768300,
     "status": "waiting"
-  },
-  "880865540518862918_1781488442145": {
-    "queueId": "880865540518862918_1781488442145",
-    "guildName": "Vinland",
-    "leaderId": "880865540518862918",
-    "leaderName": "cyber_man234",
-    "elo": 20,
-    "mode": "elo",
-    "region": "NA",
-    "joinedAt": 1781488442145,
-    "status": "waiting"
   }
 }
