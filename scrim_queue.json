@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "1261330439637827635_1781515690135": {
-    "queueId": "1261330439637827635_1781515690135",
-    "guildName": "o-42",
-    "leaderId": "1261330439637827635",
-    "leaderName": "darknightmares5",
-    "elo": 22,
-    "mode": "friendly",
-    "region": "Europe",
-    "joinedAt": 1781515690136,
-    "status": "waiting"
   }
 }
