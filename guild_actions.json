@@ -39,5 +39,15 @@
     "status": "pending",
     "source": "self_leave",
     "createdAt": 1781477974473
+  },
+  {
+    "id": "leave_752005805229867008_1781488959811",
+    "type": "kick",
+    "guildName": "Haku House",
+    "targetId": "752005805229867008",
+    "targetName": "22yoshiabl",
+    "status": "pending",
+    "source": "self_leave",
+    "createdAt": 1781488959811
   }
 ]
