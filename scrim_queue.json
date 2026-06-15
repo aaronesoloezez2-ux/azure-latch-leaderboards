@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "880865540518862918_1781488576666": {
-    "queueId": "880865540518862918_1781488576666",
-    "guildName": "Vinland",
-    "leaderId": "880865540518862918",
-    "leaderName": "cyber_man234",
-    "elo": 20,
-    "mode": "elo",
-    "region": "NA",
-    "joinedAt": 1781488576666,
-    "status": "waiting"
   }
 }
