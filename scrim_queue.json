@@ -47,15 +47,15 @@
     "status": "matched",
     "matchId": "match_1781452350758"
   },
-  "899073137742848022_1781491422791": {
-    "queueId": "899073137742848022_1781491422791",
-    "guildName": "Interval",
-    "leaderId": "899073137742848022",
-    "leaderName": "wrdflizzy",
-    "elo": 80,
-    "mode": "elo",
+  "518580553449078784_1781498941496": {
+    "queueId": "518580553449078784_1781498941496",
+    "guildName": "Blue Rose Fc",
+    "leaderId": "518580553449078784",
+    "leaderName": "wiremage",
+    "elo": 0,
+    "mode": "friendly",
     "region": "NA",
-    "joinedAt": 1781491422792,
+    "joinedAt": 1781498941497,
     "status": "waiting"
   }
 }
