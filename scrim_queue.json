@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "518580553449078784_1781498941496": {
-    "queueId": "518580553449078784_1781498941496",
-    "guildName": "Blue Rose Fc",
-    "leaderId": "518580553449078784",
-    "leaderName": "wiremage",
-    "elo": 0,
-    "mode": "friendly",
-    "region": "NA",
-    "joinedAt": 1781498941497,
-    "status": "waiting"
   }
 }
