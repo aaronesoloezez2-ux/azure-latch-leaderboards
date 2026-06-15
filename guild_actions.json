@@ -49,5 +49,15 @@
     "status": "pending",
     "source": "self_leave",
     "createdAt": 1781488959811
+  },
+  {
+    "id": "leave_852719349814001674_1781498310970",
+    "type": "kick",
+    "guildName": "COMIBLES",
+    "targetId": "852719349814001674",
+    "targetName": "kozzylol",
+    "status": "pending",
+    "source": "self_leave",
+    "createdAt": 1781498310970
   }
 ]
