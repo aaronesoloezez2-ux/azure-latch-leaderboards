@@ -47,15 +47,15 @@
     "status": "matched",
     "matchId": "match_1781452350758"
   },
-  "1215190096811401299_1781482676157": {
-    "queueId": "1215190096811401299_1781482676157",
-    "guildName": "JPU20",
-    "leaderId": "1215190096811401299",
-    "leaderName": "yepimbread",
+  "1275675157285044236_1781486768300": {
+    "queueId": "1275675157285044236_1781486768300",
+    "guildName": "Completeness",
+    "leaderId": "1275675157285044236",
+    "leaderName": "rwbyuri",
     "elo": 0,
     "mode": "friendly",
-    "region": "Asia",
-    "joinedAt": 1781482676158,
+    "region": "NA",
+    "joinedAt": 1781486768300,
     "status": "waiting"
   }
 }
