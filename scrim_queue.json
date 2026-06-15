@@ -47,17 +47,6 @@
     "status": "matched",
     "matchId": "match_1781452350758"
   },
-  "521276425999745034_1781490792439": {
-    "queueId": "521276425999745034_1781490792439",
-    "guildName": "Interval",
-    "leaderId": "521276425999745034",
-    "leaderName": "veyr.",
-    "elo": 80,
-    "mode": "elo",
-    "region": "NA",
-    "joinedAt": 1781490792439,
-    "status": "waiting"
-  },
   "899073137742848022_1781491422791": {
     "queueId": "899073137742848022_1781491422791",
     "guildName": "Interval",
