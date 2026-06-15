@@ -46,5 +46,16 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
+  },
+  "1215190096811401299_1781482676157": {
+    "queueId": "1215190096811401299_1781482676157",
+    "guildName": "JPU20",
+    "leaderId": "1215190096811401299",
+    "leaderName": "yepimbread",
+    "elo": 0,
+    "mode": "friendly",
+    "region": "Asia",
+    "joinedAt": 1781482676158,
+    "status": "waiting"
   }
 }
