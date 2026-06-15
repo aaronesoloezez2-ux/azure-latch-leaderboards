@@ -57,5 +57,16 @@
     "region": "NA",
     "joinedAt": 1781490792439,
     "status": "waiting"
+  },
+  "899073137742848022_1781491422791": {
+    "queueId": "899073137742848022_1781491422791",
+    "guildName": "Interval",
+    "leaderId": "899073137742848022",
+    "leaderName": "wrdflizzy",
+    "elo": 80,
+    "mode": "elo",
+    "region": "NA",
+    "joinedAt": 1781491422792,
+    "status": "waiting"
   }
 }
