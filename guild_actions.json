@@ -59,5 +59,15 @@
     "status": "pending",
     "source": "self_leave",
     "createdAt": 1781498310970
+  },
+  {
+    "id": "leave_1464125504448626956_1781501049702",
+    "type": "kick",
+    "guildName": "Amaryllis",
+    "targetId": "1464125504448626956",
+    "targetName": "eternality._q",
+    "status": "pending",
+    "source": "self_leave",
+    "createdAt": 1781501049702
   }
 ]
