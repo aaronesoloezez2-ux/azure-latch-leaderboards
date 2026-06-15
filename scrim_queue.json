@@ -46,16 +46,5 @@
     "joinedAt": 1781452350041,
     "status": "matched",
     "matchId": "match_1781452350758"
-  },
-  "1437355351958749254_1781489382153": {
-    "queueId": "1437355351958749254_1781489382153",
-    "guildName": "Ubers+",
-    "leaderId": "1437355351958749254",
-    "leaderName": "sirlazmfx",
-    "elo": 0,
-    "mode": "elo",
-    "region": "NA",
-    "joinedAt": 1781489382153,
-    "status": "waiting"
   }
 }
