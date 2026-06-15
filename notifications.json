@@ -374,7 +374,7 @@
       "fromName": "liam_ado",
       "teamName": "Tracen Academy URA",
       "time": 1781518330228,
-      "read": false,
+      "read": true,
       "status": "pending"
     }
   ]
